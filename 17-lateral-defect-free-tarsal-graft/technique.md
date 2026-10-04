@@ -8,7 +8,7 @@ Dựng lại cả hai lá một thì: lá sau bằng ghép sụn tự do + dải
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: khuyết toàn bộ chiều dày ~50% ngoài mi dưới.
-- Chống chỉ định tương đối: khuyết quá lớn, mi cho bệnh lý, nhiễm trùng cấp. Thay thế: vạt Hughes (Hughes vạt (flap)).
+- Chống chỉ định tương đối: khuyết quá lớn, mi cho bệnh lý, nhiễm trùng cấp. Thay thế: vạt Hughes (vạt Hughes (Hughes flap)).
 
 ## 3. Chuẩn bị
 - Vô cảm: tê tại chỗ mi dưới + góc ngoài + má + mi trên đối bên (lidocaine + epinephrine).

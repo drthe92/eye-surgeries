@@ -1,4 +1,4 @@
-# Gây tê tại chỗ mổ DCR ngoài (awake) — Bài chuẩn Goal
+# Tê tại chỗ mổ DCR — Application of local anesthesia for DCR (awake) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/4/8-DCR-anaesthesia.htm) · [Vimeo](https://vimeo.com/138021163)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138021163). Học tập, đối chiếu guideline và đào tạo có giám sát.

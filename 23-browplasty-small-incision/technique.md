@@ -9,7 +9,7 @@ Bóc tách như endoscopic tạo hình mày (browplasty) nhưng không dùng end
 Lịch sử: coronal lift -> nội soi 1990s giảm sẹo/tê/rụng tóc nhưng cần equipment + learning curve dốc -> small incision/transblepharoplasty là trung gian cho sụp cung mày nhẹ-trung bình, đặc biệt lateral.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: sụp mày (mày (brow) sụp mi (ptosis)) nhẹ-trung bình, nhất là lateral; kèm thừa da mi trên cần tạo hình mi; muốn ít sẹo, tránh coronal.
+- Chỉ định: sụp mày kèm sụp mi nhẹ-trung bình, nhất là lateral; kèm thừa da mi trên cần tạo hình mi; muốn ít sẹo, tránh coronal.
 - Chống chỉ định tương đối: sụp nặng cần lift lớn (chọn coronal/direct), trán cao/hói lộ sẹo, viêm da đầu, rối loạn đông máu chưa kiểm soát, kỳ vọng không thực tế.
 
 ## 3. Chuẩn bị
@@ -19,7 +19,7 @@ Lịch sử: coronal lift -> nội soi 1990s giảm sẹo/tê/rụng tóc nhưng
 - Đánh giá nền: mức sụp từng bên, phản xạ phản xạ Bell (phản xạ Bell phenomenon), khô mắt, snap test mi trên.
 
 ## 4. Quy trình
-- **Bước 1 — Đường mi trên:** Rạch theo đánh dấu tạo hình mi bằng đốt đơn cực (monopolar dao đốt); cắt vạt da + cơ vòng mi; mở vách ổ mắt (ổ mắt (orbital) vách (septum)) medial, bộc lộ medial túi mỡ (fat pad), cắt bảo tồn 2 bên. Nghiệm thu: bờ mi gọn không chảy máu, mỡ lấy đối xứng. Cốt lõi: bảo tồn, không lấy quá gây hõm. Lỗi: lấy mỡ quá nhiều gây hõm sâu, đốt quá gây bỏng bờ mi.
+- **Bước 1 — Đường mi trên:** Rạch theo đánh dấu tạo hình mi bằng đốt đơn cực (monopolar dao đốt); cắt vạt da + cơ vòng mi; mở vách ổ mắt (orbital septum) medial, bộc lộ medial túi mỡ (fat pad), cắt bảo tồn 2 bên. Nghiệm thu: bờ mi gọn không chảy máu, mỡ lấy đối xứng. Cốt lõi: bảo tồn, không lấy quá gây hõm. Lỗi: lấy mỡ quá nhiều gây hõm sâu, đốt quá gây bỏng bờ mi.
 - **Bước 2 — Lên bờ ổ mắt trên:** Bóc tách mặt vách ổ mắt tới superior bờ ổ mắt (ổ mắt rim) lateral so với bó supraorbital; rạch màng xương (periosteum) dọc bờ trên ổ mắt bằng dao đốt; nâng màng xương khỏi xương medial với temporal fusion line; bộc lộ, bảo tồn bó mạch-TK supraorbital; làm 2 bên. Nghiệm thu: thấy bờ xương trắng, bó mạch-TK nguyên vẹn. Cốt lõi: luôn lateral với bó supraorbital. Lỗi: rạch medial gây tê/dị cảm trán.
 - **Bước 3 — Đường da đầu paramedian:** đánh dấu 2 vạch dọc 2cm, cách hairline 1-2cm tại đỉnh cung mày; dao 15 rạch tới xương; bóc tách dưới màng xương bằng Freer + Padgett xuống dưới để thông với khoang từ mi mắt lên; mobilize trán hoàn toàn medial với temporal fusion line. Nghiệm thu: 2 khoang thông nhau khi đưa elevator. Cốt lõi: đúng mặt dưới màng xương, medial fusion line. Lỗi: lạc mặt gây rách cơ trán, chảy máu.
 - **Bước 4 — Đường thái dương + giải phóng temporal fusion line:** Rạch trên deep temporal cân (fascia) lateral với temporal fusion line; bóc tách mặt deep temporalis cân bằng kéo Metzenbaum; lyse temporal fusion line để thông khoang subperiosteal medial với khoang trên deep temporal cân lateral; trán di động hoàn toàn; làm 2 bên. Nghiệm thu: trán di động hoàn toàn khi đẩy tay. Cốt lõi: lyse trọn đường fusion. Lỗi: lyse không hết gây nâng lệch một bên.

@@ -1,4 +1,4 @@
-# Rạch tháo chắp ngoài — Incision and drainage of external chalazion (Bài chuẩn Goal)
+# Chắp ngoài — rạch tháo — External chalazion I&D (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/2/external-chalazion.htm)
 > Nguồn transcript: `transcript.md` (Allen, 01:24). Học tập, đối chiếu guideline và đào tạo có giám sát.

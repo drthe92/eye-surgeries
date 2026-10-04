@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, 01:50, Vimeo 215913808). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Khuyết góc mắt ngoài được đóng bằng 2 vạt O-to-Z + gia cố mi dưới bằng dải sụn mi (lateral dải sụn (sụn mi (tarsal) dải (strip))). Vừa phủ khuyết vừa chống kéo xuống/lật mi do sức nặng má.
+Khuyết góc mắt ngoài được đóng bằng 2 vạt O-to-Z + gia cố mi dưới bằng dải sụn mi (lateral tarsal strip). Vừa phủ khuyết vừa chống kéo xuống/lật mi do sức nặng má.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: khuyết góc mắt ngoài, khâu trực tiếp gây căng/lệch; kèm lỏng mi dưới.

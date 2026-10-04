@@ -40,7 +40,7 @@ Màng xương bờ ngoài được lật vào trong làm lá sau nhân tạo n�
 - Cách xác định chiều dài: kéo sụn mi ra ngoài tới điểm góc mới mong muốn rồi đo (blepharochalasis cohort, PMC8399824); khuyết càng rộng cần dải càng dài, có thể chẻ thành 2 lá trên-dưới khâu vào sụn mi tương ứng.
 - Mức nới rộng thực tế: các kỹ thuật lengthening góc ngoài đạt khoảng 3-4mm (triangular rotation flap, PMC4959972); so với bên đối diện sau khi buộc để kiểm tra đối xứng như trong video.
 - Nguyên tắc an toàn: không cắt đứt chân dải khi nâng; đệm ngang để dải nằm trên sụn mi; khâu Vicryl 5-0, lá trước khâu phủ bằng 7-0.
-- Nguồn: Allen video 03:32 (Vimeo 198700524); màng xương (periosteal) dải 11 ca Arch (PubMed 3977708); Leone 1987 màng xương vạt (flaps) crossed; OVAPT vạt (flap) Game-Morlet 2007; PMC4174080; PMC8399824.
+- Nguồn: Allen video 03:32 (Vimeo 198700524); dải màng xương (periosteal strip) 11 ca Arch (PubMed 3977708); Leone 1987 vạt màng xương (periosteal flaps) crossed; vạt OVAPT (flap) Game-Morlet 2007; PMC4174080; PMC8399824.
 
 ## Phụ lục mô học: màng xương bờ ngoài ổ mắt
 - Độ dày: màng xương người lớn dày tổng khoảng 100µm — lớp xơ ~72-77µm, lớp cambium ~23-29µm (PMC3969058). Vùng ổ mắt: periorbita (màng xương mặt trong ổ mắt) mỏng hơn màng xương mặt ngoài xương trán (Kakizaki 2024, đo cách arcus marginalis 2mm). Vạt ở bờ ngoài dùng màng xương mặt ngoài nên dày và dai hơn periorbita trong ổ mắt.
@@ -48,3 +48,8 @@ Màng xương bờ ngoài được lật vào trong làm lá sau nhân tạo n�
 - Hướng thớ: lớp xơ sắp xếp theo hướng phát triển/chịu lực của mô (song song mặt xương là chính, đan chéo); sợi Sharpey vuông góc mặt xương. Periorbita bám lỏng vào xương, chỉ bám chắc ở bờ ổ mắt, đường khớp, khe/lỗ và mào lệ — vì vậy bóc tách dưới màng xương trong ổ mắt dễ dàng, còn ở bờ ngoài phải rạch mới nâng được.
 - Liền xương sau lóc: xương mất nguồn máu màng xương (nuôi 1/3 ngoài vỏ xương) nên có tái cấu trúc mặt thoáng qua; màng xương tái sinh từ mép vết mổ nhờ lớp cambium còn sót và mô xung quanh; xương được nuôi bù qua nội cốt mạc và tuần hoàn vỏ. Ở bờ ngoài (xương vỏ đặc), quá trình này không làm yếu xương về mặt lâm sàng.
 - Ổn định cố định góc: ổn định sớm nhờ chỉ khâu, ổn định lâu dài nhờ sẹo xơ giữa dải-sụn mi-màng xương — vì vậy mũi neo chính phải dùng chỉ không tiêu (Mersilene/Ethilon), Vicryl chỉ giữ tạm. Dùng elevator nhẹ tay vì elevator làm tổn thương lớp cambium trong cùng.
+
+## 7. Bài liên quan
+- [01 — Dải sụn mi dưới](../01-lateral-tarsal-strip/technique.md): còn sụn mi ngoài thì ưu tiên 01, bền hơn dải màng xương.
+- [05 — Dải màng xương nới rộng khe mi](../05-periosteal-strip-palpebral-width/technique.md): còn sụn mi dùng được thì phối hợp hai dải thay vì dải màng xương đơn thuần.
+- [17 — Khuyết ngoài + ghép sụn + dải màng xương](../17-lateral-defect-free-tarsal-graft/technique.md): dải màng xương trong tái tạo khuyết mi thật sự.

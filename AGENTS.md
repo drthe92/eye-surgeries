@@ -26,5 +26,7 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 - 184 bài (01-184) đã có transcript + technique; index đủ 184 dòng `[x]`.
 - Việt hoá (2026-10-04, đợt 1): 184/184 tiêu đề technique.md đã Việt lên trước; chạy chuẩn hoá thuật ngữ script (Anh trong ngoặc ở lần đầu, BN→Bệnh nhân, epi→epinephrine, gộp ngoặc thừa) + soát mẫu bài 04 và quét không còn salad tiếng Anh trong bước mổ. Soát tay sâu tiếp tục cuốn chiếu theo nhóm khi học tới (mỗi bài học lại trau chuốt một lần).
 - Khảo sát hệ thống mục lục plastics EyeRounds (2026-10-04): nhóm sinh thiết mi-u mi (7 video) đã triển khai thành 175-181; nhóm chắp chalazion (3 video) đã triển khai thành 182-184. Nhóm trống tiếp theo: sinh thiết kết mạc (7), lấy mô ghép (da/cân/sụn/niêm mạc), sinh thiết động mạch thái dương (2), orbitotomy trước-bên, ONSF (3), giải áp ổ mắt (5), khoét bỏ nhãn cầu (enucleation/evisceration/exenteration), ổ mắt vô nhãn.
+- MAP nhóm + Bài liên quan (2026-10-04): xong MAP-A-core.md (01-06) và mục 7 Bài liên quan cho 6 bài nhóm A; đã link MAP trong index.html. Nhóm tiếp theo làm khi người dùng học tới.
+- ID QUÁ 1000 (2026-10-04, đã kiểm): không vướng. Folder tham chiếu bằng tên chính xác, LEARNING-INDEX sắp tay, index.html parse số bằng int nên không phụ thuộc độ rộng zero-pad. Ảnh hưởng duy nhất là `ls` xếp "1000-" trước "999-" (cosmetic). Tới 999 thì bài mới dùng 4 chữ số (1000, 1001...), không đổi gì bài cũ.
 - Việt hoá sâu: xong 01-02, tiếp tục từ 03 → 174.
 - Bài mới: đánh số tiếp từ 175.

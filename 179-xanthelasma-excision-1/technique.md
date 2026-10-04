@@ -1,4 +1,4 @@
-# Cắt u vàng mi (xanthelasma) trên-dưới #1 — Excision of upper and lower xanthelasma #1 (Bài chuẩn Goal)
+# Cắt u vàng mi trên-dưới #1 — Excision of upper and lower xanthelasma #1 (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/9/excision-upper-and-lower-xanthelasma.htm)
 > Nguồn transcript: `transcript.md` (Allen, 02:37). Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,10 +1,10 @@
-# Treo góc ngoài qua đường mi trên — Transblepharoplasty Canthopexy (Bài chuẩn Goal)
+# Treo góc qua đường mi — Transblepharoplasty canthopexy (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/2/Transblepharoplasty-canthopexy.htm) · [Vimeo](https://vimeo.com/132969266/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132969266). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có để đặt một mũi treo góc mắt ngoài (canthopexy): từ bờ mi dưới ngoài tới màng xương (periosteum) bờ trên-ngoài ổ mắt, tăng độ căng ngang nhẹ mà không rạch góc (canthotomy) hay tạo dải sụn (strip). Khác với tái tạo góc (canthoplasty — cắt và khâu lại gân góc) và dải sụn mi dưới (lateral tarsal dải (strip) — tạo dải sụn neo vào củ Whitnall (Whitnall's tubercle), bài 01).
+Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có để đặt một mũi treo góc mắt ngoài (canthopexy): từ bờ mi dưới ngoài tới màng xương (periosteum) bờ trên-ngoài ổ mắt, tăng độ căng ngang nhẹ mà không rạch góc (canthotomy) hay tạo dải sụn (strip). Khác với tái tạo góc (canthoplasty — cắt và khâu lại gân góc) và dải sụn mi dưới (lateral tarsal strip — tạo dải sụn neo vào củ Whitnall (Whitnall's tubercle), bài 01).
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: người bệnh đang mổ mi trên có mi dưới lỏng nhẹ đến trung bình cần hỗ trợ; phòng ngừa trễ mi dưới sau tạo hình mi trên.
@@ -14,7 +14,7 @@ Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có đ�
 - Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine tại mi trên theo đường mổ tạo hình mi và góc ngoài; thấm đủ để bóc tách nhưng không phồng quá làm mất mốc đánh giá độ lỏng.
 - Dụng cụ và chỉ: bộ tạo hình mi trên (dao, đốt, kéo Westcott), chỉ Prolene 4-0 kim lớn cho mũi neo chính (không thay bằng chỉ tiêu), mỡ kháng sinh.
 - Bệnh nhân: nằm ngửa, sát khuẩn, trải khăn, đã có đường mổ mi trên (không rạch góc thêm), chụp ảnh đánh giá độ lỏng trước mổ, đồng thuận (consent) rằng hiệu quả yếu hơn dải sụn.
-- Đánh giá nền: nghiệm pháp kéo mi (distraction test) và bật về (snap-back test) mức nhẹ, phản xạ Bell (Bell phenomenon), test Schirmer nếu khô mắt, thuốc chống đông đang dùng.
+- Đánh giá nền: nghiệm pháp kéo mi (distraction test) và bật về (snap-back test) mức nhẹ, phản xạ Bell, test Schirmer nếu khô mắt, thuốc chống đông đang dùng.
 
 ## 4. Quy trình
 - **Bước 1 — Bộc lộ bờ xương (orbital rim):** Mục tiêu nhìn thấy bờ trên-ngoài ổ mắt để neo. Sau khi cắt da và cơ vòng mi (orbicularis oculi) cho đường tạo hình mi, bóc giữa cơ vòng mi và vách ổ mắt (orbital septum) tới phần trên-ngoài bờ xương. Nghiệm thu: thấy bờ xương trắng, mặt bóc khô. Cốt lõi: đúng mặt phẳng giữa cơ vòng mi và vách ổ mắt. Lỗi: vào vách ổ mắt hoặc mỡ gây chảy máu và phù.
@@ -32,3 +32,7 @@ Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có đ�
 1. Vì sao mốc ra kim là lỗ tuyến bờ mi?
 2. Vì sao phải giật thử hiệu ứng làm chặt trước khi buộc?
 3. Khi nào treo góc qua đường mi là đủ và khi nào phải chuyển sang dải sụn?
+
+## 7. Bài liên quan
+- [01 — Dải sụn mi dưới](../01-lateral-tarsal-strip/technique.md): khi treo qua đường mi còn lỏng sau 1 tháng, nâng lên 01.
+- Nhóm E tạo hình mi trên (70–76): 03 luôn đi kèm một bài trong nhóm này vì dùng chung đường mổ.

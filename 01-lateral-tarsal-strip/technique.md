@@ -1,4 +1,4 @@
-# Dải sụn mi dưới — Lateral Tarsal dải (Strip) (Bài chuẩn Goal)
+# Dải sụn mi dưới — Lateral tarsal strip (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/lateral-tarsal-strip.htm) · [Vimeo](https://vimeo.com/123354779)
 > Nguồn transcript: `transcript.md` (Allen, 2:23, Vimeo 123354779). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -14,7 +14,7 @@ Biến đầu ngoài sụn mi (tarsus) dưới thành một dải (strip) rồi 
 - Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine tại góc ngoài và kết mạc cùng đồ dưới ngoài; tránh tiêm phồng quá làm mất mốc đánh giá độ lỏng.
 - Dụng cụ và chỉ: dao 15, đốt đầu kim (needle-tip cautery), kéo Westcott, chỉ Mersilene 4-0 hai kim đầu S-2 cong nửa vòng (half-circle) cho mũi neo chính (không thay bằng chỉ tiêu), chỉ tiêu nhanh 5-0 (đóng lá trước và vết rạch góc), mỡ kháng sinh.
 - Bệnh nhân: nằm ngửa, sát khuẩn, trải khăn, đánh dấu chiều cao góc trong làm mốc, chụp ảnh, đồng thuận (consent) về sẹo/lệch góc/tái lỏng.
-- Đánh giá nền: nghiệm pháp kéo mi và bật về, phản xạ Bell (Bell phenomenon), test Schirmer nếu khô mắt, thuốc chống đông đang dùng.
+- Đánh giá nền: nghiệm pháp kéo mi và bật về, phản xạ Bell, test Schirmer nếu khô mắt, thuốc chống đông đang dùng.
 
 ## 4. Quy trình
 - **Bước 1 — Rạch góc ngoài (lateral canthotomy):** Mục tiêu mở góc để thao tác. Rạch da và góc ngoài bằng dao đốt hoặc dao 15. Nghiệm thu: tách được mép mi trên và mi dưới. Cốt lõi: rạch đủ dài để nhìn rõ chân dưới gân góc. Lỗi: rạch quá ngắn gây thiếu bộc lộ.
@@ -35,3 +35,10 @@ Biến đầu ngoài sụn mi (tarsus) dưới thành một dải (strip) rồi 
 1. Vì sao mũi neo phải hướng ra sau và cao hơn góc trong 2mm?
 2. Vì sao mũi neo chính cấm dùng chỉ tiêu?
 3. Khi nào cần thêm thủ thuật con thoi trong (medial spindle)?
+
+## 7. Bài liên quan
+- [02 — Dải sụn kèm tạo hình góc trên](../02-lateral-tarsal-strip-upper-canthoplasty/technique.md): mở rộng 01 cho lỏng cả mi trên ngoài, một lần buộc chặt hai mi.
+- [03 — Treo góc qua đường mi](../03-transblepharoplasty-canthopexy/technique.md): nhẹ hơn 01, chỉ treo mô mềm, dùng khi đang mổ mi trên và lỏng nhẹ.
+- [04 — Dải màng xương lệch góc ngoài](../04-periosteal-strip-blepharochalasis/technique.md): thay 01 khi không còn sụn mi ngoài để làm dải.
+- [06 — Sửa hội chứng mi nhão](../06-floppy-eyelid-repair/technique.md): bản nặng hai mi của 01, cắt ngắn rất lớn kèm đánh giá ngưng thở khi ngủ.
+- [07 — Con thoi trong kèm dải sụn](../07-medial-spindle-lts-ectropion/technique.md): đáp án phía trong (điểm lệ) khi 01 ngoài vẫn chưa đủ.

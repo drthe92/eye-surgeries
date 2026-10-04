@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, 02:32, Vimeo 215876133). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Khuyết chỉ lá trước (da + cơ vòng mi) vùng mi dưới ngoài, còn lá sau. Phối hợp vạt bán nguyệt chuyển vị (Tenzel semicircular flap) để phủ da + dải sụn mi (lateral dải sụn (sụn mi (tarsal) dải (strip))) để gia cố mi, chống kéo xuống/lật mi/hở mi.
+Khuyết chỉ lá trước (da + cơ vòng mi) vùng mi dưới ngoài, còn lá sau. Phối hợp vạt bán nguyệt chuyển vị (Tenzel semicircular flap) để phủ da + dải sụn mi (lateral tarsal strip) để gia cố mi, chống kéo xuống/lật mi/hở mi.
 
 Lịch sử: khâu trực tiếp -> Tenzel 1975 cho khuyết 33-50% mi -> Anderson-Gordy dải sụn mi 1979 tái tạo góc ngoài -> phối hợp hiện nay cho khuyết trước lá vùng ngoài kèm lỏng mi.
 

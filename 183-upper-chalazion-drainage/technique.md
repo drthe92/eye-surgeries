@@ -1,4 +1,4 @@
-# Rạch tháo chắp mi trên (đường kết mạc) — Incision and drainage of chalazion upper eyelid (Bài chuẩn Goal)
+# Chắp mi trên đường kết mạc — Upper chalazion I&D (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/2/chalazion-upper.htm)
 > Nguồn transcript: `transcript.md` (Allen, 01:34). Học tập, đối chiếu guideline và đào tạo có giám sát.

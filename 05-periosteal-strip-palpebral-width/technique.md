@@ -32,3 +32,7 @@ Nới rộng khe ngang bằng cách phối hợp dải màng xương (lá sau nh
 1. Vì sao phối hợp 2 dải thay vì chỉ 1?
 2. Vì sao dải màng xương phải nằm trên?
 3. Phân biệt chỉ định A4 vs A5?
+
+## 7. Bài liên quan
+- [04 — Dải màng xương lệch góc ngoài](../04-periosteal-strip-blepharochalasis/technique.md): mất hẳn sụn mi thì dùng 04; còn sụn mi thì 05 cho khe rộng và mi cứng hơn.
+- [01 — Dải sụn mi dưới](../01-lateral-tarsal-strip/technique.md): so sánh để thấy 05 chỉ khác ở chỗ đặt chồng thêm dải màng xương.

@@ -1,4 +1,4 @@
-# Dải sụn mi dưới kèm tạo hình góc trên — Lateral Tarsal dải (Strip) with Upper Canthoplasty (Bài chuẩn Goal)
+# Dải sụn kèm tạo hình góc trên — Lateral tarsal strip with upper canthoplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/1/lateral-tarsal-strip-w-uppercanthoplasty.htm) · [Vimeo](https://vimeo.com/123354780)
 > Nguồn transcript: `transcript.md` (Allen, 3:14, Vimeo 123354780). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -14,7 +14,7 @@ Dải sụn (strip) mi dưới neo vào củ Whitnall (Whitnall's tubercle) kèm
 - Vô cảm: tê tại chỗ góc ngoài và hai mi ngoài bằng lidocaine kèm epinephrine.
 - Dụng cụ và chỉ: dao 15, dao đốt đơn cực (monopolar), kéo Westcott, chỉ Mersilene 4-0 kim S-2 cong nửa vòng (half-circle), chỉ Vicryl 5-0, chỉ tiêu nhanh 5-0, mỡ kháng sinh.
 - Bệnh nhân: đo độ lỏng hai mi, so chiều cao hai góc mắt, chụp ảnh, đồng thuận (consent) về hẹp khe mi (palpebral fissure) và lệch góc.
-- Đánh giá nền: nghiệm pháp kéo mi (distraction test) và bật về (snap-back test) cả hai mi, phản xạ Bell (Bell phenomenon), test Schirmer nếu khô mắt.
+- Đánh giá nền: nghiệm pháp kéo mi (distraction test) và bật về (snap-back test) cả hai mi, phản xạ Bell, test Schirmer nếu khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Dải sụn mi dưới:** Rạch góc ngoài (canthotomy) và cắt chân dưới gân góc (cantholysis), tách lá trước và lá sau (anterior/posterior lamella) 5-10mm, cắt chỗ nối da-niêm mạc (mucocutaneous junction), cạo mặt sau dải, cắt ngắn 3-5mm, đặt chỉ Mersilene 4-0 ra mặt trước dải, móc màng xương (periosteum) sau tại củ Whitnall cao hơn góc trong khoảng 2mm, chưa buộc vội. Nghiệm thu: dải sụn trơ đúng chiều dài, neo đúng vị trí. Cốt lõi: mũi cắn màng xương sau phải chắc. Lỗi: cắn nông gây bung cả hai mi.
@@ -31,3 +31,8 @@ Dải sụn (strip) mi dưới neo vào củ Whitnall (Whitnall's tubercle) kèm
 1. Vì sao phải buộc mũi nối mi trên trước khi buộc chỉ Mersilene?
 2. Đoạn chỗ nối da-niêm mạc mi trên cắt bao nhiêu mm và để làm gì?
 3. Dấu hiệu siết quá sau mổ là gì?
+
+## 7. Bài liên quan
+- [01 — Dải sụn mi dưới](../01-lateral-tarsal-strip/technique.md): nền tảng một mi; chỉ lỏng mi dưới thì 01 là đủ, đừng mổ thừa mi trên.
+- [06 — Sửa hội chứng mi nhão](../06-floppy-eyelid-repair/technique.md): cũng hai mi nhưng cắt ngắn lớn hơn nhiều và neo kép, cho nhão toàn bộ kèm ngưng thở khi ngủ.
+- [04 — Dải màng xương](../04-periosteal-strip-blepharochalasis/technique.md): khi mất sụn mi ngoài thì 02 không làm được, chuyển sang dải màng xương.

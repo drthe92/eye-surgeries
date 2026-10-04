@@ -1,4 +1,4 @@
-# Rạch tháo chắp mi dưới (đường kết mạc) — Incision and drainage of chalazion lower eyelid (Bài chuẩn Goal)
+# Chắp mi dưới đường kết mạc — Lower chalazion I&D (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/2/chalazion-lower.htm)
 > Nguồn transcript: `transcript.md` (Allen, 01:44). Học tập, đối chiếu guideline và đào tạo có giám sát.

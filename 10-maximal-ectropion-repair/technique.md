@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138021929). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Phối hợp 4 cơ chế một ca cho lật mi nặng: dải (strip) ngang + mũi lộn dọc + SOOF lift đỡ má + dính mi trong (medial dính mi (tarsorrhaphy)) giữ trong. Dành cho ca thất bại với sửa đơn lẻ.
+Phối hợp 4 cơ chế một ca cho lật mi nặng: dải (strip) ngang + mũi lộn dọc + SOOF lift đỡ má + dính mi trong (dính mi trong (medial tarsorrhaphy)) giữ trong. Dành cho ca thất bại với sửa đơn lẻ.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: significant involutional lật mi (ectropion), má trễ, lật tái phát.

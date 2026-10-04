@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143425634). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Nhão chun toàn bộ mi do hội chứng mi nhão (liên quan sleep apnea): dải (strip) cả mi trên + mi dưới ngoài, cắt ngắn rất lớn (mi dưới ~2cm), neo kép trong bờ xương. Thay thế wedge mi trên cũ bằng dải mi trên để giữ ống lệ.
+Nhão chun toàn bộ mi do hội chứng mi nhão (liên quan ngưng thở khi ngủ): dải (strip) cả mi trên + mi dưới ngoài, cắt ngắn rất lớn (mi dưới ~2cm), neo kép trong bờ xương. Thay thế wedge mi trên cũ bằng dải mi trên để giữ ống lệ.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: độ lỏng (laxity) nặng 2 mi, lật mi khi ngủ, viêm kết giác mạc mạn do hở.
@@ -19,7 +19,7 @@ Nhão chun toàn bộ mi do hội chứng mi nhão (liên quan sleep apnea): d�
 ## 4. Quy trình
 - **Bước 1 — Giải phóng toàn góc:** rạch góc (Canthotomy) dao 15 + cắt gân góc (cantholysis) trên và dưới bằng dao đốt. Nghiệm thu: cả 2 mi ngoài di động tự do. Cốt lõi: giải phóng cả 2 chân. Lỗi: chỉ giải phóng dưới gây thiếu mô mi trên.
 - **Bước 2 — dải dưới lớn:** Tách 1/3-1/2 mi, cắt chỗ nối da-niêm mạc (mucocutaneous junction), cắt ngắn ~2cm, cạo mặt sau, Mersilene 4-0 sau-trước móc màng xương Whitnall, để chưa buộc. Nghiệm thu: dải dài đủ neo. Cốt lõi: cắt đủ vì nhão rất nhiều. Lỗi: cắt dè gây còn nhão.
-- **Bước 3 — dải trên an toàn lệ:** Chỉ bóc tới bờ trên sụn mi (tarsus), cắt chỗ nối da-niêm mạc, cạo mặt sau, cắt ngắn nhiều, Mersilene 4-0 móc màng xương cạnh mũi dưới trong bờ xương, cắt lông ngoài, buộc mi trên trước. Nghiệm thu: mi trên chặt lại. Cốt lõi: không bóc quá bờ trên (bảo vệ ống lệ). Lỗi: bóc cao gây khô mắt vĩnh viễn.
+- **Bước 3 — Dải trên an toàn lệ:** Chỉ bóc tới bờ trên sụn mi (tarsus), cắt chỗ nối da-niêm mạc, cạo mặt sau, cắt ngắn nhiều, Mersilene 4-0 móc màng xương cạnh mũi dưới trong bờ xương, cắt lông ngoài, buộc mi trên trước. Nghiệm thu: mi trên chặt lại. Cốt lõi: không bóc quá bờ trên (bảo vệ ống lệ). Lỗi: bóc cao gây khô mắt vĩnh viễn.
 - **Bước 4 — Buộc + đóng:** Buộc mi dưới, cắt lông ngoài, khâu lá trước dưới vào màng xương, khâu 2 lá trước vào nhau ngoài bờ xương bằng tiêu nhanh 5-0. Nghiệm thu: 2 mi chặt đều, góc đúng. Cốt lõi: buộc trên trước dưới sau. Lỗi: vùi lông gây u hạt/viêm.
 
 ## 5. Hậu phẫu
@@ -39,3 +39,8 @@ Nhão chun toàn bộ mi do hội chứng mi nhão (liên quan sleep apnea): d�
 - Nghiệm thu trong mổ sau khi buộc: điểm lệ dưới ngập trong hồ lệ, mi áp cầu, test fluorescein dẫn lưu tốt khi chớp mắt.
 - Nếu sau buộc ngoài mà điểm lệ trong vẫn lỏng/lệch (lật mi trong kèm theo): xử trí bằng con thoi trong (medial spindle) — khâu rút ngắn phía trong để đưa điểm lệ (punctum) vào hồ lệ (xem video B7 Medial spindle with LTS trong index).
 - Lỗi cần tránh: siết quá gây ngắn toàn bộ khe mi và kéo lệch điểm lệ; cắt quá nhiều gây hẹp khe.
+
+## 7. Bài liên quan
+- [01 — Dải sụn mi dưới](../01-lateral-tarsal-strip/technique.md): 06 chính là 01 làm ở cả hai mi với độ cắt ngắn lớn gấp nhiều lần.
+- [02 — Dải sụn kèm tạo hình góc trên](../02-lateral-tarsal-strip-upper-canthoplasty/technique.md): lỏng hai mi nhẹ-vừa thì 02 đủ; nhão chun toàn bộ mới cần 06.
+- Vô cảm và toàn thân: mọi ca 06 phải song song đánh giá ngưng thở khi ngủ (xem checklist bài 01 mục Đánh giá nền).

@@ -1,4 +1,4 @@
-# Tê thấm mi mắt và vùng mặt — Bài chuẩn Goal
+# Tê thấm mi-mặt — Tê thấm mi mắt và vùng mặt (TA biopsy + blepharoplasty pearls) (Bài chuẩn Goal)
 
 > Video: [TA biopsy](https://vimeo.com/123352772) · [Bilateral upper bleph](https://vimeo.com/123347992)
 > Nguồn: `transcript.md` (TA biopsy + blepharoplasty pearls, Iowa). Học tập, đối chiếu guideline và đào tạo có giám sát.
