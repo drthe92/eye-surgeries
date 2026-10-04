@@ -13,7 +13,8 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 - `technique.md`: mở đầu bằng dòng link Video click được; cuối mỗi bước trong Quy trình có thể ghi "Dặn quay lại ngay" khi là thủ thuật lâm sàng.
 - `surgeries/LEARNING-INDEX.md`: bảng Thứ tự | Nhóm | Title | Tóm tắt (~100 từ) | Link Vimeo | Xong. Thêm dòng mới khi thêm bài.
 - `index.html` ở gốc repo: hub học tập (thẻ theo nhóm, search Anh-Việt, lọc nhóm, link Bài học/Transcript/Video). Sinh lại bằng script khi thêm bài hoặc đổi link. Link bài học giữ dạng blob `github.com` (KHÔNG chuyển sang domain riêng — quyết định của chủ repo).
-- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm, U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong, Bx sinh thiết-u mi (mới từ 175).
+- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm (N-local tê tại chỗ/thấm, N-block block kim vùng, N-systemic tiền mê/mê), U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong, Bx sinh thiết-u mi-chắp (mới từ 175).
+- QUY TẮC SỐ-GHÉP NHÓM (2026-10-04): số folder = thứ tự bổ sung theo thời gian, KHÔNG BAO GIỜ đánh lại số cũ (link blob GitHub phải ổn định). Bài cùng chuyên đề nhưng đến sau vẫn lấy số tiếp nối (ví dụ vô cảm mới = 185+), chỉ gắn đúng tag nhóm (N-local/N-block/N-systemic); index.html gom hiển thị theo tag nên vẫn học gọn theo nhóm. Được tách tag con khi một nhóm phình to (mẫu: N tách 3 tag con, giữ nguyên số 24-27, đổi tag rồi sinh lại index).
 
 ## Quy trình làm việc mỗi đợt
 1. Lấy transcript từ trang EyeRounds companion (ưu tiên), Vimeo, hoặc video YouTube (dùng skill `youtube-lesson-eye` khi có link YouTube).
