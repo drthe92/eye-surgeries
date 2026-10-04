@@ -187,6 +187,10 @@
 | 180 | Bx-biopsy | Excision of upper and lower xanthelasma #2 | Ca thứ hai cắt xanthelasma trên-dưới: nhấn mạnh xử trí mảng lan rộng góc trong, bảo tồn lệ quản-điểm lệ, có thể ghép da nếu thiếu da. Sau mổ chống sẹo co kéo góc trong bằng massage và theo dõi tái phát. | https://eyerounds.org/video/plastics/9/excision-upper-lower-xanthelasma-2.htm | [x] |
 | 181 | Bx-biopsy | Excision of sub-brow lesion | Cắt u dưới mày qua đường rạch giấu dưới chân mày: tê, rạch theo bờ dưới mày, bóc trọn nang-u, cầm máu tránh nhánh thần kinh trên ổ mắt, khâu nhiều lớp. Sẹo giấu vào chân mày, giữ dáng mày. | https://eyerounds.org/video/plastics/10/80-sub-brow-lesion-excision.htm | [x] |
 
+| 182 | Bx-biopsy | External chalazion I&D | Rạch tháo chắp ngoài (điểm đầu ngoài da): tê, rạch da song song nếp mi ngay đỉnh chắp, nạo sạch nang bã-vỏ bao, cầm máu, để hở hoặc khâu một mũi, băng ép. Giữ sẹo nhỏ ngoài da, phù hợp chắp đã điểm đầu ra da. | https://eyerounds.org/video/plastics/2/external-chalazion.htm | [x] |
+| 183 | Bx-biopsy | Upper chalazion I&D | Rạch tháo chắp mi trên qua đường kết mạc: lật mi trên kẹp chalazion, rạch kết mạc-sụn vuông góc bờ mi ngay đỉnh nang, nạo sạch bã-vỏ, đốt nhẹ, tra mỡ, băng ép. Không sẹo da, bảo tồn sụn và hàng lông mi. | https://eyerounds.org/video/plastics/2/chalazion-upper.htm | [x] |
+| 184 | Bx-biopsy | Lower chalazion I&D | Rạch tháo chắp mi dưới qua đường kết mạc: kéo mi dưới lộ cùng đồ, kẹp nang, rạch vuông góc bờ mi, nạo sạch vỏ-bã, đốt nhẹ, tra mỡ. Tránh rạch da gây lật mi dưới, giữ độ áp cầu và thẩm mỹ. | https://eyerounds.org/video/plastics/2/chalazion-lower.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

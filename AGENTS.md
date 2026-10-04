@@ -22,7 +22,7 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 4. Commit + push lên `main` sau MỖI đợt (SSH đã có sẵn). Kiểm tra `git status`/`git log` sau push. Nếu push bị reject (phiên khác đẩy trước), `git fetch` rồi gộp giữ nội dung mới nhất, không bao giờ force-push mất bài.
 
 ## Tiến độ (cập nhật khi xong việc)
-- 181 bài (01-181) đã có transcript + technique; index đủ 181 dòng `[x]`.
-- Khảo sát hệ thống mục lục plastics EyeRounds (2026-10-04): nhóm sinh thiết mi-u mi (7 video) đã triển khai thành 175-181. Nhóm trống tiếp theo: chalazion (3), sinh thiết kết mạc (7), lấy mô ghép (da/cân/sụn/niêm mạc), sinh thiết động mạch thái dương (2), orbitotomy trước-bên, ONSF (3), giải áp ổ mắt (5), khoét bỏ nhãn cầu (enucleation/evisceration/exenteration), ổ mắt vô nhãn, TA biopsy đã có 1 phần.
+- 184 bài (01-184) đã có transcript + technique; index đủ 184 dòng `[x]`.
+- Khảo sát hệ thống mục lục plastics EyeRounds (2026-10-04): nhóm sinh thiết mi-u mi (7 video) đã triển khai thành 175-181; nhóm chắp chalazion (3 video) đã triển khai thành 182-184. Nhóm trống tiếp theo: sinh thiết kết mạc (7), lấy mô ghép (da/cân/sụn/niêm mạc), sinh thiết động mạch thái dương (2), orbitotomy trước-bên, ONSF (3), giải áp ổ mắt (5), khoét bỏ nhãn cầu (enucleation/evisceration/exenteration), ổ mắt vô nhãn.
 - Việt hoá sâu: xong 01-02, tiếp tục từ 03 → 174.
 - Bài mới: đánh số tiếp từ 175.
