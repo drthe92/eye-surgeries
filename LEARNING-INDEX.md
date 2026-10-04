@@ -201,6 +201,37 @@
 | 192 | B-ectropion/entropion | Epiblepharon repair | Trẻ em nếp da-cơ thừa đè lông dưới vào trong, không sẹo kết mạc: cắt nếp thừa, khâu da vào sụn/cơ rút. Khác quặm thật ở chỗ không sẹo và khỏi hẳn sau mổ. | https://eyerounds.org/video/plastics/5/2-epiblepharon-repair.htm | [x] |
 | 193 | B-ectropion/entropion | Congenital lower lid entropion repair | Quặm mi dưới bẩm sinh (cơ rút kém phát triển, sụn mềm): khâu cơ rút vào sụn kèm cố định ngang, bảo tồn tối đa. Khác epiblepharon ở chỗ có bất thường cấu trúc thật. | https://eyerounds.org/video/plastics/10/76-congenital-LL-entropion-repair.htm | [x] |
 
+| 194 | C-lower-lid | Wedge resection repair | Khuyết nhỏ giữa mi: wedge toàn lớp, khâu sụn nút chôn, căn bờ thẳng. | https://eyerounds.org/video/plastics/1/Full-Section-Wedge-Resect-Repair.htm | [x] |
+| 195 | C-lower-lid | Posterior wedge resection #2 | Lật mi cắt sụn bệnh giữ da-cơ, khâu sụn trực tiếp. | https://eyerounds.org/video/plastics/13/103-posterior-wedge-resection-2.htm | [x] |
+| 196 | C-lower-lid | Lower lid defect + cantholysis | Khuyết vừa: cắt gân góc huy động khép trực tiếp, không cần vạt. | https://eyerounds.org/video/plastics/1/Repair-LLid-defect-cantholysis.htm | [x] |
+| 197 | C-lower-lid | 40% defect (posterior wedge) | Ngưỡng wedge-vạt: wedge sau + gia cố dải ngoài. | https://eyerounds.org/video/plastics/5/1-posterior-wedge.htm | [x] |
+| 198 | C-lower-lid | 50% lower lid repair | Huy động tối đa khép có neo, hoặc chuyển Tenzel theo tuổi. | https://eyerounds.org/video/plastics/1/Repair-half-of-lower-lid.htm | [x] |
+| 199 | C-lower-lid | 50% central defect | Huy động hai đầu + ghép sụn + neo ngoài, từng lớp hai lá. | https://eyerounds.org/video/plastics/4/15-central-full-thickness.htm | [x] |
+| 200 | C-lower-lid | Free tarsal graft (central) | Sụn mi trên dựng lá sau một thì, phủ lá trước nuôi ghép. | https://eyerounds.org/video/plastics/8/5-free-tarsal-graft.htm | [x] |
+| 201 | C-lower-lid | Hughes flap | Vạt sụn-kết mạc có cuống, chuẩn vàng khuyết lớn, thì hai sau 2-3 tuần. | https://eyerounds.org/video/plastics/1/Hughes-Flap.htm | [x] |
+| 202 | C-lower-lid | Second stage Hughes | Cắt cuống, tạo bờ mi mới, khâu kết mạc ra da. | https://eyerounds.org/video/plastics/1/second-stage-hughes-flap.htm | [x] |
+| 203 | C-lower-lid | 100% lower lid defect | Hughes giữa + ghép sụn hai đầu + dải neo, ba vật liệu một ca. | https://eyerounds.org/video/plastics/8/7-Hughes-flap-w-free-tarsal-graft.htm | [x] |
+| 204 | C-lower-lid | Hughes + skin graft | Ghép da phủ vạt sụn-kết mạc; ép đều cho cả hai cùng sống. | https://eyerounds.org/video/plastics/8/10-Hughes-flap-w-skin-graft.htm | [x] |
+| 205 | C-lower-lid | Medial lower lid defect | Sát lệ đạo: sonde bảo vệ lệ quản trước, huy động tại chỗ. | https://eyerounds.org/atlas-video/medial-lower-lid-defect.htm | [x] |
+| 206 | C-lower-lid | 50% medial repair | Vạt trượt má-mũi + ghép sụn + stent lệ 3 tháng. | https://eyerounds.org/video/plastics/4/20-medial-lower-lid-repair.htm | [x] |
+| 207 | C-lower-lid | Composite flap (medial) | Một vạt mang cả da-cơ-sụn; nơi cho vẫn đóng được. | https://eyerounds.org/video/plastics/8/9-composite-flap.htm | [x] |
+| 208 | C-lower-lid | Mustarde flap | Vạt má-thái dương khổng lồ; neo mi bắt buộc chống kéo. | https://eyerounds.org/video/plastics/4/13-mustarde.htm | [x] |
+| 209 | C-lower-lid | Mustarde + skin graft | Chia khuyết thành vùng: trung tâm vạt, ngoại vi ghép. | https://eyerounds.org/video/plastics/11/82-repair-large-cheek-defect-w-combo-mustarde-flap.htm | [x] |
+| 210 | C-lower-lid | Rotational cheek flap | Khuyết má chưa tới mi: cung dài, bóc rộng, sẹo theo nếp cười. | https://eyerounds.org/video/plastics/9/repair-lrg-cheek-defect-rotational-flap.htm | [x] |
+| 211 | C-lower-lid | Small lateral defect | Khép trực tiếp + dải gia cố; đừng vạt lớn cho khuyết nhỏ. | https://eyerounds.org/video/plastics/13/107-repair-small-lateral-lower-eyelid-defect.htm | [x] |
+| 212 | C-lower-lid | Combo myocutaneous flaps | Hai vạt đối nhau gặp giữa, chia lực căng. | https://eyerounds.org/video/plastics/5/10-anterior-lamella-reconstruction.htm | [x] |
+| 213 | C-lower-lid | FTSG technique | Bài nền: chọn da, lấy, tỉa mỡ, khâu ép; học trước mọi bài ghép. | https://eyerounds.org/video/plastics/1/Full-Thickness-skin-graft.htm | [x] |
+| 214 | C-lower-lid | Lower lid/cheek FTSG | Một mảnh trùm hai vùng; neo mi vì ghép luôn kéo mi xuống. | https://eyerounds.org/video/plastics/11/83-repair-lower-lid-cheek-defect.htm | [x] |
+| 215 | C-lower-lid | Two FTSG | Hai khuyết độc lập: tách mảnh, giữ cầu da giữa. | https://eyerounds.org/video/plastics/1/Two-sep-full-thickness-skin-grafts.htm | [x] |
+| 216 | C-lower-lid | Lateral rotational flap | Vạt xoay nhỏ thái dương-mi ngoài; cuống rộng, xoay nhẹ. | https://eyerounds.org/video/plastics/1/Lateral-Rotational-flap.htm | [x] |
+| 217 | C-lower-lid | FTSG lateral defect | Còn khung sụn thì chỉ ghép da, đừng vạt. | https://eyerounds.org/atlas-video/full-thickness-skin-graft-for-lateral-lower-eyelid-defect.htm | [x] |
+| 218 | C-lower-lid | Myocutaneous advancement | Trượt tiến thẳng trục, cắt tai chó hai đầu. | https://eyerounds.org/video/plastics/1/Myocutaneous-advancement-fllap.htm | [x] |
+| 219 | C-lower-lid | Rhomboid flap | Vẽ hình học chuẩn thì khâu tự khít; cố định đỉnh trước. | https://eyerounds.org/video/plastics/11/87-repair-defect-rhomboid-flap.htm | [x] |
+| 220 | C-lower-lid | Lateral canthal defect | Tái tạo đỉnh sắc + neo hai mi vào đỉnh chung. | https://eyerounds.org/video/plastics/10/78-lateral-canthal-defect-repair.htm | [x] |
+| 221 | C-lower-lid | Lateral canthal O-to-Z | Hai vạt đối nhau gặp đúng đỉnh góc mới. | https://eyerounds.org/video/plastics/11/88-repair-lateral-canthal-o-z-flap.htm | [x] |
+| 222 | C-lower-lid | Upper lid + canthal defect | Dựng góc trước làm mốc, vạt mi theo sau, cân lực hai vùng. | https://eyerounds.org/video/plastics/11/89-repair-lid-lateral-canthal-defect.htm | [x] |
+| 223 | C-lower-lid | Canthal + skin graft | Khuyết nông: ghép da + neo mi, tiết kiệm mô. | https://eyerounds.org/video/plastics/11/84-repair-lateral-canthal-defect-w-skin-graft.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
