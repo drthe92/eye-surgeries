@@ -1,4 +1,4 @@
-# Fascia Frontalis Sling — Bài chuẩn Goal
+# Treo cân trán — Fascia frontalis sling (mổ lại) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/Fascia-frontalis-sling.htm) · [Vimeo](https://vimeo.com/123341461)
 > Nguồn transcript: `transcript.md` (Allen, 3:13, Vimeo 123341461, mổ lại). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -7,14 +7,14 @@
 Nối mi lên cơ trán bằng dải cân (treo trán thay cơ nâng đã liệt): lực nhắm-trợn mới từ trán, mi không nhắm kín hoàn toàn nên Frost-băng 1 ngày là bắt buộc.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: sụp nặng chức năng nâng kém (<4mm), liệt III, nhược cơ ổn định, mổ lại sling hỏng.
-- Chống chỉ định tương đối: Bell kém nặng (hở vĩnh viễn), khô mắt nặng, còn nâng khá (levator đủ).
+- Chỉ định: sụp nặng chức năng nâng kém (<4mm), liệt III, nhược cơ ổn định, mổ lại treo (sling) hỏng.
+- Chống chỉ định tương đối: phản xạ Bell kém nặng (hở vĩnh viễn), khô mắt nặng, còn nâng khá (levator đủ).
 
 ## 3. Chuẩn bị
 - Vô cảm: mê (trẻ em) + chuẩn bị cân (tự thân: thêm đường lấy đùi; ngân hàng: sẵn).
 - Dụng cụ/chỉ: dao 15, monopolar/thermal, kim lớn luồn, Mersilene 5-0, Vicryl 7-0, Frost, băng ép.
-- BN: đo sụp, trán (nếp trán = động cơ mới), chụp ảnh, consent hở-lagophthalmos vĩnh viễn + Bell.
-- Đánh giá nền: Bell, Schirmer, nhược thị.
+- Bệnh nhân: đo sụp, trán (nếp trán = động cơ mới), chụp ảnh, đồng thuận (consent) hở-hở mi (lagophthalmos) vĩnh viễn + phản xạ Bell.
+- Đánh giá nền: phản xạ Bell, test Schirmer, nhược thị.
 - Dặn quay lại ngay: hở mắt tăng, đau, nhiễm trùng đường luồn.
 
 ## 4. Quy trình
@@ -25,10 +25,10 @@ Nối mi lên cơ trán bằng dải cân (treo trán thay cơ nâng đã liệt
 - **Dặn quay lại ngay:** hở mắt tăng, đau, nhiễm trùng đường luồn.
 
 ## 5. Hậu phẫu
-- Tháo băng-Frost sáng hôm sau; mỡ + lubricants dài hạn (hở mạn); theo dõi tụt/nhiễm trùng đường luồn.
+- Tháo băng-Frost sáng hôm sau; mỡ + nước mắt nhân tạo (lubricants) dài hạn (hở mạn); theo dõi tụt/nhiễm trùng đường luồn.
 - Dặn quay lại ngay các dấu hiệu trên.
 
 ## 6. Tự lượng giá
-1. Vì sao sling gây hở vĩnh viễn và phòng bằng gì?
+1. Vì sao treo gây hở vĩnh viễn và phòng bằng gì?
 2. Nút sandwich gồm mấy lớp theo thứ tự nào?
 3. Vì sao mổ lại tận dụng sẹo cũ?

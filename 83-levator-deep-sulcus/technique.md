@@ -1,16 +1,16 @@
-# Levator Advancement (Deep Sulcus) — Bài chuẩn Goal
+# Tiến cân hốc sâu — Levator advancement, deep sulcus (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/9/levator-advancement-deep-superior-sulcus.htm) · [Vimeo](https://vimeo.com/212969844)
 > Nguồn transcript: `transcript.md` (Allen, 03:42, Vimeo 212969844). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng advancement nhưng giải phẫu biến đổi tuổi già: mất mỡ trước cân (mốc quen thuộc biến mất), vách bám bờ xương, Muller mỏng, sụn yếu sau Fasanella — phải nhận diện bằng mốc thay thế.
+Cùng tiến (advancement) nhưng giải phẫu biến đổi tuổi già: mất mỡ trước cân (mốc quen thuộc biến mất), vách bám bờ xương, cơ Muller mỏng, sụn yếu sau Fasanella — phải nhận diện bằng mốc thay thế.
 
 ## 2. Chỉ định / Chống chỉ định
 - Như số 81, cộng hốc sâu tuổi già; vẽ nếp mới ~8mm vì gần như không nếp.
 
 ## 3. Chuẩn bị
-- Như số 81 + blepharo rất nhỏ (miniscule), dự kiến bóc khó, consent sụn yếu dễ rách.
+- Như số 81 + blepharo rất nhỏ (miniscule), dự kiến bóc khó, đồng thuận (consent) sụn yếu dễ rách.
 - Dặn quay lại ngay: sụp tái phát sớm (rách sụn), đau tăng.
 
 ## 4. Quy trình + bẫy giải phẫu

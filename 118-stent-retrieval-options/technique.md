@@ -1,4 +1,4 @@
-# Stent Retrieval Options — Bài chuẩn Goal
+# Các cách lấy stent — Stent retrieval options (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/5/13-stent-retrieval.htm) · [Vimeo](https://vimeo.com/138077119)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138077119). Học tập, đối chiếu guideline và đào tạo có giám sát.

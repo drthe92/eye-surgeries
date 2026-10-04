@@ -1,4 +1,4 @@
-# Monopolar Upper Blepharoplasty — Bài chuẩn Goal
+# Cắt mi trên đốt đơn cực — Upper blepharoplasty with monopolar (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/Upper-lid-bleph-w-monopolar-cautery.htm) · [Vimeo](https://vimeo.com/123348199)
 > Nguồn transcript: `transcript.md` (Allen, 3:22, Vimeo 123348199). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -17,7 +17,7 @@ Cùng blepharo như số 70 nhưng cắt-cầm máu hoàn toàn bằng monopolar
 ## 4. Quy trình + điểm khác số 70
 - **Bước 1 — Rạch-cắt monopolar:** Qua da-cơ vòng một dụng cụ. Nghiệm thu: khô máu ngay. Cốt lõi: tốc độ + cầm máu. Lỗi: lạm dụng nhiệt ở mép da gây sẹo xấu đúng nhược điểm.
 - **Bước 2 — Cắt hết cơ vòng ngoài:** Khác số 70 — cắt trọn để giảm sụp mày sau mổ. Nghiệm thu: không còn dải cơ ngoài. Cốt lõi: cơ vòng ngoài kéo mày xuống. Lỗi: sót cơ ngoài gây sụp mày tồn lưu.
-- **Bước 3 — Mỡ medial:** Mở vách, phân biệt mỡ trắng (medial) với mỡ vàng (trước cân), khêu-tê-cắt-tạo hình bằng cautery. Nghiệm thu: gọn đối xứng. Cốt lõi: phân biệt 2 mỡ. Lỗi: cắt nhầm mỡ trước cân gây hõm giữa.
+- **Bước 3 — Mỡ medial:** Mở vách, phân biệt mỡ trắng (medial) với mỡ vàng (trước cân), khêu-tê-cắt-tạo hình bằng dao đốt (cautery). Nghiệm thu: gọn đối xứng. Cốt lõi: phân biệt 2 mỡ. Lỗi: cắt nhầm mỡ trước cân gây hõm giữa.
 - **Bước 4 — Đóng:** Như số 70 (giữa-ra-ngoài, Burrow trong, 6-0). Nghiệm thu: như 70.
 - **Dặn quay lại ngay:** hở mi, chảy máu, nhìn mờ.
 

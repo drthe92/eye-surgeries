@@ -1,4 +1,4 @@
-# Inferior Oblique Recession — Bài chuẩn Goal
+# Lùi cơ chéo dưới — Inferior oblique recession (classic) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/PediatricOphth-Strabismus-vids/inferior-oblique-recession.htm)
 > Trang gốc không có transcript. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,8 +12,8 @@ Làm yếu cơ chéo dưới bằng cách lùi điểm bám ra sau theo cung (gr
 
 ## 3. Chuẩn bị
 - Vô cảm: mê (trẻ em) hoặc tê cạnh nhãn.
-- Dụng cụ/chỉ: móc cơ chéo, chỉ cơ, thước, cautery.
-- BN: đo lác dọc 9 hướng + Parks-Bielschowsky, consent quá chỉnh (hạ cơ đối bên) và hội chứng chống nâng (anti-elevation).
+- Dụng cụ/chỉ: móc cơ chéo, chỉ cơ, thước, dao đốt (cautery).
+- Bệnh nhân: đo lác dọc 9 hướng + Parks-Bielschowsky, đồng thuận (consent) quá chỉnh (hạ cơ đối bên) và hội chứng chống nâng (anti-elevation).
 - Đánh giá nền: DVD, V-pattern, liệt SO.
 
 ## 4. Quy trình (nguyên lý chuẩn, đối chiếu video)
@@ -27,6 +27,6 @@ Làm yếu cơ chéo dưới bằng cách lùi điểm bám ra sau theo cung (gr
 - Dặn quay lại ngay các dấu hiệu trên.
 
 ## 6. Tự lượng giá
-1. Vì sao recession giữ được khả năng chỉnh liều còn myectomy thì không?
+1. Vì sao lùi cơ (recession) giữ được khả năng chỉnh liều còn myectomy thì không?
 2. Dấu hiệu IO overaction trên khám là gì?
 3. Anti-elevation syndrome là gì và do đâu?

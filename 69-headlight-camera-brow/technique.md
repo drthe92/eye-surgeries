@@ -1,4 +1,4 @@
-# Headlight Camera Brow — Bài chuẩn Goal
+# Góc camera đèn đầu — Small incision, headlight camera view (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/small-incision-browplasty-w-headlight-mounted-camera.htm) · [Vimeo](https://vimeo.com/198701337)
 > Nguồn transcript: `transcript.md` (Allen, 05:35, Vimeo 198701337, góc nhìn ngược). Video tổng duyệt small incision từ mắt phẫu thuật viên. Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,4 +1,4 @@
-# Pretrichial Browplasty — Bài chuẩn Goal
+# Tạo hình mày trước chân tóc — Pretrichial browplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/pretrichial-browplasty.htm) · [Vimeo](https://vimeo.com/123884758)
 > Nguồn transcript: `transcript.md` (Allen, 5:11, Vimeo 123884758). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,10 +11,10 @@ Nâng trán-mày qua đường chân tóc cho người trán cao để mái: bó
 - Chống chỉ định tương đối: trán thấp (sẹo chân tóc lộ, đường rạch đẩy chân tóc lên cao thêm), hói không che được, sợ tê trán.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ trán-mi + block trên ổ mắt bổ sung (lidocaine + epi).
+- Vô cảm: tê tại chỗ trán-mi + block trên ổ mắt bổ sung (lidocaine + epinephrine).
 - Dụng cụ/chỉ: dao 15, monopolar, Metzenbaum, Vicryl 4-0, Prolene 5-0/6-0, Kerlex/Coban.
-- BN: vẽ răng cưa chân tóc khi ngồi, đo độ nâng, chụp ảnh, consent tê trán + sẹo chân tóc + chân tóc lên cao.
-- Đánh giá nền: chiều cao trán, cảm giác nền, Bell.
+- Bệnh nhân: vẽ răng cưa chân tóc khi ngồi, đo độ nâng, chụp ảnh, đồng thuận (consent) tê trán + sẹo chân tóc + chân tóc lên cao.
+- Đánh giá nền: chiều cao trán, cảm giác nền, phản xạ Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Mi:** Blepharo như thường quy 2 bên đối xứng. Nghiệm thu: gọn. Cốt lõi: làm mi trước. Lỗi: như blepharo.

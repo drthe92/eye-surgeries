@@ -1,21 +1,21 @@
-# MMCR Burying Knots — Bài chuẩn Goal
+# Vùi nút dưới kết mạc — MMCR burying knots (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/7/12-MMCR-w-burying-of-suture.htm) · [Vimeo](https://vimeo.com/143475564)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143475564, cắt 8mm). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng cắt MMCR nhưng tạo hốc kết mạc để vùi nút vào trong — khỏi kính tiếp xúc mà không sẹo da, giải pháp giữa nút trong (cộm) và nút ngoài (sẹo da).
+Cùng cắt cắt cơ Muller-kết mạc (MMCR) nhưng tạo hốc kết mạc để vùi nút vào trong — khỏi kính tiếp xúc mà không sẹo da, giải pháp giữa nút trong (cộm) và nút ngoài (sẹo da).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như MMCR + không đeo được kính + không muốn sẹo da.
+- Chỉ định: như cắt cơ Muller-kết mạc + không đeo được kính + không muốn sẹo da.
 - Chống chỉ định tương đối: kết mạc teo không đủ tạo hốc.
 
 ## 3. Chuẩn bị
-- Như MMCR + Westcott cắt hốc kết mạc.
+- Như cắt cơ Muller-kết mạc + Westcott cắt hốc kết mạc.
 - Dặn quay lại ngay: cộm đau tăng, nhìn mờ.
 
 ## 4. Quy trình
-- **Bước 1 — Đánh dấu + kẹp:** Như MMCR (mốc + 4mm, Paufique, Putterman sát bờ sụn). Nghiệm thu: như MMCR. Cốt lõi: như MMCR. Lỗi: như MMCR.
+- **Bước 1 — Đánh dấu + kẹp:** Như cắt cơ Muller-kết mạc (mốc + 4mm, Paufique, Putterman sát bờ sụn). Nghiệm thu: như cắt cơ Muller-kết mạc. Cốt lõi: như cắt cơ Muller-kết mạc. Lỗi: như cắt cơ Muller-kết mạc.
 - **Bước 2 — Tạo hốc:** Westcott cắt một mảnh kết mạc ngoài kẹp. Nghiệm thu: hốc đủ chứa nút. Cốt lõi: hốc là chỗ nút chìm. Lỗi: hốc nhỏ gây nút trồi cộm.
 - **Bước 3 — Khâu 2 đầu ra hốc:** Chromic vào vùng đã cắt, đệm dọc ngoài-trong rồi vòng lại, cuối ra đúng vùng cắt. Nghiệm thu: cả 2 đầu ra hốc. Cốt lõi: 2 đầu cùng hốc mới vùi được. Lỗi: 1 đầu ngoài hốc gây nút lệch cộm.
 - **Bước 4 — Cắt-buộc-vùi:** Dao 15 kim loại-kim loại, buộc để nút tụt dưới kết mạc. Nghiệm thu: sờ không thấy nút. Cốt lõi: buộc vừa để nút tụt. Lỗi: buộc lỏng gây nút trồi.

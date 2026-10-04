@@ -1,4 +1,4 @@
-# 2-Snip Punctoplasty + Stent — Bài chuẩn Goal
+# Mở điểm lệ 2 nhát + stent — 2-snip punctoplasty + stent (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/2-snip-punctoplasty-w-stent.htm) · [Vimeo](https://vimeo.com/123350856)
 > Nguồn transcript: `transcript.md` (Allen, 1:40, Vimeo 123350856). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,9 +11,9 @@ Mở rộng điểm lệ hẹp bằng 2 nhát cắt (dọc + chéo phần sau) k
 - Chống chỉ định tương đối: tắc lệ quản hoàn toàn (cần DCR), viêm túi lệ cấp.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ điểm lệ + niêm mạc mũi lấy stent (lidocaine + epi).
+- Vô cảm: tê tại chỗ điểm lệ + niêm mạc mũi lấy stent (lidocaine + epinephrine).
 - Dụng cụ: nong điểm lệ, sonde Bowman #1, stent + hook Crawford, Westcott.
-- BN: bơm rửa đánh giá tắc trước, chụp ảnh điểm lệ, consent cứa rách-chảy máu mũi.
+- Bệnh nhân: bơm rửa đánh giá tắc trước, chụp ảnh điểm lệ, đồng thuận (consent) cứa rách-chảy máu mũi.
 - Dặn quay lại ngay: chảy máu mũi nhiều, đau-sưng (nhiễm trùng).
 
 ## 4. Quy trình

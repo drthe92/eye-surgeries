@@ -1,4 +1,4 @@
-# Dải sụn mi dưới — Lateral Tarsal Strip (Bài chuẩn Goal)
+# Dải sụn mi dưới — Lateral Tarsal dải (Strip) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/lateral-tarsal-strip.htm) · [Vimeo](https://vimeo.com/123354779)
 > Nguồn transcript: `transcript.md` (Allen, 2:23, Vimeo 123354779). Học tập, đối chiếu guideline và đào tạo có giám sát.

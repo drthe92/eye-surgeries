@@ -1,4 +1,4 @@
-# Lower Canalicular Laceration #1 — Bài chuẩn Goal
+# Rách lệ quản dưới 1 — Lower canalicular laceration #1 (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/repair-LL-canalicular-laceration-1.htm) · [Vimeo](https://vimeo.com/123879759)
 > Nguồn transcript: `transcript.md` (Allen, 1:50, Vimeo 123879759). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Khâu rách lệ quản trên nòng stent: tìm 2 đầu cắt (xa-gần), nong 
 
 ## 3. Chuẩn bị
 - Dụng cụ: nong, stent + hook Crawford, Vicryl 5-0/7-0.
-- BN: soi loại trừ dị vật-nhãn cầu, uốn ván, kháng sinh.
+- Bệnh nhân: soi loại trừ dị vật-nhãn cầu, uốn ván, kháng sinh.
 - Dặn quay lại ngay: chảy nước mắt lại (tắc), đỏ-sưng.
 
 ## 4. Quy trình

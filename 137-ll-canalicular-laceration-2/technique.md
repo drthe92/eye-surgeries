@@ -1,4 +1,4 @@
-# Lower Canalicular Laceration #2 — Bài chuẩn Goal
+# Rách lệ quản dưới 2 (mổ lại) — Lower canalicular laceration #2 (redo) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/repair-LL-canalicular-laceration-2.htm) · [Vimeo](https://vimeo.com/123879760)
 > Nguồn transcript: `transcript.md` (Allen, 3:18, Vimeo 123879760, mổ lại). Học tập, đối chiếu guideline và đào tạo có giám sát.

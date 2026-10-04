@@ -1,4 +1,4 @@
-# Jones Crescent Twist — Bài chuẩn Goal
+# Ống Jones xoắn lưỡi liềm — Jones crescent twist (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/7/16-Jones-tube-4-crescent-twist.htm) · [Vimeo](https://vimeo.com/143429038)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143429038). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -15,7 +15,7 @@ Mở rộng đường rò bằng động tác xoắn lưỡi dao (thay vì đâm
 - Dặn quay lại ngay: tắc ống, đỏ-sưng.
 
 ## 4. Quy trình
-- **Bước 1 — Đâm dẫn:** MVR dưới-sau sau cắt caruncle. Nghiệm thu: đúng hướng. Cốt lõi: MVR làm ray. Lỗi: mất ray gây lạc lưỡi dao.
+- **Bước 1 — Đâm dẫn:** MVR dưới-sau sau cắt mấu lệ (caruncle). Nghiệm thu: đúng hướng. Cốt lõi: MVR làm ray. Lỗi: mất ray gây lạc lưỡi dao.
 - **Bước 2 — Xoắn nong:** Lưỡi dao trượt trên mặt MVR vào rồi XOẮN mở rộng và rút; Quickert-Dryden qua đường; soi mũi xác nhận cả 2. Nghiệm thu: đường rộng đều. Cốt lõi: xoắn nong đều hơn đâm nhiều lỗ. Lỗi: xoắn mạnh gây rách rộng quá ống lỏng lẻo.
 - **Bước 3 — Đo-đặt:** Hemostat kẹp MVR tại cửa rồi rút MVR đo cỡ; luồn ống trên sonde, rút sonde. Nghiệm thu: ngoài-trong đều đúng. Cốt lõi: đo bằng MVR tại cửa. Lỗi: như số 109.
 - **Dặn quay lại ngay:** tắc ống, đỏ-sưng.

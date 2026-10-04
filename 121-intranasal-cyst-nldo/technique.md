@@ -1,4 +1,4 @@
-# Intranasal Cyst (NLDO) — Bài chuẩn Goal
+# Nang trong mũi — Intranasal cyst (NLDO) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/7/8-intranasal-cyst.htm) · [Vimeo](https://vimeo.com/143473527)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143473527). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -7,7 +7,7 @@
 Tắc lệ-mũi bẩm sinh thể nang đầu xa: nang dưới cuốn dưới là bằng chứng tắc; mở-giải áp + stent giữ 4 tháng.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: NLDO bẩm sinh có nang soi thấy, thông thường thất bại.
+- Chỉ định: tắc lệ-mũi (NLDO) bẩm sinh có nang soi thấy, thông thường thất bại.
 - Chống chỉ định tương đối: nhiễm trùng mũi cấp.
 - Dặn quay lại ngay: chảy máu mũi, sốt.
 
@@ -28,4 +28,4 @@ Tắc lệ-mũi bẩm sinh thể nang đầu xa: nang dưới cuốn dưới là
 ## 6. Tự lượng giá
 1. Nang dưới cuốn dưới chứng minh điều gì?
 2. Vì sao phải mở rộng chứ không chọc nhỏ?
-3. Khi nào soi mũi trong NLDO bẩm sinh?
+3. Khi nào soi mũi trong tắc lệ-mũi bẩm sinh?

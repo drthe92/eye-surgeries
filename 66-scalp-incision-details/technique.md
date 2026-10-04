@@ -1,4 +1,4 @@
-# Scalp Incision Details — Bài chuẩn Goal
+# Đường rạch da đầu chi tiết — Scalp incision details (kỹ năng nền) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/9/scalp-incision-details.htm) · [Vimeo](https://vimeo.com/212969544)
 > Nguồn transcript: `transcript.md` (Allen, 04:08, Vimeo 212969544). Video kỹ năng nền cho mọi small incision. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -7,7 +7,7 @@
 Chuẩn hóa 2 đường da đầu: dọc (dưới màng tới bờ xương-gốc mũi) và thái dương ngang (2 mặt bóc + cắt gân giữa) + kỹ thuật móc Endotine đúng (xác nhận chưa móc → kéo tối đa → ấn móc) và xếp cân nông-nông.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: mọi small incision/endoscopic brow (bài kỹ năng bắt buộc trước khi học các biến thể).
+- Chỉ định: mọi small incision/endoscopic mày (brow) (bài kỹ năng bắt buộc trước khi học các biến thể).
 - Chống chỉ định: không (kỹ năng nền).
 
 ## 3. Chuẩn bị

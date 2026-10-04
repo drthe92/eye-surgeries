@@ -1,4 +1,4 @@
-# Endoscopic DCR #2 — Bài chuẩn Goal
+# Mở lệ đạo nội soi 2 (khoan xương) — Endoscopic DCR #2 (khoan xương) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/7/7-endoDCR-2.htm) · [Vimeo](https://vimeo.com/143431970)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143431970). Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,4 +1,4 @@
-# Probing + Stenting (NLDO) — Bài chuẩn Goal
+# Thông-thắt tắc lệ-mũi bẩm sinh — Probing + stenting (NLDO bẩm sinh) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/Probing-and-Stenting.htm) · [Vimeo](https://vimeo.com/123351434)
 > Nguồn transcript: `transcript.md` (Allen, 3:26, Vimeo 123351434). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Thông màng tắc lệ-mũi bẩm sinh bằng sonde rồi giữ bằng stent Cr
 ## 3. Chuẩn bị
 - Vô cảm: mê (trẻ em) + Afrin nhét mũi co mạch.
 - Dụng cụ: nong, Bowman 0/1, Freer, stent + hook Crawford.
-- BN: bơm rửa chẩn đoán tắc, consent chảy máu mũi/tụt stent.
+- Bệnh nhân: bơm rửa chẩn đoán tắc, đồng thuận (consent) chảy máu mũi/tụt stent.
 - Dặn quay lại ngay: chảy máu mũi nhiều, sưng đỏ.
 
 ## 4. Quy trình

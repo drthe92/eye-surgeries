@@ -1,20 +1,20 @@
-# Paralytic Brow Repair — Bài chuẩn Goal
+# Sửa sụp mày liệt VII — Paralytic brow ptosis repair (liệt VII) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/2/Paralytic-brow-ptosis-repair.htm) · [Vimeo](https://vimeo.com/132966661/)
 > Nguồn transcript: `transcript.md` (Allen, 2:40, Vimeo 132966661, liệt VII). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Direct brow cho mày liệt: cơ trán đã mất nên được phép bóc sâu hơn direct thường + thêm medial cut-back (cắt tam giác Burrow) xử trí sụp đầu trong đi kèm — nâng tĩnh thay cho cơ đã liệt.
+Direct mày (brow) cho mày liệt: cơ trán đã mất nên được phép bóc sâu hơn direct thường + thêm medial cut-back (cắt tam giác Burrow) xử trí sụp đầu trong đi kèm — nâng tĩnh thay cho cơ đã liệt.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: sụp mày do liệt VII lâu ngày không hồi phục, cần nâng tĩnh; sụp đầu trong kèm theo.
 - Chống chỉ định tương đối: liệt mới còn khả năng hồi phục (chờ + bảo vệ giác mạc trước), co cứng cơ đối bên chưa đánh giá.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ (lidocaine + epi); liệt nên giảm đau ít giá trị căn chỉnh — đo sẵn độ nâng trước mổ.
+- Vô cảm: tê tại chỗ (lidocaine + epinephrine); liệt nên giảm đau ít giá trị căn chỉnh — đo sẵn độ nâng trước mổ.
 - Dụng cụ/chỉ: dao 15, monopolar, Vicryl 4-0, Prolene 5-0 (đệm dọc + chạy dài).
-- BN: đo độ nâng cần thiết trước mổ (không căn được khi tê-liệt), chụp ảnh, consent sẹo + nâng tĩnh không nhắm được.
-- Đánh giá nền: Bell (kém!), hở mi, viêm giác mạc — bảo vệ giác mạc là đích chính.
+- Bệnh nhân: đo độ nâng cần thiết trước mổ (không căn được khi tê-liệt), chụp ảnh, đồng thuận (consent) sẹo + nâng tĩnh không nhắm được.
+- Đánh giá nền: phản xạ Bell (kém!), hở mi, viêm giác mạc — bảo vệ giác mạc là đích chính.
 
 ## 4. Quy trình
 - **Bước 1 — Đo-vẽ trước mổ:** Xác định độ nâng cần thiết khi BN ngồi. Nghiệm thu: số mm nâng rõ ràng. Cốt lõi: liệt không căn được trong mổ nên mọi quyết định ở bước này. Lỗi: đo ẩu gây nâng thiếu/thừa không sửa được.

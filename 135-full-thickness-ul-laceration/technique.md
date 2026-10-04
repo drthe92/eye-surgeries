@@ -1,4 +1,4 @@
-# Full-Thickness Upper Lid Laceration — Bài chuẩn Goal
+# Rách mi trên toàn bộ — Full-thickness upper lid laceration (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/repair-full-thickness-UpperLid-laceration.htm) · [Vimeo](https://vimeo.com/123879758)
 > Nguồn transcript: `transcript.md` (Allen, 2:58, Vimeo 123879758). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -8,20 +8,20 @@ Như rách mi dưới (số 134) cộng 2 điểm riêng mi trên: cấm xuyên 
 
 ## 2. Chỉ định / Chống chỉ định
 - Như số 134 (rách toàn bộ chiều dày mi trên) + loại trừ tổn thương cân cơ nâng (sụp sau chấn thương).
-- Dặn quay lại ngay: notch, cộm-cọ giác mạc, sụp mi, đỏ-sưng.
+- Dặn quay lại ngay: khuyết (notch), cộm-cọ giác mạc, sụp mi, đỏ-sưng.
 
 ## 3. Chuẩn bị
 - Như số 134 + kiểm tra vận nâng mi (cân cơ nâng).
-- Dặn quay lại ngay: notch, cộm-cọ giác mạc, sụp mi, đỏ-sưng.
+- Dặn quay lại ngay: khuyết, cộm-cọ giác mạc, sụp mi, đỏ-sưng.
 
 ## 4. Quy trình + điểm khác mi dưới
 - **Bước 1 — Sụn không thủng:** 5-0 một phần mặt trước sụn, TUYỆT ĐỐI không qua mặt sau + mũi dưới giảm căng buộc trước. Nghiệm thu: mặt sau trơn. Cốt lõi: thủng mặt sau mi trên cọ giác mạc mỗi lần chớp. Lỗi: xuyên thủng gây loét-giác mạc chấm.
-- **Bước 2 — Bờ mi 2 mốc:** 7-0 Meibomian + nang lông đệm dọc cùng sâu-cách 2 bên. Nghiệm thu: như 134. Cốt lõi: như 134. Lỗi: như 134.
+- **Bước 2 — Bờ mi 2 mốc:** 7-0 tuyến Meibomius (Meibomian) + nang lông đệm dọc cùng sâu-cách 2 bên. Nghiệm thu: như 134. Cốt lõi: như 134. Lỗi: như 134.
 - **Bước 3 — Mũi đỡ + chỉ tiêu toàn bộ:** Thêm 7-0 trên lông mi đỡ lộn; da rời đơn; ƯA TIÊU (không cắt, ít cộm). Nghiệm thu: lộn vững. Cốt lõi: mũi thứ 3 chống sụp mép về. Lỗi: chỉ không tiêu gây phải cắt chỉ cọ mắt.
-- **Dặn quay lại ngay:** notch, cộm-cọ giác mạc, sụp mi, đỏ-sưng.
+- **Dặn quay lại ngay:** khuyết, cộm-cọ giác mạc, sụp mi, đỏ-sưng.
 
 ## 5. Hậu phẫu
-- Mỡ kháng sinh, hẹn 1 tuần (không cắt chỉ tiêu); theo dõi notch/cọ giác mạc/sụp do cân nâng.
+- Mỡ kháng sinh, hẹn 1 tuần (không cắt chỉ tiêu); theo dõi khuyết/cọ giác mạc/sụp do cân nâng.
 - Dặn quay lại ngay các dấu hiệu trên.
 
 ## 6. Tự lượng giá

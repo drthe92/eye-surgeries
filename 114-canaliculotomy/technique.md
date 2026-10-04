@@ -1,4 +1,4 @@
-# Canaliculotomy — Bài chuẩn Goal
+# Mở lệ quản (sỏi-mủ) — Canaliculotomy (sỏi-mủ) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/4/18-canalicular-stone.htm) · [Vimeo](https://vimeo.com/138023150/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138023150). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,9 +12,9 @@ Dẫn lưu sỏi-mủ lệ quản bằng rạch dọc + ép + nạo, để hở 
 - Dặn quay lại ngay: sưng đỏ lan, sốt, nhìn mờ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ mi trong (lidocaine + epi).
-- Dụng cụ: Westcott, tăm bông, nạo chalazion, lọ bệnh phẩm.
-- BN: cấy mủ trước nếu cần, consent tái phát.
+- Vô cảm: tê tại chỗ mi trong (lidocaine + epinephrine).
+- Dụng cụ: Westcott, tăm bông, nạo chắp (chalazion), lọ bệnh phẩm.
+- Bệnh nhân: cấy mủ trước nếu cần, đồng thuận (consent) tái phát.
 - Dặn quay lại ngay: sưng đỏ lan, sốt, nhìn mờ.
 
 ## 4. Quy trình

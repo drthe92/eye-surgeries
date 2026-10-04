@@ -1,4 +1,4 @@
-# Excision of Canaliculi — Bài chuẩn Goal
+# Cắt bỏ lệ quản — Excision of canaliculi (thang bít 3) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/7/10-excision-of-canaliculi.htm) · [Vimeo](https://vimeo.com/143475567)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143475567). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Bít lệ đạo vĩnh viễn mức cao nhất (cắt bỏ ống) cho khô mắt
 
 ## 3. Chuẩn bị
 - Dụng cụ: nong, Bowman, Westcott, Vicryl 7-0.
-- BN: ghi nhận thất bại 2 bậc trước, consent vĩnh viễn + chảy nước mắt quá.
+- Bệnh nhân: ghi nhận thất bại 2 bậc trước, đồng thuận (consent) vĩnh viễn + chảy nước mắt quá.
 - Dặn quay lại ngay: đau-sưng (nhiễm trùng), chảy nước mắt quá nhiều.
 
 ## 4. Quy trình

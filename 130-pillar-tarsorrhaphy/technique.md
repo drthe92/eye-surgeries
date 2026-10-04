@@ -1,4 +1,4 @@
-# Pillar Tarsorrhaphy — Bài chuẩn Goal
+# Dính trụ mi — Pillar tarsorrhaphy (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/2/Pillar-tarsorrhaphy.htm) · [Vimeo](https://vimeo.com/132967649/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132967649). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,8 +13,8 @@ Khép mi 2 điểm bằng trụ sụn-kết mạc mi trên chuyển xuống di�
 
 ## 3. Chuẩn bị
 - Dụng cụ: silk kéo, speculum mỏ giày, dao 15, Westcott, thermal, Vicryl 5-0 double-arm, bolster.
-- BN: đo hở mi, nhuộm giác mạc, consent hẹp khe tạm thời.
-- Đánh giá nền: Bell, khô mắt.
+- Bệnh nhân: đo hở mi, nhuộm giác mạc, đồng thuận (consent) hẹp khe tạm thời.
+- Đánh giá nền: phản xạ Bell, khô mắt.
 - Dặn quay lại ngay: đau tăng, nhìn mờ, đỏ nhiều.
 
 ## 4. Quy trình

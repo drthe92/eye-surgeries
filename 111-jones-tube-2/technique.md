@@ -1,4 +1,4 @@
-# Jones Tube Placement #2 — Bài chuẩn Goal
+# Đặt ống Jones 2 — Jones tube #2 (mở rộng + sonde trơn) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/7/14-Jones-tube-2.htm) · [Vimeo](https://vimeo.com/143429331)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143429331). Học tập, đối chiếu guideline và đào tạo có giám sát.

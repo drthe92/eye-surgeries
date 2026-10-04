@@ -1,20 +1,20 @@
-# Retractor Recession + Tarsorrhaphies — Bài chuẩn Goal
+# Hạ cơ rút kèm dính hai đầu — Retractor recession with medial and lateral tarsorrhaphy (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/retractor-recession-w-tarsorrhaphies.htm) · [Vimeo](https://vimeo.com/207241775)
 > Nguồn transcript: `transcript.md` (Allen, 03:43, Vimeo 207241775). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Ưu tiên bảo vệ giác mạc hơn thẩm mỹ: thả cơ rút tự do + khâu dính hai đầu giữ mi khép. Ít xâm lấn nhất nhóm, không ghép không strip.
+Ưu tiên bảo vệ giác mạc hơn thẩm mỹ: thả cơ rút tự do + khâu dính hai đầu giữ mi khép. Ít xâm lấn nhất nhóm, không ghép không dải (strip).
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: exposure keratopathy do hở mi, cần can thiệp nhanh-gọn.
 - Chống chỉ định tương đối: BN trẻ muốn giữ khe mi nguyên (dính gây hẹp vĩnh viễn), hở do lồi mắt nặng (cần giải ép).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ mi dưới + 2 góc (lidocaine + epi).
+- Vô cảm: tê tại chỗ mi dưới + 2 góc (lidocaine + epinephrine).
 - Dụng cụ/chỉ: silk kéo, thermal, Westcott, Vicryl 5-0/7-0, erythromycin.
-- BN: nhuộm giác mạc, chụp ảnh, consent hẹp khe.
-- Đánh giá nền: Bell, khô mắt, lệ đạo (rạch V trong gần lệ quản).
+- Bệnh nhân: nhuộm giác mạc, chụp ảnh, đồng thuận (consent) hẹp khe.
+- Đánh giá nền: phản xạ Bell, khô mắt, lệ đạo (rạch V trong gần lệ quản).
 
 ## 4. Quy trình
 - **Bước 1 — Thả cơ rút:** Silk kéo, thermal rạch dưới bờ sụn, bóc vách-cơ vòng tới bờ xương, bóc kết mạc-mặt cơ rút tới cùng đồ, thả tự co, đóng kết mạc 7-0. Nghiệm thu: mi nâng lên ngay. Cốt lõi: thả hoàn toàn tới cùng đồ. Lỗi: thả thiếu gây còn hở.
@@ -23,7 +23,7 @@
 
 ## 5. Hậu phẫu
 - Chăm sóc: không dụi, giữ vệ sinh.
-- Thuốc: erythromycin; lubricants tích cực.
+- Thuốc: erythromycin; nước mắt nhân tạo (lubricants) tích cực.
 - Tái khám: 1 tuần đánh giá viêm giác mạc/hẹp khe; dài hạn tái hở.
 - Dặn quay lại ngay: đau-nhìn mờ tăng.
 

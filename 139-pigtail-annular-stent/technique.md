@@ -1,4 +1,4 @@
-# Pigtail Annular Stent — Bài chuẩn Goal
+# Vòng silicone đuôi lợn — Pigtail annular stent (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/6/9-pigtail-probe.htm) · [Vimeo](https://vimeo.com/143470672)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143470672). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Nong toàn hệ lệ quản bằng vòng silicone khép kín (annular) luồn b�
 
 ## 3. Chuẩn bị
 - Dụng cụ: nong, Bowman, đuôi lợn, nylon 6-0, ống silicone 25mm, 2 kẹp holder, Vicryl 7-0.
-- BN: như rách lệ quản.
+- Bệnh nhân: như rách lệ quản.
 - Dặn quay lại ngay: chảy nước mắt lại, đỏ-sưng.
 
 ## 4. Quy trình

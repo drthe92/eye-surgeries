@@ -12,15 +12,15 @@ Vô cảm tại chỗ đa điểm cho DCR ngoài trên BN tỉnh: tê hốc tron
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine + epinephrine (hỗn hợp chuẩn Iowa: lidocaine 2% + epi 1:100.000; ca dài thêm bupivacaine 0.5%); bơm ~1cc mỗi điểm; kim nhỏ, sát khuẩn, hút thử trước mỗi lần bơm.
-- Dụng cụ: bút marking, bơm + kim tê, gạc, dụng cụ DCR thường quy, thuốc tê niêm mạc mũi.
-- BN: nằm ngửa, ấn túi lệ đánh giá mủ trào qua lệ quản trên/dưới, marking đường rạch từ gân góc trong xuống cánh mũi, chụp ảnh, consent đau khi tê/máu tụ/sưng.
+- Dụng cụ: bút đánh dấu (marking), bơm + kim tê, gạc, dụng cụ DCR thường quy, thuốc tê niêm mạc mũi.
+- Bệnh nhân: nằm ngửa, ấn túi lệ đánh giá mủ trào qua lệ quản trên/dưới, đánh dấu đường rạch từ gân góc trong xuống cánh mũi, chụp ảnh, đồng thuận đau khi tê/máu tụ/sưng.
 - Đánh giá nền: tiền sử tim mạch (epi), dị ứng, thuốc chống đông, huyết áp.
 
 ## 4. Quy trình
-- **Bước 1 — Marking + đánh giá mủ:** Ấn túi lệ xem mủ trào, vẽ đường rạch cạnh mũi từ medial canthal tendon tới ala. Nghiệm thu: đường vẽ đúng mốc. Cốt lõi: xác nhận viêm trước khi tê. Lỗi: vẽ lệch gây sẹo xấu.
+- **Bước 1 — đánh dấu + đánh giá mủ:** Ấn túi lệ xem mủ trào, vẽ đường rạch cạnh mũi từ medial canthal tendon tới ala. Nghiệm thu: đường vẽ đúng mốc. Cốt lõi: xác nhận viêm trước khi tê. Lỗi: vẽ lệch gây sẹo xấu.
 - **Bước 2 — Tê hốc trong:** Vào qua caruncle, sờ thành trong ổ mắt, bơm ~1cc lidocaine + epi. Nghiệm thu: tê vùng túi lệ khi chạm. Cốt lõi: đầu kim chạm xương mới bơm, hút thử. Lỗi: bơm vào mạch gây ngộ độc/toàn thân.
 - **Bước 3 — Tê dưới da mi trong trên/dưới:** Bơm dưới da dọc phần trong 2 mi. Nghiệm thu: da phồng trắng nhẹ, mất đau khi véo. Cốt lõi: nông, đều. Lỗi: bơm sâu vào cơ gây phù khó mổ.
-- **Bước 4 — Tê đường rạch:** Bơm cùng hỗn hợp dọc marking. Nghiệm thu: đường rạch mất đau + cầm máu. Cốt lõi: chờ đủ thời gian epi co mạch. Lỗi: rạch ngay gây chảy máu nhiều.
+- **Bước 4 — Tê đường rạch:** Bơm cùng hỗn hợp dọc đánh dấu. Nghiệm thu: đường rạch mất đau + cầm máu. Cốt lõi: chờ đủ thời gian epi co mạch. Lỗi: rạch ngay gây chảy máu nhiều.
 - **Bước 5 — Tê niêm mạc mũi meatus giữa:** Đặt tê niêm mạc mũi vùng middle meatus. Nghiệm thu: BN hết đau khi bóc niêm mạc. Cốt lõi: đủ tê niêm mạc mới khoan xương êm. Lỗi: thiếu tê mũi gây đau dữ dội khi làm xương.
 
 ## 5. Hậu phẫu

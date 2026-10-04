@@ -1,4 +1,4 @@
-# Gull-Wing Browplasty — Bài chuẩn Goal
+# Tạo hình mày cánh chim — Gull-wing browplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/3/12-gull-wing-browplasty.htm) · [Vimeo](https://vimeo.com/138018141)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138018141). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,13 +11,13 @@ Nâng toàn bộ mày kể cả đầu trong bằng dải cắt liền mạch qu
 - Chống chỉ định tương đối: không đeo kính (sẹo sống mũi lộ), chỉ sụp ngoài (direct/small incision đủ), kỳ vọng thẩm mỹ cao.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ toàn bộ mày-sống mũi + mi trên (lidocaine + epi).
+- Vô cảm: tê tại chỗ toàn bộ mày-sống mũi + mi trên (lidocaine + epinephrine).
 - Dụng cụ/chỉ: dao 15, monopolar, Vicryl 4-0, Prolene 5-0, mỡ kháng sinh.
-- BN: đeo thử kính đánh dấu đoạn kính che được, vẽ dải đo sẵn độ nâng khi ngồi, chụp ảnh, consent sẹo sống mũi.
-- Đánh giá nền: mức sụp trong-ngoài, Bell, khô mắt.
+- Bệnh nhân: đeo thử kính đánh dấu đoạn kính che được, vẽ dải đo sẵn độ nâng khi ngồi, chụp ảnh, đồng thuận (consent) sẹo sống mũi.
+- Đánh giá nền: mức sụp trong-ngoài, phản xạ Bell, khô mắt.
 
 ## 4. Quy trình
-- **Bước 1 — Blepharoplasty 2 bên:** Như thường quy trước. Nghiệm thu: gọn cầm máu. Cốt lõi: làm mi trước để căn mày sau. Lỗi: cắt mi quá nhiều gây hở phối hợp.
+- **Bước 1 — tạo hình mi (Blepharoplasty) 2 bên:** Như thường quy trước. Nghiệm thu: gọn cầm máu. Cốt lõi: làm mi trước để căn mày sau. Lỗi: cắt mi quá nhiều gây hở phối hợp.
 - **Bước 2 — Cắt dải liền mạch:** Dao 15 rạch dọc toàn mày qua sống mũi nối đường trên đã đo; monopolar cắt da-mỡ dưới da. Nghiệm thu: dải đều, nâng được cả đầu trong. Cốt lõi: đo sẵn độ nâng. Lỗi: đo sai gây lệch trong-ngoài.
 - **Bước 3 — Đóng 2 lớp:** Sâu Vicryl 4-0 vùi + da Prolene 5-0 chạy dài. Nghiệm thu: kín không căng. Cốt lõi: sâu chịu lực như direct. Lỗi: thiếu sâu gây giãn sẹo dài.
 - **Bước 4 — Hậu phẫu:** Mỡ 3 lần/ngày, cắt chỉ 1 tuần, đeo kính che sẹo trong. Nghiệm thu: BN chấp nhận sẹo. Cốt lõi: tư vấn kính trước mổ. Lỗi: không tư vấn gây tranh chấp sẹo.

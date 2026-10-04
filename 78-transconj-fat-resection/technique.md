@@ -1,4 +1,4 @@
-# Transconj Fat Resection — Bài chuẩn Goal
+# Cắt mỡ mi dưới qua kết mạc — Transconjunctival fat resection (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/transconj-LL-bleph-w-fat-resection.htm) · [Vimeo](https://vimeo.com/123349418)
 > Nguồn transcript: `transcript.md` (Allen, 3:08, Vimeo 123349418). Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,4 +1,4 @@
-# Superior Oblique Tuck — Bài chuẩn Goal
+# Gấp gân cơ chéo trên — Superior oblique tuck (classic) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/PediatricOphth-Strabismus-vids/Superior-oblique-tuck.htm)
 > Trang gốc không có transcript. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -18,7 +18,7 @@ Làm mạnh cơ chéo trên bằng cách gấp nếp gân (tuck): rút ngắn đ
 ## 4. Chuẩn bị
 - Vô cảm: mê (trẻ em) hoặc tê cạnh nhãn.
 - Dụng cụ: móc gân, chỉ gấp gân, thước.
-- BN: đo dọc-xoắn, Parks-Bielschowsky, consent Brown nhân tạo/song thị.
+- Bệnh nhân: đo dọc-xoắn, Parks-Bielschowsky, đồng thuận (consent) Brown nhân tạo/song thị.
 
 ## 5. Quy trình (nguyên lý chuẩn, đối chiếu video)
 - **Bước 1 — Bắt gân SO:** Móc gân qua ròng rọc. Nghiệm thu: gân trơ toàn chiều rộng. Cốt lõi: đủ rộng hai mép. Lỗi: bắt thiếu gây gấp lệch.

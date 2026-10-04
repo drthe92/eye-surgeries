@@ -12,12 +12,12 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine + epi (chuẩn 2% + 1:100.000); ca dài thêm bupivacaine 0.5%; kim nhỏ, hút thử mỗi lần bơm.
-- Dụng cụ: bút marking, dao cạo tóc vùng thái dương nếu cần, bơm kim tê, bipolar cầm máu.
-- BN: marking + cạo tóc vùng rạch, chụp ảnh, consent đau khi tê/chảy máu/sẹo.
+- Dụng cụ: bút đánh dấu (marking), dao cạo tóc vùng thái dương nếu cần, bơm kim tê, bipolar cầm máu.
+- Bệnh nhân: đánh dấu + cạo tóc vùng rạch, chụp ảnh, đồng thuận đau khi tê/chảy máu/sẹo.
 - Đánh giá nền: dị ứng, tim mạch, chống đông, đường máu.
 
 ## 4. Quy trình
-- **Bước 1 — Marking + thấm quanh vùng:** Sờ đánh dấu (động mạch/mỡ/vạt), thấm lidocaine + epi quanh, KHÔNG tiêm thẳng vào động mạch. Nghiệm thu: vùng phồng trắng nhẹ, mất đau khi véo. Cốt lõi: thấm quanh, tránh lòng mạch. Lỗi: tiêm vào động mạch gây tắc mạch/hoại tử.
+- **Bước 1 — đánh dấu + thấm quanh vùng:** Sờ đánh dấu (động mạch/mỡ/vạt), thấm lidocaine + epi quanh, KHÔNG tiêm thẳng vào động mạch. Nghiệm thu: vùng phồng trắng nhẹ, mất đau khi véo. Cốt lõi: thấm quanh, tránh lòng mạch. Lỗi: tiêm vào động mạch gây tắc mạch/hoại tử.
 - **Bước 2 — Chờ + rạch:** Chờ epi co mạch rồi rạch dao 15, đốt bipolar cầm máu. Nghiệm thu: rạch không đau, máu rỉ ít. Cốt lõi: chờ đủ thời gian. Lỗi: rạch ngay gây đau + chảy máu.
 - **Bước 3 — Tê bổ sung mô sâu:** Sau bộc lộ mỡ medial (trắng hơn mỡ trước cân), thấm thêm lidocaine + epi rồi mới kéo/cắt. Nghiệm thu: kéo mỡ không đau. Cốt lõi: mỡ ổ mắt phải tê riêng vì tê da không đủ. Lỗi: quên tê mỡ gây đau chói + co kéo nguy hiểm.
 - **Bước 4 — Cầm máu + đóng:** Đốt tối thiểu ở mép da (tránh sẹo xấu), đóng đúng lớp. Nghiệm thu: khô máu, mép áp. Cốt lõi: đốt chọn lọc. Lỗi: đốt quá mép da gây sẹo lồi/xấu.

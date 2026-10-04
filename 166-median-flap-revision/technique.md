@@ -1,4 +1,4 @@
-# Median Flap + Revision — Bài chuẩn Goal
+# Vạt trán + sửa thì 2 — Median flap + revision (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/5/8-median-forehead-flap-w-revision.htm) · [Vimeo](https://vimeo.com/138077124/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138077124). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,13 +11,13 @@ Hai thì cách nhau 2 tháng: thì 1 dựng (lá sau mào lệ sau + vạt trán
 - Dặn quay lại ngay: đỏ-sưng (nhiễm trùng), hoại tử vạt.
 
 ## 3. Chuẩn bị
-- Dụng cụ: đục xương, lọ bệnh phẩm xương, dao 15, needle-tip, Freer, Vicryl 4-0/5-0, Prolene 5-0/6-0.
-- BN: hội chẩn da liễu-mô bệnh (xương), consent xạ trị nếu dương tính + sửa thì 2.
+- Dụng cụ: đục xương, lọ bệnh phẩm xương, dao 15, kim (needle)-tip, Freer, Vicryl 4-0/5-0, Prolene 5-0/6-0.
+- Bệnh nhân: hội chẩn da liễu-mô bệnh (xương), đồng thuận (consent) xạ trị nếu dương tính + sửa thì 2.
 - Dặn quay lại ngay: đỏ-sưng (nhiễm trùng), hoại tử vạt.
 
 ## 4. Quy trình
 - **Bước 1 — Xương + lá sau:** Đục xương nghi gửi giải phẫu (âm mới tiếp tục vạt); mào lệ sau-sụn trên-dưới 4-0. Nghiệm thu: xương âm tính. Cốt lõi: xương quyết định tiếp tục hay xạ trị. Lỗi: bỏ qua xương nghi gây sót ung thư.
-- **Bước 2 — Dựng vạt dày:** Marking + nếp trán; needle-tip trên màng tới 2cm gốc mũi rồi Freer dưới màng; chuyển vị; bóc rộng chỗ cho; đóng sâu-nông; ngồi vạt 2 mũi màng-mặt sau; cắt dog-ear không phạm vạt. Nghiệm thu: vạt sống dày. Cốt lõi: giữ dày thì 1 để nuôi. Lỗi: làm mỏng ngay gây hoại tử vạt.
+- **Bước 2 — Dựng vạt dày:** đánh dấu (Marking) + nếp trán; kim-tip trên màng tới 2cm gốc mũi rồi Freer dưới màng; chuyển vị; bóc rộng chỗ cho; đóng sâu-nông; ngồi vạt 2 mũi màng-mặt sau; cắt dog-ear không phạm vạt. Nghiệm thu: vạt sống dày. Cốt lõi: giữ dày thì 1 để nuôi. Lỗi: làm mỏng ngay gây hoại tử vạt.
 - **Bước 3 — Sửa sau 2 tháng:** Đánh dấu dày trên-dưới; rạch-bóc-cắt mỡ tới bì-thượng bì; cắt da thừa; đóng sâu-nông. Nghiệm thu: mỏng tự nhiên. Cốt lõi: chờ 2 tháng mới sửa. Lỗi: sửa sớm gây hoại tử; cắt vào vạt gây mất máu.
 - **Dặn quay lại ngay:** đỏ-sưng (nhiễm trùng), hoại tử vạt.
 

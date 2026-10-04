@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132969266). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có để đặt một mũi treo góc mắt ngoài (canthopexy): từ bờ mi dưới ngoài tới màng xương (periosteum) bờ trên-ngoài ổ mắt, tăng độ căng ngang nhẹ mà không rạch góc (canthotomy) hay tạo dải sụn (strip). Khác với tái tạo góc (canthoplasty — cắt và khâu lại gân góc) và dải sụn mi dưới (lateral tarsal strip — tạo dải sụn neo vào củ Whitnall (Whitnall's tubercle), bài 01).
+Tận dụng đường mổ tạo hình mi trên (blepharoplasty) sẵn có để đặt một mũi treo góc mắt ngoài (canthopexy): từ bờ mi dưới ngoài tới màng xương (periosteum) bờ trên-ngoài ổ mắt, tăng độ căng ngang nhẹ mà không rạch góc (canthotomy) hay tạo dải sụn (strip). Khác với tái tạo góc (canthoplasty — cắt và khâu lại gân góc) và dải sụn mi dưới (lateral tarsal dải (strip) — tạo dải sụn neo vào củ Whitnall (Whitnall's tubercle), bài 01).
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: người bệnh đang mổ mi trên có mi dưới lỏng nhẹ đến trung bình cần hỗ trợ; phòng ngừa trễ mi dưới sau tạo hình mi trên.

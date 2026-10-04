@@ -1,4 +1,4 @@
-# Second Stage Median Flap — Bài chuẩn Goal
+# Thì 2 vạt trán giữa — Second stage median flap (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/12/97-second-stage-median-flap.htm) · [Vimeo](https://vimeo.com/218792665)
 > Nguồn transcript: `transcript.md` (Allen, 04:09, Vimeo 218792665). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,7 +11,7 @@ Hoàn thiện vạt cuống sau 2 tháng nuôi: cắt cuống, sửa sẹo chỗ
 - Dặn quay lại ngay: hoại tử vạt, đỏ-sưng.
 
 ## 3. Chuẩn bị
-- Tê lido-bupi-epi; dao 15, needle-point, Westcott, Vicryl 4-0/5-0, Prolene 5-0, tiêu nhanh 5-0.
+- Tê lido-bupi-epinephrine; dao 15, kim (needle)-point, Westcott, Vicryl 4-0/5-0, Prolene 5-0, tiêu nhanh 5-0.
 - Dặn quay lại ngay: hoại tử vạt, đỏ-sưng.
 
 ## 4. Quy trình

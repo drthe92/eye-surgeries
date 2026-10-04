@@ -1,4 +1,4 @@
-# Bilobe Flap (Medial) — Bài chuẩn Goal
+# Vạt 2 thùy góc trong — Bilobe flap (medial) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/Bilobe-Flap.htm) · [Vimeo](https://vimeo.com/123030045)
 > Nguồn transcript: `transcript.md` (Allen, 1:57, Vimeo 123030045). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,7 +12,7 @@ Vạt 2 thùy chuyển lực căng từ dọc sang ngang: đóng chỗ cho dư�
 - Dặn quay lại ngay: hoại tử đầu vạt, đỏ-sưng.
 
 ## 3. Chuẩn bị
-- Dụng cụ: dao 15, Westcott, bipolar/unipolar, Vicryl 5-0, Prolene 5-0/6-0.
+- Dụng cụ: dao 15, Westcott, lưỡng cực (bipolar)/unipolar, Vicryl 5-0, Prolene 5-0/6-0.
 - Dặn quay lại ngay: hoại tử đầu vạt, đỏ-sưng.
 
 ## 4. Quy trình

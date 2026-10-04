@@ -1,4 +1,4 @@
-# Double Fixation Brow — Bài chuẩn Goal
+# Cố định kép mày — Double fixation brow (Endotine kép) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/double-fixation-or-repair-of-brow-ptosis.htm) · [Vimeo](https://vimeo.com/198700698)
 > Nguồn transcript: `transcript.md` (Allen, 02:48, Vimeo 198700698, nam trẻ). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,7 +12,7 @@ Chống tụt ở mày nặng bằng 2 tầng neo: Endotine trán (giữ dài h�
 
 ## 3. Chuẩn bị
 - Như small incision + 2 bộ Endotine (trán + qua mi), nylon 5-0, khoan tay.
-- BN: đo sụp, chụp ảnh, consent 2 device + cắt nylon sau 1 tuần.
+- Bệnh nhân: đo sụp, chụp ảnh, đồng thuận (consent) 2 device + cắt nylon sau 1 tuần.
 
 ## 4. Quy trình
 - **Bước 1 — Bóc toàn bộ:** Mi bảo tồn, bóc vách-cơ vòng tới bờ xương, rạch-nâng màng xương, da đầu nội soi tới gân hợp nhất, cân sâu, cắt gân 2 bên. Nghiệm thu: trán di động hoàn toàn. Cốt lõi: giải phóng triệt để mới đáng cố định kép. Lỗi: bóc thiếu mà neo kép gây căng lệch.

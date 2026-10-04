@@ -1,4 +1,4 @@
-# Retained Plug Removal — Bài chuẩn Goal
+# Lấy nút lệ sót — Retained plug removal (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/6/10-retained-plug.htm) · [Vimeo](https://vimeo.com/143470669)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143470669). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Viêm lệ quản mạn do nút lệ di cư: mở tìm dị vật 2 tầng (cut-
 
 ## 3. Chuẩn bị
 - Dụng cụ: Bowman, Westcott, stent + hook Crawford, Vicryl 7-0.
-- BN: tiền sử nút-đốt điểm lệ, cấy mủ.
+- Bệnh nhân: tiền sử nút-đốt điểm lệ, cấy mủ.
 - Dặn quay lại ngay: sưng đỏ lan, sốt.
 
 ## 4. Quy trình

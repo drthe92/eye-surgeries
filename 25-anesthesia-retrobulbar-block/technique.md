@@ -1,19 +1,19 @@
-# Retrobulbar Block — Bài chuẩn Goal
+# Block sau nhãn cầu — Retrobulbar block (Oetting video 1) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/tutorials/retrobulbar-nerve-blocks.htm) · [Vimeo](https://vimeo.com/139277507)
 > Nguồn: `transcript.md` (Iowa tutorial, Vimeo 139277507). Học tập, chỉ thực hiện khi được đào tạo + giám sát.
 
 ## 1. Bản chất
-Đưa thuốc tê vào trong phễu cơ sau nhãn cầu để liệt vận nhãn + mất cảm giác cho mổ nội nhãn/orbit, thay mê khi mê chống chỉ định/không mong muốn.
+Đưa thuốc tê vào trong phễu cơ sau nhãn cầu để liệt vận nhãn + mất cảm giác cho mổ nội nhãn/ổ mắt (orbit), thay mê khi mê chống chỉ định/không mong muốn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: mổ nội nhãn/orbit ở BN không mê được; cần liệt mắt hoàn toàn.
+- Chỉ định: mổ nội nhãn/ổ mắt ở BN không mê được; cần liệt mắt hoàn toàn.
 - Chống chỉ định: nhiễm trùng ổ mắt, u sau nhãn, lồi mắt nặng, rối loạn đông máu, BN không hợp tác, nhãn cầu dài cận nặng (nguy cơ thủng cao). Thay thế: peribulbar/sub-Tenons (an toàn hơn), tê tại chỗ + tiền mê, hoặc mê.
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine 1% + bupivacaine 0.375% (+ hyaluronidase); bơm 5cc kim 23G 1.5 inch flat grind; gạc 4x4 ép sau tiêm.
 - Dụng cụ: alcohol wipe, bơm kim trên, thuốc hồi sức + theo dõi sinh tồn sẵn sàng.
-- BN: nhìn thẳng, giải thích cảm giác ép/chói, consent thủng cầu/xuất huyết/mù.
+- Bệnh nhân: nhìn thẳng, giải thích cảm giác ép/chói, đồng thuận (consent) thủng cầu/xuất huyết/mù.
 - Đánh giá nền: trục nhãn cầu, thuốc chống đông, dị ứng, thị lực nền.
 
 ## 4. Quy trình

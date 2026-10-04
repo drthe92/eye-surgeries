@@ -1,4 +1,4 @@
-# Glabellar Flap (Medial) — Bài chuẩn Goal
+# Vạt glabella góc trong — Glabellar flap (medial defect) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/12/93-glabellar-flap-medial-canthal-defect.htm) · [Vimeo](https://vimeo.com/218700929)
 > Nguồn transcript: `transcript.md` (Allen, 03:31, Vimeo 218700929). Học tập, đối chiếu guideline và đào tạo có giám sát.

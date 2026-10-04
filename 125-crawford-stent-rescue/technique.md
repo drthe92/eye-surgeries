@@ -1,4 +1,4 @@
-# Crawford Stent Rescue — Bài chuẩn Goal
+# Cứu stent Crawford — Crawford stent rescue (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/crawford-stent-rescue.htm) · [Vimeo](https://vimeo.com/205003631)
 > Nguồn transcript: `transcript.md` (Allen, 02:40, Vimeo 205003631). Học tập, đối chiếu guideline và đào tạo có giám sát.

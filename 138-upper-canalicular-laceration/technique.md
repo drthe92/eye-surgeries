@@ -1,4 +1,4 @@
-# Upper Canalicular Laceration — Bài chuẩn Goal
+# Rách lệ quản trên — Upper canalicular laceration (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/2/Upper-canalicular-laceration-repair.htm) · [Vimeo](https://vimeo.com/132969260/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132969260). Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,4 +1,4 @@
-# Endoscopic Retrieval — Bài chuẩn Goal
+# Lấy stent qua nội soi — Endoscopic retrieval (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/3/9-endoscopic-retrieval-crawford-stent.htm) · [Vimeo](https://vimeo.com/138018127)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138018127). Học tập, đối chiếu guideline và đào tạo có giám sát.

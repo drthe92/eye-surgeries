@@ -1,10 +1,10 @@
-# MMCR #2 — Bài chuẩn Goal
+# Cắt cơ Muller-kết mạc 2 — MMCR #2 (compa + hướng khâu) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/muller-muscle-conj-resect-2.htm) · [Vimeo](https://vimeo.com/123883696)
 > Nguồn transcript: `transcript.md` (Allen, 2:07, Vimeo 123883696, cắt 8.5mm). Bổ sung số 84. Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng MMCR như số 84, bài này chuẩn hóa 3 chi tiết: compa đo nửa liều (4.25 cho 8.5), hướng khâu (thích bắt đầu ngoài), cảm giác kim loại-kim loại khi cắt.
+Cùng cắt cơ Muller-kết mạc (MMCR) như số 84, bài này chuẩn hóa 3 chi tiết: compa đo nửa liều (4.25 cho 8.5), hướng khâu (thích bắt đầu ngoài), cảm giác kim loại-kim loại khi cắt.
 
 ## 2. Chỉ định / Chống chỉ định
 - Như số 84.

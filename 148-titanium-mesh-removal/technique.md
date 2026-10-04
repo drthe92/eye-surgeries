@@ -1,4 +1,4 @@
-# Titanium Mesh Removal — Bài chuẩn Goal
+# Tháo lưới titan — Titanium mesh removal (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/13/104-removal-titanium-mesh.htm) · [Vimeo](https://vimeo.com/223171664)
 > Nguồn transcript: `transcript.md` (Allen, 00:41, Vimeo 223171664). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Tháo vật liệu gây đau mạn do mô mọc vào lưới: khó chính vì ư
 
 ## 3. Chuẩn bị
 - Dụng cụ: Freer, cắt lưới, cầm máu (mô mạch).
-- Consent: có thể sót mảnh, tái lõm sau tháo.
+- đồng thuận (Consent): có thể sót mảnh, tái lõm sau tháo.
 - Dặn quay lại ngay: đau tăng, sưng đỏ, nhìn mờ.
 
 ## 4. Quy trình

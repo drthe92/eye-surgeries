@@ -1,4 +1,4 @@
-# Harada-Ito Procedure — Bài chuẩn Goal
+# Thủ thuật Harada-Ito — Harada-Ito procedure (classic) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/PediatricOphth-Strabismus-vids/Harada-Ito-Procedure.htm)
 > Trang gốc không có transcript. Học tập, đối chiếu guideline và đào tạo có giám sát.

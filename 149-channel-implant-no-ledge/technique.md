@@ -1,4 +1,4 @@
-# Channel Implant — Bài chuẩn Goal
+# Tấm rãnh (mất gờ sau) — Channel implant (mất gờ sau) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/9/channel-implant-orbital-fracture.htm) · [Vimeo](https://vimeo.com/212969253/)
 > Nguồn transcript: `transcript.md` (Allen, 00:50, Vimeo 212969253). Học tập, đối chiếu guideline và đào tạo có giám sát.

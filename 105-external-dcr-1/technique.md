@@ -1,4 +1,4 @@
-# External DCR #1 — Bài chuẩn Goal
+# Mở lệ đạo ngoài 1 — External DCR #1 (nền) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/External-DCR.htm) · [Vimeo](https://vimeo.com/123352440)
 > Nguồn transcript: `transcript.md` (Allen, 5:41, Vimeo 123352440). Bài nền DCR ngoài. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,8 +12,8 @@ Nối túi lệ vào mũi qua cửa sổ xương: mở xương đúng 4 biên, k
 
 ## 3. Chuẩn bị
 - Vô cảm: tê tại chỗ 4 điểm như bài 24 + tê niêm mạc mũi.
-- Dụng cụ: Stevens, Freer, rongeur tăng dần, Bowman, Beaver 66, Westcott, hook + stent Crawford, chromic 4-0 half-circle, Vicryl 5-0.
-- BN: bơm rửa xác định tắc sau túi, CT khi nghi u/chấn thương, consent chảy máu mũi/sẹo/sa stent.
+- Dụng cụ: Stevens, Freer, rongeur tăng dần, Bowman, Beaver 66, Westcott, hook + stent Crawford, chromic 4-0 cong nửa vòng (half-circle), Vicryl 5-0.
+- Bệnh nhân: bơm rửa xác định tắc sau túi, CT khi nghi u/chấn thương, đồng thuận (consent) chảy máu mũi/sẹo/sa stent.
 - Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt.
 
 ## 4. Quy trình

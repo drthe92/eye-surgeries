@@ -1,4 +1,4 @@
-# Lacrimal Gland Biopsy + Repositioning — Bài chuẩn Goal
+# Sinh thiết + đặt lại tuyến lệ — Lacrimal gland biopsy + repositioning (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/3/13-lacrimal-gland-reposition.htm) · [Vimeo](https://vimeo.com/138018149)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138018149). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Vừa chẩn đoán (sinh thiết loại trừ u-viêm) vừa chữa sa tuyến:
 
 ## 3. Chuẩn bị
 - Dụng cụ: dao 15, Westcott, monopolar, nylon 5-0 double-arm, Prolene 6-0, lọ bệnh phẩm.
-- BN: CT/MRI đánh giá tuyến trước (loại trừ u), consent khô mắt sau mổ.
+- Bệnh nhân: CT/MRI đánh giá tuyến trước (loại trừ u), đồng thuận (consent) khô mắt sau mổ.
 - Dặn quay lại ngay: sưng đau tăng (chảy máu/viêm), nhìn mờ.
 
 ## 4. Quy trình

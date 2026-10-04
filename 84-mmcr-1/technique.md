@@ -1,4 +1,4 @@
-# MMCR #1 — Bài chuẩn Goal
+# Cắt cơ Muller-kết mạc 1 — MMCR #1 (nền) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/muller-muscle-conj-resect-1.htm) · [Vimeo](https://vimeo.com/123344070)
 > Nguồn transcript: `transcript.md` (Allen, 1:57, Vimeo 123344070). Bài nền MMCR. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -7,14 +7,14 @@
 Nâng mi sụp nhẹ bằng đường sau: kẹp-cắt ngắn kết mạc-cơ Muller theo tỷ lệ (đánh dấu nửa, tổng gấp đôi) rồi khâu đệm dọc — không chạm da, không sẹo ngoài.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: sụp nhẹ đáp ứng phenylephrine, chức năng Muller còn, Bell tốt.
+- Chỉ định: sụp nhẹ đáp ứng phenylephrine, chức năng Muller còn, phản xạ Bell tốt.
 - Chống chỉ định tương đối: sụp nặng (cần levator/sling), khô mắt nặng (cắt kết mạc thêm), sẹo kết mạc.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê kết mạc tại chỗ + tetracaine (lidocaine + epi).
-- Dụng cụ/chỉ: silk kéo, Desmarres, monopolar marking, kẹp Putterman, chromic 6-0, kính tiếp xúc.
-- BN: test phenylephrine dự đoán lượng nâng, chụp ảnh, consent cộm-quá chỉnh.
-- Đánh giá nền: Bell (bắt buộc vì đường sau), Schirmer.
+- Vô cảm: tê kết mạc tại chỗ + tetracaine (lidocaine + epinephrine).
+- Dụng cụ/chỉ: silk kéo, Desmarres, monopolar đánh dấu (marking), kẹp Putterman, chromic 6-0, kính tiếp xúc.
+- Bệnh nhân: test phenylephrine dự đoán lượng nâng, chụp ảnh, đồng thuận (consent) cộm-quá chỉnh.
+- Đánh giá nền: phản xạ Bell (bắt buộc vì đường sau), test Schirmer.
 - Dặn quay lại ngay: đau-cộm tăng, nhìn mờ.
 
 ## 4. Quy trình
@@ -31,4 +31,4 @@ Nâng mi sụp nhẹ bằng đường sau: kẹp-cắt ngắn kết mạc-cơ Mu
 ## 6. Tự lượng giá
 1. Vì sao đánh dấu bằng nửa tổng lượng cắt?
 2. Vì sao nút trong bắt buộc kính tiếp xúc?
-3. Test nào dự đoán kết quả MMCR?
+3. Test nào dự đoán kết quả cắt cơ Muller-kết mạc (MMCR)?

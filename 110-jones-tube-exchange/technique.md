@@ -1,4 +1,4 @@
-# Jones Tube Exchange — Bài chuẩn Goal
+# Thay ống Jones — Jones tube exchange (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/7/6-Jones-tube-exchange.htm) · [Vimeo](https://vimeo.com/143429043)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143429043). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,7 +12,7 @@
 
 ## 3. Chuẩn bị
 - Dụng cụ: sonde Quickert-Dryden (bắt buộc, Bowman không thay được), ống cỡ mới, Vicryl 6-0.
-- BN: soi mũi xác định nguyên nhân (dài/ngắn/lệch), consent đổi cỡ.
+- Bệnh nhân: soi mũi xác định nguyên nhân (dài/ngắn/lệch), đồng thuận (consent) đổi cỡ.
 - Dặn quay lại ngay: chảy nước mắt lại, đỏ-sưng.
 
 ## 4. Quy trình

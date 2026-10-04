@@ -1,4 +1,4 @@
-# Rim Fragment Removal — Bài chuẩn Goal
+# Lấy mảnh bờ trên — Superior rim fragment removal (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/removal-of-superior-orbital-rim-bone-fragment.htm) · [Vimeo](https://vimeo.com/205004911)
 > Nguồn transcript: `transcript.md` (Allen, 02:39, Vimeo 205004911). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,8 +12,8 @@ Xử trí mảnh vỡ bờ xương di lệch gây biến dạng-lõm mắt: lấ
 - Dặn quay lại ngay: chảy dịch trong từ mũi/vết mổ (rò DNT), nhìn mờ.
 
 ## 3. Chuẩn bị
-- Dụng cụ: dao 15, needle-tip, Freer, hemostat, sáp xương, khoan mài, Prolene 6-0.
-- BN: CT đánh giá mảnh-trần ổ mắt, sờ nắn đối chiếu CT.
+- Dụng cụ: dao 15, kim (needle)-tip, Freer, hemostat, sáp xương, khoan mài, Prolene 6-0.
+- Bệnh nhân: CT đánh giá mảnh-trần ổ mắt, sờ nắn đối chiếu CT.
 - Dặn quay lại ngay: chảy dịch trong từ mũi/vết mổ (rò DNT), nhìn mờ.
 
 ## 4. Quy trình

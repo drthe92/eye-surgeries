@@ -1,4 +1,4 @@
-# Floor Repair (Headlight Cam) — Bài chuẩn Goal
+# Góc camera đèn đầu (sàn) — Floor repair, headlight cam (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/repair-orb-floor-headlight-cam.htm) · [Vimeo](https://vimeo.com/123881186)
 > Nguồn transcript: `transcript.md` (Allen, 3:26, Vimeo 123881186). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -18,7 +18,7 @@ Bài dạy 3 điểm mới: đo bên lành đối chứng, cắt môi trước v
 - **Bước 1 — Đo 2 bên:** Kéo dương bên vỡ + đo bên lành đối chứng. Nghiệm thu: biết mức kẹt. Cốt lõi: bên lành là thước. Lỗi: không đối chứng gây đánh giá sai mức.
 - **Bước 2 — Cắt môi trước:** Bộc lộ tới vỡ, mô bị môi trước móc giữ → rongeur cắt bớt môi trước rồi giải phóng. Nghiệm thu: hết kẹt. Cốt lõi: môi trước là thủ phạm. Lỗi: giật mô qua môi gây rách cơ-mỡ.
 - **Bước 3 — Tấm tựa gờ sau:** Đo bờ xương-bờ sau, Supramid tạo hình đặt dưới màng ĐUÔI TỰA GỜ SAU, vít titan, kiểm tra không kẹt + kéo tự do. Nghiệm thu: tấm có điểm tựa sau. Cốt lõi: gờ sau chịu lực. Lỗi: tấm hụt gờ sau gây sập-lõm lại.
-- **Bước 4 — Strip + đóng:** Như các ca (Mersilene Whitnall). Nghiệm thu: góc vững. Cốt lõi: như others.
+- **Bước 4 — dải (Strip) + đóng:** Như các ca (Mersilene Whitnall). Nghiệm thu: góc vững. Cốt lõi: như others.
 - **Dặn quay lại ngay:** nhìn mờ-đau tăng, tê má.
 
 ## 5. Hậu phẫu

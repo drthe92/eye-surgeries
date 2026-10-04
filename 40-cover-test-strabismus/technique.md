@@ -1,4 +1,4 @@
-# Basic Cover Test — Bài chuẩn Goal
+# Nghiệm pháp che mắt lác — Basic cover test in ocular misalignment (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/basic-cover-test.htm)
 > Nguồn transcript: `transcript.md` (Kirkpatrick-Klauer, 7:19, không có Vimeo dự phòng). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Chuẩn hóa đo lác để chỉ định mổ: che mắt tách hợp thị từ
 ## 3. Chuẩn bị
 - Vô cảm: không cần (khám).
 - Dụng cụ: bia điều tiết xa-gần, che mắt, bộ lăng kính ngang-dọc.
-- BN: ngồi, kính đúng số xa-gần, đầu về chính diện cưỡng bức nếu có tư thế bù.
+- Bệnh nhân: ngồi, kính đúng số xa-gần, đầu về chính diện cưỡng bức nếu có tư thế bù.
 - Đánh giá nền: thị lực, khúc xạ (lác điều tiết!), hợp thị.
 
 ## 4. Quy trình

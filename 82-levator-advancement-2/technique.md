@@ -1,10 +1,10 @@
-# Levator Advancement #2 — Bài chuẩn Goal
+# Tiến cân mi 2 (đường cong) — Levator advancement #2 (contour) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/6/5-levator-advancement.htm) · [Vimeo](https://vimeo.com/143425631)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143425631). Bài chỉnh đường cong (contour). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng advancement như số 81, bài này dạy chỉnh đường cong: đỉnh mi lệch vào trong thì chuyển một kim ra ngoài — cao độ chỉnh bằng cao-thấp, đường cong chỉnh bằng trong-ngoài.
+Cùng tiến (advancement) như số 81, bài này dạy chỉnh đường cong: đỉnh mi lệch vào trong thì chuyển một kim ra ngoài — cao độ chỉnh bằng cao-thấp, đường cong chỉnh bằng trong-ngoài.
 
 ## 2. Chỉ định / Chống chỉ định
 - Như số 81 (sụp còn chức năng nâng).

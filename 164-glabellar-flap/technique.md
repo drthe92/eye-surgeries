@@ -1,4 +1,4 @@
-# Glabellar Flap — Bài chuẩn Goal
+# Vạt glabella — Glabellar flap (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/Glabellar-Flap.htm) · [Vimeo](https://vimeo.com/123030385)
 > Nguồn transcript: `transcript.md` (Allen, 1:36, Vimeo 123030385). Học tập, đối chiếu guideline và đào tạo có giám sát.

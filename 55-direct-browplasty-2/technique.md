@@ -1,4 +1,4 @@
-# Direct Browplasty #2 — Bài chuẩn Goal
+# Tạo hình mày trực tiếp 2 — Direct browplasty #2 (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/2/Direct-browplasty.htm) · [Vimeo](https://vimeo.com/132970161/)
 > Nguồn transcript: `transcript.md` (Allen, 2:36, Vimeo 132970161). Bổ sung cho số 53. Học tập, đối chiếu guideline và đào tạo có giám sát.

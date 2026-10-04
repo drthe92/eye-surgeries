@@ -1,4 +1,4 @@
-# Floor Repair (Porous Titanium) — Bài chuẩn Goal
+# Tấm xốp-titan — Floor repair, porous polyethylene-titanium (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/orb-floor-repair-porous-implant.htm) · [Vimeo](https://vimeo.com/123881185)
 > Nguồn transcript: `transcript.md` (Allen, 2:30, Vimeo 123881185). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -17,7 +17,7 @@ Nâng cấp vật liệu trong mổ: Supramid không đủ đỡ thì chuyển t
 ## 4. Quy trình
 - **Bước 1-2 — Mở-giải phóng:** Như số 141 (canthotomy/cantholysis, bóc, giải phóng TẤT CẢ mép, kéo tự do). Nghiệm thu: như 141. Cốt lõi: tất cả mép. Lỗi: sót mép gây kẹt tồn lưu.
 - **Bước 3 — Nâng cấp tấm:** Đặt Supramid thử, thấy cần đỡ hơn thì chuyển xốp-titan dưới màng + vít titan. Nghiệm thu: tấm vững. Cốt lõi: quyết định theo thực tế. Lỗi: cố dùng tấm yếu gây sập-lõm lại.
-- **Bước 4 — Tái tạo góc:** Chân dưới-chân trên gân góc ngoài 4-0 + canthotomy 7-0 + kết mạc 7-0. Nghiệm thu: góc vững. Cốt lõi: đúng giải phẫu gân. Lỗi: khâu sai chân gây lệch góc.
+- **Bước 4 — Tái tạo góc:** Chân dưới-chân trên gân góc ngoài 4-0 + rạch góc (canthotomy) 7-0 + kết mạc 7-0. Nghiệm thu: góc vững. Cốt lõi: đúng giải phẫu gân. Lỗi: khâu sai chân gây lệch góc.
 - **Dặn quay lại ngay:** nhìn mờ-đau tăng, tê má.
 
 ## 5. Hậu phẫu

@@ -1,4 +1,4 @@
-# Orbital Floor Fracture Repair #1 — Bài chuẩn Goal
+# Vỡ sàn 1 (nền) — Orbital floor fracture #1 (nền) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/floor-fracture-1.htm) · [Vimeo](https://vimeo.com/201148164)
 > Nguồn transcript: `transcript.md` (Allen, 02:30, Vimeo 201148164). Bài nền vỡ sàn. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,8 +13,8 @@ Giải phóng mô kẹt + đặt tấm che vỡ sàn qua đường kết mạc: 
 
 ## 3. Chuẩn bị
 - Vô cảm: mê (kéo cưỡng bức + khoan).
-- Dụng cụ: kẹp răng, silk kéo, needle-tip, Freer, đầu hút đo, tấm Supramid, khoan + vít 1x4mm, Vicryl 7-0.
-- BN: CT đánh giá vỡ-kẹt, đo kéo cưỡng bức + vận nhãn trước mổ, consent song thị-tê má-mù (hiếm).
+- Dụng cụ: kẹp răng, silk kéo, kim (needle)-tip, Freer, đầu hút đo, tấm Supramid, khoan + vít 1x4mm, Vicryl 7-0.
+- Bệnh nhân: CT đánh giá vỡ-kẹt, đo kéo cưỡng bức + vận nhãn trước mổ, đồng thuận (consent) song thị-tê má-mù (hiếm).
 - Đánh giá nền: thị lực, đồng tử (thần kinh thị).
 - Dặn quay lại ngay: nhìn mờ-đau tăng (máu tụ-chèn ép), tê má lan.
 
@@ -33,4 +33,4 @@ Giải phóng mô kẹt + đặt tấm che vỡ sàn qua đường kết mạc: 
 ## 6. Tự lượng giá
 1. Vì sao kéo cưỡng bức 3 lần?
 2. Vì sao phải xác định bờ sau vỡ?
-3. Khi nào cần canthotomy và khi nào không?
+3. Khi nào cần rạch góc (canthotomy) và khi nào không?

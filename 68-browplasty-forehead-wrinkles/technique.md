@@ -1,19 +1,19 @@
-# Wrinkles Browplasty — Bài chuẩn Goal
+# Tạo hình nếp nhăn trán — Browplasty using forehead wrinkles (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/browplasty-using-prominent-forehead-wrinkles.htm) · [Vimeo](https://vimeo.com/198701116/)
 > Nguồn transcript: `transcript.md` (Allen, 03:35, Vimeo 198701116). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Biến thể mid-forehead cho nam nhăn sâu: rạch giấu trong nếp nhăn có sẵn với 2 độ sâu khác nhau trong-ngoài gân hợp nhất — sẹo lành tốt nhờ nằm trong nhăn nhưng cấm chỉ định thẩm mỹ.
+Biến thể mid-trán (forehead) cho nam nhăn sâu: rạch giấu trong nếp nhăn có sẵn với 2 độ sâu khác nhau trong-ngoài gân hợp nhất — sẹo lành tốt nhờ nằm trong nhăn nhưng cấm chỉ định thẩm mỹ.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: nam nhăn trán rõ + sụp thái dương, chấp nhận sẹo chức năng.
 - Chống chỉ định tuyệt đối tương đối: mọi kỳ vọng thẩm mỹ (Allen cấm); trán nhẵn ít nhăn.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ trán + mi (lidocaine + epi).
+- Vô cảm: tê tại chỗ trán + mi (lidocaine + epinephrine).
 - Dụng cụ/chỉ: dao 15, kim Colorado, unipolar, Vicryl 4-0, Prolene 5-0/6-0, vitamin E.
-- BN: chọn nếp sâu nhất khi nhăn trán, chụp ảnh, consent sẹo + chống nắng 6 tháng + massage.
+- Bệnh nhân: chọn nếp sâu nhất khi nhăn trán, chụp ảnh, đồng thuận (consent) sẹo + chống nắng 6 tháng + massage.
 - Đánh giá nền: độ sâu nếp nhăn, cảm giác trán nền.
 
 ## 4. Quy trình

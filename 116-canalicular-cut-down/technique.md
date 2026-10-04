@@ -1,4 +1,4 @@
-# Canalicular Cut-Down — Bài chuẩn Goal
+# Mở tìm lệ quản — Canalicular cut-down (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/3/2-canalicular-cut-down.htm) · [Vimeo](https://vimeo.com/138015170)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 138015170). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Cứu vãn khi nong xuôi và ngược đều thất bại: rạch trực tiếp
 
 ## 3. Chuẩn bị
 - Dụng cụ: nong, sonde đuôi lợn, Westcott, Bowman, stent + hook Crawford, Vicryl 7-0.
-- BN: thử đủ các đường ít xâm lấn trước, consent sẹo bờ mi.
+- Bệnh nhân: thử đủ các đường ít xâm lấn trước, đồng thuận (consent) sẹo bờ mi.
 - Dặn quay lại ngay: chảy nước mắt lại (tắc lại), đỏ-sưng.
 
 ## 4. Quy trình

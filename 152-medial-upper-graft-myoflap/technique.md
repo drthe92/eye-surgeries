@@ -1,4 +1,4 @@
-# 50% Medial Upper Lid (Graft + Flap) — Bài chuẩn Goal
+# Khuyết nửa trong mi trên (ghép + vạt) — 50% medial upper lid (graft + myocutaneous) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/upper-lid-free-tarsal-graft-w-myoQ-flap.htm) · [Vimeo](https://vimeo.com/207240482)
 > Nguồn transcript: `transcript.md` (Allen, 06:16, Vimeo 207240482). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,8 +11,8 @@ Khuyết trong toàn bộ chiều dày: lá sau ghép sụn mi đối bên neo m
 - Dặn quay lại ngay: chảy nước mắt lại, đỏ-sưng.
 
 ## 3. Chuẩn bị
-- Dụng cụ: đuôi lợn, nylon 6-0 đánh dấu, stent + hook, dao 15, Westcott, needle-tip, Vicryl 5-0, Prolene 6-0.
-- BN: bờ u sạch, mắt cho ghép tốt, consent 2 mắt + chảy nước mắt.
+- Dụng cụ: đuôi lợn, nylon 6-0 đánh dấu, stent + hook, dao 15, Westcott, kim (needle)-tip, Vicryl 5-0, Prolene 6-0.
+- Bệnh nhân: bờ u sạch, mắt cho ghép tốt, đồng thuận (consent) 2 mắt + chảy nước mắt.
 - Dặn quay lại ngay: chảy nước mắt lại, đỏ-sưng.
 
 ## 4. Quy trình

@@ -1,4 +1,4 @@
-# Pediatric Septum Demo — Bài chuẩn Goal
+# Vách ổ mắt trẻ em (mốc) — Pediatric septum demo (mốc giải phẫu) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/pediatric-orbital-septum.htm) · [Vimeo](https://vimeo.com/202273875)
 > Nguồn transcript: `transcript.md` (Allen, 01:36, Vimeo 202273875). Video minh họa giải phẫu. Học tập, đối chiếu guideline và đào tạo có giám sát.

@@ -1,4 +1,4 @@
-# Double Stent Intubation — Bài chuẩn Goal
+# Nong đôi stent — Double stent intubation (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/6/2-double-stent.htm) · [Vimeo](https://vimeo.com/143425630/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143425630). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@ Tắc lệ quản tái phát nguy cơ hỏng cao: mở tìm chỗ tắc + nong �
 
 ## 3. Chuẩn bị
 - Dụng cụ: nong, Bowman, hemostat đánh dấu, Westcott, 2 stent + hook, Vicryl 7-0.
-- BN: bơm rửa loại trừ tắc lệ-mũi, consent rút 2 lần.
+- Bệnh nhân: bơm rửa loại trừ tắc lệ-mũi, đồng thuận (consent) rút 2 lần.
 - Dặn quay lại ngay: sưng đỏ, sốt, chảy nước mắt lại.
 
 ## 4. Quy trình

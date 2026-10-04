@@ -1,4 +1,4 @@
-# Probing + Fluorescein Irrigation — Bài chuẩn Goal
+# Thông + fluorescein — Probing + fluorescein irrigation (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/probe-and-stent-w-irrigation.htm) · [Vimeo](https://vimeo.com/123351433)
 > Nguồn transcript: `transcript.md` (Allen, 2:05, Vimeo 123351433). Học tập, đối chiếu guideline và đào tạo có giám sát.

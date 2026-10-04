@@ -1,4 +1,4 @@
-# Temporal Scalp Browplasty — Bài chuẩn Goal
+# Tạo hình mày thái dương — Temporal scalp browplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/6/11-small-temporal-scalp-incision-browplasty.htm) · [Vimeo](https://vimeo.com/143472039)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143472039). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,10 +11,10 @@ Nâng mày thái dương bằng giải phóng (không cắt da trán): cắt cơ
 - Chống chỉ định tương đối: sụp nặng-cả mày (small incision/pretrichial), sụp đầu trong đơn độc.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ mi + thái dương-da đầu (lidocaine + epi).
+- Vô cảm: tê tại chỗ mi + thái dương-da đầu (lidocaine + epinephrine).
 - Dụng cụ/chỉ: monopolar, Freer, Metzenbaum, dao 15, Vicryl 3-0, staples, Prolene, băng đầu.
-- BN: đánh dấu sụp thái dương 2 bên, chụp ảnh, consent nâng vừa + gồ da đầu tạm thời.
-- Đánh giá nền: Bell, cảm giác trán, rụng tóc nền.
+- Bệnh nhân: đánh dấu sụp thái dương 2 bên, chụp ảnh, đồng thuận (consent) nâng vừa + gồ da đầu tạm thời.
+- Đánh giá nền: phản xạ Bell, cảm giác trán, rụng tóc nền.
 
 ## 4. Quy trình
 - **Bước 1 — Mi + cơ vòng ngoài:** Rạch mi, cắt vạt da-cơ vòng KÈM cơ vòng thái dương (kéo mày xuống), mỡ medial bảo tồn. Nghiệm thu: gọn. Cốt lõi: mọi ca sụp mày đều xử trí cơ vòng ngoài. Lỗi: sót cơ vòng ngoài gây nâng không đủ.

@@ -1,4 +1,4 @@
-# Small Incision Browplasty in Male — Bài chuẩn Goal
+# Đường nhỏ nam giới — Small incision browplasty in male (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/small-incision-browplasty-in-male.htm) · [Vimeo](https://vimeo.com/202268758)
 > Nguồn transcript: `transcript.md` (Allen, 05:22, Vimeo 202268758). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,7 +11,7 @@ Small incision số 23 áp cho nam với 3 khác biệt: màng xương dính hơ
 - Chống chỉ định tương đối: chân tóc cao (nâng đẩy chân tóc lên thêm), sụp nặng cần direct.
 
 ## 3. Chuẩn bị
-- Như số 23 + đánh giá chân tóc (thước đo cao trán), consent nâng bảo tồn + chân tóc có thể lên nhẹ.
+- Như số 23 + đánh giá chân tóc (thước đo cao trán), đồng thuận (consent) nâng bảo tồn + chân tóc có thể lên nhẹ.
 - Dụng cụ thêm elevator cán vàng, khoan + Endotine.
 
 ## 4. Quy trình + điểm khác nữ

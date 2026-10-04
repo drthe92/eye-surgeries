@@ -1,4 +1,4 @@
-# Mid-Forehead Browplasty — Bài chuẩn Goal
+# Tạo hình mày giữa trán — Mid-forehead browplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/1/mid-forehead-browplasty.htm) · [Vimeo](https://vimeo.com/123883694)
 > Nguồn transcript: `transcript.md` (Allen, 3:28, Vimeo 123883694). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -11,10 +11,10 @@ Nâng mày bằng 2 đường rạch rời giữa trán giấu trong nếp nhăn
 - Chống chỉ định tương đối: trán nhẵn ít nhăn (sẹo lộ), kỳ vọng thẩm mỹ cao (chuyển small incision/endotine).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ trán + mi (lidocaine + epi).
-- Dụng cụ/chỉ: dao 15, monopolar, bipolar, kéo, Vicryl 4-0, Prolene 5-0.
-- BN: vẽ 2 đường rời theo nếp nhăn khi ngồi, chụp ảnh, consent sẹo trán.
-- Đánh giá nền: độ sâu nếp nhăn, cảm giác trán nền, Bell.
+- Vô cảm: tê tại chỗ trán + mi (lidocaine + epinephrine).
+- Dụng cụ/chỉ: dao 15, monopolar, lưỡng cực (bipolar), kéo, Vicryl 4-0, Prolene 5-0.
+- Bệnh nhân: vẽ 2 đường rời theo nếp nhăn khi ngồi, chụp ảnh, đồng thuận (consent) sẹo trán.
+- Đánh giá nền: độ sâu nếp nhăn, cảm giác trán nền, phản xạ Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Mi:** Blepharo như thường quy. Nghiệm thu: gọn. Cốt lõi: làm mi trước. Lỗi: như blepharo.

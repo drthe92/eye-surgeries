@@ -1,4 +1,4 @@
-# Medial Tarsorrhaphy — Bài chuẩn Goal
+# Dính trong — Medial tarsorrhaphy (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://webeye.ophth.uiowa.edu/eyeforum/video/plastics/2/Medial-tarsorrhaphy.htm) · [Vimeo](https://vimeo.com/132967647/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132967647). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,7 +13,7 @@
 
 ## 3. Chuẩn bị
 - Dụng cụ: thermal/dao, Westcott, Vicryl 6-0/7-0.
-- BN: đánh dấu V trong với điểm lệ, consent màng góc trong.
+- Bệnh nhân: đánh dấu V trong với điểm lệ, đồng thuận (consent) màng góc trong.
 - Dặn quay lại ngay: chảy nước mắt nhiều (tắc lệ quản), đỏ-sưng.
 
 ## 4. Quy trình

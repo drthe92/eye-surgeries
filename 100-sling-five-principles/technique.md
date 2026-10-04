@@ -1,4 +1,4 @@
-# 5 Principles of Frontalis Suspension — Bài chuẩn Goal
+# Năm nguyên tắc treo trán — Five principles of frontalis suspension (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/details-frontalis-sling.htm) · [Vimeo](https://vimeo.com/207239135)
 > Nguồn transcript: `transcript.md` (Allen, 02:20, Vimeo 207239135). Bài nguyên tắc chốt nhóm sling. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -10,7 +10,7 @@ Năm nguyên tắc tạo nếp đẹp trong mọi treo trán: cố định sụn
 1. Cố định sụn (Mersilene cách bờ trên 2mm, ~3 mũi).
 2. Cắt da bảo tồn (chừa mô chống hở).
 3. KHÔNG cắt mỡ trước cân (giữ đầy + trượt).
-4. Đặt sling sau vách (giấu + đúng mặt).
+4. Đặt treo (sling) sau vách (giấu + đúng mặt).
 5. Đưa đầu cắt cân vào đường đóng (tạo nếp).
 
 ## 3. Quy trình minh họa
@@ -20,4 +20,4 @@ Năm nguyên tắc tạo nếp đẹp trong mọi treo trán: cố định sụn
 ## 4. Tự lượng giá
 1. Kể 5 nguyên tắc và hậu quả khi vi phạm từng cái?
 2. Vì sao không cắt mỡ trước cân?
-3. Kiểm tra ca sling cũ bằng 5 nguyên tắc này thiếu gì?
+3. Kiểm tra ca treo cũ bằng 5 nguyên tắc này thiếu gì?

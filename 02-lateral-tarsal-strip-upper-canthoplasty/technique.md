@@ -1,4 +1,4 @@
-# Dải sụn mi dưới kèm tạo hình góc trên — Lateral Tarsal Strip with Upper Canthoplasty (Bài chuẩn Goal)
+# Dải sụn mi dưới kèm tạo hình góc trên — Lateral Tarsal dải (Strip) with Upper Canthoplasty (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/1/lateral-tarsal-strip-w-uppercanthoplasty.htm) · [Vimeo](https://vimeo.com/123354780)
 > Nguồn transcript: `transcript.md` (Allen, 3:14, Vimeo 123354780). Học tập, đối chiếu guideline và đào tạo có giám sát.

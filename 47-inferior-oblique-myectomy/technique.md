@@ -1,4 +1,4 @@
-# Inferior Oblique Myectomy — Bài chuẩn Goal
+# Cắt cơ chéo dưới — Inferior oblique myectomy (Stiff/Kemp 2021) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/atlas-video/Inferior-Oblique-Myectomy.htm) · [Vimeo](https://vimeo.com/579912133)
 > Trang gốc không có transcript (Vimeo 579912133). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -10,10 +10,10 @@ Làm yếu cơ chéo dưới bằng cách cắt bỏ một đoạn cơ (myectomy
 - Chỉ định: IO overaction nặng cần yếu nhiều, mổ phối hợp nhiều cơ muốn gọn.
 - Chống chỉ định tương đối: cần định lượng chính xác (chọn recession số 46), nguy cơ phải mổ lại cao, liệt SO kèm theo chưa rõ.
 
-## 3. So sánh recession (46) vs myectomy (47)
-- Recession: lùi điểm bám, graded theo mm, giữ cơ để chỉnh và mổ lại dễ; kỹ thuật lâu hơn, cần khâu củng mạc.
+## 3. So sánh lùi cơ (recession) (46) vs myectomy (47)
+- lùi cơ: lùi điểm bám, graded theo mm, giữ cơ để chỉnh và mổ lại dễ; kỹ thuật lâu hơn, cần khâu củng mạc.
 - Myectomy: cắt đoạn, triệt để, nhanh, không khâu củng mạc; không chỉnh liều, mổ lại khó tìm đầu cơ.
-- Chọn: cần liều chính xác hoặc nghi mổ lại → recession; overaction nặng, muốn gọn → myectomy.
+- Chọn: cần liều chính xác hoặc nghi mổ lại → lùi cơ; overaction nặng, muốn gọn → myectomy.
 
 ## 3. Chuẩn bị
 - Như số 46.
@@ -32,4 +32,4 @@ Làm yếu cơ chéo dưới bằng cách cắt bỏ một đoạn cơ (myectomy
 ## 6. Tự lượng giá
 1. Vì sao myectomy không chỉnh liều được?
 2. Vì sao cắt quá ngắn gây tái phát?
-3. Chọn recession hay myectomy cho IO +2 kèm DVD?
+3. Chọn lùi cơ hay myectomy cho IO +2 kèm DVD?

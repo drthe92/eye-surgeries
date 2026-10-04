@@ -1,4 +1,4 @@
-# Superior Oblique Tenotomy — Bài chuẩn Goal
+# Cắt gân cơ chéo trên — Superior oblique tenotomy (classic) (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/PediatricOphth-Strabismus-vids/superior-oblique-tenotomy.htm)
 > Trang gốc không có transcript. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -12,8 +12,8 @@ Làm yếu cơ chéo trên bằng cách cắt gân (tenotomy): triệt để, kh
 
 ## 3. Chuẩn bị
 - Vô cảm: mê (trẻ em) hoặc tê cạnh nhãn.
-- Dụng cụ: móc gân chéo trên, kéo, cautery.
-- BN: đo dọc + xoắn 9 hướng, Parks-Bielschowsky xác định đúng bên, consent song thị dọc/xoắn tồn lưu.
+- Dụng cụ: móc gân chéo trên, kéo, dao đốt (cautery).
+- Bệnh nhân: đo dọc + xoắn 9 hướng, Parks-Bielschowsky xác định đúng bên, đồng thuận (consent) song thị dọc/xoắn tồn lưu.
 - Đánh giá nền: liệt SO bên nào, DVD, V/A-pattern.
 
 ## 4. Quy trình (nguyên lý chuẩn, đối chiếu video)

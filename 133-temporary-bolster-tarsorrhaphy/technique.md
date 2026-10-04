@@ -1,4 +1,4 @@
-# Temporary Bolster Tarsorrhaphy — Bài chuẩn Goal
+# Dính tạm qua đệm — Temporary bolster tarsorrhaphy (Bài chuẩn Goal)
 
 > Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/2/Temporary-bolster-tarsorrhaphy.htm) · [Vimeo](https://vimeo.com/132967652/)
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 132967652). Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -13,11 +13,11 @@ Khép mi tạm không cắt mô bằng vòng chỉ quanh đệm ống: đệm ph
 
 ## 3. Chuẩn bị
 - Dụng cụ: ống Red Robin làm đệm, Prolene 5-0.
-- BN: đo hở mi, consent tạm thời.
+- Bệnh nhân: đo hở mi, đồng thuận (consent) tạm thời.
 - Dặn quay lại ngay: cứa rách bờ mi, đỏ-sưng.
 
 ## 4. Quy trình
-- **Bước 1 — Luồn vòng trong:** Chỉ sẵn trong đệm → mi trên ra lỗ Meibomian → lỗ Meibomian dưới xuyên mi dưới → móc đệm → vòng ngược đệm-mi dưới-mi trên-đệm → buộc khép phần trong. Nghiệm thu: khép kín. Cốt lõi: vòng kép quanh đệm. Lỗi: vòng đơn gây cứa rách bờ mi.
+- **Bước 1 — Luồn vòng trong:** Chỉ sẵn trong đệm → mi trên ra lỗ tuyến Meibomius (Meibomian) → lỗ tuyến Meibomius dưới xuyên mi dưới → móc đệm → vòng ngược đệm-mi dưới-mi trên-đệm → buộc khép phần trong. Nghiệm thu: khép kín. Cốt lõi: vòng kép quanh đệm. Lỗi: vòng đơn gây cứa rách bờ mi.
 - **Bước 2 — Vòng ngoài + buộc:** Tương tự bên ngoài; buộc hoàn tất. Nghiệm thu: khép đều 2 bên. Cốt lõi: đối xứng. Lỗi: lệch gây hở điểm.
 - **Dặn quay lại ngay:** cứa rách bờ mi, đỏ-sưng.
 
