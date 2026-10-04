@@ -33,3 +33,7 @@ Vạt xoay má đơn thuần cho khuyết má chưa tới mi: thiết kế cung 
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [208 — Vạt Mustarde](../208-mustarde-flap/technique.md): tới mi thì phải Mustarde + neo.
+- [16 — Vạt O-to-Z má](../16-o-to-z-flap/technique.md): khuyết tròn thì O-to-Z.

@@ -33,3 +33,7 @@ Khuyết lá trước rộng cần nhiều hơn một vạt: phối hợp hai v�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [20 — Vạt da-cơ ngoài đơn](../20-myocutaneous-flap-lateral-defect/technique.md): một vạt đủ thì đừng phối hợp.
+- [214 — Khuyết mi-má ghép da](../214-ll-cheek-ftsg/technique.md): thiếu da rộng thì ghép thay vì vạt.

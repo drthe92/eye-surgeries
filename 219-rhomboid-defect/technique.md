@@ -33,3 +33,7 @@ Khuyết hình thoi vùng mi-má: vạt hình thoi xoay vào, sẹo hình học 
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [16 — Vạt O-to-Z má](../16-o-to-z-flap/technique.md): khuyết tròn thì O-to-Z.
+- [210 — Vạt xoay má](../210-rotational-cheek-defect/technique.md): khuyết lớn không đều thì xoay.

@@ -33,3 +33,7 @@ Vạt xoay nhỏ từ thái dương-mi ngoài phủ khuyết ngoài mi: nhanh, s
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [211 — Khuyết nhỏ ngoài](../211-small-lateral-defect/technique.md): nhỏ hơn thì khép trực tiếp.
+- [218 — Vạt da-cơ tiến](../218-myocutaneous-advancement/technique.md): tiến thẳng thay vì xoay.

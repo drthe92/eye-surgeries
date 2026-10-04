@@ -33,3 +33,8 @@ Khuyết 40% giữa mi dưới: wedge sau giữ da-cơ ngoài, khâu sụn trự
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [194 — Wedge toàn lớp](../194-wedge-resection-repair/technique.md): nhỏ hơn thì wedge đơn.
+- [198 — Khuyết nửa mi dưới](../198-half-lower-lid-repair/technique.md): lớn hơn thì huy động/vạt.
+- [201 — Vạt Hughes](../201-hughes-flap/technique.md): quá 40% thì Hughes.

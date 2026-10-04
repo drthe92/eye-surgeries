@@ -18,7 +18,7 @@ Một thì cho khuyết ngoài toàn bộ chiều dày: dải màng xương thay
 
 ## 4. Quy trình
 - **Bước 1 — Huy động:** Silk kéo, rạch dưới mi điểm lệ-tới-khuyết, bóc cơ vòng-vách + tiền màng xương. Nghiệm thu: vạt rộng đủ phủ. Cốt lõi: vạt rộng vì da co ngắn. Lỗi: vạt hẹp gây căng phủ dải.
-- **Bước 2 — Lá sau:** dải ngoài lật vào, Vicryl 5-0 taper đệm dải-trước-sụn, buộc đủ căng. Nghiệm thu: mi căng ngang tốt. Cốt lõi: kim taper + dải trước. Lỗi: kim cắt gây rách dải.
+- **Bước 2 — Lá sau:** Dải ngoài lật vào, Vicryl 5-0 taper đệm dải-trước-sụn, buộc đủ căng. Nghiệm thu: mi căng ngang tốt. Cốt lõi: kim taper + dải trước. Lỗi: kim cắt gây rách dải.
 - **Bước 3 — Nâng má:** Vicryl 4-0 má-màng xương bờ dưới (giữa + ngoài tới ngang strip) + mũi sâu cơ vòng ngoài. Nghiệm thu: má nâng, mi hết kéo xuống. Cốt lõi: mũi ngoài ngang dải quyết định. Lỗi: thiếu nâng má gây trễ dần.
 - **Bước 4 — Đóng:** Góc rời + dưới mi chạy dài tiêu nhanh 5-0. Nghiệm thu: căng đều. Cốt lõi: đúng lớp. Lỗi: đóng căng gây lộn mép.
 - **Dặn quay lại ngay:** mép vạt tím/đen, đau tăng, nhiễm trùng.
@@ -33,3 +33,7 @@ Một thì cho khuyết ngoài toàn bộ chiều dày: dải màng xương thay
 1. Vì sao da actinic buộc vạt phải rộng?
 2. Vì sao mũi nâng má ngoài phải ngang mức dải?
 3. Phân biệt C18 vs C17?
+
+## 7. Bài liên quan
+- [17 — Ghép sụn + dải màng xương](../17-lateral-defect-free-tarsal-graft/technique.md): mất hẳn sụn thì 17; còn sụn một phần thì 18 là đủ.
+- [21 — Nâng má tiền màng xương](../21-preperiosteal-cheek-lift/technique.md): phần nâng má của 18 xem chi tiết nhóm D.

@@ -18,7 +18,7 @@ Vạt da-cơ tại chỗ kiểu Mustarde phủ khuyết lá trước ngoài + d�
 
 ## 4. Quy trình
 - **Bước 1 — Dựng vạt an toàn VII:** Dao 15 rạch ngoài-lên cong, Westcott bóc ngay dưới mỡ dưới da (không sâu hơn), bóc thêm bằng dao đốt cùng mặt tới đủ. Nghiệm thu: vạt tới khuyết không trắng đầu. Cốt lõi: đúng mặt dưới mỡ. Lỗi: bóc sâu gây liệt nhánh VII.
-- **Bước 2 — dải ngoài:** Chuẩn (tách lá, cắt junction, cạo mặt sau, Mersilene neo Whitnall, buộc, tái gắn 5-0 tiêu nhanh). Nghiệm thu: mi chặt. Cốt lõi: dải trước khi phủ vạt. Lỗi: phủ vạt trước gây khó neo dải.
+- **Bước 2 — Dải ngoài:** Chuẩn (tách lá, cắt junction, cạo mặt sau, Mersilene neo Whitnall, buộc, tái gắn 5-0 tiêu nhanh). Nghiệm thu: mi chặt. Cốt lõi: dải trước khi phủ vạt. Lỗi: phủ vạt trước gây khó neo dải.
 - **Bước 3 — Phủ + đóng:** Ướm lại, khâu sâu 5-0 + mũi ngoài chuyển vạt, cắt đỉnh, da Prolene 6-0 rời, tiêu nhanh 5-0 góc, cắt dog-ear. Nghiệm thu: vạt phẳng không căng, không chóp đứng. Cốt lõi: cắt đỉnh + dog-ear. Lỗi: bỏ dog-ear gây cộm sẹo.
 - **Dặn quay lại ngay:** méo mặt tăng, vạt tím/đen, nhiễm trùng.
 
@@ -32,3 +32,8 @@ Vạt da-cơ tại chỗ kiểu Mustarde phủ khuyết lá trước ngoài + d�
 1. Vì sao mặt bóc phải ngay dưới mỡ dưới da?
 2. Vì sao làm dải trước khi phủ vạt?
 3. Vì sao phải cắt đỉnh vạt và dog-ear?
+
+## 7. Bài liên quan
+- [14 — Vạt bán nguyệt lá trước ngoài](../14-inferior-lateral-anterior-lamellar-repair/technique.md): cùng khuyết lá trước ngoài, khác kiểu vạt.
+- [212 — Phối hợp vạt da-cơ](../212-combo-myocutaneous-flaps/technique.md): khuyết rộng một vạt không đủ thì phối hợp hai vạt.
+- [218 — Vạt da-cơ tiến](../218-myocutaneous-advancement/technique.md): vạt tiến thẳng thay vì xoay như 20.

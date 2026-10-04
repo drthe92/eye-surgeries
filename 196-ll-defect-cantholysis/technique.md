@@ -33,3 +33,7 @@ Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy �
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [194 — Wedge toàn lớp](../194-wedge-resection-repair/technique.md): khuyết nhỏ hơn thì wedge là đủ.
+- [198 — Khuyết nửa mi dưới](../198-half-lower-lid-repair/technique.md): khép căng thì nâng lên.

@@ -33,3 +33,7 @@ Khuyết góc ngoài nông chỉ thiếu da: ghép da + neo mi, không cần v�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [217 — Ghép da khuyết ngoài](../217-ftsg-lateral-defect/technique.md): cùng họ ghép da.
+- [220 — Sửa khuyết góc](../220-lateral-canthal-defect/technique.md): khuyết sâu mất khung thì dựng góc.

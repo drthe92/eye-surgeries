@@ -33,3 +33,7 @@ Hai khuyết rời nhau: hai mảnh ghép riêng thay vì một mảnh bắc c�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [213 — Kỹ thuật ghép da](../213-ftsg-technique/technique.md): bài nền.
+- [214 — Một mảnh trùm hai vùng](../214-ll-cheek-ftsg/technique.md): liền nhau thì gộp một mảnh.

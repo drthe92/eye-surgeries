@@ -33,3 +33,7 @@ Khuyết nửa mi dưới: huy động tối đa rồi khép trực tiếp có n
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [13 — Vạt Tenzel](../13-tenzel-flap/technique.md): ướm căng thì chuyển Tenzel.
+- [196 — Giải phóng góc](../196-ll-defect-cantholysis/technique.md): bản khuyết nhỏ hơn.

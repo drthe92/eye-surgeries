@@ -33,3 +33,7 @@ Khuyết lan cả mi trên lẫn góc ngoài: phối hợp vạt mi trên + tái
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [220 — Sửa khuyết góc ngoài](../220-lateral-canthal-defect/technique.md): dựng góc trước.
+- [159 — Mi trên + góc ngoài (nhóm R)](../159-upper-lid-canthal-flap-graft/technique.md): lan rộng lên trên.

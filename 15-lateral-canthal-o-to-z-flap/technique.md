@@ -19,7 +19,7 @@ Khuyết góc mắt ngoài được đóng bằng 2 vạt O-to-Z + gia cố mi d
 ## 4. Quy trình
 - **Bước 1 — Rạch trong + undermining:** Subciliary từ bờ trong khuyết vào trong, bóc rộng giữa cơ vòng mi và vách ổ mắt. Nghiệm thu: vạt trong di động không căng. Cốt lõi: đúng mặt cơ vòng-vách. Lỗi: bóc vào vách/mỡ gây chảy máu/phù.
 - **Bước 2 — Hoàn thiện Z + bóc ngoài:** Rạch từ bờ ngoài khuyết lên trên, bóc mặt mỡ dưới da phía ngoài. Nghiệm thu: 2 vạt gặp nhau kín khi ướm. Cốt lõi: hướng rạch giấu sẹo. Lỗi: rạch sai hướng gây sẹo lộ/kéo mi.
-- **Bước 3 — dải + neo Whitnall:** rạch góc (Canthotomy) + cắt gân góc (cantholysis) dưới, tạo dải, neo Mersilene 4-0 tại Whitnall (ưu tiên strip thay vì chỉ canthopexy). Nghiệm thu: mi chặt, cao độ đạt. Cốt lõi: dải thay vì treo mô mềm đơn thuần. Lỗi: chỉ treo góc (canthopexy) khi độ lỏng lớn gây tái trễ.
+- **Bước 3 — Dải + neo Whitnall:** rạch góc (canthotomy) + cắt gân góc (cantholysis) dưới, tạo dải, neo Mersilene 4-0 tại Whitnall (ưu tiên strip thay vì chỉ canthopexy). Nghiệm thu: mi chặt, cao độ đạt. Cốt lõi: dải thay vì treo mô mềm đơn thuần. Lỗi: chỉ treo góc (canthopexy) khi độ lỏng lớn gây tái trễ.
 - **Bước 4 — Mũi nâng má:** Vicryl 4-0 sâu qua vạt dưới vào màng xương bờ ngoài để nâng má, giảm căng lên mi dưới. Nghiệm thu: má nâng, lực kéo khỏi mi dưới khi ướm. Cốt lõi: đây là mũi chống lật mi (ectropion) thứ phát. Lỗi: bỏ mũi này gây má kéo trễ mi dần.
 - **Bước 5 — Đóng lớp:** Sâu Vicryl 5-0 + nông tiêu nhanh 5-0. Nghiệm thu: vạt phẳng, góc sắc, không căng. Cốt lõi: lớp sâu chịu lực. Lỗi: dồn lực lên da gây hoại tử mép.
 - **Dặn quay lại ngay:** góc bung/lệch tăng, hở mi tăng, vạt tím/đen, nhiễm trùng.
@@ -34,3 +34,8 @@ Khuyết góc mắt ngoài được đóng bằng 2 vạt O-to-Z + gia cố mi d
 1. Vì sao cần mũi Vicryl 4-0 nâng má ngoài dải?
 2. dải neo sai cao độ gây hậu quả gì?
 3. Khi nào chỉ cần treo góc thay vì dải?
+
+## 7. Bài liên quan
+- [16 — Vạt O-to-Z má](../16-o-to-z-flap/technique.md): cùng nguyên lý O thành Z, 16 ở má không cần dải, 15 ở góc phải thêm dải.
+- [221 — Góc ngoài O-to-Z](../221-lateral-canthal-o-z/technique.md): bản ngắn gọn cùng kỹ thuật.
+- [220 — Sửa khuyết góc ngoài](../220-lateral-canthal-defect/technique.md): khuyết góc không tròn thì dựng góc trực tiếp thay vì O-to-Z.

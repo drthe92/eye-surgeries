@@ -33,3 +33,7 @@ Khuyết liền mi-má sau cắt u: một mảnh ghép da lớn phủ cả hai v
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [213 — Kỹ thuật ghép da](../213-ftsg-technique/technique.md): bài nền.
+- [215 — Hai mảnh ghép rời](../215-two-ftsg/technique.md): hai khuyết độc lập thì tách mảnh.

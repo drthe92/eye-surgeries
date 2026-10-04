@@ -33,3 +33,7 @@ Khuyết tròn góc ngoài: hai vạt xoay đối nhau (O thành Z) phủ kín. 
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [15 — O-to-Z góc ngoài đầy đủ](../15-lateral-canthal-o-to-z-flap/technique.md): bản có dải và nâng má.
+- [220 — Sửa khuyết góc trực tiếp](../220-lateral-canthal-defect/technique.md): khuyết không tròn.

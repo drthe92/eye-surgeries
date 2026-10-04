@@ -33,3 +33,7 @@ Khuyết ngoài chỉ thiếu da (còn sụn): ghép da đơn thuần không c�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [213 — Kỹ thuật ghép da](../213-ftsg-technique/technique.md): bài nền.
+- [20 — Vạt da-cơ ngoài](../20-myocutaneous-flap-lateral-defect/technique.md): mất cả khung thì phải vạt.

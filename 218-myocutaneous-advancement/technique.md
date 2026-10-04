@@ -33,3 +33,7 @@ Vạt da-cơ trượt tiến phủ khuyết ngoài mi: đường tiến thẳng,
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [20 — Vạt da-cơ ngoài](../20-myocutaneous-flap-lateral-defect/technique.md): cùng họ vạt da-cơ.
+- [216 — Vạt xoay ngoài](../216-lateral-rotational-flap/technique.md): xoay thay vì tiến.

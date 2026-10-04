@@ -33,3 +33,8 @@ Mất toàn bộ mi dưới tới góc: Hughes dựng giữa + ghép sụn nối
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [201 — Vạt Hughes](../201-hughes-flap/technique.md): trụ giữa.
+- [200 — Ghép sụn rời](../200-free-tarsal-central/technique.md): nối hai đầu.
+- [17 — Khuyết ngoài (ghép + dải)](../17-lateral-defect-free-tarsal-graft/technique.md): đoạn ngoài.

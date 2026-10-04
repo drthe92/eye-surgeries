@@ -33,3 +33,7 @@ Khuyết nửa phía trong: vạt trượt từ má-mũi + ghép sụn + stent l
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [205 — Khuyết trong nhỏ](../205-medial-lower-defect/technique.md): nhỏ hơn thì huy động tại chỗ.
+- [207 — Vạt phức hợp](../207-composite-flap-medial/technique.md): một vạt mang cả hai lá.

@@ -33,3 +33,7 @@ Sau 2-3 tuần: cắt cuống vạt Hughes, tạo bờ mi mới, khâu kết m�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [201 — Vạt Hughes thì một](../201-hughes-flap/technique.md): xem lại chỉ định và thiết kế.
+- [156 — Wedge + ghép da (nhóm R)](../156-wedge-plus-ftsg/technique.md): tạo bờ mi ở vùng khác.

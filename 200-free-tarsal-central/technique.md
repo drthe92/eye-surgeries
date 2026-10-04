@@ -33,3 +33,7 @@ Lấy sụn mi trên làm mảnh ghép rời dựng lá sau khuyết giữa mi d
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [17 — Ghép sụn + dải màng xương (ngoài)](../17-lateral-defect-free-tarsal-graft/technique.md): cùng lấy sụn đối bên, khác vị trí khuyết.
+- [201 — Vạt Hughes](../201-hughes-flap/technique.md): nền kém thì vạt có cuống.

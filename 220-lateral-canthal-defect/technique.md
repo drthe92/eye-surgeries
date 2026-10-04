@@ -33,3 +33,7 @@ Khuyết góc mắt ngoài sau cắt u: tái tạo góc sắc + neo hai mi. Góc
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [221 — Góc ngoài O-to-Z](../221-lateral-canthal-o-z/technique.md): khuyết tròn thì O-to-Z.
+- [15 — O-to-Z góc ngoài](../15-lateral-canthal-o-to-z-flap/technique.md): bản đầy đủ có dải + nâng má.

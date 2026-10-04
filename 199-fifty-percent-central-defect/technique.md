@@ -33,3 +33,7 @@ Khuyết nửa giữa mi dưới (vùng khó nhất vì xa hai nguồn máu): ph
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [200 — Ghép sụn rời khuyết giữa](../200-free-tarsal-central/technique.md): khung sụn rời thay vì huy động.
+- [203 — Khuyết toàn bộ mi dưới](../203-hundred-percent-hughes-tarsal/technique.md): lớn hơn nữa thì phối hợp ba vật liệu.

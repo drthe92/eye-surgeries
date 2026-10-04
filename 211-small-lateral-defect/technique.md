@@ -33,3 +33,7 @@ Khuyết nhỏ góc ngoài: khép trực tiếp + dải gia cố, nhanh gọn m�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [196 — Giải phóng góc](../196-ll-defect-cantholysis/technique.md): cùng họ đóng trực tiếp.
+- [216 — Vạt xoay ngoài](../216-lateral-rotational-flap/technique.md): lớn hơn một chút thì vạt xoay.

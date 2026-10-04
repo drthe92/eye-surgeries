@@ -33,3 +33,7 @@ Bài kỹ thuật nền: lấy da toàn lớp (vẽ, lấy, tỉa mỡ, đóng n
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [185 — Ghép da lật sẹo (nhóm B)](../185-ftsg-cicatricial-ectropion/technique.md): ứng dụng ghép da mi dưới.
+- [214 — Khuyết mi-má ghép da](../214-ll-cheek-ftsg/technique.md): ứng dụng vùng chuyển tiếp.

@@ -33,3 +33,7 @@ Biến thể cắt wedge từ mặt sau sụn: lật mi, cắt bỏ dải sụn 
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [178 — Cắt wedge lá sau (nhóm Bx)](../178-posterior-wedge-resection/technique.md): cùng đường sau, khác chỉ định.
+- [197 — Khuyết 40% (wedge sau)](../197-forty-percent-posterior-wedge/technique.md): bản khuyết lớn hơn.

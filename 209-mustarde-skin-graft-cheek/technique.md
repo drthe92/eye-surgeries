@@ -33,3 +33,7 @@ Khuyết má quá rộng một vạt không đủ: Mustarde phủ trung tâm + g
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [208 — Vạt Mustarde đơn](../208-mustarde-flap/technique.md): trung tâm.
+- [213 — Kỹ thuật ghép da](../213-ftsg-technique/technique.md): ngoại vi.

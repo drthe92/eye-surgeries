@@ -14,16 +14,16 @@ Lịch sử: Tenzel 1975 cho khuyết 33-50%; McGregor thêm Z-plasty đầu v�
 
 ## 3. Chuẩn bị
 - Vô cảm: tê tại chỗ mi dưới + góc ngoài (lidocaine + epinephrine).
-- Dụng cụ/chỉ: đốt đầu kim (kim (needle)-tip dao đốt (cautery)), dao 15, kéo, Vicryl 5-0 khâu sụn mi/cơ vòng, Vicryl 7-0 khâu bờ mi/da/góc ngoài.
+- Dụng cụ/chỉ: đốt đầu kim (needle-tip cautery), dao 15, kéo, Vicryl 5-0 khâu sụn mi/cơ vòng, Vicryl 7-0 khâu bờ mi/da/góc ngoài.
 - Bệnh nhân: đo % chiều dài khuyết, đánh giá độ lỏng (laxity) mi còn lại, chụp ảnh, đồng thuận (consent) sẹo ngoài/gấp nếp (kink) mi trên tạm thời/khuyết (notch) bờ mi/tái mổ.
-- Đánh giá nền: phản xạ phản xạ Bell (phản xạ Bell phenomenon), test Schirmer nếu khô mắt, thuốc chống đông.
+- Đánh giá nền: phản xạ Bell, test Schirmer nếu khô mắt, thuốc chống đông.
 
 ## 4. Quy trình
-- **Bước 1 — cắt gân góc dưới:** Cắt giải phóng bằng đốt đầu kim. Nghiệm thu: mi dưới di động ngang tự do. Cốt lõi: cắt đủ để hết căng ngang. Lỗi: cắt thiếu gây căng khi khâu sụn mi.
+- **Bước 1 — Cắt gân góc dưới:** Cắt giải phóng bằng đốt đầu kim. Nghiệm thu: mi dưới di động ngang tự do. Cốt lõi: cắt đủ để hết căng ngang. Lỗi: cắt thiếu gây căng khi khâu sụn mi.
 - **Bước 2 — Dựng vạt:** Rạch từ góc ngoài lên trên-ra ngoài, bóc dưới cơ vòng mi. Nghiệm thu: vạt di động tới khuyết không trắng đầu. Cốt lõi: đúng mặt dưới cơ vòng. Lỗi: bóc nông gây hoại tử mép.
 - **Bước 3 — Giải phóng superior crus nếu gấp nếp:** Ướm transposition, nếu mi trên ngoài bị kéo gấp thì bóc vạt khỏi superior crus. Nghiệm thu: hết gấp nếp khi ướm lại. Cốt lõi: kiểm tra ướm trước mọi đường khâu. Lỗi: bỏ qua gấp nếp gây biến dạng mi trên sau mổ.
 - **Bước 4 — Khâu sụn mi:** Bộc lộ sụn mi 2 mép, tách cơ vòng-vách, khâu Vicryl 5-0 partial-thickness mặt trước 2 mũi. Nghiệm thu: sụn mi áp khít không bậc. Cốt lõi: partial-thickness đúng độ sâu. Lỗi: xuyên thủng kết mạc gây cộm/loét giác mạc.
-- **Bước 5 — Khâu bờ mi:** Vicryl 7-0 đệm dọc vertical mattress để lộn bờ ra ngoài: 1 mũi ngang lỗ tuyến tuyến Meibomius (Meibomian), 1 mũi ngang nang lông mi. Nghiệm thu: bờ evert nhẹ, lông đúng hướng. Cốt lõi: đúng 2 mốc. Lỗi: sai mốc gây khuyết/quặm.
+- **Bước 5 — Khâu bờ mi:** Vicryl 7-0 đệm dọc vertical mattress để lộn bờ ra ngoài: 1 mũi ngang lỗ tuyến bờ mi (Meibomian), 1 mũi ngang nang lông mi. Nghiệm thu: bờ evert nhẹ, lông đúng hướng. Cốt lõi: đúng 2 mốc. Lỗi: sai mốc gây khuyết/quặm.
 - **Bước 6 — Đóng lớp + dog ear:** Cơ vòng Vicryl 5-0 vùi rời, da Vicryl 7-0 rời, cắt dog ear nhỏ phía dưới. Nghiệm thu: da phẳng không căng. Cốt lõi: không để chết khoang. Lỗi: bỏ sót dog ear gây sẹo cộm.
 - **Bước 7 — Tái tạo góc ngoài:** Móc cơ vòng vạt bằng Vicryl 5-0 vào superior crus, buộc để tạo lại góc. Đóng đường rạch góc (canthotomy) bằng Vicryl 7-0 rời. Nghiệm thu: góc sắc, đối xứng bên lành. Cốt lõi: lực vừa đủ. Lỗi: siết quá gây hẹp khe ngoài.
 - **Bước 8 — Tái gắn lá:** Tái gắn lá trước vào lá sau bằng Vicryl 7-0. Tra mỡ kháng sinh, hẹn 1 tuần. Nghiệm thu: kín đúng lớp. Cốt lõi: đúng lớp. Lỗi: lộn lớp.
@@ -39,3 +39,8 @@ Lịch sử: Tenzel 1975 cho khuyết 33-50%; McGregor thêm Z-plasty đầu v�
 1. Vì sao phải cắt gân góc trước khi dựng vạt?
 2. Khi nào bắt buộc bóc vạt khỏi superior crus?
 3. Vì sao khâu bờ mi phải đúng 2 mốc tuyến Meibomius + lông mi (lash)?
+
+## 7. Bài liên quan
+- [198 — Khuyết nửa mi dưới](../198-half-lower-lid-repair/technique.md): ướm còn căng thì Tenzel chính là đáp án.
+- [196 — Đóng khuyết bằng giải phóng góc](../196-ll-defect-cantholysis/technique.md): khuyết nhỏ hơn thì chỉ cần giải phóng góc, đừng dựng vạt.
+- [201 — Vạt Hughes](../201-hughes-flap/technique.md): khuyết trên 50-75% thì Tenzel không đủ, chuyển Hughes.

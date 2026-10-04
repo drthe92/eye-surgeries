@@ -33,3 +33,8 @@ Khuyết toàn bộ mi dưới: vạt sụn-kết mạc mi trên có cuống h�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [202 — Thì hai Hughes](../202-hughes-second-stage/technique.md): bắt buộc sau 2-3 tuần.
+- [200 — Ghép sụn rời](../200-free-tarsal-central/technique.md): một thì khi nền tốt.
+- [203 — Khuyết toàn bộ](../203-hundred-percent-hughes-tarsal/technique.md): bản phối hợp lớn nhất.

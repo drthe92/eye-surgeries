@@ -33,3 +33,7 @@ Khuyết phía trong mi dưới sát lệ đạo: thông và bảo vệ lệ qu�
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [206 — Khuyết nửa trong](../206-fifty-percent-medial-repair/technique.md): rộng hơn thì vạt trượt + stent.
+- [136 — Rách lệ quản dưới (nhóm T)](../136-ll-canalicular-laceration-1/technique.md): tổn thương lệ đi kèm chấn thương.

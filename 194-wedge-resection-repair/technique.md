@@ -33,3 +33,8 @@ Khuyết nhỏ giữa mi dưới: cắt wedge toàn lớp hình tam giác, khâu
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [196 — Đóng khuyết bằng giải phóng góc](../196-ll-defect-cantholysis/technique.md): khuyết lớn hơn cần giải phóng góc.
+- [197 — Khuyết 40% (wedge sau)](../197-forty-percent-posterior-wedge/technique.md): ngưỡng trên của wedge.
+- [177 — Sinh thiết wedge toàn lớp (nhóm Bx)](../177-full-thickness-wedge-biopsy/technique.md): wedge chẩn đoán và wedge điều trị.

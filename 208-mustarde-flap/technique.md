@@ -33,3 +33,8 @@ Khuyết lớn má-mi dưới: vạt xoay khổng lồ từ má-thái dương ph
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
 2. Khi nào ghép da đủ và khi nào phải vạt có mạch?
 3. Dấu hiệu vạt-ghép thất bại sớm là gì?
+
+## 7. Bài liên quan
+- [210 — Vạt xoay má đơn](../210-rotational-cheek-defect/technique.md): chưa tới mi thì xoay đơn là đủ.
+- [209 — Mustarde + ghép da](../209-mustarde-skin-graft-cheek/technique.md): quá rộng thì thêm ghép.
+- [20 — Vạt da-cơ ngoài](../20-myocutaneous-flap-lateral-defect/technique.md): bản nhỏ của cùng họ vạt.
