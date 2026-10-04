@@ -13,7 +13,7 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 - `technique.md`: mở đầu bằng dòng link Video click được; cuối mỗi bước trong Quy trình có thể ghi "Dặn quay lại ngay" khi là thủ thuật lâm sàng.
 - `surgeries/LEARNING-INDEX.md`: bảng Thứ tự | Nhóm | Title | Tóm tắt (~100 từ) | Link Vimeo | Xong. Thêm dòng mới khi thêm bài.
 - `index.html` ở gốc repo: hub học tập (thẻ theo nhóm, search Anh-Việt, lọc nhóm, link Bài học/Transcript/Video). Sinh lại bằng script khi thêm bài hoặc đổi link. Link bài học giữ dạng blob `github.com` (KHÔNG chuyển sang domain riêng — quyết định của chủ repo).
-- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm, U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong.
+- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm, U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong, Bx sinh thiết-u mi (mới từ 175).
 
 ## Quy trình làm việc mỗi đợt
 1. Lấy transcript từ trang EyeRounds companion (ưu tiên), Vimeo, hoặc video YouTube (dùng skill `youtube-lesson-eye` khi có link YouTube).
@@ -22,6 +22,7 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 4. Commit + push lên `main` sau MỖI đợt (SSH đã có sẵn). Kiểm tra `git status`/`git log` sau push. Nếu push bị reject (phiên khác đẩy trước), `git fetch` rồi gộp giữ nội dung mới nhất, không bao giờ force-push mất bài.
 
 ## Tiến độ (cập nhật khi xong việc)
-- 174 bài (01-174) đã có transcript + technique; index đủ 174 dòng `[x]`.
+- 181 bài (01-181) đã có transcript + technique; index đủ 181 dòng `[x]`.
+- Khảo sát hệ thống mục lục plastics EyeRounds (2026-10-04): nhóm sinh thiết mi-u mi (7 video) đã triển khai thành 175-181. Nhóm trống tiếp theo: chalazion (3), sinh thiết kết mạc (7), lấy mô ghép (da/cân/sụn/niêm mạc), sinh thiết động mạch thái dương (2), orbitotomy trước-bên, ONSF (3), giải áp ổ mắt (5), khoét bỏ nhãn cầu (enucleation/evisceration/exenteration), ổ mắt vô nhãn, TA biopsy đã có 1 phần.
 - Việt hoá sâu: xong 01-02, tiếp tục từ 03 → 174.
 - Bài mới: đánh số tiếp từ 175.

@@ -179,6 +179,14 @@
 | 173 | R-recon | Second stage + lid crease | Làm mỏng + móc cân tạo nếp. | https://vimeo.com/218794123 | [x] |
 | 174 | R-recon | Median forehead + rotational | 2 neo lõm, lệ nguyên vẹn. | https://vimeo.com/198701209 | [x] |
 
+| 175 | Bx-biopsy | Basic eyelid biopsy | Sinh thiết mi cơ bản: tê tại chỗ, punch hoặc dao lấy mẫu da-cơ đại diện kèm rìa tổn thương và mô lành, cầm máu nhẹ, khâu trực tiếp không căng, gửi mô bệnh học kèm định hướng mẫu. Nguyên tắc vàng là lấy đủ sâu tới mô bệnh và khâu đúng lớp để không gây khuyết bờ mi. | https://eyerounds.org/video/plastics/2/basic-eyelid-biopsy.htm | [x] |
+| 176 | Bx-biopsy | Biopsy of upper lid margin lesion | Sinh thiết tổn thương bờ mi trên: cắt wedge nhỏ toàn lớp tại bờ mi, bảo tồn nang lông lành, khâu sụn trước-da sau, căn thẳng hàng lông mi. Mẫu đủ toàn lớp mà bờ mi sau lành không khuyết. | https://eyerounds.org/video/plastics/3/8-lid-margin-biopsy.htm | [x] |
+| 177 | Bx-biopsy | Full-thickness wedge biopsy | Sinh thiết wedge toàn bộ chiều dày mi: cắt tam giác đáy tại bờ mi lấy trọn tổn thương nghi ngờ, khâu sụn chỉ tiêu nút chôn rồi khâu da-cơ và kết mạc riêng. Vừa chẩn đoán vừa điều trị tổn thương nhỏ, giữ bờ mi thẳng không khuyết. | https://eyerounds.org/video/plastics/6/16-full-thickness-lid-biopsy.htm | [x] |
+| 178 | Bx-biopsy | Posterior wedge resection | Cắt wedge lá sau (sụn-kết mạc) từ phía trong: lật mi, cắt bỏ dải sụn bệnh mà giữ nguyên da-cơ phía ngoài, khâu sụn trực tiếp. Giữ được mặt ngoài mi nên sẹo đẹp, phù hợp tổn thương mặt sau sụn. | https://eyerounds.org/video/plastics/13/102-posterior-wedge-resection.htm | [x] |
+| 179 | Bx-biopsy | Excision of upper and lower xanthelasma #1 | Cắt u vàng mi trên-dưới cùng thì: vẽ vừa đủ trong giới hạn da thừa, bóc tách trên mặt cơ vòng, cắt bỏ da nhiễm cholesterol, khâu trực tiếp theo nếp mi. Kết hợp chỉnh da thừa, xét nghiệm mỡ máu vì có thể kèm rối loạn lipid. | https://eyerounds.org/video/plastics/9/excision-upper-and-lower-xanthelasma.htm | [x] |
+| 180 | Bx-biopsy | Excision of upper and lower xanthelasma #2 | Ca thứ hai cắt xanthelasma trên-dưới: nhấn mạnh xử trí mảng lan rộng góc trong, bảo tồn lệ quản-điểm lệ, có thể ghép da nếu thiếu da. Sau mổ chống sẹo co kéo góc trong bằng massage và theo dõi tái phát. | https://eyerounds.org/video/plastics/9/excision-upper-lower-xanthelasma-2.htm | [x] |
+| 181 | Bx-biopsy | Excision of sub-brow lesion | Cắt u dưới mày qua đường rạch giấu dưới chân mày: tê, rạch theo bờ dưới mày, bóc trọn nang-u, cầm máu tránh nhánh thần kinh trên ổ mắt, khâu nhiều lớp. Sẹo giấu vào chân mày, giữ dáng mày. | https://eyerounds.org/video/plastics/10/80-sub-brow-lesion-excision.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
