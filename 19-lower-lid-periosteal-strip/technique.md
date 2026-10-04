@@ -1,0 +1,35 @@
+# 50% Lower Lid Defect with Periosteal Strip — Bài chuẩn Goal
+
+> Video: [Trang EyeRounds](https://eyerounds.org/video/plastics/4/16-lateral-periostal-strip.htm) · [Vimeo](https://vimeo.com/138022928)
+> Nguồn transcript: `transcript.md` (Allen, Vimeo 138022928). Học tập, đối chiếu guideline và đào tạo có giám sát.
+
+## 1. Bản chất
+Chia khuyết làm hai: đoạn trong tận dụng sụn ngoài còn lại khâu trực tiếp vào sụn trong, đoạn ngoài thiếu dựng bằng strip màng xương; má ngoài ổn định bằng Vicryl 4-0; đệm qua bolster nuôi và ép.
+
+## 2. Chỉ định / Chống chỉ định
+- Chỉ định: khuyết 50% còn sụn ngoài dùng được một phần.
+- Chống chỉ định tương đối: mất hẳn sụn ngoài (C17 ghép + strip), nhiễm trùng cấp.
+
+## 3. Chuẩn bị
+- Vô cảm: tê tại chỗ mi dưới + góc ngoài + má (lidocaine + epi).
+- Dụng cụ/chỉ: cautery, Freer, Vicryl 4-0/5-0/7-0 (taper cho strip), tiêu nhanh 7-0, bolster, mỡ kháng sinh.
+- BN: ướm khâu trực tiếp trước, chụp ảnh, consent notch.
+- Đánh giá nền: Bell, khô mắt, chống đông.
+
+## 4. Quy trình
+- **Bước 1 — Tách + ướm:** Canthotomy + rạch dưới mi trong, tách lá, bóc tiền màng xương, chuyển lá trước ướm; xác nhận không khâu trực tiếp được. Nghiệm thu: quyết định đúng. Cốt lõi: ướm trước mọi đường khâu. Lỗi: cố khâu trực tiếp gây căng notch.
+- **Bước 2 — Khâu đoạn trong:** Cantholysis dưới, chuyển sụn ngoài vào khâu sụn trong 5-0, bờ mi 2 mũi 7-0 đệm dọc. Nghiệm thu: bờ liền không bậc. Cốt lõi: đúng mốc Meibomian. Lỗi: lệch gây notch vĩnh viễn.
+- **Bước 3 — Strip đoạn ngoài:** Rạch màng xương mức cao, nâng tới chỗ vào ổ mắt, lật vào, đệm 5-0 taper strip-trước-sụn, 7-0 đỡ trên. Nghiệm thu: strip tới được sụn. Cốt lõi: rạch cao + nâng đủ sâu. Lỗi: strip ngắn gây hở đoạn ngoài.
+- **Bước 4 — Ổn định má + đóng:** Vicryl 4-0 má-màng xương ngang strip (rất quan trọng), dưới mi 7-0, đệm lá trước-sụn 5-0 + đệm qua strip, góc sâu 5-0, buộc đệm qua bolster, góc 7-0. Nghiệm thu: căng ngoài tốt, căng dọc tối thiểu. Cốt lõi: má ngoài và bolster. Lỗi: thiếu 1 trong 2 gây trễ/hoại tử.
+- **Dặn quay lại ngay:** notch tăng, đau tăng, nhiễm trùng.
+
+## 5. Hậu phẫu
+- Chăm sóc: giữ bolster, lạnh, không dụi.
+- Thuốc: mỡ kháng sinh.
+- Tái khám: 1 tuần cắt chỉ, đánh giá notch/sống strip; 1 tháng đánh giá trễ.
+- Dặn quay lại ngay các dấu hiệu trên.
+
+## 6. Tự lượng giá
+1. Vì sao chia khuyết làm hai đoạn xử trí khác nhau?
+2. Vì sao mũi má-ngang-strip là rất quan trọng?
+3. Phân biệt C19 vs C17?

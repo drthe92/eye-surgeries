@@ -1,0 +1,13 @@
+# Mucous Membrane Graft (Upper Cicatricial Entropion) — Transcript gốc
+
+- Tên: Mucous membrane graft for repair of upper lid cicatricial entropion
+- Tác giả: Richard Allen, University of Iowa
+- Trang companion: https://eyerounds.org/video/plastics/4/4-mucous-membrane-graft-upper-eyelid.htm
+- Vimeo: https://vimeo.com/138019891
+- Ngày lấy transcript: 2026-09-28
+
+> Chỉ dùng cho học tập. Đối chiếu guideline và đào tạo có giám sát.
+
+## Transcript
+
+This is Richard Allen at the University of Iowa.  This video demonstrates placement of a mucous  membrane graft to the upper eyelid in an anophthalmic patient with upper  cicatricial entropion.  A 4-0 silk suture  is placed though the upper eyelid margin at the level of the meibomian gland  orifices.  The eyelid is everted and the  area of the scar is identified.  A  thermal cautery is used in this case to make an incision through the scar. The  thermal cautery is then used to further release the scar and dissection is  carried out between the conjunctiva and the underlying Muellers muscle.  This is performed in order to fully release  the scar.  The size of the graft needed  is then estimated and a template can be made from the ruler.  A buccal mucous membrane graft is then  harvested.  This is demonstrated in a  separate video.  A double armed 5-0  vicryl suture is then used to engage the buccal mucosa.  Each arm of the suture then engages the  superior edge of the conjunctiva and then directed full-thickness through the  eyelid at the desired height of the upper fornix.  Each arm is placed in the exact same  manner.  Again, this is a full thickness  suture.  An additional suture is placed  in the same manner centrally, engaging the buccal mucosa followed by the  superior edge of the conjunctiva, and then full thickness through the eyelid at  the desired height of the fornix.  A  third and final lateral suture is then placed in the exact same manner.   The sutures are then tightened in order to  position the mucous membrane graft appropriately.  The sutures are then tied over cotton  bolsters.  The inferior edge of the  mucous membrane graft is then sutured to the inferior border of the  tarsus/conjunctiva.  This is performed in  this case with interrupted 7-0 vicryl sutures.   If the patient were not anophthalmic, these sutures would need to be  placed in a buried fashion.  The inferior edge of the mucous membrane graft is then sutured to the inferior border of the tarsus/conjunctiva.  At the conclusion of the case, a conformer is placed and the reverse Frost sutures are taped to the cheek, and the patient is patched for one week.
