@@ -9,6 +9,10 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: mọi mổ mi/thẩm mỹ mắt tỉnh (blepharoplasty, sinh thiết, vạt mi, TA biopsy); bổ sung tê mỡ medial khi kéo mỡ gây đau.
 - Chống chỉ định tương đối: dị ứng amide, nhiễm trùng nơi tiêm, bệnh mạch vành nặng cần hạn chế epi, bệnh nhân không hợp tác. Thay thế: block vùng + tiền mê hoặc mê.
+- Chống chỉ định pha epi (không thêm epi vào thuốc tê):
+  - Vị trí: block sau/cạnh nhãn cầu (retrobulbar/peribulbar — epi là yếu tố nguy cơ tắc động mạch trung tâm võng mạc, bài 25/26 dùng thuốc trơn), trong tiền phòng (chỉ dùng lidocaine trơn không chất bảo quản).
+  - Bệnh nền: mạch vành không ổn định/nhồi máu mới, loạn nhịp nặng, tăng huyết áp không kiểm soát, cường giáp chưa kiểm soát, u tủy thượng thận, đang dùng cocain; dị ứng sulfit (chất bảo quản trong ống pha epi); đang dùng chẹn beta không chọn lọc (nguy cơ tăng huyết áp do alpha không đối kháng) — thận trọng.
+  - Nguồn: CRAO sau block có epi (Confalonieri 2022, PMC9361630); lưu ý đa số ca RAO không liên quan epi (Chua 2024) — epi là yếu tố nguy cơ, tránh thường quy chứ không phải tuyệt đối.
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine 2% + epinephrine 1:100.000 (pha sẵn hoặc tự pha: 0,1 mL epi 1:1000 vào 10 mL lidocaine trơn; đỡ xót thì thêm 1 mL bicarbonate 8,4% vào 10 mL hỗn hợp); ca dài thêm bupivacaine 0,5%; kim nhỏ, hút thử mỗi lần bơm. Liều tối đa lidocaine trơn là 4,5 mg/kg (không quá 300 mg), kèm epi là 7 mg/kg (tới 500 mg) — chuẩn Iowa Protocols và NCBI StatPearls.
