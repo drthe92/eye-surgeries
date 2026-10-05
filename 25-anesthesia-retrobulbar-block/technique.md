@@ -7,8 +7,8 @@
 Đưa thuốc tê vào trong phễu cơ sau nhãn cầu để liệt vận nhãn + mất cảm giác cho mổ nội nhãn/ổ mắt (orbit), thay mê khi mê chống chỉ định/không mong muốn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: mổ nội nhãn/ổ mắt ở BN không mê được; cần liệt mắt hoàn toàn.
-- Chống chỉ định: nhiễm trùng ổ mắt, u sau nhãn, lồi mắt nặng, rối loạn đông máu, BN không hợp tác, nhãn cầu dài cận nặng (nguy cơ thủng cao). Thay thế: peribulbar/sub-Tenons (an toàn hơn), tê tại chỗ + tiền mê, hoặc mê.
+- Chỉ định: mổ nội nhãn/ổ mắt ở bệnh nhân không mê được; cần liệt mắt hoàn toàn.
+- Chống chỉ định: nhiễm trùng ổ mắt, u sau nhãn, lồi mắt nặng, rối loạn đông máu, bệnh nhân không hợp tác, nhãn cầu dài cận nặng (nguy cơ thủng cao). Thay thế: peribulbar/sub-Tenons (an toàn hơn), tê tại chỗ + tiền mê, hoặc mê.
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine 1% + bupivacaine 0.375% (+ hyaluronidase); bơm 5cc kim 23G 1.5 inch flat grind; gạc 4x4 ép sau tiêm.
@@ -33,3 +33,7 @@
 1. Vì sao phải hút thử trước khi bơm?
 2. Hai pop tương ứng cấu trúc nào?
 3. Khi nào chọn peribulbar thay vì retrobulbar?
+
+## 7. Bài liên quan
+- [224 — Tiêm sau nhãn cầu (demo)](../224-retrobulbar-injection-demo/technique.md): hình ảnh đường kim của 25.
+- [26 — Block dưới bao Tenon](../26-anesthesia-peribulbar-subtenons/technique.md): nguy cơ thủng cao thì chuyển sang 26.

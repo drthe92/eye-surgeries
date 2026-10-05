@@ -7,8 +7,8 @@
 Đưa thuốc tê vào khoang dưới Tenon bằng cannula cùn để lan quanh nhãn cầu: vô cảm tương đương retrobulbar nhưng tránh kim nhọn trong phễu cơ.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: mổ mắt cần vô cảm rộng mà muốn an toàn hơn retrobulbar; BN cận dài/nguy cơ thủng cao.
-- Chống chỉ định tương đối: nhiễm trùng kết mạc/Tenon, sẹo kết mạc dính nặng, BN không hợp tác. Thay thế: retrobulbar, tê tại chỗ + tiền mê, mê.
+- Chỉ định: mổ mắt cần vô cảm rộng mà muốn an toàn hơn retrobulbar; bệnh nhân cận thị trục dài/nguy cơ thủng cao.
+- Chống chỉ định tương đối: nhiễm trùng kết mạc/Tenon, sẹo kết mạc dính nặng, bệnh nhân không hợp tác. Thay thế: retrobulbar, tê tại chỗ + tiền mê, mê.
 
 ## 3. Chuẩn bị
 - Vô cảm: lidocaine 1% + bupivacaine 0.375%; cannula lệ đạo cùn.
@@ -32,3 +32,7 @@
 1. Vì sao sub-Tenons an toàn hơn retrobulbar?
 2. Button-hole cách rìa bao xa và vì sao?
 3. Dấu hiệu bơm đúng khoang là gì?
+
+## 7. Bài liên quan
+- [25 — Block sau nhãn cầu](../25-anesthesia-retrobulbar-block/technique.md): tê sâu hơn-liệt hoàn toàn hơn nhưng kim nhọn nguy hiểm hơn 26.
+- [27 — Tê thấm](../27-anesthesia-local-infiltration/technique.md): mổ ngoài nhãn cầu thì 27 là đủ, đừng block sâu.

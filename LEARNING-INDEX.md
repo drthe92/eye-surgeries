@@ -232,6 +232,8 @@
 | 222 | C-lower-lid | Upper lid + canthal defect | Dựng góc trước làm mốc, vạt mi theo sau, cân lực hai vùng. | https://eyerounds.org/video/plastics/11/89-repair-lid-lateral-canthal-defect.htm | [x] |
 | 223 | C-lower-lid | Canthal + skin graft | Khuyết nông: ghép da + neo mi, tiết kiệm mô. | https://eyerounds.org/video/plastics/11/84-repair-lateral-canthal-defect-w-skin-graft.htm | [x] |
 
+| 224 | N-anesthesia | Retrobulbar injection (atlas demo) | Demo 35 giây đường vào kim block sau nhãn cầu: góc dưới-ngoài, hướng đỉnh ổ mắt, hút thử rồi bơm. Phần hình ảnh bổ trợ cho quy trình đầy đủ ở bài 25. | https://eyerounds.org/atlas-video/retrobulbar-injection.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
