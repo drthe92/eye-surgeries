@@ -11,7 +11,7 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 - Chống chỉ định tương đối: dị ứng amide, nhiễm trùng nơi tiêm, bệnh mạch vành nặng cần hạn chế epi, bệnh nhân không hợp tác. Thay thế: block vùng + tiền mê hoặc mê.
 
 ## 3. Chuẩn bị
-- Vô cảm: lidocaine 2% + epinephrine 1:100.000 (pha sẵn hoặc tự pha: 0,1 mL epi 1:1000 vào 10 mL lidocaine trơn; đỡ xót thì thêm 1 mL bicarbonate 8,4% vào 10 mL hỗn hợp); ca dài thêm bupivacaine 0,5%; kim nhỏ, hút thử mỗi lần bơm. Liều tối đa lidocaine kèm epi là 7 mg/kg.
+- Vô cảm: lidocaine 2% + epinephrine 1:100.000 (pha sẵn hoặc tự pha: 0,1 mL epi 1:1000 vào 10 mL lidocaine trơn; đỡ xót thì thêm 1 mL bicarbonate 8,4% vào 10 mL hỗn hợp); ca dài thêm bupivacaine 0,5%; kim nhỏ, hút thử mỗi lần bơm. Liều tối đa lidocaine trơn là 4,5 mg/kg (không quá 300 mg), kèm epi là 7 mg/kg (tới 500 mg) — chuẩn Iowa Protocols và NCBI StatPearls.
 - Dụng cụ: bút đánh dấu, dao cạo tóc vùng thái dương nếu cần, bơm kim tê, bipolar cầm máu.
 - Bệnh nhân: đánh dấu + cạo tóc vùng rạch, chụp ảnh, đồng thuận đau khi tê/chảy máu/sẹo.
 - Đánh giá nền: dị ứng, tim mạch, chống đông, đường máu.
