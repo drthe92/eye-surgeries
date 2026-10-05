@@ -18,7 +18,7 @@ Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy �
 
 ## 4. Quy trình
 - **Bước 1 — Đo khuyết và độ chun:** Kéo hai mép ướm khép trực tiếp. Nghiệm thu: khép được không trắng mép. Cốt lõi: ướm quyết định vạt hay trực tiếp. Lỗi: cố khép căng gây lật.
-- **Bước 2 — Cắt chân dưới gân góc:** Dao/kéo cắt chân dưới sát bờ xương. Nghiệm thu: mép ngoài di động thêm 5-8mm. Cốt lõi: cắt sát xương giữ chiều dài sụn. Lỗi: vào vách gây chảy máu.
+- **Bước 2 — Cắt chân dưới gân góc:** Dao/kéo cắt chân dưới sát bờ xương (ôm xương để chỉ cắt gân, hạn chế cắt khối cơ). Nghiệm thu: mép ngoài di động thêm 5-8mm. Cốt lõi: cắt sát xương giữ chiều dài sụn. Lỗi: vào vách gây chảy máu.
 - **Bước 3 — Khâu sụn trước:** Nút chôn căn thẳng bờ mi. Nghiệm thu: không bậc thang. Cốt lõi: mũi sụn đầu quyết định. Lỗi: so le gây khuyết.
 - **Bước 4 — Đóng da-kết mạc:** Riêng từng lớp. Nghiệm thu: kín, lông đúng hướng. Cốt lõi: đúng lớp. Lỗi: lộn lớp.
 - **Bước 5 — Kiểm tra căng-lật:** Kéo mi xuống buông ra. Nghiệm thu: về vị trí không trễ. Cốt lõi: căng quá phải chuyển vạt ngay. Lỗi: chấp nhận căng gây lật muộn.
@@ -37,3 +37,15 @@ Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy �
 ## 7. Bài liên quan
 - [194 — Wedge toàn lớp](../194-wedge-resection-repair/technique.md): khuyết nhỏ hơn thì wedge là đủ.
 - [198 — Khuyết nửa mi dưới](../198-half-lower-lid-repair/technique.md): khép căng thì nâng lên.
+
+## Phụ lục: hai điểm cốt lõi về giải phóng góc
+
+**1. Cơ vòng mi bị cắt ngang liền thế nào?**
+Đường rạch góc ngoài đi dọc thớ cơ nên chỉ tách sợi cơ; nhát cắt chân dưới gân góc mới cắt ngang một phần thớ cơ vòng trước sụn và ngay dưới sụn. Cơ vân không tái sinh mà liền bằng sẹo xơ bắc cầu: hai đầu cơ co rút nhẹ, nguyên bào sợi lấp khoảng hở trong 2-3 tuần.
+- Biến chứng nếu xử trí ẩu: tụ máu trong cơ → xơ cứng co kéo; cắt/đốt quá nhiều cơ → yếu chớp mắt phía ngoài, trễ mi, góc ngoài tù; sẹo dính cơ-da → co kéo mép.
+- Dự phòng: ôm sát xương khi cắt (chỉ cắt gân, giữ tối đa khối cơ); đốt lưỡng cực cầm máu kỹ từng điểm (tụ máu là mẹ của xơ co kéo); khâu phục hồi lớp cơ vòng khi đóng (Vicryl) để hai đầu cơ áp nhau mà liền, giữ trương lực mi; không đốt lan rộng gây hoại tử cơ.
+
+**2. Chân dưới gân góc đã cắt có khâu nối lại không?**
+Không khâu nối đầu-đầu — và đó là đúng. Mục đích của cantholysis là giải phóng để mi trượt vào trong khép khuyết; khâu nối lại tức là buộc mi về chỗ cũ, triệt tiêu chính việc vừa làm và gây căng toác mối khâu sụn.
+- Neo ngoài được lập lại bằng đường khác: khâu sụn hai mép chịu lực chính, cộng tái tạo góc ngoài (khâu lá trước-cơ vòng vào màng xương/vị trí mới, cao độ đúng) — tức neo lại ở vị trí mới chứ không nối gân cũ.
+- Đầu gân cắt rời sẽ xơ dính thứ phát vào màng xương bờ ngoài, góp thêm cố định. Chỉ khi cần neo khỏe và đúng cao độ (lỏng nhiều, khuyết rộng) mới nâng lên dải sụn neo củ Whitnall như bài 01.
