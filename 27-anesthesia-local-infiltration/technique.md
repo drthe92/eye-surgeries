@@ -11,16 +11,17 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 - Chống chỉ định tương đối: dị ứng amide, nhiễm trùng nơi tiêm, bệnh mạch vành nặng cần hạn chế epi, bệnh nhân không hợp tác. Thay thế: block vùng + tiền mê hoặc mê.
 
 ## 3. Chuẩn bị
-- Vô cảm: lidocaine + epi (chuẩn 2% + 1:100.000); ca dài thêm bupivacaine 0.5%; kim nhỏ, hút thử mỗi lần bơm.
+- Vô cảm: lidocaine 2% + epinephrine 1:100.000 (pha sẵn hoặc tự pha: 0,1 mL epi 1:1000 vào 10 mL lidocaine trơn; đỡ xót thì thêm 1 mL bicarbonate 8,4% vào 10 mL hỗn hợp); ca dài thêm bupivacaine 0,5%; kim nhỏ, hút thử mỗi lần bơm. Liều tối đa lidocaine kèm epi là 7 mg/kg.
 - Dụng cụ: bút đánh dấu, dao cạo tóc vùng thái dương nếu cần, bơm kim tê, bipolar cầm máu.
 - Bệnh nhân: đánh dấu + cạo tóc vùng rạch, chụp ảnh, đồng thuận đau khi tê/chảy máu/sẹo.
 - Đánh giá nền: dị ứng, tim mạch, chống đông, đường máu.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh dấu + thấm quanh vùng:** Sờ đánh dấu (động mạch/mỡ/vạt), thấm lidocaine + epi quanh, KHÔNG tiêm thẳng vào động mạch. Nghiệm thu: vùng phồng trắng nhẹ, mất đau khi véo. Cốt lõi: thấm quanh, tránh lòng mạch. Lỗi: tiêm vào động mạch gây tắc mạch/hoại tử.
-- **Bước 2 — Chờ + rạch:** Chờ epi co mạch rồi rạch dao 15, đốt bipolar cầm máu. Nghiệm thu: rạch không đau, máu rỉ ít. Cốt lõi: chờ đủ thời gian. Lỗi: rạch ngay gây đau + chảy máu.
-- **Bước 3 — Tê bổ sung mô sâu:** Sau bộc lộ mỡ medial (trắng hơn mỡ trước cân), thấm thêm lidocaine + epi rồi mới kéo/cắt. Nghiệm thu: kéo mỡ không đau. Cốt lõi: mỡ ổ mắt phải tê riêng vì tê da không đủ. Lỗi: quên tê mỡ gây đau chói + co kéo nguy hiểm.
-- **Bước 4 — Cầm máu + đóng:** Đốt tối thiểu ở mép da (tránh sẹo xấu), đóng đúng lớp. Nghiệm thu: khô máu, mép áp. Cốt lõi: đốt chọn lọc. Lỗi: đốt quá mép da gây sẹo lồi/xấu.
+- **Bước 2 — Chờ epi ngấm (tối thiểu 7 phút):** Tê ngấm sau 2-3 phút nhưng epi co mạch tối đa sau 7-15 phút — chờ tối thiểu 7 phút, mốc là da trắng bệch (blanching) rồi mới rạch. Nghiệm thu: da trắng bệch, rạch rỉ máu ít. Cốt lõi: 7 phút là mốc cầm máu, không phải mốc hết đau. Lỗi: rạch ở phút thứ 3 (hết đau nhưng epi chưa ngấm) gây chảy máu nhiều và mất mốc giải phẫu.
+- **Bước 3 — Rạch:** Rạch dao 15 sau khi đã chờ đủ 7 phút, đốt bipolar cầm máu. Nghiệm thu: rạch không đau, máu rỉ ít. Cốt lõi: rạch sau mốc trắng da. Lỗi: rạch ngay gây đau + chảy máu.
+- **Bước 4 — Tê bổ sung mô sâu:** Sau bộc lộ mỡ medial (trắng hơn mỡ trước cân), thấm thêm lidocaine + epi rồi mới kéo/cắt. Nghiệm thu: kéo mỡ không đau. Cốt lõi: mỡ ổ mắt phải tê riêng vì tê da không đủ. Lỗi: quên tê mỡ gây đau chói + co kéo nguy hiểm.
+- **Bước 5 — Cầm máu + đóng:** Đốt tối thiểu ở mép da (tránh sẹo xấu), đóng đúng lớp. Nghiệm thu: khô máu, mép áp. Cốt lõi: đốt chọn lọc. Lỗi: đốt quá mép da gây sẹo lồi/xấu.
 
 ## 5. Hậu phẫu
 - Chăm sóc: lạnh 24-48h, đầu cao, băng ép TA biopsy 24-48h, giữ khô.
@@ -31,7 +32,7 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 ## 6. Tự lượng giá
 1. Vì sao cấm tiêm thẳng vào động mạch thái dương?
 2. Vì sao phải tê bổ sung mỡ medial riêng?
-3. Vì sao hạn chế đốt ở mép da?
+3. Công thức pha 1:100.000 từ lidocaine trơn là gì, và vì sao mốc rạch là 7 phút + da trắng bệch chứ không phải hết đau?
 
 ## 7. Bài liên quan
 - [24 — Tê DCR](../24-anesthesia-dcr-local/technique.md): ứng dụng tê thấm đa điểm cho DCR tỉnh.
