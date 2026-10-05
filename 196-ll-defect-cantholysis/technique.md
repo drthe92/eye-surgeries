@@ -41,11 +41,13 @@ Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy �
 ## Phụ lục: hai điểm cốt lõi về giải phóng góc
 
 **1. Cơ vòng mi bị cắt ngang liền thế nào?**
-Đường rạch góc ngoài đi dọc thớ cơ nên chỉ tách sợi cơ; nhát cắt chân dưới gân góc mới cắt ngang một phần thớ cơ vòng trước sụn và ngay dưới sụn. Cơ vân không tái sinh mà liền bằng sẹo xơ bắc cầu: hai đầu cơ co rút nhẹ, nguyên bào sợi lấp khoảng hở trong 2-3 tuần.
+Đường rạch góc ngoài đi dọc thớ cơ nên chỉ tách sợi cơ; nhát cắt chân dưới gân góc (đúng định nghĩa cantholysis: cắt rời nhánh dưới gân góc ngoài — Merck Manual, LITFL) mới cắt ngang một phần thớ cơ vòng trước sụn và ngay dưới sụn. Cơ vân không tái sinh mà liền bằng sẹo xơ bắc cầu: hai đầu cơ co rút nhẹ, nguyên bào sợi lấp khoảng hở trong 2-3 tuần (mô học liền vết thương chuẩn).
 - Biến chứng nếu xử trí ẩu: tụ máu trong cơ → xơ cứng co kéo; cắt/đốt quá nhiều cơ → yếu chớp mắt phía ngoài, trễ mi, góc ngoài tù; sẹo dính cơ-da → co kéo mép.
 - Dự phòng: ôm sát xương khi cắt (chỉ cắt gân, giữ tối đa khối cơ); đốt lưỡng cực cầm máu kỹ từng điểm (tụ máu là mẹ của xơ co kéo); khâu phục hồi lớp cơ vòng khi đóng (Vicryl) để hai đầu cơ áp nhau mà liền, giữ trương lực mi; không đốt lan rộng gây hoại tử cơ.
 
 **2. Chân dưới gân góc đã cắt có khâu nối lại không?**
-Không khâu nối đầu-đầu — và đó là đúng. Mục đích của cantholysis là giải phóng để mi trượt vào trong khép khuyết; khâu nối lại tức là buộc mi về chỗ cũ, triệt tiêu chính việc vừa làm và gây căng toác mối khâu sụn.
+Không khâu nối đầu-đầu — và đó là đúng trong mổ tái tạo chủ động như bài này. Mục đích của cantholysis là giải phóng để mi trượt vào trong khép khuyết; khâu nối lại tức là buộc mi về chỗ cũ, triệt tiêu chính việc vừa làm và gây căng toác mối khâu sụn.
 - Neo ngoài được lập lại bằng đường khác: khâu sụn hai mép chịu lực chính, cộng tái tạo góc ngoài (khâu lá trước-cơ vòng vào màng xương/vị trí mới, cao độ đúng) — tức neo lại ở vị trí mới chứ không nối gân cũ.
 - Đầu gân cắt rời sẽ xơ dính thứ phát vào màng xương bờ ngoài, góp thêm cố định. Chỉ khi cần neo khỏe và đúng cao độ (lỏng nhiều, khuyết rộng) mới nâng lên dải sụn neo củ Whitnall như bài 01.
+
+- Nguồn đối chiếu: định nghĩa cantholysis = cắt nhánh dưới gân góc (Merck Manual — How To Do Lateral Canthotomy; LITFL — Procedure: Lateral Canthotomy). Lưu ý phân biệt: với canthotomy cấp cứu (chèn ép ổ mắt), kỹ thuật đóng có bài bản tái gắn nhánh dưới gân góc để phục hồi giải phẫu gốc (technical note 2026) — vì ở đó chỉ mở ra rồi đóng lại, không cần huy động mi vào trong như bài 196.
