@@ -1,6 +1,6 @@
 # Tổng quan nhóm S — Lác (bài 40–52, 226–230)
 
-> Hai nguồn: EyeRounds (13 video kinh điển + hiện đại: 40–52) và Cybersight (22 video: liệt III, mổ lại, mô phỏng, chuyển cơ, hội chứng đặc biệt, botox: 226–230, 231–247).
+> Hai nguồn: EyeRounds (13 video: 40–52) và Cybersight (27 video: 226–230, 231–247, 248–252 — quét đủ topic strabismus, trừ quiz/webinar/bản trùng).
 
 ## Thứ tự học
 
@@ -64,6 +64,9 @@
 - Lác ngoài lớn nguyên phát → 239; mạn co rút → 235; trẻ + DVD → 238; trẻ lác trong → 240 (hoặc 242 botox nếu còn nhỏ).
 - Duane → 232 (cấm cắt ngoài); thiếu nâng một mắt → 231 Knapp; DVD → 233/234; lệch chéo vừa đưa vào vừa nâng → 236.
 - Mắt nguy cơ thiếu máu (đã mổ nhiều cơ) cần tăng lực → 245 plication thay vì cắt; hết mọi cách → 246 ghép cơ.
+- Lùi đơn một mắt → 248 (so với lùi hai mắt 240); phối hợp lùi-cắt cùng bên → 249.
+- Nghi Brown: gân ngắn thật → cắt (xem 48); sẹo dính giả → 250 gỡ sẹo giữ gân.
+- Lác đứng dưới cần lùi trực dưới → 251 (nhớ trễ mi dưới sau lùi); liệt VI hoàn toàn → 252 SRT + Foster (so với VRT/Jensen ở 230).
 
 ## Bảng so sánh nhanh
 
@@ -80,6 +83,10 @@
 | 50 Harada-Ito | Xoay trong chọn lọc | Hạn chế | Chỉ 1/4 trước sợi gân |
 | 226 chuyển liệt III | Đổi hướng cơ | Không | Mục tiêu thẳng nhìn thẳng, không phục hồi vận động |
 | 230 họ chuyển cơ | Tùy bản | Tùy | Đếm mạch máu: tối đa 2 trực/mắt (thiếu máu đoạn trước) |
+| 248 lùi đơn / 249 lùi-cắt cùng bên | Tùy | Không | Một mắt thì liều độc lập; phối hợp khi một mắt gánh hết |
+| 250 giả Brown | (giữ cơ) | — | Gỡ sẹo, cấm cắt gân còn nguyên |
+| 251 lùi trực dưới | Yếu nâng | Có | Trễ mi dưới sau lùi là bạn đồng hành |
+| 252 SRT + Foster | Đổi hướng | Không | Liệt VI hoàn toàn; Foster là bộ tăng áp |
 
 ## Lỗi chung cả nhóm cần nhớ
 

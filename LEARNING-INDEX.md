@@ -260,6 +260,12 @@
 | 246 | S-strabismus | Muscle transplantation lecture (Cybersight) | Ghép cơ thật cho lác ngang cực lớn không còn gì để dùng (Adio, transcript bài giảng). | https://cybersight.org/library/lecture-true-ocular-muscle-transplantation-to-treat-extra-large-horizontal-strabismus/ | [x] |
 | 247 | S-strabismus | SO palsy guide lecture (Cybersight) | Hướng dẫn xử trí liệt chéo trên qua ca (Ganesh): khung chọn 48-51. | https://cybersight.org/library/lecture-superior-oblique-palsy-an-illustrative-guide-to-management-with-case-examples/ | [x] |
 
+| 248 | S-strabismus | Single MR recession (Wagner, Cybersight) | Lùi trực trong một mắt bé gái lác trong bẩm sinh: móc nhỏ, làm sạch mô liên kết. Đối chiếu bản hai mắt 240. | https://cybersight.org/library/surgery-medial-rectus-recession/ | [x] |
+| 249 | S-strabismus | Recess-resect one eye (Cybersight) | Một mắt vừa lùi ngoài vừa cắt trong cho lác ngang lớn một bên. | https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/ | [x] |
+| 250 | S-strabismus | Pseudo-Brown scar removal (Cybersight) | Giả Brown do sẹo dính: gỡ sẹo giữ gân thay vì cắt gân. Phân biệt thật-giả là tất cả. | https://cybersight.org/library/surgery-scar-tissue-removal-as-a-surgical-option-for-pseudo-brown-syndrome/ | [x] |
+| 251 | S-strabismus | IR recession (Cybersight) | Lùi trực dưới cho lác đứng dưới: ép buộc hai mắt so sánh, canh trễ mi dưới sau lùi. | https://cybersight.org/library/surgery-inferior-rectus-recession/ | [x] |
+| 252 | S-strabismus | Augmented SRT Foster (Cybersight) | Liệt VI hoàn toàn: chuyển trực trên ra ngoài + mũi Foster hãm sau tăng lực. | https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
