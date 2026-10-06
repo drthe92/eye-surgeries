@@ -27,6 +27,7 @@
 
 - Lật mi trong + điểm lệ lệch khỏi hồ lệ → **07** (kèm bơm rửa lệ đạo trước mổ).
 - Lật tuổi già + tuột cơ rút (cùng đồ sâu, white line) + lỏng ngang → **08**.
+- Muốn cắt wedge ngoài khâu trực tiếp thay vì giữ dải sụn → **225 Bick cải tiến (YouTube)**; so với 01: 225 nhanh gọn nhưng mất mô vĩnh viễn, 01 giữ mô và chỉnh được độ chặt.
 - Lật toàn bộ (ngang + dọc + thiếu đỡ góc ngoài) → **09**; thêm má trễ hoặc tái phát → **10**.
 - Lật + thiếu da co kéo (kéo mi lên về được vị trí) → **185**; nền bỏng → **186**; co kéo sớm sau ghép → **187** trước khi mổ lại.
 - Quặm tuổi già không sẹo → **11**; có lá trước thừa đè lông → **188**.
@@ -40,6 +41,7 @@
 |---|---|---|---|
 | 07 | Lật trong tuổi già | Dải ngoài + spindle lộn trong | Sonde Bowman suốt bước cắt thoi |
 | 08 | Lật tuổi già 2 trục | Khâu lại cơ rút + dải | Cắt cơ rút đúng 2-3mm |
+| 225 | Lật ngang (YouTube) | Wedge ngoài + khâu trực tiếp | Ướm quyết định lượng cắt; cắt rồi không trả lại được |
 | 09 | Lật toàn bộ | Mũi lộn + dải + nối trên | Lông mi thẳng đứng khi buộc |
 | 10 | Lật nặng/tái phát | 4 cơ chế + dính trong | Mũi lộn buộc cuối cùng |
 | 185/186 | Thiếu da | Giải phóng + ghép da | Đo khuyết khi mi đúng vị trí |

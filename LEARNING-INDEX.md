@@ -234,6 +234,8 @@
 
 | 224 | N-anesthesia | Retrobulbar injection (atlas demo) | Demo 35 giây đường vào kim block sau nhãn cầu: góc dưới-ngoài, hướng đỉnh ổ mắt, hút thử rồi bơm. Phần hình ảnh bổ trợ cho quy trình đầy đủ ở bài 25. | https://eyerounds.org/atlas-video/retrobulbar-injection.htm | [x] |
 
+| 225 | B-ectropion/entropion | Modified Bick's for ectropion (YouTube, Caesar) | Làm chặt ngang bằng wedge toàn lớp phía ngoài rồi khâu trực tiếp + cố định góc (nguyên lý Bick). Khác dải sụn ở chỗ cắt bỏ mô thay vì giữ làm dải. Video không phụ đề nên bài dựng từ nguyên lý chuẩn, cần đối chiếu video. | https://www.youtube.com/watch?v=3TWWOTwbSuk | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
