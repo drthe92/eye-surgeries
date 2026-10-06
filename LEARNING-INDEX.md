@@ -236,6 +236,12 @@
 
 | 225 | B-ectropion/entropion | Modified Bick's for ectropion (YouTube, Caesar) | Làm chặt ngang bằng wedge toàn lớp phía ngoài rồi khâu trực tiếp + cố định góc (nguyên lý Bick). Khác dải sụn ở chỗ cắt bỏ mô thay vì giữ làm dải. Video không phụ đề nên bài dựng từ nguyên lý chuẩn, cần đối chiếu video. | https://www.youtube.com/watch?v=3TWWOTwbSuk | [x] |
 
+| 226 | S-strabismus | 3rd nerve palsy transposition (Fredrick, Cybersight) | Liệt III mạn: cắt cơ ngoài khâu màng xương + chuyển gân chéo trên thành cơ khép + cắt ngắn lớn trực trong. Mục tiêu thẳng nhìn thẳng, không phục hồi vận động. Transcript nguyên văn Cybersight. | https://cybersight.org/library/surgery-strabismus-surgery-for-3rd-nerve-palsy-disinsertion-of-lateral-rectus-transposition-of-superior-oblique-and-resection-of-the-medial-rectus-muscle | [x] |
+| 227 | S-strabismus | LR resection residual esotropia (Fredrick, Cybersight) | Lác trong còn 35Diop sau lùi trực trong hai mắt: cắt ngắn trực ngoài 6,5mm. Dạy mổ lại, ép buộc đúng, khâu củng mạc nông 30%, nút 3-1-1-1, phân biệt u hạt sinh mủ-nang vùi. Transcript nguyên văn. | https://cybersight.org/library/surgery-lateral-rectus-resection-in-residual-esotropia | [x] |
+| 228 | S-strabismus | Simulated resection (SOS, Cybersight) | Tập cắt ngắn trên mắt mô phỏng: móc trải cơ, đánh dấu 5mm, cắt trước chỉ 1mm, nút chống trượt. Mắt mô phỏng, nguyên tắc khâu y như thật. | https://cybersight.org/library/simulated-surgery-strabismus-surgery-resection-techniques | [x] |
+| 229 | S-strabismus | Simulated IO recession (SOS, Cybersight) | Tập lùi chéo dưới mô phỏng: rạch cùng đồ, móc dưới nhìn trực tiếp (cấm móc mù), kiểm tra sợi sau. Quy tắc vàng cho mổ thật. | https://cybersight.org/library/simulated-surgery-strabismus-surgery-inferior-oblique-recession | [x] |
+| 230 | S-strabismus | Transposition family lecture (Cybersight) | Bài giảng họ chuyển cơ: VRT, Yamada, Yokoyama, Jensen, Scott-Buckley, Y-split, Faden. Khi nào chuyển cơ, so sánh các bản, biến chứng thiếu máu đoạn trước. Mức chắc chắn thấp hơn (lecture). | https://cybersight.org/library/lecture-controversies-in-strabismus-surgeries | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
