@@ -33,3 +33,13 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 - ID QUÁ 1000 (2026-10-04, đã kiểm): không vướng. Folder tham chiếu bằng tên chính xác, LEARNING-INDEX sắp tay, index.html parse số bằng int nên không phụ thuộc độ rộng zero-pad. Ảnh hưởng duy nhất là `ls` xếp "1000-" trước "999-" (cosmetic). Tới 999 thì bài mới dùng 4 chữ số (1000, 1001...), không đổi gì bài cũ.
 - Việt hoá sâu: xong 01-02, tiếp tục từ 03 → 174.
 - Bài mới: đánh số tiếp từ 175.
+
+## GOAL học mổ mắt (chốt 2026-10-06 theo chủ repo)
+Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-videos** (đã kiểm chứng có transcript đầy đủ, miễn phí, Orbis). Mỗi lĩnh vực/chủ đề đều tìm cả 2 nguồn. YouTube chỉ là nguồn phụ khi người dùng gửi link.
+1. **Tổng quan mỗi chủ đề:** tổn thương trên bệnh nhân, phẫu thuật giải quyết điều gì, lịch sử các phương pháp (nếu có), nền tảng giải phẫu-sinh lý → từ đó nêu chỉ định, chống chỉ định.
+2. **Kỹ thuật giữ nguyên chiều sâu:** chuẩn bị - mổ - hậu phẫu; từng bước có kỹ thuật chuẩn, tiêu chí nghiệm thu, sai lầm cần tránh.
+3. **So sánh bắt buộc:** các kỹ thuật cùng giải quyết một vấn đề phải được liên kết và so sánh (vì sao khác biệt, vì sao cải tiến), ưu tiên bảng so sánh trong Tổng quan + mục Bài liên quan trong từng bài.
+4. **Cô đọng, không trùng lặp:** phần chung đưa vào lý thuyết nền (Tổng quan/giải phẫu) hoặc trích nguồn; luôn link tới nội dung liên quan.
+5. **Tiếng Việt lên trước**, tiếng Anh trong ngoặc ở lần đầu; link video mở tab mới (index.html); link nội bộ markdown mở cùng tab (giới hạn của markdown).
+6. **Nhãn mức chắc chắn:** mỗi bài ghi rõ transcript nguyên văn / dựng từ nguyên lý / có y văn đối chiếu; chỉ mổ thật khi được đào tạo + giám sát.
+7. **Mã nhóm mới:** khi mở rộng sang chuyên ngành khác (đục thủy tinh thể, giác mạc, glocom, võng mạc...) thì đặt mã nhóm mới (Ca, Co, Gl, Re...) theo yêu cầu học, số thứ tự vẫn tiếp nối không đánh lại.
