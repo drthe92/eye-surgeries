@@ -33,3 +33,7 @@ Lác trong còn 35Diop sau lùi trực trong hai mắt: cắt ngắn trực ngo�
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
 2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
 3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+
+## 7. Bài liên quan
+- [42 — Cắt ngoài thường](../42-lateral-rectus-resection-fornix/technique.md): kỹ thuật gốc.
+- [44 — Chỉ chỉnh](../44-adjustable-suture-lr-resection/technique.md): mổ lại có nên chỉnh không.

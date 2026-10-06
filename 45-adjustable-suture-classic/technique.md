@@ -27,3 +27,7 @@
 1. Phân biệt permanent knot vs bow/slip-knot?
 2. Vì sao chỉnh khi tỉnh và tê mắt mổ?
 3. Chọn cố định hay chỉnh chỉ cho trẻ 5 tuổi lác trong nguyên phát?
+
+## 7. Bài liên quan
+- [44 — Chỉ chỉnh hiện đại](../44-adjustable-suture-lr-resection/technique.md): bản Kemp 2024.
+- [41 — Lùi trực trong](../41-medial-rectus-recession/technique.md): áp chỉ chỉnh cho lùi.

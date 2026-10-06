@@ -33,3 +33,7 @@ Tập lùi cơ chéo dưới trên mắt mô phỏng: rạch cùng đồ thái d
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
 2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
 3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+
+## 7. Bài liên quan
+- [46 — Lùi chéo dưới thật](../46-inferior-oblique-recession/technique.md): tập xong thì mổ 46.
+- [228 — Tập cắt ngắn](../228-simulated-resection/technique.md): cặp tập mô phỏng.

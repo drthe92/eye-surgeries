@@ -32,3 +32,8 @@ Làm yếu cơ trực trong bằng cách lùi điểm bám ra sau (recession): m
 1. Vì sao lùi cơ (recession) làm yếu cơ?
 2. Vì sao hang-back an toàn hơn khâu cố định ngay?
 3. Biến chứng nặng nhất khi khâu cơ là gì và phòng thế nào?
+
+## 7. Bài liên quan
+- [42 — Cắt ngắn trực ngoài](../42-lateral-rectus-resection-fornix/technique.md): lùi-cắt phối hợp lác trong.
+- [44 — Chỉ chỉnh cắt ngoài](../44-adjustable-suture-lr-resection/technique.md): muốn chỉnh sau mổ.
+- [227 — Cắt ngoài lác tái phát (Cybersight)](../227-lr-resection-residual-eso/technique.md): mổ lại sau lùi.

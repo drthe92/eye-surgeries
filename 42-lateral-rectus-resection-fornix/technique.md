@@ -30,3 +30,8 @@ Làm mạnh cơ trực ngoài bằng cách cắt ngắn (resection) rồi khâu 
 1. Vì sao cắt bỏ (resection) làm mạnh cơ?
 2. Vì sao phải đo trước khi khâu?
 3. Phối hợp recess-resect khi nào?
+
+## 7. Bài liên quan
+- [43 — Cắt ngoài đường rìa](../43-lateral-rectus-resection-limbal/technique.md): so sánh hai đường mở.
+- [228 — Tập cắt ngắn mô phỏng](../228-simulated-resection/technique.md): tập trước khi mổ thật.
+- [227 — Cắt ngoài tái phát](../227-lr-resection-residual-eso/technique.md): bản mổ lại với nút 3-1-1-1.

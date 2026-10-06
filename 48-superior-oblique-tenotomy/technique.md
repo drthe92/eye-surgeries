@@ -30,3 +30,7 @@ Làm yếu cơ chéo trên bằng cách cắt gân (tenotomy): triệt để, kh
 1. Vì sao tenotomy triệt để mà không chỉnh liều được?
 2. Nguy cơ lớn nhất khi chẩn đoán nhầm bên liệt là gì?
 3. Chọn tenotomy hay tuck cho SO overaction?
+
+## 7. Bài liên quan
+- [49 — Gấp gân chéo trên](../49-superior-oblique-tuck/technique.md): làm yếu vs làm mạnh — ngược nhau.
+- [50 — Harada-Ito](../50-harada-ito-procedure/technique.md): yếu chọn lọc xoay thay vì cắt hết.

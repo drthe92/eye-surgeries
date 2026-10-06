@@ -34,3 +34,7 @@ Làm mạnh cơ chéo trên bằng cách gấp nếp gân (tuck): rút ngắn đ
 1. Vì sao tuck chỉnh liều được còn tenotomy thì không?
 2. Dấu hiệu gấp quá là gì?
 3. Chọn tuck hay Harada-Ito cho liệt SO kèm xoay ngoài?
+
+## 7. Bài liên quan
+- [48 — Cắt gân chéo trên](../48-superior-oblique-tenotomy/technique.md): ngược nhau hoàn toàn.
+- [51 — Harada-Ito + tuck](../51-harada-ito-so-tuck/technique.md): phối hợp hai tác dụng.

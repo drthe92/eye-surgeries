@@ -27,3 +27,7 @@ Cùng là cắt ngắn cơ trực ngoài như số 42, khác ở đường mở 
 1. Khi nào chọn limbal thay vì cùng đồ?
 2. Nhược điểm lớn nhất của limbal là gì?
 3. Đóng rìa cần đạt gì?
+
+## 7. Bài liên quan
+- [42 — Cắt ngoài đường cùng đồ](../42-lateral-rectus-resection-fornix/technique.md): đường mở nhỏ hơn, sẹo đẹp hơn.
+- [227 — Cắt ngoài tái phát](../227-lr-resection-residual-eso/technique.md): nhưng 227 dùng đường limbus.

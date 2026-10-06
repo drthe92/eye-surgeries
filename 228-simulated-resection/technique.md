@@ -33,3 +33,7 @@ Tập cắt ngắn trực ngoài trên mắt mô phỏng SOS trước khi mổ t
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
 2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
 3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+
+## 7. Bài liên quan
+- [42 — Cắt ngoài thật](../42-lateral-rectus-resection-fornix/technique.md): tập xong thì mổ 42.
+- [229 — Tập chéo dưới](../229-simulated-io-recession/technique.md): cặp tập mô phỏng.

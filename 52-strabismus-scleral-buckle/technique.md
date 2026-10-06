@@ -31,3 +31,7 @@ Mổ lác trên mắt đã đặt đai củng mạc: đai làm đổi hướng-v
 1. Vì sao đai làm sai liều mổ lác thường?
 2. Vì sao bảo tồn đai là ưu tiên số một?
 3. Phân biệt hạn chế do đai với liệt cơ thật thế nào?
+
+## 7. Bài liên quan
+- [41 — Lùi trực trong](../41-medial-rectus-recession/technique.md): kỹ thuật lùi nền.
+- [42 — Cắt ngắn trực ngoài](../42-lateral-rectus-resection-fornix/technique.md): kỹ thuật cắt nền.

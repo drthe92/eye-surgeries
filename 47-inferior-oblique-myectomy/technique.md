@@ -33,3 +33,7 @@ Làm yếu cơ chéo dưới bằng cách cắt bỏ một đoạn cơ (myectomy
 1. Vì sao myectomy không chỉnh liều được?
 2. Vì sao cắt quá ngắn gây tái phát?
 3. Chọn lùi cơ hay myectomy cho IO +2 kèm DVD?
+
+## 7. Bài liên quan
+- [46 — Lùi chéo dưới](../46-inferior-oblique-recession/technique.md): muốn giữ cơ-chỉnh liều thì lùi.
+- [229 — Tập mô phỏng](../229-simulated-io-recession/technique.md): cùng làm được myectomy.

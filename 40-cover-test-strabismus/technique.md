@@ -32,3 +32,7 @@ Chuẩn hóa đo lác để chỉ định mổ: che mắt tách hợp thị từ
 1. Vì sao che phải ngắn ở single test?
 2. Vì sao alternate đo được góc lớn hơn single?
 3. Quy tắc đáy lăng kính cho 4 hướng lác?
+
+## 7. Bài liên quan
+- [41 — Lùi trực trong](../41-medial-rectus-recession/technique.md): đo xong mới có liều lùi.
+- [45 — Chỉ chỉnh kinh điển](../45-adjustable-suture-classic/technique.md): khi nào cần chỉnh sau mổ.

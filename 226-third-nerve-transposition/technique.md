@@ -33,3 +33,7 @@ Liệt III mạn co rút cơ trực ngoài: cắt cơ ngoài khâu vào màng x�
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
 2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
 3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+
+## 7. Bài liên quan
+- [230 — Họ chuyển cơ](../230-transposition-family-lecture/technique.md): đặt 226 trong họ chuyển cơ.
+- [48 — Cắt gân chéo trên](../48-superior-oblique-tenotomy/technique.md): 226 giữ gân để chuyển thay vì cắt.

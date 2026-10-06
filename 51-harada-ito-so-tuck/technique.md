@@ -12,7 +12,7 @@ Một ca hai việc cho liệt SO hai bên: tuck toàn phần tăng hạ nhãn +
 
 ## 3. Chuẩn bị
 - Vô cảm: mê (thường trẻ/liệt phức tạp).
-- Dụng cụ/chỉ: bút đánh dấu (marking), vòng Cionni, lưỡng cực (bipolar), Westcott, tucker, kẹp Hartmann cải tiến, polyester không tiêu 6-0, Vicryl 6-0.
+- Dụng cụ/chỉ: bút đánh dấu, vòng Cionni, đốt lưỡng cực (bipolar), Westcott, tucker, kẹp Hartmann cải tiến, polyester không tiêu 6-0, Vicryl 6-0.
 - Bệnh nhân: đo xoay khách quan, đánh dấu cực dọc mi-giác mạc + vòng Cionni nửa góc, đồng thuận (consent) song thị tồn lưu.
 - Đánh giá nền: Parks-Bielschowsky 2 bên, đo xoắn.
 
@@ -31,3 +31,7 @@ Một ca hai việc cho liệt SO hai bên: tuck toàn phần tăng hạ nhãn +
 1. Vì sao vòng Cionni đặt theo nửa góc xoay?
 2. Vì sao khe 1mm khi nhấc tucker là chuẩn?
 3. Vì sao điểm xuyên mới gần hoàng điểm và phòng thủng thế nào?
+
+## 7. Bài liên quan
+- [50 — Harada-Ito đơn](../50-harada-ito-procedure/technique.md): một việc.
+- [49 — Tuck đơn](../49-superior-oblique-tuck/technique.md): việc còn lại.

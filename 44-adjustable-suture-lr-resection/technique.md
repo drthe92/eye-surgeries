@@ -29,3 +29,7 @@ cắt bỏ (Resection) cơ ngoài nhưng khâu bằng nút tạm (bow/slip-knot)
 1. Vì sao chỉnh chỉ chỉ làm được ở người lớn hợp tác?
 2. Vì sao vẫn phải đo liều ban đầu cẩn thận?
 3. Khi nào khóa nút thành vĩnh viễn?
+
+## 7. Bài liên quan
+- [45 — Chỉ chỉnh kinh điển](../45-adjustable-suture-classic/technique.md): định nghĩa gốc.
+- [42 — Cắt ngoài thường](../42-lateral-rectus-resection-fornix/technique.md): không chỉnh thì khâu vĩnh viễn.

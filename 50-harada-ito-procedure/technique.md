@@ -33,3 +33,7 @@ Tăng chọn lọc lực xoay trong của cơ chéo trên bằng cách chuyển 
 1. Vì sao chỉ chuyển 1/4 trước mà không gấp toàn bộ gân?
 2. Vì sao điểm bám mới phải ra trước-ngoài?
 3. Khi nào phối hợp Harada-Ito với tuck toàn phần?
+
+## 7. Bài liên quan
+- [48 — Cắt gân chéo trên](../48-superior-oblique-tenotomy/technique.md): cắt hết vs chuyển chọn lọc.
+- [51 — Harada-Ito + tuck](../51-harada-ito-so-tuck/technique.md): thêm tuck khi cần cả hạ nhãn.

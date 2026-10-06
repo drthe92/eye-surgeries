@@ -33,3 +33,7 @@ Bài giảng kỹ thuật chuyển cơ khi không còn cơ để lùi/cắt: VRT
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
 2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
 3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+
+## 7. Bài liên quan
+- [226 — Chuyển cơ liệt III](../226-third-nerve-transposition/technique.md): ca thực tế của họ chuyển cơ.
+- [51 — Harada-Ito + tuck](../51-harada-ito-so-tuck/technique.md): chuyển chéo trên trong liệt SO.

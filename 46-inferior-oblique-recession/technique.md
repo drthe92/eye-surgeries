@@ -30,3 +30,7 @@ Làm yếu cơ chéo dưới bằng cách lùi điểm bám ra sau theo cung (gr
 1. Vì sao lùi cơ (recession) giữ được khả năng chỉnh liều còn myectomy thì không?
 2. Dấu hiệu IO overaction trên khám là gì?
 3. Anti-elevation syndrome là gì và do đâu?
+
+## 7. Bài liên quan
+- [47 — Cắt chéo dưới](../47-inferior-oblique-myectomy/technique.md): lùi (chỉnh liều) vs cắt (triệt để).
+- [229 — Tập lùi chéo dưới mô phỏng](../229-simulated-io-recession/technique.md): quy tắc móc dưới nhìn trực tiếp.
