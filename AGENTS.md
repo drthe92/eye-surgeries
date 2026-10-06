@@ -39,7 +39,7 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 1. **Tổng quan mỗi chủ đề:** tổn thương trên bệnh nhân, phẫu thuật giải quyết điều gì, lịch sử các phương pháp (nếu có), nền tảng giải phẫu-sinh lý → từ đó nêu chỉ định, chống chỉ định.
 2. **Kỹ thuật giữ nguyên chiều sâu:** chuẩn bị - mổ - hậu phẫu; từng bước có kỹ thuật chuẩn, tiêu chí nghiệm thu, sai lầm cần tránh.
 3. **So sánh bắt buộc:** các kỹ thuật cùng giải quyết một vấn đề phải được liên kết và so sánh (vì sao khác biệt, vì sao cải tiến), ưu tiên bảng so sánh trong Tổng quan + mục Bài liên quan trong từng bài.
-4. **Cô đọng, không trùng lặp:** phần chung đưa vào lý thuyết nền (Tổng quan/giải phẫu) hoặc trích nguồn; luôn link tới nội dung liên quan.
+4. **Cô đọng, không trùng lặp:** phần chung đưa vào lý thuyết nền (Tổng quan/giải phẫu) hoặc trích nguồn; luôn link tới nội dung liên quan. Rà soát trùng lặp định kỳ mỗi khi xong một nhóm.
 5. **Tiếng Việt lên trước**, tiếng Anh trong ngoặc ở lần đầu; link video mở tab mới (index.html); link nội bộ markdown mở cùng tab (giới hạn của markdown).
 6. **Nhãn mức chắc chắn:** mỗi bài ghi rõ transcript nguyên văn / dựng từ nguyên lý / có y văn đối chiếu; chỉ mổ thật khi được đào tạo + giám sát.
 7. **Mã nhóm mới:** khi mở rộng sang chuyên ngành khác (đục thủy tinh thể, giác mạc, glocom, võng mạc...) thì đặt mã nhóm mới (Ca, Co, Gl, Re...) theo yêu cầu học, số thứ tự vẫn tiếp nối không đánh lại.
