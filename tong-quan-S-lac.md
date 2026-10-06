@@ -1,6 +1,6 @@
 # Tổng quan nhóm S — Lác (bài 40–52, 226–230)
 
-> Hai nguồn: EyeRounds (13 video kinh điển + hiện đại: 40–52) và Cybersight (5 video: liệt III, mổ lại, mô phỏng, bài giảng chuyển cơ: 226–230).
+> Hai nguồn: EyeRounds (13 video kinh điển + hiện đại: 40–52) và Cybersight (22 video: liệt III, mổ lại, mô phỏng, chuyển cơ, hội chứng đặc biệt, botox: 226–230, 231–247).
 
 ## Thứ tự học
 
@@ -27,7 +27,27 @@
 14. **50 Harada-Ito** — chuyển chọn lọc 1/4 trước sợi gân tăng xoay trong.
 15. **51 Harada-Ito + tuck** — một ca hai việc cho liệt SO hai bên.
 
-### Cứu vãn và đặc biệt (52, 226, 230)
+### Lác ngoài lớn và trẻ em (235, 238–240, 242)
+19. **239 Lùi ngoài hai mắt** — bài chuẩn lác ngoài lớn nguyên phát.
+20. **235 Lùi tối đa + cắt trong** — mạn co rút: mổ theo cơ chế cản.
+21. **238 Treo lùi ngoài-trên** — trẻ lác ngoài + DVD qua cùng đồ.
+22. **240 Lùi trong hai mắt** — bài chuẩn lác trong trẻ em (nhớ phản xạ mắt-tim, chữa nhược thị sau mổ).
+23. **242 Botox lác trong sớm** — cầu nối phát triển thị giác, thay dao kéo tạm thời.
+
+### Hội chứng đặc biệt (231–234, 236–237, 241, 247)
+24. **231 Knapp** — thiếu nâng một mắt: mượn hai cơ ngang.
+25. **232 Duane lác trong** — lùi trực trong, CẤM cắt trực ngoài.
+26. **233/234 Đưa chéo dưới ra trước** — hãm nâng DVD, một bên và hai bên.
+27. **236 Trực trong đặt lên trên** — một mũi vừa đưa vào vừa nâng.
+28. **237 Gấp chéo trên + lùi trực dưới** — phối hợp trục đứng.
+29. **241 Gấp chéo trên bản khác** — so với 49 kinh điển.
+30. **247 Hướng dẫn liệt chéo trên** — khung chọn 48–51 qua ca.
+
+### Tập mô phỏng và kỹ thuật thay thế (228–229, 243–245)
+31. **244 Khâu cơ bản** → **228 cắt ngắn** + **229 chéo dưới** + **243 nút nơ**: thứ tự tập đúng.
+32. **245 Gấp nếp trực (plication)** — tăng lực không cắt, giữ mạch máu, tháo được.
+
+### Cứu vãn cuối cùng (52, 226, 230, 246)
 16. **52 Mổ lác trên đai củng mạc** — đai đổi hướng cơ, liều khác thường.
 17. **226 Chuyển cơ liệt III (Cybersight)** — cắt ngoài khâu màng xương + chuyển chéo trên thành khép + cắt ngắn trực trong lớn.
 18. **230 Họ chuyển cơ (bài giảng)** — VRT, Yamada, Yokoyama, Jensen, Scott-Buckley, Y-split, Faden: khi nào chuyển, so sánh các bản.
@@ -41,6 +61,9 @@
 - Liệt chéo trên: cần yếu thêm → 48; cần mạnh lên → 49; chỉ thiếu xoay trong (lác đứng do xoay) → 50; hai bên → 51.
 - Liệt III/vi mạn co rút không còn cơ để lùi → 226 (chuyển + cắt bỏ lực đối kháng); các liệt nặng khác → 230 chọn bản chuyển.
 - Mắt đã đặt đai củng mạc → 52 (đo lại vector cơ sau đai).
+- Lác ngoài lớn nguyên phát → 239; mạn co rút → 235; trẻ + DVD → 238; trẻ lác trong → 240 (hoặc 242 botox nếu còn nhỏ).
+- Duane → 232 (cấm cắt ngoài); thiếu nâng một mắt → 231 Knapp; DVD → 233/234; lệch chéo vừa đưa vào vừa nâng → 236.
+- Mắt nguy cơ thiếu máu (đã mổ nhiều cơ) cần tăng lực → 245 plication thay vì cắt; hết mọi cách → 246 ghép cơ.
 
 ## Bảng so sánh nhanh
 
