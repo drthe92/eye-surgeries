@@ -55,3 +55,11 @@
 - Sai bệnh là sai tất cả: tuổi già–sẹo–bẩm sinh phải phân biệt trước khi chọn mổ (test kéo da, test kéo mi, soi kết mạc tìm sẹo).
 - Chỉ sửa một trục khi bệnh hai trục → tái phát (lỏng ngang bỏ sót là thủ phạm hàng đầu).
 - Giác mạc là nạn nhân cuối: mọi quặm đều phải nhuộm giác mạc trước và sau mổ.
+
+## Phụ lục: quặm co thắt sau viêm (spastic entropion)
+
+- Cơ chế: viêm mạn (viêm màng bồ đào, viêm sau mổ nội nhãn) kích thích bề mặt nhãn cầu → phản xạ co cơ vòng kéo dài (blepharospasm) → phần trước vách đè lên phần trước sụn (overriding) → xoay bờ mi vào trong. Vòng xoắn: quặm → lông cọ giác mạc → viêm thêm → co thắt thêm.
+- Vì sao người già dễ bị: mi đã lỏng sẵn + cơ rút đã yếu — chỉ cần thêm co thắt là đủ quặm; mi trẻ còn căng nên chịu được cùng mức viêm.
+- Viêm mạn còn để lại thêm hai di chứng: sẹo kết mạc dần (thành phần sẹo) và teo tổ chức — nên quặm co thắt để lâu sẽ thành quặm thực sự (tuổi già + sẹo).
+- Xử trí theo cơ chế: phá vòng co thắt trước (chống viêm triệt để, bôi trơn, lens băng, botox vào cơ vòng trước sụn/trước vách), mũi Quickert khi cần; chỉ mổ triệt để (như bài 11/12) khi đã thành quặm thực sự, đừng mổ thì co thắt cấp.
+- Nguồn: tutorial Lower Eyelid Malpositions, EyeRounds 2024 (mục Spastic Entropion).
