@@ -30,3 +30,4 @@ Bít điểm lệ vĩnh viễn bằng sẹo nhiệt cho khô mắt nặng: giữ
 1. Vì sao phải thử nút tạm trước khi đốt vĩnh viễn?
 2. Vì sao không cần đốt trong lệ quản?
 3. Phân biệt chỉ định số 102 vs số 103?
+- [254 — Khâu bít điểm lệ](../254-suture-punctal-occlusion/technique.md): thử tạm trước khi đốt vĩnh viễn.

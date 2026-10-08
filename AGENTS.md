@@ -13,7 +13,7 @@ Repo: `github.com/drthe92/eye-surgeries` — thư viện học phẫu thuật m�
 - `technique.md`: mở đầu bằng dòng link Video click được; cuối mỗi bước trong Quy trình có thể ghi "Dặn quay lại ngay" khi là thủ thuật lâm sàng.
 - `surgeries/LEARNING-INDEX.md`: bảng Thứ tự | Nhóm | Title | Tóm tắt (~100 từ) | Link Vimeo | Xong. Thêm dòng mới khi thêm bài.
 - `index.html` ở gốc repo: hub học tập (thẻ theo nhóm, search Anh-Việt, lọc nhóm, link Bài học/Transcript/Video). Sinh lại bằng script khi thêm bài hoặc đổi link. Link bài học giữ dạng blob `github.com` (KHÔNG chuyển sang domain riêng — quyết định của chủ repo).
-- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm, U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong, Bx sinh thiết-u mi-chắp (mới từ 175).
+- Nhóm mã: A góc ngoài, B lật-quặm, C tái tạo mi dưới, D nâng má, N vô cảm, M góc trong (mới: 253-255; điểm lệ học chính ở L, liên kết chéo; nếp bán nguyệt-cục lệ không có video mổ riêng trên cả 2 nguồn), U mi trên-co rút, S lác, W mày-trán, E blepharoplasty, P sụp mi, L lệ đạo, F liệt mặt, T chấn thương, O hốc mắt, R tái tạo mi trên-góc trong, Bx sinh thiết-u mi-chắp (mới từ 175).
 - QUY TẮC SỐ-GHÉP NHÓM (2026-10-04): số folder là ID ổn định để giao tiếp (so sánh, trích dẫn giữa các kỹ thuật), KHÔNG BAO GIỜ đánh lại số cũ (link blob GitHub phải ổn định). Bài cùng chuyên đề nhưng đến sau vẫn lấy số tiếp nối, chỉ gắn đúng tag nhóm; index.html gom hiển thị theo tag nên vẫn học gọn theo nhóm. CHỈ tách tag con khi một nhóm quá đông (trên ~15-20 bài, lọc mới có ý nghĩa) — ví dụ N hiện chỉ 4 bài nên giữ nguyên một tag N-anesthesia, không tách.
 
 ## Quy trình làm việc mỗi đợt

@@ -266,6 +266,10 @@
 | 251 | S-strabismus | IR recession (Cybersight) | Lùi trực dưới cho lác đứng dưới: ép buộc hai mắt so sánh, canh trễ mi dưới sau lùi. | https://cybersight.org/library/surgery-inferior-rectus-recession/ | [x] |
 | 252 | S-strabismus | Augmented SRT Foster (Cybersight) | Liệt VI hoàn toàn: chuyển trực trên ra ngoài + mũi Foster hãm sau tăng lực. | https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/ | [x] |
 
+| 253 | M-medial | 2-snip vs 3-snip punctoplasty | So sánh mở điểm lệ: 2 nhát đủ rộng ít sẹo hơn 3 nhát; 3-snip chỉ khi xơ cứng cần rộng tối đa. | https://eyerounds.org/video/plastics/3/10-two-snip-vs-three-snip.htm | [x] |
+| 254 | M-medial | Suture punctal occlusion | Bít điểm lệ bằng chỉ khâu tạm thời cho khô mắt: thử trước, hợp thì đốt vĩnh viễn (bài 103). | https://eyerounds.org/video/plastics/6/12-suture-occlusion%20of%20the%20puncta4.htm | [x] |
+| 255 | M-medial | BPES telecanthus repair | Hẹp khe bẩm sinh: Z-plasty nếp quạt + cố định gân góc trong vào mào lệ; luôn kèm sụp mi. | https://eyerounds.org/video/plastics/4/9-BPES-repair.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

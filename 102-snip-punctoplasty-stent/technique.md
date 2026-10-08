@@ -30,3 +30,4 @@ Mở rộng điểm lệ hẹp bằng 2 nhát cắt (dọc + chéo phần sau) k
 1. Chạm cứng và chạm mềm khác nhau thế nào và quyết định gì?
 2. Vì sao chỉ mở điểm lệ mi dưới?
 3. Hook lấy stent ở đâu?
+- [253 — Mở điểm lệ 2 vs 3 nhát](../253-snip-2-vs-3/technique.md): chọn 2 hay 3 nhát.
