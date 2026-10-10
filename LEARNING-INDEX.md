@@ -270,6 +270,8 @@
 | 254 | M-medial | Suture punctal occlusion | Bít điểm lệ bằng chỉ khâu tạm thời cho khô mắt: thử trước, hợp thì đốt vĩnh viễn (bài 103). | https://eyerounds.org/video/plastics/6/12-suture-occlusion%20of%20the%20puncta4.htm | [x] |
 | 255 | M-medial | BPES telecanthus repair | Hẹp khe bẩm sinh: Z-plasty nếp quạt + cố định gân góc trong vào mào lệ; luôn kèm sụp mi. | https://eyerounds.org/video/plastics/4/9-BPES-repair.htm | [x] |
 
+| 256 | P-ptosis | Anterior ptosis repair (Caesar, YouTube) | Cắt ngắn cơ nâng đường trước góc nhìn phẫu thuật viên (bản 2025): rạch nếp mi, bộc lộ-tách-cắt ngắn-khâu vào sụn, chỉnh ngồi trên bàn. Cùng họ bài 81 Allen để so hai tay mổ. Video giới hạn tuổi nên dựng từ nguyên lý. | https://youtu.be/jMhv-ERzC08 | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
