@@ -29,7 +29,7 @@
 - Lật tuổi già + tuột cơ rút (cùng đồ sâu, white line) + lỏng ngang → **08**.
 - Muốn cắt wedge ngoài khâu trực tiếp thay vì giữ dải sụn → **225 Bick cải tiến (YouTube)**; so với 01: 225 nhanh gọn nhưng mất mô vĩnh viễn, 01 giữ mô và chỉnh được độ chặt.
 - Lật toàn bộ (ngang + dọc + thiếu đỡ góc ngoài) → **09**; thêm má trễ hoặc tái phát → **10**.
-- Lật + thiếu da co kéo (kéo mi lên về được vị trí) → **185**; nền bỏng → **186**; co kéo sớm sau ghép → **187** trước khi mổ lại.
+- Lật + thiếu da co kéo (kéo mi lên về được vị trí) → **185** (cùng bên hết da thì **266** ghép sau tai đối bên); nền bỏng → **186**; co kéo sớm sau ghép → **187** trước khi mổ lại.
 - Quặm tuổi già không sẹo → **11**; có lá trước thừa đè lông → **188**.
 - Quặm sẹo nhẹ-vừa → **189**; sẹo vừa-nặng hai mặt còn sụn dùng được → **190**; xơ cứng toàn bộ → **12**.
 - Chỉ vài lông sai hướng, bờ mi còn thẳng → **191**, đừng mổ sụn.
