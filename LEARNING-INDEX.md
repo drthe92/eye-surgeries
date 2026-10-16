@@ -284,6 +284,16 @@
 | 265 | F-palsy | Facial palsy lecture (Cybersight) | Khung xử trí mắt liệt mặt tạm→vĩnh viễn. | https://cybersight.org/library/lecture-facial-palsy-oculoplastic-management/ | [x] |
 | 266 | B-ectropion/entropion | Retroauricular graft (Cybersight) | Lật sẹo ghép da sau tai đối bên khi cùng bên hết da. | https://cybersight.org/library/surgery-repair-of-cicatricial-ectropion-with-contralateral-retroauricular-skin-graft/ | [x] |
 
+| 267 | L-lacrimal | Canaliculitis treatment | Viêm lệ quản: nặn-thông trước, không đỡ thì mở 114. | https://eyerounds.org/video/plastics/2/Canaliculitis-TX.htm | [x] |
+| 268 | L-lacrimal | Lacrimal dysgenesis | Bất sản lệ đạo: đánh giá toàn hệ, không phải tắc thường. | https://eyerounds.org/atlas-video/evaluation-and-treatment-of-lacrimal-dysgenesis.htm | [x] |
+| 269 | L-lacrimal | Sac stones | Sỏi túi lệ lấy trong thì DCR; bỏ sót là thất bại. | https://eyerounds.org/video/plastics/9/lacrimal-sac-stones.htm | [x] |
+| 270 | L-lacrimal | Cutaneous fistula | Rò lệ ra da: cắt đường rò + xử trí túi gốc. | https://eyerounds.org/atlas-video/cutaneous-lacrimal-fistula.htm | [x] |
+| 271 | L-lacrimal | Turbinate infracture | Bẻ cuốn mũi mở tầm nhìn nội soi. | https://eyerounds.org/video/plastics/1/Inferior-turbinate-infracture.htm | [x] |
+| 272 | L-lacrimal | Bilateral DCR | DCR ngoài hai bên một/hai thì. | https://eyerounds.org/atlas-video/bilateral-dcr.htm | [x] |
+| 273 | L-lacrimal | Endonasal DCR (Yang) | DCR qua đường mũi, không sẹo da (transcript nguyên văn). | https://cybersight.org/library/surgery-endonasal-dacryocystorhinostomy-dcr/ | [x] |
+| 274 | L-lacrimal | Intubation + recon | Rách lệ quản + khuyết mi: lệ trước mi sau. | https://cybersight.org/library/lecture-canalicular-intubation-lower-lid-reconstruction-with-a-skin-graft/ | [x] |
+| 275 | L-lacrimal | NLDO children lecture | Khung tắc lệ trẻ em cho 104/121. | https://cybersight.org/library/lecture-lacrimal-duct-obstruction-in-children/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
