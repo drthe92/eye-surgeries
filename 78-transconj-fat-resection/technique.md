@@ -28,3 +28,7 @@ Cắt bảo tồn cả 3 mỡ qua đường kết mạc (không sẹo da) cho b�
 1. Vì sao bọng không rãnh sâu thì cắt, có rãnh sâu thì chuyển?
 2. Vì sao mỡ ngoài hay bị bỏ sót và hậu quả?
 3. Cắt quá vs cắt thiếu, cái nào khó sửa hơn?
+
+## 7. Bài liên quan
+- [77 — Chuyển mỡ](../77-transconj-fat-reposition/technique.md): rãnh sâu.
+- [79 — Đường da](../79-transcut-lower-blepharoplasty/technique.md): da thừa.

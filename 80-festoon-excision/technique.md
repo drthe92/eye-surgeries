@@ -30,3 +30,7 @@ Trị bọng nước gò má (festoon) bằng cắt trực tiếp và xóa kho�
 1. Vì sao đích chính là xóa khoảng chết chứ không phải cắt nhiều da?
 2. Vì sao nếp da mỡ luôn đi kèm đánh giá lỏng mi?
 3. Khi nào cắt trực tiếp đủ và khi nào cần cách khác?
+
+## 7. Bài liên quan
+- [79 — Blepharo dưới](../79-transcut-lower-blepharoplasty/technique.md): gốc xử trí mi dưới.
+- [277 — Carter](../277-lower-transconj-bleph-carter/technique.md): so tay mổ.

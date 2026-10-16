@@ -30,3 +30,7 @@ Tạo nếp mi thấp vừa chắc cho mắt châu Á bằng cách tái lập b�
 1. Vì sao cấm mở vách ở mi châu Á?
 2. Vì sao sụp mi thì cắt cơ Muller-kết mạc (MMCR) trước blepharo sau?
 3. Một đường khâu đạt hai việc gì?
+
+## 7. Bài liên quan
+- [75 — Dời nếp mi](../75-raising-lid-crease/technique.md): người lớn nếp thấp.
+- [70 — Blepharo nền](../70-bilateral-upper-blepharoplasty/technique.md): so sánh.

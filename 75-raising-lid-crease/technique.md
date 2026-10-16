@@ -29,3 +29,7 @@ Dời nếp mi lên cao bằng cách xóa bám thấp rồi tái bám cao: bóc 
 1. Vì sao phải xóa bám thấp trước khi tạo bám cao?
 2. Nếp đôi sau mổ do đâu?
 3. Vì sao cần treo mày kèm?
+
+## 7. Bài liên quan
+- [74 — Mắt châu Á](../74-asian-upper-blepharoplasty/technique.md): nếp thấp.
+- [70 — Blepharo nền](../70-bilateral-upper-blepharoplasty/technique.md): gốc.

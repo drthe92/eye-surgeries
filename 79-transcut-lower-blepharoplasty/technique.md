@@ -29,3 +29,7 @@
 1. Vì sao đường da bắt buộc cân nhắc dải còn đường kết mạc thì không?
 2. Khi nào kẹp mỡ và nguy cơ của kẹp là gì?
 3. Rãnh sâu thì xử trí khác thế nào?
+
+## 7. Bài liên quan
+- [77 — Kết mạc](../77-transconj-fat-reposition/technique.md): không sẹo da.
+- [278 — Botox co thắt](../278-botox-blepharospasm/technique.md): lệch mi sau mổ.

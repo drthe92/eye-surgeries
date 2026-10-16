@@ -32,3 +32,8 @@ Trẻ hóa rãnh lệ bằng chuyển mỡ tự thân (medial-trung tâm qua b�
 1. Vì sao chuyển mỡ hơn cắt bỏ ở rãnh lệ sâu?
 2. Cơ nào nằm giữa 2 mỡ chuyển và nguy cơ là gì?
 3. Vì sao pinch không được quá rìa trong?
+
+## 7. Bài liên quan
+- [78 — Cắt mỡ](../78-transconj-fat-resection/technique.md): bọng đơn thuần.
+- [79 — Đường da](../79-transcut-lower-blepharoplasty/technique.md): da thừa.
+- [277 — Carter](../277-lower-transconj-bleph-carter/technique.md): so tay mổ.

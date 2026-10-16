@@ -29,3 +29,7 @@ Cùng blepharo như số 70 nhưng cắt-cầm máu hoàn toàn bằng monopolar
 1. Đánh đổi monopolar vs dao là gì?
 2. Vì sao cắt hết cơ vòng ngoài chống sụp mày?
 3. Phân biệt mỡ medial trắng với mỡ trước cân vàng để làm gì?
+
+## 7. Bài liên quan
+- [70 — Blepharo nền](../70-bilateral-upper-blepharoplasty/technique.md): gốc.
+- [276 — Carter](../276-upper-bleph-carter/technique.md): so tay mổ.

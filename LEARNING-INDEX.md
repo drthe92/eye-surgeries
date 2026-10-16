@@ -294,6 +294,11 @@
 | 274 | L-lacrimal | Intubation + recon | Rách lệ quản + khuyết mi: lệ trước mi sau. | https://cybersight.org/library/lecture-canalicular-intubation-lower-lid-reconstruction-with-a-skin-graft/ | [x] |
 | 275 | L-lacrimal | NLDO children lecture | Khung tắc lệ trẻ em cho 104/121. | https://cybersight.org/library/lecture-lacrimal-duct-obstruction-in-children/ | [x] |
 
+| 276 | E-blepharo | Upper blepharoplasty (Carter) | Tạo hình mi trên tay mổ Carter, so Allen 70-72. | https://eyerounds.org/atlas-video/blepharoplasty-upper.htm | [x] |
+| 277 | E-blepharo | Lower transconj bleph (Carter) | Tạo hình mi dưới kết mạc Carter, so 77/78. | https://eyerounds.org/atlas-video/blepharoplasty-lower-Transconjunctival.htm | [x] |
+| 278 | E-blepharo | Botox for blepharospasm | Tiêm botox trị co thắt mi; phá vòng xoắn, liều-nhắc lại. | https://eyerounds.org/atlas-video/Botox-inject-for-Blepharospasm.htm | [x] |
+| 279 | B-ectropion/entropion | Distichiasis repair | Sửa hàng lông phụ: phá nang lông phụ, giữ hàng chính. | https://eyerounds.org/atlas-video/Distichiasis-repair.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

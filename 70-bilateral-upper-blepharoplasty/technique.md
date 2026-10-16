@@ -32,3 +32,8 @@ Cắt da-cơ vòng thừa mi trên + mỡ medial qua đường nếp mi: bài n�
 1. Vì sao không kẹp mỡ trước khi cắt?
 2. Vì sao tê bổ sung mỡ sau bộc lộ?
 3. Vì sao đóng từ giữa ra ngoài?
+
+## 7. Bài liên quan
+- [71 — Blepharo đốt đơn cực](../71-upper-bleph-monopolar/technique.md): so cách cầm máu.
+- [72 — Kéo vs cautery](../72-upper-blepharoplasty-standard/technique.md): so cách cắt mỡ.
+- [276 — Carter](../276-upper-bleph-carter/technique.md): so tay mổ.

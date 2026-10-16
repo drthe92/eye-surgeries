@@ -31,3 +31,7 @@ Bốn thủ thuật qua một đường mi: blepharo (da-mỡ) + treo mày (brow
 1. Vì sao treo góc phải để chưa buộc tới sau cắt cơ Muller-kết mạc?
 2. Vì sao nút cắt cơ Muller-kết mạc để ở kết mạc thay vì xuyên đường mi?
 3. Khi nào gộp 4 việc và khi nào tách ca?
+
+## 7. Bài liên quan
+- [70 — Blepharo nền](../70-bilateral-upper-blepharoplasty/technique.md): gốc.
+- [75 — Dời nếp](../75-raising-lid-crease/technique.md): một trong bốn việc.

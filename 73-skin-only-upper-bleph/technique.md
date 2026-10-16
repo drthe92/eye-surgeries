@@ -30,3 +30,7 @@ Chỉ cắt da, giữ nguyên cơ vòng để bảo tồn bơm lệ và độ đ
 1. Vì sao giữ cơ vòng bảo vệ được khô mắt?
 2. Vì sao giữ cơ lại phải thêm treo mày?
 3. Hỗn hợp tê mỡ 3 thành phần gồm gì và để làm gì?
+
+## 7. Bài liên quan
+- [70 — Blepharo đầy đủ](../70-bilateral-upper-blepharoplasty/technique.md): khô mắt thì giữ cơ.
+- [75 — Dời nếp lên](../75-raising-lid-crease/technique.md): nếp thấp.

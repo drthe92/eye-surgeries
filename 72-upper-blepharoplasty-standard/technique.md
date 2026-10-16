@@ -28,3 +28,7 @@ Phiên bản chuẩn để so sánh dụng cụ: một bên cắt mỡ bằng k�
 1. Khi nào chọn kéo, khi nào chọn dao đốt cắt mỡ?
 2. Vì sao skin-only cho BN khô mắt?
 3. Vì sao tê mỡ là bắt buộc?
+
+## 7. Bài liên quan
+- [70 — Blepharo nền](../70-bilateral-upper-blepharoplasty/technique.md): gốc.
+- [77 — Đường kết mạc](../77-transconj-fat-reposition/technique.md): mi dưới.
