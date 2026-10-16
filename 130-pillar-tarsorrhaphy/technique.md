@@ -32,3 +32,8 @@ Khép mi 2 điểm bằng trụ sụn-kết mạc mi trên chuyển xuống di�
 1. Vì sao 2 trụ ngang rìa mà không phải giữa?
 2. Vì sao buộc qua bolster?
 3. Khi nào tháo và khi nào giữ lâu?
+
+## 7. Bài liên quan
+- [264 — Sửa dính trụ](../264-pillar-revision/technique.md): hỏng thì sửa.
+- [131 — Dính ngoài](../131-lateral-tarsorrhaphy/technique.md): trụ không đủ thì ngoài.
+- [265 — Bài giảng](../265-facial-palsy-lecture/technique.md): khung chọn.

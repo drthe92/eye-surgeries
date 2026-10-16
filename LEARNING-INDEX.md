@@ -277,6 +277,13 @@
 | 259 | P-ptosis | Treatment options ptosis (lecture) | Khung chọn bẩm sinh/mắc phải theo chức năng cơ nâng cho mọi bài 81-101. | https://cybersight.org/library/lecture-treatment-options-for-congenital-and-acquired-ptosis/ | [x] |
 | 260 | P-ptosis | Ptosis workup (lecture) | Tầm soát sụp mới mắc trước khi mổ: dao động, đồng tử, vận nhãn. | https://cybersight.org/library/ptosis-when-is-a-work-up-required-how-do-we-fix-it/ | [x] |
 
+| 261 | F-palsy | Glue tarsorrhaphy | Khép tạm nhanh nhất bằng keo dán bờ mi, tháo bằng dung môi. | https://eyerounds.org/video/plastics/2/Glue-tarsorrhaphy.htm | [x] |
+| 262 | F-palsy | Suture tarsorrhaphy (temp) | Khép tạm bằng chỉ qua đệm, tháo là mở lại. | https://eyerounds.org/video/plastics/6/13-suture-tarsorrhaphy.htm | [x] |
+| 263 | F-palsy | Severing tarsorrhaphy | Mở dính đúng lớp cũ + steroid chống dính lại. | https://eyerounds.org/video/plastics/4/6-opening-tarsorrhaphy.htm | [x] |
+| 264 | F-palsy | Pillar revision | Sửa dính trụ hỏng: sửa nguyên nhân. | https://eyerounds.org/atlas-video/revision-of-pillar-tarsorrhaphy.htm | [x] |
+| 265 | F-palsy | Facial palsy lecture (Cybersight) | Khung xử trí mắt liệt mặt tạm→vĩnh viễn. | https://cybersight.org/library/lecture-facial-palsy-oculoplastic-management/ | [x] |
+| 266 | B-ectropion/entropion | Retroauricular graft (Cybersight) | Lật sẹo ghép da sau tai đối bên khi cùng bên hết da. | https://cybersight.org/library/surgery-repair-of-cicatricial-ectropion-with-contralateral-retroauricular-skin-graft/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

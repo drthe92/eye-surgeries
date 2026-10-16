@@ -30,3 +30,7 @@ Thay tạ sau lòi bằng bạch kim đặt cao hơn + phủ cân: đổi vật 
 1. Vì sao đổi sang bạch kim và đặt cao hơn?
 2. Vì sao pillar cũ phải kiểm tra mà không phá?
 3. Dấu hiệu lòi lại sớm là gì?
+
+## 7. Bài liên quan
+- [126 — Tạ vàng](../126-gold-weight-insertion/technique.md): bài gốc.
+- [128 — Dời tạ](../128-gold-weight-repositioning/technique.md): nhẹ thì dời, nặng thì đổi.

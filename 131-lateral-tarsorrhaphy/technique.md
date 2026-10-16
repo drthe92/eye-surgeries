@@ -31,3 +31,8 @@
 1. Vì sao cấm đốt điện khi khâu dính?
 2. Vì sao khâu sau không được xuyên toàn bộ?
 3. Đo-vẽ trước mổ để quyết định gì?
+
+## 7. Bài liên quan
+- [263 — Mở dính](../263-severing-tarsorrhaphy/technique.md): khỏi thì mở.
+- [130 — Dính trụ](../130-pillar-tarsorrhaphy/technique.md): muốn giữ khe giữa.
+- [262 — Dính chỉ tạm](../262-suture-tarsorrhaphy-temp/technique.md): thử tạm trước vĩnh viễn.

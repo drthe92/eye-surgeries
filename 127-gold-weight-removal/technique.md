@@ -30,3 +30,7 @@ Tháo tạ khi liệt đã khỏi (cơ nhắm lại được): bóc bao xơ, c�
 1. Tiêu chuẩn tháo tạ là gì?
 2. Vì sao bao xơ là bình thường?
 3. Tháo xong hở lại thì xử trí thế nào?
+
+## 7. Bài liên quan
+- [126 — Đặt tạ](../126-gold-weight-insertion/technique.md): bài gốc.
+- [263 — Mở dính](../263-severing-tarsorrhaphy/technique.md): tháo dính kèm khi mở mắt.

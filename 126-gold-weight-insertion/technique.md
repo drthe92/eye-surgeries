@@ -32,3 +32,9 @@ Nhắm mắt bằng trọng lực cho liệt mặt: tạ vàng đặt trước s
 1. Vì sao tạ đặt hơi vào trong?
 2. Vì sao phải lộn mi kiểm tra sau khâu tạ?
 3. Vì sao đóng 2 lớp mà không phải 1?
+
+## 7. Bài liên quan
+- [127 — Tháo tạ](../127-gold-weight-removal/technique.md): khỏi thì tháo.
+- [128 — Dời tạ](../128-gold-weight-repositioning/technique.md): sắp lộ thì dời.
+- [129 — Tạ bạch kim](../129-high-platinum-weight/technique.md): lòi thì đổi vật liệu-vị trí.
+- [265 — Bài giảng liệt mặt](../265-facial-palsy-lecture/technique.md): khung chọn.

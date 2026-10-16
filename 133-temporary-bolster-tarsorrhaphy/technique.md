@@ -29,3 +29,8 @@ Khép mi tạm không cắt mô bằng vòng chỉ quanh đệm ống: đệm ph
 1. Vì sao vòng kép quanh đệm thay vì vòng đơn?
 2. Mốc ra chỉ ở bờ mi là gì và vì sao?
 3. Khi nào chuyển từ tạm sang vĩnh viễn?
+
+## 7. Bài liên quan
+- [261 — Keo](../261-glue-tarsorrhaphy/technique.md): nhẹ hơn nữa.
+- [262 — Dính chỉ](../262-suture-tarsorrhaphy-temp/technique.md): so sánh hai dạng tạm.
+- [131 — Dính vĩnh viễn](../131-lateral-tarsorrhaphy/technique.md): tạm mãi không khỏi.

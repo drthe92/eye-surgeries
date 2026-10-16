@@ -30,3 +30,7 @@
 1. Hai cấm địa của khâu dính trong là gì?
 2. Vì sao rạch phải trong với điểm lệ?
 3. Web góc trong do đâu và phòng thế nào?
+
+## 7. Bài liên quan
+- [131 — Dính ngoài](../131-lateral-tarsorrhaphy/technique.md): ngoài vs trong.
+- [263 — Mở dính](../263-severing-tarsorrhaphy/technique.md): khỏi thì mở.

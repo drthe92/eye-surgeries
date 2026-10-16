@@ -30,3 +30,7 @@ Cứu tạ sắp lộ do phủ mỏng: dời lên trên bờ sụn + phủ thêm
 1. Vì sao dời lên trên thay vì thay tạ to hơn?
 2. Lớp phủ mới là gì và lấy từ đâu?
 3. Dấu hiệu đe dọa lộ tạ cần mổ lại là gì?
+
+## 7. Bài liên quan
+- [126 — Đặt tạ](../126-gold-weight-insertion/technique.md): bài gốc.
+- [129 — Tạ bạch kim](../129-high-platinum-weight/technique.md): dời không đủ thì đổi tạ.
