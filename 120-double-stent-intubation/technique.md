@@ -31,3 +31,7 @@ Tắc lệ quản tái phát nguy cơ hỏng cao: mở tìm chỗ tắc + nong �
 1. Vì sao tái phát phải nong đôi?
 2. Vì sao rút so le thay vì cùng lúc?
 3. Bơm rửa trước đặt stent để loại trừ gì?
+
+## 7. Bài liên quan
+- [116 — Mở cứu vãn](../116-canalicular-cut-down/technique.md): giữ trước.
+- [125 — Cứu stent](../125-crawford-stent-rescue/technique.md): cứu vãn.

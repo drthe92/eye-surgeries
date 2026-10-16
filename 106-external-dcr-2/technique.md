@@ -29,3 +29,7 @@ Cùng mở lệ đạo (DCR) ngoài như số 105, bài này cho 3 bài học m�
 1. Công thức 3 yếu tố thành công mở lệ đạo là gì?
 2. Vì sao cắt bám gân góc trong không ảnh hưởng vị trí sau mổ?
 3. Động mạch góc nằm đâu và tránh thế nào?
+
+## 7. Bài liên quan
+- [105 — DCR nền](../105-external-dcr-1/technique.md): gốc.
+- [272 — Hai bên](../272-bilateral-dcr/technique.md): áp cho hai bên.

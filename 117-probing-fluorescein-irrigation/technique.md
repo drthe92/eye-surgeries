@@ -27,3 +27,7 @@ Chẩn đoán (fluorescein trào ngược) và điều trị (thông-stent) tron
 1. Trào ngược và không trào kết luận gì?
 2. Vì sao gạc mũi có màu xác nhận thông?
 3. Khi nào chỉ chẩn đoán không cần stent?
+
+## 7. Bài liên quan
+- [104 — Thông lệ](../104-probing-stenting-nldo/technique.md): chẩn đoán + chữa.
+- [118 — Lấy stent](../118-stent-retrieval-options/technique.md): sau đặt stent.

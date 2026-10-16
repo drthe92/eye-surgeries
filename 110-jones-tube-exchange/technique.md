@@ -29,3 +29,6 @@
 1. Vì sao Bowman không thay được Quickert-Dryden ở đây?
 2. Vì sao không khâu vĩnh viễn ngay?
 3. Dấu hiệu ống dài và ống ngắn trên soi mũi?
+
+## 7. Bài liên quan
+- [109 — Đặt ống gốc](../109-jones-tube-1/technique.md): bài gốc.

@@ -30,3 +30,7 @@ Viêm lệ quản mạn do nút lệ di cư: mở tìm dị vật 2 tầng (cut-
 1. Vì sao phải 2 tầng cut-down?
 2. Vì sao stent ra mặt sau mi trên?
 3. Nút vĩnh viễn gây viêm bằng cơ chế nào?
+
+## 7. Bài liên quan
+- [114 — Mở lệ quản](../114-canaliculotomy/technique.md): nguyên nhân.
+- [267 — Viêm lệ quản](../267-canaliculitis-tx/technique.md): chẩn đoán.

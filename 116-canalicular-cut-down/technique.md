@@ -31,3 +31,7 @@ Cứu vãn khi nong xuôi và ngược đều thất bại: rạch trực tiếp
 1. Thứ tự thử các đường trước khi cut-down là gì?
 2. Vì sao đường giả là bẫy lớn nhất khi nong?
 3. Vì sao khâu như rách lệ quản chấn thương?
+
+## 7. Bài liên quan
+- [102 — Mở điểm lệ](../102-snip-punctoplasty-stent/technique.md): điểm trước quản sau.
+- [253 — 2 vs 3 nhát](../253-snip-2-vs-3/technique.md): chọn số nhát.

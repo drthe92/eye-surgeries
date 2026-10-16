@@ -31,3 +31,8 @@ Mở thông túi lệ-mũi từ trong mũi dưới nội soi: ống sáng qua l�
 1. Ống sáng thay thế bước nào của mở lệ đạo ngoài?
 2. Vì sao phải lộ toàn bộ túi mới đủ?
 3. So sánh sẹo và chỉ định nội soi vs ngoài?
+
+## 7. Bài liên quan
+- [108 — Khoan xương](../108-endoscopic-dcr-2/technique.md): biến thể.
+- [271 — Bẻ cuốn mũi](../271-turbinate-infracture/technique.md): mở đường nhìn.
+- [273 — Qua đường mũi](../273-endonasal-dcr/technique.md): so hai đường vào.

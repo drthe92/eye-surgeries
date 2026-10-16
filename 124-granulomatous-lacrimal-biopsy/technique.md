@@ -30,3 +30,6 @@ Sinh thiết xác định viêm hạt (sarcoid) tuyến lệ: lấy nhiều mẫ
 1. Vì sao phải nhiều mẫu mà không phải một?
 2. Bộ ba chẩn đoán sarcoid tuyến lệ gồm gì?
 3. Phân biệt u hạt với u lympho (lymphoma) trên lâm sàng-mô bệnh?
+
+## 7. Bài liên quan
+- [123 — Sinh thiết + đặt lại](../123-lacrimal-gland-biopsy-reposition/technique.md): cặp tuyến lệ.

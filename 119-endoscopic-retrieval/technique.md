@@ -27,3 +27,6 @@ Lấy stent dưới nhìn trực tiếp: đọc mốc cuốn-khe-stent rồi mó
 1. Ba mốc theo thứ tự nào?
 2. Vì sao vị trí luôn thấp-ngoài hơn nghĩ?
 3. Soi mũi thay đổi gì so với móc mù?
+
+## 7. Bài liên quan
+- [118 — Các cách lấy](../118-stent-retrieval-options/technique.md): gốc.

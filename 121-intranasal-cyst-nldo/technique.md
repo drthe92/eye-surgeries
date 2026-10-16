@@ -29,3 +29,7 @@ Tắc lệ-mũi bẩm sinh thể nang đầu xa: nang dưới cuốn dưới là
 1. Nang dưới cuốn dưới chứng minh điều gì?
 2. Vì sao phải mở rộng chứ không chọc nhỏ?
 3. Khi nào soi mũi trong tắc lệ-mũi bẩm sinh?
+
+## 7. Bài liên quan
+- [104 — Thông lệ](../104-probing-stenting-nldo/technique.md): gốc chữa.
+- [275 — Khung trẻ em](../275-nldo-children-lecture/technique.md): khung.

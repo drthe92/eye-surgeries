@@ -31,3 +31,8 @@ Thông màng tắc lệ-mũi bẩm sinh bằng sonde rồi giữ bằng stent Cr
 1. Vì sao nhét Afrin trước khi thông?
 2. Chạm kim loại-kim loại chứng minh điều gì?
 3. Vì sao buộc đúng 3 nút đơn?
+
+## 7. Bài liên quan
+- [121 — Nang mũi](../121-intranasal-cyst-nldo/technique.md): thể nang.
+- [117 — Bơm fluorescein](../117-probing-fluorescein-irrigation/technique.md): chẩn đoán.
+- [275 — Tắc lệ trẻ em](../275-nldo-children-lecture/technique.md): khung.

@@ -29,3 +29,7 @@ Cứu vãn khi chạm mềm bằng sonde đuôi lợn dẫn đường vòng qua 
 1. Vì sao đuôi lợn qua được chỗ sonde thẳng không qua?
 2. Khi nào cứu bằng đuôi lợn, khi nào cut-down?
 3. Chạm mềm và chạm cứng khác nhau thế nào?
+
+## 7. Bài liên quan
+- [120 — Nong đôi](../120-double-stent-intubation/technique.md): nguy cơ cao.
+- [118 — Lấy stent](../118-stent-retrieval-options/technique.md): sau đặt.

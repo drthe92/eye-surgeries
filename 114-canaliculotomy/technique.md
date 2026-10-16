@@ -31,3 +31,7 @@ Dẫn lưu sỏi-mủ lệ quản bằng rạch dọc + ép + nạo, để hở 
 1. Vì sao không khâu vết rạch?
 2. Vì sao phải tìm nút lệ trong sỏi?
 3. Phân biệt viêm lệ quản với viêm túi lệ?
+
+## 7. Bài liên quan
+- [267 — Viêm lệ quản](../267-canaliculitis-tx/technique.md): điều trị trước khi mở.
+- [115 — Cắt lệ quản](../115-excision-canaliculi/technique.md): thang bít cao hơn.

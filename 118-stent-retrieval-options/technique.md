@@ -29,3 +29,7 @@ Hai dụng cụ một nguyên tắc (ngoài-quét-kim loại-móc lấy): hook m
 1. Vì sao bắt buộc vào ngoài với stent?
 2. Khi nào chọn groove thay vì hook?
 3. Kiểm tra gì sau khi lấy stent?
+
+## 7. Bài liên quan
+- [119 — Nội soi lấy](../119-endoscopic-retrieval/technique.md): biến thể.
+- [125 — Cứu stent](../125-crawford-stent-rescue/technique.md): stent chạm mềm.

@@ -32,3 +32,8 @@ Nối túi lệ vào mũi qua cửa sổ xương: mở xương đúng 4 biên, k
 1. Bốn biên cửa sổ xương là gì và thiếu biên nào hay bít nhất?
 2. Vì sao buộc silk quanh stent ngang lỗ thông?
 3. Vì sao khâu vạt sau trước vạt trước?
+
+## 7. Bài liên quan
+- [106 — DCR biến thể](../106-external-dcr-2/technique.md): so hai bản.
+- [272 — Hai bên](../272-bilateral-dcr/technique.md): một hay hai bên.
+- [269 — Sỏi túi lệ](../269-lacrimal-sac-stones/technique.md): lấy sỏi trong thì DCR.

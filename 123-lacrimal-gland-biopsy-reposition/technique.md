@@ -30,3 +30,6 @@ Vừa chẩn đoán (sinh thiết loại trừ u-viêm) vừa chữa sa tuyến:
 1. Vì sao móc phần dưới mà phần trên lại vào sau?
 2. Vì sao da sẫm màu phải đóng dưới da?
 3. Khi nào sinh thiết từng phần là sai?
+
+## 7. Bài liên quan
+- [124 — Viêm hạt](../124-granulomatous-lacrimal-biopsy/technique.md): phân biệt u-viêm.

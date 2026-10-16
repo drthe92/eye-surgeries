@@ -28,3 +28,6 @@ Mở rộng đường rò bằng động tác xoắn lưỡi dao (thay vì đâm
 1. Xoắn khác đâm nhiều lỗ ở điểm nào?
 2. Vì sao MVR vừa là dao vừa là thước?
 3. Xoắn quá mạnh gây hậu quả gì?
+
+## 7. Bài liên quan
+- [109 — Đặt ống gốc](../109-jones-tube-1/technique.md): bài gốc.

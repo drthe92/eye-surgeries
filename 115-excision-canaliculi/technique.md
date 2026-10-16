@@ -30,3 +30,7 @@ Bít lệ đạo vĩnh viễn mức cao nhất (cắt bỏ ống) cho khô mắt
 1. Thang 3 bậc bít lệ đạo là gì và thứ tự nào?
 2. Vì sao cấm steroid sau mổ này?
 3. Vì sao phải cắt tới tận điểm lệ?
+
+## 7. Bài liên quan
+- [114 — Mở lệ quản](../114-canaliculotomy/technique.md): bậc thấp hơn.
+- [116 — Mở cứu vãn](../116-canalicular-cut-down/technique.md): giữ trước khi bít.

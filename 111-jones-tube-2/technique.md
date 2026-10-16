@@ -28,3 +28,6 @@ Cùng đặt ống như số 109 nhưng mở rộng đường rò bằng lưỡi
 1. Vì sao vướng thì hướng sau thêm?
 2. Vì sao sonde trơn thay được Bowman ở đây?
 3. Khi nào cần mở rộng đường rò?
+
+## 7. Bài liên quan
+- [109 — Đặt ống gốc](../109-jones-tube-1/technique.md): bài gốc.

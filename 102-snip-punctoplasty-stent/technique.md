@@ -31,3 +31,8 @@ Mở rộng điểm lệ hẹp bằng 2 nhát cắt (dọc + chéo phần sau) k
 2. Vì sao chỉ mở điểm lệ mi dưới?
 3. Hook lấy stent ở đâu?
 - [253 — Mở điểm lệ 2 vs 3 nhát](../253-snip-2-vs-3/technique.md): chọn 2 hay 3 nhát.
+
+## 7. Bài liên quan
+- [253 — 2 vs 3 nhát](../253-snip-2-vs-3/technique.md): chọn số nhát.
+- [116 — Mở lệ quản](../116-canalicular-cut-down/technique.md): hẹp sâu hơn.
+- [103 — Đốt bít](../103-punctal-cautery/technique.md): ngược lại: giữ hay bít.

@@ -31,3 +31,9 @@ Dẫn lưu lệ trực tiếp góc-mũi bằng ống thủy tinh qua đường r
 1. Vì sao cấm dùng dụng cụ đẩy ống?
 2. Vì sao cấm mỡ tra mắt khi có ống Jones?
 3. Đo chiều dài bằng cách nào và sai số gây gì?
+
+## 7. Bài liên quan
+- [110 — Đổi ống](../110-jones-tube-exchange/technique.md): sai cỡ.
+- [111 — Biến thể](../111-jones-tube-2/technique.md): đường hẹp.
+- [112 — Nền sẹo](../112-jones-tube-3/technique.md): sau DCR hỏng.
+- [113 — Xoắn lưỡi liềm](../113-jones-crescent-twist/technique.md): mở rộng đường rò.

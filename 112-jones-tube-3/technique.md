@@ -29,3 +29,6 @@
 1. Vì sao sẹo mở lệ đạo cũ vừa là khó khăn vừa là mốc?
 2. Dấu hiệu ống dài trên soi mũi là gì?
 3. Vì sao phải sẵn nhiều cỡ ống?
+
+## 7. Bài liên quan
+- [109 — Đặt ống gốc](../109-jones-tube-1/technique.md): bài gốc.

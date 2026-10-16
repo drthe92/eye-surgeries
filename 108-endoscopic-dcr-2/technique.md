@@ -28,3 +28,7 @@ Cùng nội soi như số 107 nhưng thêm khoan xương cho xương dày phía 
 1. Vì sao vùng xương trên là quan trọng nhất?
 2. Khi nào cần khoan thay vì chỉ punch?
 3. Ống sáng dùng mấy lần trong ca và để làm gì mỗi lần?
+
+## 7. Bài liên quan
+- [107 — Nội soi nền](../107-endoscopic-dcr-1/technique.md): gốc.
+- [273 — Qua đường mũi](../273-endonasal-dcr/technique.md): đường thứ ba.
