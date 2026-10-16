@@ -32,3 +32,8 @@ Nâng mi sụp còn chức năng cơ nâng bằng cách cắt chỗ bám cân kh
 1. Vì sao khâu cách bờ trên sụn đúng 2mm tại đỉnh mi?
 2. Vì sao buộc tạm + dựng ngồi là bắt buộc?
 3. Cao quá thì chuyển mũi khâu theo hướng nào?
+
+## 7. Bài liên quan
+- [256 — Cắt ngắn Caesar (YouTube)](../256-anterior-ptosis-caesar/technique.md): cùng họ đường trước — so hai tay mổ.
+- [82 — Tiến 2 chỉnh đường cong](../82-levator-advancement-2/technique.md): khi đỉnh mi lệch.
+- [83 — Hốc sâu tuổi già](../83-levator-deep-sulcus/technique.md): mất mốc mỡ trước cân.

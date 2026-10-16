@@ -30,3 +30,7 @@ Triệt hoàn toàn cơ nâng đồng vận hàm (cắt ngang ở sau nhất) r�
 1. Vì sao phải cắt ở sau nhất có thể?
 2. Vì sao thứ tự triệt trước treo sau là bắt buộc?
 3. Khi nào chỉ theo dõi Marcus Gunn thay vì mổ?
+
+## 7. Bài liên quan
+- [91 — Treo cân](../91-fascia-frontalis-sling/technique.md): vật liệu thay thế.
+- [226 — Liệt III (nhóm S)](../226-third-nerve-transposition/technique.md): liệt kèm lác.

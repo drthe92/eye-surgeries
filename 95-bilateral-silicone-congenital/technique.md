@@ -31,3 +31,7 @@ Treo silicone 2 bên đối xứng ở trẻ: cố định sụn + luồn sau v�
 1. Vì sao 2 bên càng cần đóng trước siết sau?
 2. Ống sleeve + 2 buộc có tác dụng gì?
 3. Theo dõi gì khi trẻ lớn lên?
+
+## 7. Bài liên quan
+- [94 — Một bên](../94-silicone-sling-child/technique.md): so sánh.
+- [99 — Người lớn](../99-bilateral-silicone-adult/technique.md): trẻ vs lớn (căn ngồi).

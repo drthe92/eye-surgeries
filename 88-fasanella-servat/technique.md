@@ -28,3 +28,7 @@ Cắt ngắn cả 3 lớp (sụn + kết mạc + Muller) 1/3 giữa mi để nâ
 1. Vì sao Fasanella làm yếu sụn còn cắt cơ Muller-kết mạc thì không?
 2. Liều 3+3 cho sụp bao nhiêu mm?
 3. Vì sao ca số 83 nhắc tiền sử Fasanella?
+
+## 7. Bài liên quan
+- [84 — MMCR](../84-mmcr-1/technique.md): nhẹ hơn Fasanella.
+- [97 — MMCR trẻ em](../97-pediatric-mmcr/technique.md): trẻ em ưu tiên MMCR.

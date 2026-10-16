@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, 02:44, Vimeo 202273506). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-cắt cơ Muller-kết mạc (MMCR) trẻ em với ngưỡng chặt chẽ và liều tối thiểu 9mm + vùi nút + băng qua đêm — kết hợp số 84 (kỹ thuật), số 87 (vùi nút) và bảo vệ trẻ em.
+Cắt cơ Muller-kết mạc (MMCR) trẻ em với ngưỡng chặt chẽ và liều tối thiểu 9mm + vùi nút + băng qua đêm — kết hợp số 84 (kỹ thuật), số 87 (vùi nút) và bảo vệ trẻ em.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định (cả 3): nâng tốt + sụp <2mm + đáp ứng phenylephrine tốt. Thiếu 1 thì không làm.
@@ -30,3 +30,7 @@ cắt cơ Muller-kết mạc (MMCR) trẻ em với ngưỡng chặt chẽ và li
 1. Ba điều kiện làm cắt cơ Muller-kết mạc trẻ em là gì?
 2. Vì sao tối thiểu 9mm?
 3. Vì sao băng qua đêm ở trẻ mà người lớn thì không?
+
+## 7. Bài liên quan
+- [84 — MMCR nền](../84-mmcr-1/technique.md): kỹ thuật.
+- [87 — Vùi nút](../87-mmcr-burying-knots/technique.md): xử trí nút trẻ em.

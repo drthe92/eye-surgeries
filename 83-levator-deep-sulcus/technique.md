@@ -27,3 +27,7 @@ Cùng tiến (advancement) nhưng giải phẫu biến đổi tuổi già: mất
 1. Vì sao mỡ trước cân biến mất ở hốc sâu tuổi già?
 2. Mốc thay thế mỡ để nhận diện là gì?
 3. Vì sao tiền sử Fasanella làm sụn yếu?
+
+## 7. Bài liên quan
+- [81 — Tiến nền](../81-external-levator-advancement/technique.md): gốc kỹ thuật.
+- [82 — Chỉnh đường cong](../82-levator-advancement-2/technique.md): phối hợp khi cần.

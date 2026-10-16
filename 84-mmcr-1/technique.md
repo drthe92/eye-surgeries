@@ -32,3 +32,8 @@ Nâng mi sụp nhẹ bằng đường sau: kẹp-cắt ngắn kết mạc-cơ Mu
 1. Vì sao đánh dấu bằng nửa tổng lượng cắt?
 2. Vì sao nút trong bắt buộc kính tiếp xúc?
 3. Test nào dự đoán kết quả cắt cơ Muller-kết mạc (MMCR)?
+
+## 7. Bài liên quan
+- [85 — MMCR chuẩn hóa](../85-mmcr-2/technique.md): nâng cấp kỹ thuật.
+- [88 — Fasanella](../88-fasanella-servat/technique.md): so MMCR vs Fasanella.
+- [97 — MMCR trẻ em](../97-pediatric-mmcr/technique.md): ngưỡng trẻ em.

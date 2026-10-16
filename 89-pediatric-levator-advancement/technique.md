@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, 4:25, Vimeo 123339880). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-tiến (Advancement) như người lớn nhưng thích ứng trẻ em: vách dày khó tìm mỡ, lượng tiến định trước (không căn ngồi vì mê), gia cố thái dương thường quy, cấm cắt mỡ trước cân, Frost-băng qua đêm chống hở.
+Tiến cơ nâng (advancement) như người lớn nhưng thích ứng trẻ em: vách dày khó tìm mỡ, lượng tiến định trước (không căn ngồi vì mê), gia cố thái dương thường quy, cấm cắt mỡ trước cân, Frost-băng qua đêm chống hở.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: sụp bẩm sinh còn chức năng nâng khá ở trẻ (mê, không căn ngồi được).
@@ -32,3 +32,8 @@ tiến (Advancement) như người lớn nhưng thích ứng trẻ em: vách dà
 1. Vì sao trẻ em định liều trước thay vì căn ngồi?
 2. Vì sao cấm cắt mỡ trước cân ở trẻ?
 3. Vì sao trẻ hay cần gia cố thái dương và Frost qua đêm?
+
+## 7. Bài liên quan
+- [81 — Tiến người lớn](../81-external-levator-advancement/technique.md): gốc.
+- [98 — Vách trẻ em](../98-pediatric-septum-demo/technique.md): bẫy mốc.
+- [90 — Bẩm sinh 20mm](../90-levator-congenital-ptosis/technique.md): liều lớn.

@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143475565, cắt 9mm). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng cắt cắt cơ Muller-kết mạc (MMCR) nhưng đưa cả 2 nút ra da (xuyên toàn bộ mi) để khỏi đeo kính tiếp xúc — đánh đổi thêm 2 lỗ xuyên mi lấy hết cộm giác mạc.
+Cùng cắt cơ Muller-kết mạc (MMCR) nhưng đưa cả 2 nút ra da (xuyên toàn bộ mi) để khỏi đeo kính tiếp xúc — đánh đổi thêm 2 lỗ xuyên mi lấy hết cộm giác mạc.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: như cắt cơ Muller-kết mạc + BN không đeo được kính tiếp xúc (khô mắt nặng, không tuân thủ).
@@ -29,3 +29,7 @@ Cùng cắt cắt cơ Muller-kết mạc (MMCR) nhưng đưa cả 2 nút ra da (
 1. Vì sao đưa nút ra ngoài thì khỏi kính tiếp xúc?
 2. Đánh đổi của 2 lỗ xuyên mi là gì?
 3. Khi nào chọn externalization thay vì nút trong?
+
+## 7. Bài liên quan
+- [85 — MMCR chuẩn](../85-mmcr-2/technique.md): gốc.
+- [87 — Vùi nút](../87-mmcr-burying-knots/technique.md): lựa chọn thay thế.

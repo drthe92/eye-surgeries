@@ -272,6 +272,11 @@
 
 | 256 | P-ptosis | Anterior ptosis repair (Caesar, YouTube) | Cắt ngắn cơ nâng đường trước góc nhìn phẫu thuật viên (bản 2025): rạch nếp mi, bộc lộ-tách-cắt ngắn-khâu vào sụn, chỉnh ngồi trên bàn. Cùng họ bài 81 Allen để so hai tay mổ. Video giới hạn tuổi nên dựng từ nguyên lý. | https://youtu.be/jMhv-ERzC08 | [x] |
 
+| 257 | P-ptosis | Silicone rod sling (Cybersight) | Treo trán thanh silicone: cứng giữ nếp sắc, dễ chỉnh-tháo; so vòng 94/95. | https://cybersight.org/library/surgery-frontalis-sling-with-silicone-rods/ | [x] |
+| 258 | P-ptosis | Gore-Tex sling (Cybersight) | Treo Gore-Tex bám chắc sợ nhiễm trùng; thang vật liệu cân > Gore-Tex > silicone > supramid. | https://cybersight.org/library/%d0%bc%d1%8d%d1%81-%d0%b7%d0%b0%d1%81%d0%b0%d0%bb-goretex-%d1%83%d1%82%d0%b0%d1%81-%d0%b0%d1%88%d0%b8%d0%b3%d0%bb%d0%b0%d0%bd-frontalis-sling-%d0%bc%d1%8d%d1%81-%d0%b7%d0%b0%d1%81%d0%b0%d0%bb-%d1%85/ | [x] |
+| 259 | P-ptosis | Treatment options ptosis (lecture) | Khung chọn bẩm sinh/mắc phải theo chức năng cơ nâng cho mọi bài 81-101. | https://cybersight.org/library/lecture-treatment-options-for-congenital-and-acquired-ptosis/ | [x] |
+| 260 | P-ptosis | Ptosis workup (lecture) | Tầm soát sụp mới mắc trước khi mổ: dao động, đồng tử, vận nhãn. | https://cybersight.org/library/ptosis-when-is-a-work-up-required-how-do-we-fix-it/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

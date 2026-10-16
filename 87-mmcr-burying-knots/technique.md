@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, Vimeo 143475564, cắt 8mm). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Cùng cắt cắt cơ Muller-kết mạc (MMCR) nhưng tạo hốc kết mạc để vùi nút vào trong — khỏi kính tiếp xúc mà không sẹo da, giải pháp giữa nút trong (cộm) và nút ngoài (sẹo da).
+Cùng cắt cơ Muller-kết mạc (MMCR) nhưng tạo hốc kết mạc để vùi nút vào trong — khỏi kính tiếp xúc mà không sẹo da, giải pháp giữa nút trong (cộm) và nút ngoài (sẹo da).
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: như cắt cơ Muller-kết mạc + không đeo được kính + không muốn sẹo da.
@@ -29,3 +29,7 @@ Cùng cắt cắt cơ Muller-kết mạc (MMCR) nhưng tạo hốc kết mạc �
 1. So sánh 3 cách xử trí nút: trong-kính, ngoài-da, vùi-hốc?
 2. Vì sao cả 2 đầu chỉ phải ra cùng hốc?
 3. Khi nào chọn vùi thay vì đưa ra da?
+
+## 7. Bài liên quan
+- [85 — MMCR chuẩn](../85-mmcr-2/technique.md): gốc.
+- [86 — Nút ra da](../86-mmcr-externalization/technique.md): lựa chọn thay thế.

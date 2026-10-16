@@ -28,3 +28,8 @@ Cùng cắt cơ Muller-kết mạc (MMCR) như số 84, bài này chuẩn hóa 3
 1. Vì sao compa 4.25mm cho tổng 8.5mm?
 2. Vì sao thích bắt đầu khâu từ ngoài?
 3. Cảm giác kim loại-kim loại báo hiệu gì?
+
+## 7. Bài liên quan
+- [84 — MMCR nền](../84-mmcr-1/technique.md): gốc.
+- [86 — Nút ra da](../86-mmcr-externalization/technique.md): xử trí nút.
+- [87 — Vùi nút](../87-mmcr-burying-knots/technique.md): xử trí nút.

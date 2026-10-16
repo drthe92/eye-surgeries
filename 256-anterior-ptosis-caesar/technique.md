@@ -36,8 +36,11 @@ Chữa sụp mi bằng cách bộc lộ cơ nâng mi (levator) qua đường da 
 
 ## 7. Bài liên quan
 - [81 — Tiến cơ nâng người lớn (Allen)](../81-external-levator-advancement/technique.md): cùng họ đường trước — so hai tay mổ Allen vs Caesar.
-- [84/85 — Cắt cơ Muller-kết mạc](../84-mmcr-1/technique.md): sụp nhẹ đáp ứng phenylephrine thì MMCR thay vì cắt cơ nâng.
-- [91–96 — Treo trán (nhóm sling)](../91-fascia-frontalis-sling/technique.md): cơ nâng liệt thì treo trán thay vì cắt ngắn.
+- [82 — Tiến 2 chỉnh đường cong](../82-levator-advancement-2/technique.md): khi đỉnh mi lệch.
+- [84 — Cắt cơ Muller-kết mạc](../84-mmcr-1/technique.md): sụp nhẹ đáp ứng phenylephrine thì MMCR thay vì cắt cơ nâng.
+- [91 — Treo cân trán](../91-fascia-frontalis-sling/technique.md): cơ nâng liệt thì treo trán thay vì cắt ngắn.
+- [260 — Tầm soát sụp mi](../260-ptosis-workup/technique.md): workup trước khi mổ.
 
 ## Ghi chú nguồn
 - Video giới hạn tuổi nên không lấy được phụ đề (đã thử trực tiếp và qua proxy Youtube 2 PDF). 5 bước trên dựng từ nguyên lý chuẩn của cắt ngắn cơ nâng đường trước, KHÔNG phải transcript逐字. Khi học: mở video đối chiếu từng bước, chỗ nào khác báo để sửa theo video.
+

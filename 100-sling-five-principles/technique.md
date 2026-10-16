@@ -21,3 +21,7 @@ Năm nguyên tắc tạo nếp đẹp trong mọi treo trán: cố định sụn
 1. Kể 5 nguyên tắc và hậu quả khi vi phạm từng cái?
 2. Vì sao không cắt mỡ trước cân?
 3. Kiểm tra ca treo cũ bằng 5 nguyên tắc này thiếu gì?
+
+## 7. Bài liên quan
+- [91 — Treo cân](../91-fascia-frontalis-sling/technique.md): áp nguyên tắc.
+- [99 — Silicone người lớn](../99-bilateral-silicone-adult/technique.md): áp nguyên tắc.

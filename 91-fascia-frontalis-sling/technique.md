@@ -32,3 +32,8 @@ Nối mi lên cơ trán bằng dải cân (treo trán thay cơ nâng đã liệt
 1. Vì sao treo gây hở vĩnh viễn và phòng bằng gì?
 2. Nút sandwich gồm mấy lớp theo thứ tự nào?
 3. Vì sao mổ lại tận dụng sẹo cũ?
+
+## 7. Bài liên quan
+- [93 — Sửa treo cân](../93-revision-autologous-sling/technique.md): sửa khi tụt.
+- [99 — Treo silicone người lớn](../99-bilateral-silicone-adult/technique.md): vật liệu thay thế.
+- [100 — Năm nguyên tắc](../100-sling-five-principles/technique.md): nguyên tắc nếp đẹp.

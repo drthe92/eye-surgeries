@@ -32,3 +32,7 @@ Treo silicone 2 bên có căn ngồi (lợi thế người lớn so với trẻ 
 1. Liệt kê 5 yếu tố tạo nếp trong ca này?
 2. Vì sao chưa siết hẳn trước khi ngồi dậy?
 3. Vì sao giữ 1cm treo trên ống?
+
+## 7. Bài liên quan
+- [95 — Trẻ em](../95-bilateral-silicone-congenital/technique.md): trẻ vs lớn.
+- [100 — Năm nguyên tắc](../100-sling-five-principles/technique.md): nếp đẹp.

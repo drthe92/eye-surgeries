@@ -32,3 +32,7 @@ Treo silicone điều chỉnh được (ống sleeve + buộc cố định) cho 
 1. Vì sao silicone hợp ca mổ lại hơn cân tự thân?
 2. Ống sleeve có tác dụng gì?
 3. Vì sao đóng mi trước siết sau?
+
+## 7. Bài liên quan
+- [257 — Thanh silicone (Cybersight)](../257-silicone-rod-sling/technique.md): rod vs vòng.
+- [95 — Hai bên bẩm sinh](../95-bilateral-silicone-congenital/technique.md): một bên vs hai bên.

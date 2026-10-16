@@ -28,3 +28,7 @@ Cùng tiến (advancement) như số 81, bài này dạy chỉnh đường cong:
 1. Cao độ và đường cong chỉnh theo 2 trục nào?
 2. Vì sao chỉ chuyển một kim khi chỉnh cong?
 3. Mốc trên của bóc tách là gì?
+
+## 7. Bài liên quan
+- [81 — Tiến nền](../81-external-levator-advancement/technique.md): kỹ thuật gốc.
+- [83 — Hốc sâu](../83-levator-deep-sulcus/technique.md): biến thể giải phẫu.

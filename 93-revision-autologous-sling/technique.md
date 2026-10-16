@@ -30,3 +30,7 @@ Sửa treo (sling) cũ bằng 2 việc: siết lại treo sẵn có (không cắ
 1. Vì sao cấm cắt đứt treo cũ khi bóc?
 2. Phần nào mổ cũ thiếu mà mổ lại bổ sung?
 3. Khi nào phải thay treo mới thay vì siết lại?
+
+## 7. Bài liên quan
+- [91 — Treo cân gốc](../91-fascia-frontalis-sling/technique.md): bài gốc.
+- [101 — Sửa treo silicone](../101-revision-silicone-sling/technique.md): sửa vật liệu khác.

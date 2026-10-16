@@ -4,7 +4,7 @@
 > Nguồn transcript: `transcript.md` (Allen, 04:05, Vimeo 223161429). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-cắt bỏ (Resection) 20mm cho sụp 2-3mm còn nâng 6-8mm: cắt-bỏ đoạn cân dài rồi khâu đầu cân ngay dưới Whitnall — cắt bỏ sâu hơn tiến (advancement) thường, kèm mũi ngoài trị xệ thái dương.
+Cắt bỏ (resection) 20mm cho sụp 2-3mm còn nâng 6-8mm: cắt-bỏ đoạn cân dài rồi khâu đầu cân ngay dưới Whitnall — cắt bỏ sâu hơn tiến (advancement) thường, kèm mũi ngoài trị xệ thái dương.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: sụp bẩm sinh vừa (2-3mm) còn nâng khá (≥6mm).
@@ -29,3 +29,7 @@ cắt bỏ (Resection) 20mm cho sụp 2-3mm còn nâng 6-8mm: cắt-bỏ đoạn
 1. Công thức 2-3mm sụp + 6-8mm nâng → 20mm cắt nói lên gì?
 2. Vì sao trẻ em thường cần mũi ngoài?
 3. Vì sao mốc khâu ngay dưới Whitnall?
+
+## 7. Bài liên quan
+- [89 — Tiến trẻ em](../89-pediatric-levator-advancement/technique.md): gốc.
+- [91 — Treo cân](../91-fascia-frontalis-sling/technique.md): cơ quá kém thì treo.

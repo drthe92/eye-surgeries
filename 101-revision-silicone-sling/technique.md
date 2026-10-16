@@ -30,3 +30,7 @@ Siết lại treo (sling) tụt qua sẹo cũ mà không thay mới: tháo khóa
 1. Vì sao chỉ tháo khóa trên mà giữ khóa dưới?
 2. Vì sao cấm Vicryl sâu ở sửa treo?
 3. Khi nào sửa được và khi nào phải thay mới?
+
+## 7. Bài liên quan
+- [93 — Sửa treo cân](../93-revision-autologous-sling/technique.md): sửa vật liệu khác.
+- [99 — Treo silicone gốc](../99-bilateral-silicone-adult/technique.md): bài gốc.

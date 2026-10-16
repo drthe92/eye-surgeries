@@ -31,3 +31,7 @@ Treo trán 2 bên bằng chỉ supramid ở trẻ nhỏ chưa lấy được câ
 1. Vì sao phải cố định sụn thay vì đặt trần?
 2. Vì sao đóng mi trước buộc sau?
 3. Vì sao siết tối đa mà rất khó quá chặt?
+
+## 7. Bài liên quan
+- [95 — Silicone 2 bên bẩm sinh](../95-bilateral-silicone-congenital/technique.md): vật liệu lâu dài hơn.
+- [255 — BPES góc trong (nhóm M)](../255-bpes-telecanthus/technique.md): BPES cần cả góc trong.

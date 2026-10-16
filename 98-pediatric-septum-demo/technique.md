@@ -20,3 +20,7 @@ Bài nhận diện mốc: vách dày trẻ em + mỡ thâm nhiễm cân cơ nân
 1. Nghiệm pháp nào tìm mỡ trước cân ở trẻ?
 2. Vì sao cân bẩm sinh khó phân biệt với mỡ?
 3. Khi nào nghi ngờ dải xơ chính là cân cơ nâng?
+
+## 7. Bài liên quan
+- [89 — Tiến trẻ em](../89-pediatric-levator-advancement/technique.md): ứng dụng mốc.
+- [90 — Bẩm sinh](../90-levator-congenital-ptosis/technique.md): ứng dụng mốc.
