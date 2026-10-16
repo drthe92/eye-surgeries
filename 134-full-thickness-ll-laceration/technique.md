@@ -31,3 +31,8 @@ Khâu rách mi theo lớp từ trong ra ngoài: sụn chịu lực trước (2 m
 1. Vì sao buộc mũi dưới trước mũi trên sau?
 2. Vì sao 2 mốc tuyến Meibomius và nang lông?
 3. Vì sao gỡ lông khỏi dưới chỉ?
+
+## 7. Bài liên quan
+- [135 — Rách mi trên](../135-full-thickness-ul-laceration/technique.md): so trên-dưới.
+- [281 — Đánh giá cấp cứu](../281-laceration-eval/technique.md): khung trước mổ.
+- [136 — Rách lệ quản dưới](../136-ll-canalicular-laceration-1/technique.md): kèm lệ quản.

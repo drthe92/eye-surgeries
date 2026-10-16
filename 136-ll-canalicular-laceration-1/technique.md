@@ -31,3 +31,9 @@ Khâu rách lệ quản trên nòng stent: tìm 2 đầu cắt (xa-gần), nong 
 1. Vì sao rách trong với điểm lệ mặc định đứt lệ quản?
 2. Vì sao khâu sâu để chưa buộc?
 3. Vì sao giữ stent đúng 4 tháng?
+
+## 7. Bài liên quan
+- [137 — Rách lệ quản redo](../137-ll-canalicular-laceration-2/technique.md): sửa thất bại.
+- [274 — Đặt ống + tái tạo](../274-canalicular-intubation-recon/technique.md): phối hợp.
+- [138 — Rách lệ quản trên](../138-upper-canalicular-laceration/technique.md): so trên-dưới.
+- [282 — Cybersight](../282-canalicular-laceration-cs/technique.md): ca phối hợp mi-lệ.

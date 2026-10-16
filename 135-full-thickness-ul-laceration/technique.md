@@ -28,3 +28,7 @@ Như rách mi dưới (số 134) cộng 2 điểm riêng mi trên: cấm xuyên 
 1. Vì sao xuyên mặt sau sụn mi trên nguy hiểm hơn mi dưới?
 2. Mũi trên-lông-mi có tác dụng gì?
 3. Vì sao ưa chỉ tiêu ở rách mi trên?
+
+## 7. Bài liên quan
+- [134 — Rách mi dưới](../134-full-thickness-ll-laceration/technique.md): so trên-dưới.
+- [281 — Đánh giá cấp cứu](../281-laceration-eval/technique.md): khung.

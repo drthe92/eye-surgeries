@@ -30,3 +30,7 @@ Nong toàn hệ lệ quản bằng vòng silicone khép kín (annular) luồn b�
 1. Vì sao vòng kín không cần đầu mũi?
 2. Vì sao nút phải về lệ quản chung?
 3. Khi nào đuôi lợn hơn Crawford?
+
+## 7. Bài liên quan
+- [136 — Rách lệ quản](../136-ll-canalicular-laceration-1/technique.md): chỉ định stent.
+- [118 — Lấy stent](../118-stent-retrieval-options/technique.md): khi cần tháo.

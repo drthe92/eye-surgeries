@@ -28,3 +28,7 @@ Sửa thất bại khâu da đơn thuần: nong toàn hệ + nối 2 đầu ốn
 1. Vì sao khâu da đơn thuần thất bại ở rách lệ quản?
 2. Nghiệm thu nối ống là gì và kiểm tra thế nào?
 3. Vì sao thêm mũi trước che stent?
+
+## 7. Bài liên quan
+- [136 — Rách lệ quản gốc](../136-ll-canalicular-laceration-1/technique.md): bài gốc.
+- [282 — Cybersight](../282-canalicular-laceration-cs/technique.md): thứ tự lệ-mi.

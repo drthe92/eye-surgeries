@@ -28,3 +28,7 @@ Như rách lệ quản dưới nhưng ở trên + nong 2 hệ thường quy + c�
 1. Vì sao quan sát tăm bông đủ mà không cần fluorescein?
 2. Vì sao nong cả hệ lành?
 3. Vì sao cấm chỉ vĩnh viễn vùng mi?
+
+## 7. Bài liên quan
+- [136 — Rách lệ quản dưới](../136-ll-canalicular-laceration-1/technique.md): so trên-dưới.
+- [139 — Stent vòng](../139-pigtail-annular-stent/technique.md): dụng cụ nẹp.

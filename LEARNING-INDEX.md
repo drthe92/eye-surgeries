@@ -299,6 +299,11 @@
 | 278 | E-blepharo | Botox for blepharospasm | Tiêm botox trị co thắt mi; phá vòng xoắn, liều-nhắc lại. | https://eyerounds.org/atlas-video/Botox-inject-for-Blepharospasm.htm | [x] |
 | 279 | B-ectropion/entropion | Distichiasis repair | Sửa hàng lông phụ: phá nang lông phụ, giữ hàng chính. | https://eyerounds.org/atlas-video/Distichiasis-repair.htm | [x] |
 
+| 280 | T-trauma | Lateral canthotomy (cấp cứu) | Rạch góc ngoài + cắt chân dưới gân góc cứu mù chèn ép ổ mắt. | https://eyerounds.org/tutorials/lateral-canthotomy-cantholysis.htm | [x] |
+| 281 | T-trauma | Eyelid laceration evaluation | Khung đánh giá cấp cứu rách mi: phân vùng + loại trừ tổn thương nhãn cầu. | https://eyerounds.org/tutorials/Eyelid-lacerations/index.htm | [x] |
+| 282 | T-trauma | Canalicular laceration (Cybersight) | Rách mi + lệ quản: lệ trước mi sau, khâu quanh stent. | https://cybersight.org/library/surgery-surgical-repair-of-eyelid-canalicular-laceration/ | [x] |
+| 283 | T-trauma | Periocular trauma + scarring (lecture) | Phòng sẹo và khi nào mổ sẹo thì hai (chờ 3-6 tháng). | https://cybersight.org/library/lecture-management-of-periocular-trauma-and-scarring/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
