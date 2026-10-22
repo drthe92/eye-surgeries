@@ -13,12 +13,21 @@ h1{font-size:1.5em}h2{background:#f0f4f8;padding:8px 12px;border-radius:8px;font
 .vi{color:#0a6c2e}.links a{margin-right:12px}.summ{color:#444;font-size:.95em;margin:6px 0}
 .count{color:#666;font-size:.9em}
 .tq{float:right;font-size:.75em;font-weight:normal}
+.card.learned{border-color:#9bc7a8;background:#f6fbf7}
+.card.learned .t{color:#3c6b4c}
+.mark{float:right;margin-left:8px;font:inherit;font-size:.75rem;padding:2px 8px;border:1px solid #bbb;border-radius:999px;background:#fff;color:#555;cursor:pointer}
+.mark[aria-pressed="true"]{background:#e5f4e9;border-color:#7fbf93;color:#2f6b42;font-weight:600}
+#lfilter{font-size:1em;padding:10px;border:1px solid #bbb;border-radius:8px}
+#prog{font-size:.85em;color:#3c6b4c;margin:2px 0 6px}
+.card.learned{position:relative}
 </style></head><body>
 <h1>Thư viện phẫu thuật mắt (283 bài)</h1>
 <p class="count">Gõ tiếng Việt hoặc tiếng Anh để lọc theo tên. Mỗi thẻ có link Bài học, Transcript và Video.<br>Tổng quan theo nhóm: <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-A-goc-ngoai.md">A. Góc ngoài — nền tảng (01–06)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-B-lat-quam-mi-duoi.md">B. Lật-quặm mi dưới (07–12, 185–193)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-C-mi-duoi-ma-goc-ngoai.md">C. Mi dưới-má-góc ngoài (13–20, 194–223)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-N-vo-cam.md">N. Vô cảm (24–27, 224)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-mi-duoi/giai-phau-mi-duoi.md">Giải phẫu mi dưới</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-S-lac.md">S. Lác (40–52, 226–230)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-lac/giai-phau-lac.md">Giải phẫu lác</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-M-goc-trong.md">M. Góc trong (102–103, 253–255)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-mi-tren/giai-phau-mi-tren.md">Giải phẫu mi trên</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-dao-dien.md">Dao điện</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-chi-khau.md">Chỉ khâu</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-vi-phau.md">Vi phẫu</a>.</p>
+<div id="prog"></div>
 <div class="bar">
 <input id="search" type="text" placeholder="Tìm kiếm: sụp mi, lác, vỡ sàn, DCR..." oninput="f()">
 <select id="grp" onchange="f()"><option value="">Tất cả nhóm</option><option value="A-core">A. Góc ngoài — nền tảng</option><option value="B-ectropion/entropion">B. Lật-quặm mi dưới</option><option value="C-lower-lid">C. Tái tạo mi dưới ngoài</option><option value="D-midface">D. Nâng má giữa mặt</option><option value="Brow">Brow</option><option value="N-anesthesia">N. Vô cảm</option><option value="U-upper">U. Mi trên (quặm)</option><option value="U-retraction">U. Co rút mi</option><option value="S-strabismus">S. Lác</option><option value="W-brow">W. Mày-trán</option><option value="E-blepharo">E. Mi (blepharoplasty)</option><option value="P-ptosis">P. Sụp mi</option><option value="L-lacrimal">L. Lệ đạo</option><option value="F-palsy">F. Liệt mặt</option><option value="T-trauma">T. Chấn thương mi-lệ quản</option><option value="O-orbit">O. Hốc mắt — vỡ sàn</option><option value="R-recon">R. Tái tạo mi trên — góc trong</option><option value="Bx-biopsy">Bx. Sinh thiết mi — u mi</option><option value="M-medial">M. Góc trong</option></select>
+<select id="lfilter" onchange="f()" aria-label="Lọc theo trạng thái học"><option value="all">Tất cả trạng thái</option><option value="todo">Chưa học</option><option value="learned">Đã học</option></select>
 </div>
 <div id="list">
 <h2 data-g="A-core">A. Góc ngoài — nền tảng <a class="tq" href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-A-goc-ngoai.md">Tổng quan →</a></h2>
@@ -1473,11 +1482,39 @@ h1{font-size:1.5em}h2{background:#f0f4f8;padding:8px 12px;border-radius:8px;font
 <p class="count" style="margin-top:16px">Tổng <b>283 bài</b>. Dùng ô tìm kiếm (gõ tên hoặc số bài, ví dụ <b>81</b> hoặc <b>201</b>) hoặc bộ lọc nhóm để tra cứu.</p>
 </div>
 <script>
-function f(){var q=document.getElementById('search').value.toLowerCase().trim();
+var LKEY='eye-surgeries-learned-v1';
+var learned={};
+try{learned=JSON.parse(localStorage.getItem(LKEY)||'{}')||{};}catch(e){learned={};}
+function saveLearned(){try{localStorage.setItem(LKEY,JSON.stringify(learned));}catch(e){}}
+function cardId(c){var n=c.querySelector('.num');return n?n.textContent.trim():'';}
+function paint(c){var id=cardId(c),on=!!learned[id];
+c.classList.toggle('learned',on);
+var b=c.querySelector('.mark');
+if(b){b.textContent=on?'✓ Đã học':'○ Đánh dấu';b.setAttribute('aria-pressed',on?'true':'false');b.title=on?'Bỏ đánh dấu':'Đánh dấu đã học';}}
+function updateProgress(){var cs=document.querySelectorAll('.card'),tot=cs.length,dn=document.querySelectorAll('.card.learned').length;
+var el=document.getElementById('prog');
+if(el){el.textContent='Đã học '+dn+'/'+tot+' bài ('+(tot?Math.round(dn*100/tot):0)+'%)';}}
+function f(){var q=(document.getElementById('search').value||'').toLowerCase().trim();
 var g=document.getElementById('grp').value;
+var m=(document.getElementById('lfilter')||{}).value||'all';
 document.querySelectorAll('.card').forEach(function(c){
-c.style.display=(!q||c.getAttribute('data-t').includes(q))&&(!g||c.getAttribute('data-g')===g)?'':'none';});
+var hitQ=!q||c.getAttribute('data-t').includes(q);
+var hitG=!g||c.getAttribute('data-g')===g;
+var on=c.classList.contains('learned');
+var hitM=(m==='all')||(m==='learned'&&on)||(m==='todo'&&!on);
+c.style.display=(hitQ&&hitG&&hitM)?'':'none';});
 document.querySelectorAll('h2').forEach(function(h){var nxt=h.nextElementSibling,any=false;
-while(nxt&&!nxt.tagName.match(/^H2$/)){if(nxt.style.display!=='none'){any=true;break;}nxt=nxt.nextElementSibling;}
+while(nxt&&!nxt.tagName.match(/^H2$/)){if(nxt.classList&&nxt.classList.contains('card')&&nxt.style.display!=='none'){any=true;break;}nxt=nxt.nextElementSibling;}
 h.style.display=any?'':'none';});}
+document.addEventListener('DOMContentLoaded',function(){
+document.querySelectorAll('.card').forEach(function(c){
+var id=cardId(c);if(!id)return;
+var b=document.createElement('button');
+b.type='button';b.className='mark';
+b.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();
+if(learned[id]){delete learned[id];}else{learned[id]=Date.now();}
+saveLearned();paint(c);updateProgress();f();});
+c.insertBefore(b,c.firstChild);
+paint(c);});
+updateProgress();f();});
 </script></body></html>
