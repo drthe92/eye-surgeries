@@ -4,7 +4,7 @@
 > Nguồn:  (-). Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
-Bài giảng tắc lệ-mũi trẻ em: đa số tự thông năm đầu (massage + theo dõi), thông lệ khidai dẳng, DCR khi thất bại hoặc nang. Khung quyết định cho 104/121.
+Bài giảng tắc lệ-mũi trẻ em: đa số tự thông năm đầu (massage + theo dõi), thông lệ khi dai dẳng, DCR khi thất bại hoặc nang. Khung quyết định cho 104/121.
 
 ## 2. Chỉ định / Chống chỉ định
 - Chỉ định: tắc/viêm đúng tầng lệ đạo sau khi bơm rửa-chụp đánh giá.

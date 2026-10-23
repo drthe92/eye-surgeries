@@ -69,9 +69,9 @@ Mục đích: người đọc hiểu tổng quan và **gợi lại được** n�
 | R-recon | 31 | 8,1 → 67,8 | ✅ đã viết lại |
 | O-orbit | 11 | 9,5 → 67,1 | ✅ đã viết lại |
 | T-trauma | 10 | 19,1 → 67,2 | ✅ đã viết lại |
-| M-medial | 3 | 21,0 | ⬜ |
-| L-lacrimal | 33 | 24,3 | ⬜ |
-| C-lower-lid | 38 | 25,1 | ⬜ |
+| M-medial | 3 | 21,0 → 76,0 | ✅ đã viết lại |
+| L-lacrimal | 33 | 24,3 → 65,0 | ✅ đã viết lại |
+| C-lower-lid | 38 | 25,1 → 65,1 | ✅ đã viết lại |
 | F-palsy | 13 | 26,1 | ⬜ |
 | S-strabismus | 40 | 33,2 | ⬜ |
 
