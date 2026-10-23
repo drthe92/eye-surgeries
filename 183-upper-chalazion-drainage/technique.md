@@ -33,3 +33,7 @@ Rạch tháo chắp mi trên qua đường kết mạc: lật mi trên kẹp cha
 1. Khi nào chọn đường da và khi nào chọn đường kết mạc?
 2. Vì sao phải nạo hết vỏ bao chứ không chỉ nặn mủ?
 3. Chắp tái phát nhanh ở người lớn tuổi gợi ý gì và xử trí ra sao?
+
+## 7. Bài liên quan
+- [184 — Chắp dưới](../184-lower-chalazion-drainage/technique.md): so vị trí.
+- [182 — Chắp ngoài](../182-external-chalazion-drainage/technique.md): đường da.

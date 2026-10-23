@@ -33,3 +33,8 @@ Sinh thiết mi cơ bản: tê tại chỗ, punch hoặc dao lấy mẫu da-cơ 
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [176 — Sinh thiết bờ](../176-upper-lid-margin-biopsy/technique.md): vị trí bờ.
+- [177 — Wedge toàn lớp](../177-full-thickness-wedge-biopsy/technique.md): mẫu toàn lớp.
+- [182 — Chắp ngoài](../182-external-chalazion-drainage/technique.md): tổn thương viêm.

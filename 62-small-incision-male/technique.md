@@ -28,3 +28,7 @@ Small incision số 23 áp cho nam với 3 khác biệt: màng xương dính hơ
 1. Vì sao màng xương nam dính hơn và xử trí thế nào?
 2. Vì sao chân tóc thấp là điều kiện?
 3. Vì sao nâng ở nam phải bảo tồn?
+
+## 7. Bài liên quan
+- [63 — + corrugator](../63-corrugator-transection-brow/technique.md): cắt cơ cau mày.
+- [64 — + midface](../64-brow-midface-elevation/technique.md): ba tầng.

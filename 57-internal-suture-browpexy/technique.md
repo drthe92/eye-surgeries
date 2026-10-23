@@ -33,3 +33,7 @@ Nâng mày không sẹo ngoài bằng một mũi khâu trong: treo mép trên đ
 1. Vì sao compa phải đo 2 lần cùng số?
 2. Vì sao treo mày (browpexy) kém bền hơn Endotine/small incision?
 3. Khi nào chọn treo mày thay vì direct?
+
+## 7. Bài liên quan
+- [58 — Endotine](../58-endotine-browpexy/technique.md): treo dưới màng xương.
+- [59 — Mid-forehead](../59-midforehead-browplasty/technique.md): đường khác.

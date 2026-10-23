@@ -29,3 +29,7 @@ Bài dạy 3 điểm mới: đo bên lành đối chứng, cắt môi trước v
 1. Vì sao đo bên lành trước khi mổ?
 2. Vì sao phải cắt môi trước thay vì giật mô ra?
 3. Đuôi tấm tựa gờ sau để làm gì?
+
+## 7. Bài liên quan
+- [144 — Không canthotomy](../144-floor-no-canthotomy/technique.md): cùng khái niệm.
+- [146 — Sàn + thành trong](../146-large-floor-medial-fracture/technique.md): lan rộng.

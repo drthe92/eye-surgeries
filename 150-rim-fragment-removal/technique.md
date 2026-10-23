@@ -31,3 +31,7 @@ Xử trí mảnh vỡ bờ xương di lệch gây biến dạng-lõm mắt: lấ
 1. Khi nào lấy bỏ và khi nào nắn đặt lại mảnh vỡ?
 2. Vì sao sáp xương thay vì đốt điện?
 3. Vỡ trần ổ mắt cần loại trừ gì?
+
+## 7. Bài liên quan
+- [146 — Sàn + thành trong](../146-large-floor-medial-fracture/technique.md): chấn thương lớn.
+- [148 — Tháo lưới](../148-titanium-mesh-removal/technique.md): dị vật.

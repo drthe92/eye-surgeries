@@ -33,3 +33,7 @@ Cắt u dưới mày qua đường rạch giấu dưới chân mày: tê, rạch
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [279 — Lông phụ](../279-distichiasis-repair/technique.md): lông sai hướng.
+- [23 — Small incision brow](../23-browplasty-small-incision/technique.md): vùng mày.

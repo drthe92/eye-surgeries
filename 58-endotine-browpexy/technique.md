@@ -32,3 +32,7 @@ Treo mày dưới màng xương bằng neo Endotine qua đường mi: khoan lỗ
 1. Vì sao gọi là ổn định hơn là nâng?
 2. Vì sao chỉ nylon phải cắt sau 1 tuần?
 3. So sánh Endotine vs treo mày (browpexy) khâu trong số 57?
+
+## 7. Bài liên quan
+- [57 — Browpexy chỉ](../57-internal-suture-browpexy/technique.md): bậc thấp hơn.
+- [65 — Double fixation](../65-double-fixation-brow/technique.md): chống tụt.

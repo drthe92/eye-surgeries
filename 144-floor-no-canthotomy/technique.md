@@ -30,3 +30,7 @@ Vỡ sàn ít xâm lấn nhất: chỉ đường kết mạc + malleable bộc l
 1. Khi nào bỏ được rạch góc và khi nào bắt buộc?
 2. Malleable thay thế được gì của rạch góc?
 3. Vì sao kiểm tra kẹt dưới tấm là bắt buộc?
+
+## 7. Bài liên quan
+- [140 — Có canthotomy](../140-orbital-floor-fracture-1/technique.md): so sánh.
+- [145 — Headlight cam](../145-floor-headlight-cam/technique.md): góc quay.

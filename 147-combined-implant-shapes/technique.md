@@ -28,3 +28,7 @@ Tạo hình tấm theo hình nón hốc mắt (cỏ 3 lá khoét sau): mẫu Sup
 1. Vì sao khoét sau tấm theo hình nón?
 2. Vì sao mẫu Supramid trước Titan sau?
 3. Mổ lại qua sẹo cũ lợi gì?
+
+## 7. Bài liên quan
+- [146 — Hai đường nối](../146-large-floor-medial-fracture/technique.md): bản lớn.
+- [142 — Porous titanium](../142-floor-porous-titanium/technique.md): vật liệu.

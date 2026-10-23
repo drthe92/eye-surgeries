@@ -33,3 +33,8 @@ Sinh thiết wedge toàn bộ chiều dày mi: cắt hình tam giác đáy tại
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [178 — Wedge lá sau](../178-posterior-wedge-resection/technique.md): giữ da ngoài.
+- [176 — Bờ mi](../176-upper-lid-margin-biopsy/technique.md): tổn thương bờ.
+- [228 — Tập khâu](../228-simulated-resection/technique.md): kỹ năng khâu.

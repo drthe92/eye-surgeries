@@ -34,3 +34,7 @@ Nâng má dưới màng xương neo xuyên xương: chỉ nylon từ mặt dư�
 1. Vì sao 3 lỗ khoan đặt trong-ngoài-ngoài cùng bó infraorbital?
 2. Vì sao phải luồn ngược chỉ qua lỗ khoan?
 3. So sánh độ bền D22 vs D21?
+
+## 7. Bài liên quan
+- [21 — Tiền màng xương](../21-preperiosteal-cheek-lift/technique.md): bậc thấp hơn.
+- [294 — Endotine](../294-endotine-midface/technique.md): dụng cụ.

@@ -30,3 +30,7 @@ Tháo vật liệu gây đau mạn do mô mọc vào lưới: khó chính vì ư
 1. Vì sao nhiều phẫu thuật viên tránh lưới dù bám chắc?
 2. Mô mọc vào gây khó gì khi tháo?
 3. Tháo xong cần theo dõi gì về hình thể?
+
+## 7. Bài liên quan
+- [142 — Đặt titanium](../142-floor-porous-titanium/technique.md): bài gốc.
+- [149 — Channel](../149-channel-implant-no-ledge/technique.md): thay thế.

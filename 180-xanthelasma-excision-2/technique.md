@@ -33,3 +33,7 @@ Ca thứ hai cắt xanthelasma trên-dưới: nhấn mạnh xử trí mảng lan
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [179 — Xanthelasma #1](../179-xanthelasma-excision-1/technique.md): bản khu trú.
+- [255 — BPES góc trong](../255-bpes-telecanthus/technique.md): bệnh góc trong.

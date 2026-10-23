@@ -27,3 +27,7 @@ Toàn bộ small incision số 23 quay từ camera đèn đầu: giá trị nằ
 1. Vì sao bóc mù tới gốc mũi được coi là an toàn?
 2. Vì sao một mũi xếp là đủ?
 3. Vì sao da đầu dùng bacitracin còn mi dùng erythromycin?
+
+## 7. Bài liên quan
+- [23 — Small incision](../23-browplasty-small-incision/technique.md): bản gốc.
+- [66 — Scalp details](../66-scalp-incision-details/technique.md): chi tiết đường rạch.

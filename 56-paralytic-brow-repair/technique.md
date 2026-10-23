@@ -33,3 +33,7 @@ Direct mày (brow) cho mày liệt: cơ trán đã mất nên được phép bó
 1. Vì sao liệt được bóc sâu hơn mà direct thường thì cấm?
 2. Vì sao mọi quyết định nâng phải xong trước mổ?
 3. medial cut-back giải quyết vấn đề gì mà dải direct không làm được?
+
+## 7. Bài liên quan
+- [53 — Direct](../53-direct-browplasty/technique.md): kỹ thuật.
+- [265 — Liệt mặt (F)](../265-facial-palsy-lecture/technique.md): khung liệt VII.

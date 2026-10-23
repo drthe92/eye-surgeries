@@ -33,3 +33,8 @@ Nâng má trên mặt màng xương (không bóc dưới màng xương, không k
 1. Vì sao gọi là tiền màng xương và khác gì dưới màng xương?
 2. Vì sao Vicryl kém bền hơn khoan xương D22?
 3. Khi nào chọn D21 thay vì D22?
+
+## 7. Bài liên quan
+- [22 — Drill hole](../22-drill-hole-midface-lift/technique.md): neo xương.
+- [294 — Endotine](../294-endotine-midface/technique.md): dụng cụ cố định.
+- [18 — Dải màng xương + nâng má](../18-periosteal-strip-midface-lift-lateral-defect/technique.md): phối hợp khuyết ngoài.

@@ -29,3 +29,7 @@ Cùng vỡ sàn như số 140 nhưng vỡ LỚN + có rạch góc (canthotomy): 
 1. Khi nào Supramid đủ và khi nào cần Titan?
 2. Vì sao kéo cưỡng bức sau đặt tấm là bắt buộc?
 3. Bóc cùn ngón tay-tăm bông lợi gì so với bóc sắc?
+
+## 7. Bài liên quan
+- [140 — Vỡ nền](../140-orbital-floor-fracture-1/technique.md): gốc.
+- [142 — Porous titanium](../142-floor-porous-titanium/technique.md): vật liệu.

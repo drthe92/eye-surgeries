@@ -28,3 +28,7 @@ Giải pháp khi mất gờ sau (điểm tựa đuôi tấm): tấm rãnh + nẹ
 1. Vì sao mất gờ sau là vấn đề lớn nhất đặt tấm?
 2. Giá đỡ thay thế điểm tựa bằng cách nào?
 3. Khi nào tấm thường đủ mà không cần rãnh?
+
+## 7. Bài liên quan
+- [147 — Hình dạng tấm](../147-combined-implant-shapes/technique.md): bản khác.
+- [148 — Tháo lưới](../148-titanium-mesh-removal/technique.md): biến chứng.

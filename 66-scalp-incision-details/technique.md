@@ -28,3 +28,7 @@ Chuẩn hóa 2 đường da đầu: dọc (dưới màng tới bờ xương-gố
 1. Vì sao phải đặt đầu kéo vào cả 2 khoang rồi mới mở lưỡi?
 2. Vì sao xác nhận chưa móc trước khi kéo?
 3. Vì sao Allen chỉ xếp cân nông-nông?
+
+## 7. Bài liên quan
+- [59 — Mid-forehead](../59-midforehead-browplasty/technique.md): ứng dụng.
+- [69 — Headlight](../69-headlight-camera-brow/technique.md): toàn quy trình.

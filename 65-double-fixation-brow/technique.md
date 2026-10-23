@@ -30,3 +30,7 @@ Chống tụt ở mày nặng bằng 2 tầng neo: Endotine trán (giữ dài h�
 1. Vì sao mày nặng cần 2 tầng neo?
 2. Nylon giữ đầu chống hiện tượng gì?
 3. Theo dõi tụt ở 2 mốc thời gian nào?
+
+## 7. Bài liên quan
+- [58 — Endotine đơn](../58-endotine-browpexy/technique.md): bậc thấp hơn.
+- [101 — Sửa sling](../101-revision-silicone-sling/technique.md): sửa tụt.

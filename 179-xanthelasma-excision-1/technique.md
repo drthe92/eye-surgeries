@@ -33,3 +33,7 @@ Cắt u vàng mi trên và dưới cùng thì: vẽ vừa đủ trong giới h�
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [180 — Xanthelasma #2](../180-xanthelasma-excision-2/technique.md): ca lan rộng.
+- [213 — Ghép da](../213-ftsg-technique/technique.md): thiếu da thì ghép.

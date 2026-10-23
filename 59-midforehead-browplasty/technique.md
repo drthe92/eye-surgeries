@@ -32,3 +32,7 @@ Nâng mày bằng 2 đường rạch rời giữa trán giấu trong nếp nhăn
 1. Vì sao 2 đường rời thay vì 1 đường ngang?
 2. Vì sao mặt bóc mỡ-cơ trán bảo vệ được cảm giác?
 3. Vì sao kỹ thuật hiệu quả mà ít dùng?
+
+## 7. Bài liên quan
+- [60 — Pretrichial](../60-pretrichial-browplasty/technique.md): đường chân tóc.
+- [68 — Forehead wrinkles](../68-browplasty-forehead-wrinkles/technique.md): biến thể nam.

@@ -27,3 +27,7 @@ Cùng direct như số 53, video này nhấn mạnh 3 điểm kỹ thuật: rạ
 1. Vì sao rạch một nét không nhấc dao?
 2. Nhánh trán VII nằm ở tầng nào và hậu quả cắt phạm?
 3. Vì sao Prolene hơn nylon/khóa/đệm dọc ở đây?
+
+## 7. Bài liên quan
+- [53 — Direct](../53-direct-browplasty/technique.md): gốc.
+- [56 — Liệt VII](../56-paralytic-brow-repair/technique.md): áp cho liệt.

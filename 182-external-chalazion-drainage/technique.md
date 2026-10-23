@@ -33,3 +33,8 @@ Rạch tháo chắp ngoài (điểm đầu ngoài da): tê, rạch da song song 
 1. Khi nào chọn đường da và khi nào chọn đường kết mạc?
 2. Vì sao phải nạo hết vỏ bao chứ không chỉ nặn mủ?
 3. Chắp tái phát nhanh ở người lớn tuổi gợi ý gì và xử trí ra sao?
+
+## 7. Bài liên quan
+- [183 — Chắp trên](../183-upper-chalazion-drainage/technique.md): đường kết mạc.
+- [184 — Chắp dưới](../184-lower-chalazion-drainage/technique.md): đường kết mạc.
+- [267 — Viêm lệ quản](../267-canaliculitis-tx/technique.md): phân biệt.

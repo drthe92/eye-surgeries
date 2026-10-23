@@ -36,3 +36,8 @@ Lịch sử: coronal lift -> nội soi 1990s giảm sẹo/tê/rụng tóc nhưng
 1. Vì sao phải lyse temporal fusion line mới nâng được?
 2. Vì sao rạch màng xương lateral với bó supraorbital?
 3. Plication thái dương tồn tại bao lâu và ý nghĩa gì khi tư vấn?
+
+## 7. Bài liên quan
+- [69 — Small incision headlight](../69-headlight-camera-brow/technique.md): cùng kỹ thuật, góc quay.
+- [57 — Browpexy chỉ](../57-internal-suture-browpexy/technique.md): không sẹo.
+- [295 — Cắt gân hợp](../295-cutting-conjoint-tendon/technique.md): giải phóng đuôi mày.

@@ -316,6 +316,9 @@
 | 292 | R-recon | FTSG to upper eyelid | Ghép da toàn lớp mi trên khi chỉ thiếu da. | https://eyerounds.org/video/plastics/8/6-upper-lid-full-thickness-skin-graft.htm | [x] |
 | 293 | R-recon | Rhomboid flap (upper lid) | Vạt hình thoi mi trên cho khuyết tròn. | https://eyerounds.org/video/plastics/1/Rhomboid-Flap.htm | [x] |
 
+| 294 | D-midface | Midface lift Endotine (Cybersight) | Nâng má bằng dụng cụ Endotine: bóc đúng mặt phẳng, gắn ngạnh vào xương, đối xứng. | https://eyerounds.org/video/plastics/7/17-endotine-midface-B.htm | [x] |
+| 295 | W-brow | Cutting conjoint tendon | Cắt gân hợp thái dương giải phóng đuôi mày ngoài; làm kèm browpexy. | https://eyerounds.org/atlas-video/cutting-conjoint-tendon.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

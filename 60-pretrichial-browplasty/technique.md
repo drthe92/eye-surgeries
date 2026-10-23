@@ -33,3 +33,7 @@ Nâng trán-mày qua đường chân tóc cho người trán cao để mái: bó
 1. Vì sao trán cao + để mái mới là chỉ định?
 2. Vì sao mặt ngoài phải sâu dưới TK mặt?
 3. Vì sao rạch răng cưa thay vì thẳng?
+
+## 7. Bài liên quan
+- [59 — Mid-forehead](../59-midforehead-browplasty/technique.md): so đường.
+- [61 — Temporal scalp](../61-temporal-scalp-browplasty/technique.md): thái dương.

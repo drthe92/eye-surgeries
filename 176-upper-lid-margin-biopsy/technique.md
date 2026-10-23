@@ -33,3 +33,8 @@ Sinh thiết tổn thương bờ mi trên: cắt hình wedge nhỏ qua toàn b�
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [175 — Sinh thiết cơ bản](../175-basic-eyelid-biopsy/technique.md): nền.
+- [177 — Wedge](../177-full-thickness-wedge-biopsy/technique.md): mẫu lớn hơn.
+- [178 — Wedge lá sau](../178-posterior-wedge-resection/technique.md): đường sau.

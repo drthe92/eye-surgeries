@@ -30,3 +30,7 @@ Nâng riêng đầu trong mày (vùng small incision thường bỏ sót) bằng
 1. Vì sao small incision thường bỏ sót đầu trong?
 2. Vì sao buộc vào galea chứ không phải da?
 3. Khi nào cần thêm stab trong?
+
+## 7. Bài liên quan
+- [62 — Small incision nam](../62-small-incision-male/technique.md): bản chuẩn.
+- [69 — Headlight](../69-headlight-camera-brow/technique.md): xem toàn bộ.

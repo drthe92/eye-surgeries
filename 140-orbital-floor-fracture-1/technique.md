@@ -34,3 +34,8 @@ Giải phóng mô kẹt + đặt tấm che vỡ sàn qua đường kết mạc: 
 1. Vì sao kéo cưỡng bức 3 lần?
 2. Vì sao phải xác định bờ sau vỡ?
 3. Khi nào cần rạch góc (canthotomy) và khi nào không?
+
+## 7. Bài liên quan
+- [141 — Vỡ lớn](../141-orbital-floor-fracture-2/technique.md): bậc cao hơn.
+- [144 — Không canthotomy](../144-floor-no-canthotomy/technique.md): bản khác.
+- [146 — Sàn + thành trong](../146-large-floor-medial-fracture/technique.md): lan rộng.

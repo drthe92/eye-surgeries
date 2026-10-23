@@ -28,3 +28,7 @@ Nâng cấp vật liệu trong mổ: Supramid không đủ đỡ thì chuyển t
 1. Ưu điểm kép của xốp lẫn titan là gì?
 2. Dấu hiệu trong mổ cho thấy cần nâng cấp tấm?
 3. Vì sao tái tạo đúng 2 chân gân góc ngoài?
+
+## 7. Bài liên quan
+- [143 — Supramid](../143-floor-supramid-implant/technique.md): vật liệu khác.
+- [147 — Hình dạng tấm](../147-combined-implant-shapes/technique.md): cắt tấm.

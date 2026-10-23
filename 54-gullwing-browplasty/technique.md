@@ -33,3 +33,7 @@ Nâng toàn bộ mày kể cả đầu trong bằng dải cắt liền mạch qu
 1. Vì sao chỉ BN đeo kính mới làm được gull-wing?
 2. Ưu điểm duy nhất so với direct là gì?
 3. Vì sao Allen nhấn mạnh đây không phải lift thẩm mỹ?
+
+## 7. Bài liên quan
+- [53 — Direct](../53-direct-browplasty/technique.md): khu trú.
+- [55 — Direct #2](../55-direct-browplasty-2/technique.md): biến thể.

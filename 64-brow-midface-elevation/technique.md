@@ -30,3 +30,8 @@ Một ca ba tầng: nâng trán (Endotine) + ổn định má (Vicryl gò má-c�
 1. Vì sao chỉ gọi là ổn định má chứ không phải nâng?
 2. Vì sao lõm nhẹ gò má là chuẩn?
 3. Khi nào cần D21/D22 thật sự thay vì neo này?
+
+## 7. Bài liên quan
+- [62 — Small incision nam](../62-small-incision-male/technique.md): một tầng.
+- [21 — Nâng má](../21-preperiosteal-cheek-lift/technique.md): phần má.
+- [294 — Endotine midface](../294-endotine-midface/technique.md): dụng cụ.

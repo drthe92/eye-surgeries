@@ -31,3 +31,7 @@ Biến thể mid-trán (forehead) cho nam nhăn sâu: rạch giấu trong nếp 
 1. Vì sao 2 độ sâu khác nhau trong-ngoài gân hợp nhất?
 2. Vì sao cấm chỉ định thẩm mỹ dù sẹo lành tốt?
 3. Chăm sẹo gồm những gì và trong bao lâu?
+
+## 7. Bài liên quan
+- [59 — Mid-forehead](../59-midforehead-browplasty/technique.md): bản chuẩn.
+- [55 — Direct #2](../55-direct-browplasty-2/technique.md): biến thể.

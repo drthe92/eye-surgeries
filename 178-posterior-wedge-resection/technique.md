@@ -33,3 +33,7 @@ Cắt wedge lá sau (sụn-kết mạc) từ phía trong: lật mi, cắt bỏ d
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
 2. Khi nào wedge một thì là đủ và khi nào phải chuyển vạt/ghép?
 3. Kết quả mô bệnh ác tính thì bước tiếp theo là gì?
+
+## 7. Bài liên quan
+- [177 — Wedge toàn lớp](../177-full-thickness-wedge-biopsy/technique.md): so đường.
+- [195 — Wedge lá sau #2 (C)](../195-posterior-wedge-resection-2/technique.md): bản khác.

@@ -33,3 +33,8 @@ Nâng cung mày bằng cách cắt trực tiếp dải da-mỡ dưới da ngay t
 1. Vì sao direct cho độ nâng trên mỗi mm cao nhất?
 2. Vì sao khâu sâu 6-8 mũi quyết định sẹo đẹp-xấu?
 3. Khi nào chọn direct thay vì treo mày/small incision?
+
+## 7. Bài liên quan
+- [55 — Direct #2](../55-direct-browplasty-2/technique.md): biến thể.
+- [54 — Gull-wing](../54-gullwing-browplasty/technique.md): đầu trong.
+- [56 — Liệt VII](../56-paralytic-brow-repair/technique.md): chỉ định đặc biệt.

@@ -32,3 +32,7 @@ Nâng mày thái dương bằng giải phóng (không cắt da trán): cắt cơ
 1. Vì sao mọi ca sụp mày đều cắt cơ vòng thái dương?
 2. Vì sao cắt gân phải dưới nhánh VII?
 3. Gồ da đầu sau buộc có phải biến chứng không?
+
+## 7. Bài liên quan
+- [60 — Pretrichial](../60-pretrichial-browplasty/technique.md): trán.
+- [295 — Cắt gân hợp](../295-cutting-conjoint-tendon/technique.md): giải phóng đuôi mày.

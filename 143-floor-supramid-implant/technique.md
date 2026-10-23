@@ -28,3 +28,7 @@ Bản gọn của vỡ sàn vỡ vừa: Supramid + 1-2 vít + dải (strip) tái
 1. Khi nào Supramid đủ, khi nào cần Titan/xốp-titan?
 2. Vì sao tái tạo góc bằng dải thay vì khâu đơn?
 3. Vít có tác dụng gì ngoài giữ tấm?
+
+## 7. Bài liên quan
+- [142 — Porous titanium](../142-floor-porous-titanium/technique.md): bản lớn hơn.
+- [149 — Channel](../149-channel-implant-no-ledge/technique.md): mất gờ sau.

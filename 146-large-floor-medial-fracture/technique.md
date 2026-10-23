@@ -30,3 +30,7 @@ Vỡ 2 thành cần nhìn 180°: nối 2 đường mổ (kết mạc + qua carun
 1. Vì sao phải nối 2 đường mổ?
 2. Vì sao cắt bám cơ chéo dưới cho nhìn 180°?
 3. Vì sao đo mẫu Supramid trước khi cắt Titan?
+
+## 7. Bài liên quan
+- [147 — Hình dạng tấm](../147-combined-implant-shapes/technique.md): cắt tấm.
+- [142 — Porous titanium](../142-floor-porous-titanium/technique.md): vật liệu.

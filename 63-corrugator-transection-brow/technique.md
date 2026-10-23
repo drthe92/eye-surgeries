@@ -28,3 +28,7 @@ Small incision cộng thêm cắt cơ cau mày để xử trí nếp cau mày (g
 1. Vì sao cơ cau mày nằm giữa hai bó TK và ý nghĩa là gì?
 2. Dấu hiệu cắt hết cơ là gì?
 3. Vì sao phải phối hợp cả uni và lưỡng cực?
+
+## 7. Bài liên quan
+- [62 — Nam](../62-small-incision-male/technique.md): bản nam.
+- [295 — Cắt gân hợp](../295-cutting-conjoint-tendon/technique.md): giải phóng.
