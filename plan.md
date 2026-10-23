@@ -1,0 +1,53 @@
+# plan.md — Nhóm Ca (Đục thủy tinh thể)
+
+> File điều phối. Cập nhật sau **mỗi commit**. Mục tiêu: học mổ, không lan man bệnh lý.
+
+## Trạng thái hiện tại
+- Thư viện: **295 bài** (mi mắt, lác, thẩm mỹ, chấn thương, hốc mắt) — đã xong.
+- Nhóm Ca: **đang làm chặng 1** (phaco cơ bản).
+
+## Chặng 1 — Phaco cơ bản (296–310)
+- [x] 296 Thiết lập máy phaco + thông số
+- [x] 297 Rạch giác mạc (incisions 1/6)
+- [x] 298 Capsulorhexis (2/6)
+- [x] 299 Hydrodissection (3/6)
+- [x] 300 Xử lý nhân — divide & conquer (4/6)
+- [x] 301 Rửa cortex (5/6)
+- [x] 302 Đặt IOL + đóng vết rạch (6/6)
+- [x] 303 Phaco cho người mới (ca toàn bộ)
+- [x] 304 Stop and chop (kỹ thuật thay thế)
+- [x] 305 Capsulorhexis — pearls
+- [x] 306 Biến chứng bao/hydro
+- [x] 307 OVD và ổn định tiền phòng
+- [x] 308 Xây dựng vết rạch (EyeRounds)
+- [x] 309 Thông số phaco (Iowa OWL)
+- [x] 310 Ca phaco cơ bản toàn bộ (EyeRounds)
+- [x] Tổng quan Ca + bảng so sánh phaco/SICS/ECCE
+- [x] Cập nhật index.html (nhóm Ca, bộ lọc)
+- [x] Cập nhật LEARNING-INDEX.md
+- [x] Commit + push
+
+## Chặng 2 — Biến chứng và ca khó (311–325)
+- [ ] Rách bao trước lan sau; mất nhân vào dịch kính
+- [ ] Zonule yếu, lệch thể thủy tinh, CTS
+- [ ] Đồng tử nhỏ, dính mống, floppy iris
+- [ ] Đục dày/trắng/posterior polar
+- [ ] Chuyển ECCE; anterior vitrectomy
+- [ ] Kiểm soát nhãn áp cuối ca
+
+## Chặng 3 — Nâng cao (326–345)
+- [ ] IOL phức tạp (sulcus, scleral fixation, AC IOL, exchange, toric)
+- [ ] SICS/MSICS (Aravind, Blumenthal, hypermature)
+- [ ] Cataract trẻ em
+- [ ] Phối hợp glaucoma/cornea
+- [ ] Femto
+
+## Quy ước nhóm Ca
+- Mỗi bài 6 mục + mục 7 liên quan.
+- Mục 4 thêm: **thông số máy**, **điểm quyết định**, **biến chứng tại bước**, **tiêu chí nghiệm thu**.
+- Nguồn: Cybersight (transcript), EyeRounds (nguyên lý), CataractCoach (link).
+- Không chép nội dung AAO/EyeWiki/Moran CORE.
+
+## Lịch sử commit
+- 2026-10-23: tạo plan.md; bắt đầu chặng 1.
+- 2026-10-23: xong chặng 1 (296–310) + Tổng quan Ca + index 310 bài — commit.

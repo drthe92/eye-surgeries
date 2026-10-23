@@ -319,6 +319,22 @@
 | 294 | D-midface | Midface lift Endotine (Cybersight) | Nâng má bằng dụng cụ Endotine: bóc đúng mặt phẳng, gắn ngạnh vào xương, đối xứng. | https://eyerounds.org/video/plastics/7/17-endotine-midface-B.htm | [x] |
 | 295 | W-brow | Cutting conjoint tendon | Cắt gân hợp thái dương giải phóng đuôi mày ngoài; làm kèm browpexy. | https://eyerounds.org/atlas-video/cutting-conjoint-tendon.htm | [x] |
 
+| 296 | Ca-cataract | Machine setup / parameters | 4 thông số, bàn đạp 3 nấc, cài đặt khởi đầu. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-incisions-part-1-6/ | [x] |
+| 297 | Ca-cataract | Incisions 1/6 | Rạch 15° + keratome 2,4mm 3 mặt phẳng. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-incisions-part-1-6/ | [x] |
+| 298 | Ca-cataract | Capsulorhexis 2/6 | Giữ mép gấp, vòng 5-5,5mm. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-capsulorhexis-part-2-6/ | [x] |
+| 299 | Ca-cataract | Hydrodissection 3/6 | Áp cao thể tích nhỏ, đúng mặt phẳng. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-hydrodissection-part-3-6/ | [x] |
+| 300 | Ca-cataract | Divide and conquer 4/6 | Rãnh thuyền, bẻ 1/4, trung tâm an toàn. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-nucleus-removal-part-4-6/ | [x] |
+| 301 | Ca-cataract | Cortex removal 5/6 | Theo cung, nhìn thẳng miệng hút. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-cortex-removal-part-5-6/ | [x] |
+| 302 | Ca-cataract | IOL + wound closure 6/6 | Visco vào bao, haptic trước, hút visco. | https://cybersight.org/library/surgery-basics-of-phacoemulsification-iol-insertion-wound-closure-part-6-6/ | [x] |
+| 303 | Ca-cataract | Phaco for beginners | Ca toàn bộ + quy tắc nhỏ. | https://cybersight.org/library/surgery-phacoemulsification-for-beginners/ | [x] |
+| 304 | Ca-cataract | Stop and chop | Giữ chân không cao, chẻ tại trung tâm. | https://cybersight.org/library/surgery-phacoemulsification-stop-and-chop-technique/ | [x] |
+| 305 | Ca-cataract | Needle capsulorhexis | Kim 27G, giữ mép gấp từng 2 giờ. | https://cybersight.org/library/surgery-phacoemulsification-stop-and-chop-technique/ | [x] |
+| 306 | Ca-cataract | Capsulorhexis/hydro complications | Bao không liên tục, rhexis nhỏ, nhân không xoay. | https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/ | [x] |
+| 307 | Ca-cataract | OVD + chamber stability | Cohesive/dispersive; hút sạch dưới IOL. | https://eyerounds.org/video/Cataract/index.htm | [x] |
+| 308 | Ca-cataract | Wound construction errors | Quá dài, quá nông, đâm sâu. | https://eyerounds.org/video/Cataract/index.htm | [x] |
+| 309 | Ca-cataract | Phaco settings (OWL) | Cài đặt theo thì. | https://eyerounds.org/tutorials/Iowa-OWL/phaco_settings.htm | [x] |
+| 310 | Ca-cataract | Full case (EyeRounds) | Ráp 10 bước. | https://eyerounds.org/video/Cataract/index.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.
