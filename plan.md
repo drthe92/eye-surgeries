@@ -67,8 +67,8 @@ Mục đích: người đọc hiểu tổng quan và **gợi lại được** n�
 |---|---|---|---|
 | Ca-cataract | 15 | 6,9 | ✅ đã viết lại |
 | R-recon | 31 | 8,1 → 67,8 | ✅ đã viết lại |
-| O-orbit | 11 | 9,5 | ⬜ |
-| T-trauma | 10 | 19,1 | ⬜ |
+| O-orbit | 11 | 9,5 → 67,1 | ✅ đã viết lại |
+| T-trauma | 10 | 19,1 → 67,2 | ✅ đã viết lại |
 | M-medial | 3 | 21,0 | ⬜ |
 | L-lacrimal | 33 | 24,3 | ⬜ |
 | C-lower-lid | 38 | 25,1 | ⬜ |
