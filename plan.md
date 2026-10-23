@@ -51,3 +51,30 @@
 ## Lịch sử commit
 - 2026-10-23: tạo plan.md; bắt đầu chặng 1.
 - 2026-10-23: xong chặng 1 (296–310) + Tổng quan Ca + index 310 bài — commit.
+
+## Viết lại mô tả ngắn trên thẻ bài học (ưu tiên chất lượng)
+Mục đích: người đọc hiểu tổng quan và **gợi lại được** nội dung đã học, không chỉ đọc tên bài.
+
+**Tiêu chí mỗi mô tả (60–90 từ):**
+1. Kỹ thuật làm gì, trên cơ chế nào (1 câu).
+2. 2–3 bước/điểm kỹ thuật then chốt.
+3. Một tiêu chí nghiệm thu hoặc một lỗi điển hình.
+4. Không trùng lặp nội dung bài khác; không lan sang bệnh lý.
+
+**Thứ tự ưu tiên (theo độ dài trung bình hiện tại):**
+
+| Nhóm | Số bài | TB từ | Trạng thái |
+|---|---|---|---|
+| Ca-cataract | 15 | 6,9 | ✅ đã viết lại |
+| R-recon | 31 | 8,1 | ⬜ |
+| O-orbit | 11 | 9,5 | ⬜ |
+| T-trauma | 10 | 19,1 | ⬜ |
+| M-medial | 3 | 21,0 | ⬜ |
+| L-lacrimal | 33 | 24,3 | ⬜ |
+| C-lower-lid | 38 | 25,1 | ⬜ |
+| F-palsy | 13 | 26,1 | ⬜ |
+| S-strabismus | 40 | 33,2 | ⬜ |
+
+Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, không sửa.
+
+**Quy trình mỗi nhóm:** viết lại mô tả trong `LEARNING-INDEX.md` → cập nhật `data-t` + `.summ` trong `index.html` → kiểm đếm → commit (cập nhật bảng này).
