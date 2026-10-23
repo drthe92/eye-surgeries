@@ -78,3 +78,20 @@ Mục đích: người đọc hiểu tổng quan và **gợi lại được** n�
 Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, không sửa.
 
 **Quy trình mỗi nhóm:** viết lại mô tả trong `LEARNING-INDEX.md` → cập nhật `data-t` + `.summ` trong `index.html` → kiểm đếm → commit (cập nhật bảng này).
+
+### Còn lại sau khi xong S (2026-10-23)
+Đã đạt chuẩn: Ca, R, O, T, M, L, C, F, S. **Còn 75 thẻ dưới 60 từ** ở các nhóm chưa làm:
+
+| Nhóm | Số bài dưới 60 | Tổng | TB hiện tại | Ưu tiên |
+|---|---|---|---|---|
+| P-ptosis | 24 | 26 | 44,5 | 1 |
+| B-ectropion/entropion | 13 | 19 | 45,9 | 2 |
+| E-blepharo | 13 | 14 | 43,8 | 3 |
+| Bx-biopsy | 10 | 10 | 45,1 | 4 |
+| W-brow | 8 | 18 | 59,1 | 5 |
+| D-midface | 2 | 3 | 44,3 | 6 |
+| U-upper | 2 | 5 | 50,6 | 7 |
+| U-retraction | 2 | 9 | 67,7 | 8 |
+| N-anesthesia | 1 | 5 | 62,0 | 9 |
+
+Nguyên tắc: nhóm nào nhiều thẻ dưới chuẩn nhất làm trước; các bài đã ≥60 giữ nguyên.
