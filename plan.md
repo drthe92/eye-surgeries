@@ -72,7 +72,7 @@ Mục đích: người đọc hiểu tổng quan và **gợi lại được** n�
 | M-medial | 3 | 21,0 → 76,0 | ✅ đã viết lại |
 | L-lacrimal | 33 | 24,3 → 65,0 | ✅ đã viết lại |
 | C-lower-lid | 38 | 25,1 → 65,1 | ✅ đã viết lại |
-| F-palsy | 13 | 26,1 | ⬜ |
+| F-palsy | 13 | 26,1 → 65,4 | ✅ đã viết lại |
 | S-strabismus | 40 | 33,2 | ⬜ |
 
 Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, không sửa.
