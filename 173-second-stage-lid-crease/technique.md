@@ -29,3 +29,7 @@ Thì 2 vừa làm mỏng vừa tạo nếp mi: cắt bớt-cắt sẹo-nâng-đ�
 1. Vì sao đích là lõm góc trong?
 2. Vì sao móc cân cho nếp chắc?
 3. Phân biệt số 173 vs số 172?
+
+## 7. Bài liên quan
+- [172 — Thì hai chuẩn](../172-second-stage-median-flap/technique.md): bài gốc.
+- [75 — Nâng nếp mi](../75-raising-lid-crease/technique.md): kỹ thuật nếp.

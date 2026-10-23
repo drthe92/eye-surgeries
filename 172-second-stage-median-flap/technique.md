@@ -29,3 +29,8 @@ Hoàn thiện vạt cuống sau 2 tháng nuôi: cắt cuống, sửa sẹo chỗ
 1. Vì sao thì 2 cách thì 1 đúng 2 tháng?
 2. Buttonhole xử trí thế nào và phòng thế nào?
 3. Vì sao trả đầu mày là đích phụ bắt buộc?
+
+## 7. Bài liên quan
+- [171 — Vạt trán cạnh giữa](../171-paramedian-forehead-flap/technique.md): bài gốc.
+- [173 — Thì hai + nếp mi](../173-second-stage-lid-crease/technique.md): thêm tạo nếp.
+- [166 — Sửa thì hai](../166-median-flap-revision/technique.md): biến thể.

@@ -28,3 +28,7 @@ Khuyết trong lớn 2 vạt 2 hướng: trán giữa che trên-giữ lõm bằn
 1. Vì sao 2 neo màng xương mới giữ được lõm?
 2. Trên mày 1cm đổi mặt bóc để tránh gì?
 3. So sánh số 174 vs số 170?
+
+## 7. Bài liên quan
+- [170 — Combo glabella + xoay](../170-combo-glabellar-rotational/technique.md): bản khác.
+- [165 — Vạt trán giữa](../165-median-forehead-flap/technique.md): vạt chính.

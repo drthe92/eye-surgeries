@@ -29,3 +29,7 @@ Hai thì cách nhau 2 tháng: thì 1 dựng (lá sau mào lệ sau + vạt trán
 1. Vì sao thì 1 giữ dày mà thì 2 mới làm mỏng?
 2. Xương dương tính thì xử trí khác thế nào?
 3. Tranh cãi lấy xương gửi bệnh phẩm là gì?
+
+## 7. Bài liên quan
+- [165 — Vạt trán giữa](../165-median-forehead-flap/technique.md): bài gốc.
+- [172 — Thì hai](../172-second-stage-median-flap/technique.md): chi tiết thì hai.

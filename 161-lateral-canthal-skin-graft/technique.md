@@ -30,3 +30,8 @@ Khi sẹo-actinic triệt tiêu mọi vạt tại chỗ: dải (strip) giữ mi 
 1. Khi nào vạt tại chỗ thua ghép từ xa?
 2. Vì sao da actinic không huy động được?
 3. Bolster quyết định sống ghép thế nào?
+
+## 7. Bài liên quan
+- [160 — Nguyên lý rút ngắn](../160-lateral-canthal-shortening/technique.md): bước trước.
+- [159 — Mi + góc ngoài](../159-upper-lid-canthal-flap-graft/technique.md): vạt thay ghép.
+- [223 — Góc ngoài + ghép da](../223-lateral-canthal-skin-graft/technique.md): bản nhóm C.

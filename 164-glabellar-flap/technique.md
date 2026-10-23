@@ -29,3 +29,7 @@ Vạt da dày giữa mày xoay xuống góc trong trên: vẽ rộng hơn nghĩ,
 1. Vì sao vẽ rộng hơn nghĩ?
 2. Vì sao khuyết trên gân hợp glabella còn dưới gân thì không?
 3. Làm mỏng ở đâu và bằng gì?
+
+## 7. Bài liên quan
+- [163 — Bilobe](../163-bilobe-flap-medial/technique.md): khuyết lớn hơn.
+- [168 — Glabella (khuyết góc trong)](../168-glabellar-medial-defect/technique.md): bản góc trong.

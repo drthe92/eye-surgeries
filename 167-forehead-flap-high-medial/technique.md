@@ -29,3 +29,7 @@ Vạt trán cao cho khuyết trong cao: bóc rộng 2 đầu (chỗ cho tới g�
 1. Vì sao vẽ vạt cao theo chiều rộng khuyết?
 2. Khi nào cắt gân hợp nhất khi bóc chỗ cho?
 3. Nguyên tắc tỉa vạt là gì?
+
+## 7. Bài liên quan
+- [165 — Vạt trán giữa](../165-median-forehead-flap/technique.md): bản chuẩn.
+- [171 — Cạnh giữa](../171-paramedian-forehead-flap/technique.md): biến thể trục.

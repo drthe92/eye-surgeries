@@ -29,3 +29,7 @@ Vạt trán cạnh giữa không cần vẽ động mạch: đổi mặt bóc đ
 1. Vì sao không cần vẽ động mạch trên ổ mắt?
 2. Mốc 2cm quyết định gì?
 3. Khi nào làm mỏng vạt ngay thì 1?
+
+## 7. Bài liên quan
+- [165 — Vạt trán giữa](../165-median-forehead-flap/technique.md): trục giữa.
+- [172 — Thì hai](../172-second-stage-median-flap/technique.md): thì hai.

@@ -29,3 +29,7 @@ Vạt tiến trong-ngoài kèm dải (strip) chống lật mi trong: giữ cơ v
 1. Vì sao ghép da/bóc rộng thua vạt tiến ở khuyết trong?
 2. Vì sao giữ cơ vòng trước sụn?
 3. dải ở đây chống biến chứng nào?
+
+## 7. Bài liên quan
+- [170 — Combo glabella + xoay](../170-combo-glabellar-rotational/technique.md): phối hợp.
+- [171 — Vạt trán cạnh giữa](../171-paramedian-forehead-flap/technique.md): vạt khác.

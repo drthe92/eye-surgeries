@@ -28,3 +28,8 @@ Khuyết lớn góc trong 2 mi: lá sau bằng dải (strip) màng xương chẻ
 1. Vì sao bắt chéo kiếm thay vì song song?
 2. Vì sao đổi mặt bóc ở 2cm trên bờ xương?
 3. Vì sao ép tối thiểu sau mổ?
+
+## 7. Bài liên quan
+- [166 — Vạt trán + sửa thì hai](../166-median-flap-revision/technique.md): thì hai.
+- [171 — Vạt trán cạnh giữa](../171-paramedian-forehead-flap/technique.md): biến thể.
+- [172 — Thì hai vạt trán](../172-second-stage-median-flap/technique.md): thì hai.

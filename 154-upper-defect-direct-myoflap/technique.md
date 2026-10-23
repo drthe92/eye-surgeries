@@ -31,3 +31,8 @@ Khuyết toàn bộ mi trên mà lá trước thừa-lá sau vừa: khâu trực
 1. Ướm phát hiện thừa-thiếu thế nào?
 2. Vì sao không cắt bỏ mô thừa mà phân bố lại?
 3. Khi nào trực tiếp đủ và khi nào cần ghép?
+
+## 7. Bài liên quan
+- [155 — Rạch góc](../155-upper-50-canthotomy-cantholysis/technique.md): khuyết lớn hơn.
+- [157 — Ngoài lớn](../157-large-lateral-upper-defect/technique.md): vị trí ngoài.
+- [152 — Nửa trong](../152-medial-upper-graft-myoflap/technique.md): vị trí trong.

@@ -28,3 +28,8 @@ Vạt xoay ngoài che lá trước với 2 neo: dải (strip) giữ mi + mũi s�
 1. Vì sao rút ngắn mi trước khi phủ vạt?
 2. Mũi sâu 4-0 vào bờ xương có tác dụng gì?
 3. Phân biệt vạt xoay với vạt tiến (O-to-Z)?
+
+## 7. Bài liên quan
+- [157 — Khuyết ngoài lớn](../157-large-lateral-upper-defect/technique.md): bậc cao hơn.
+- [13 — Vạt Tenzel](../13-tenzel-flap/technique.md): cùng họ vạt bán nguyệt.
+- [211 — Khuyết nhỏ ngoài](../211-small-lateral-defect/technique.md): bậc thấp hơn.

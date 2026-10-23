@@ -30,3 +30,8 @@ Hết sụn 2 bên + từ chối Cutler-Beard: lá sau bằng dải (strip) màn
 1. Vì sao dải phải kéo dài xuống dưới?
 2. Vì sao cấm bóc mạnh kết mạc ở đây?
 3. Khi nào chấp nhận Cutler-Beard thay vì 3 nguồn mô?
+
+## 7. Bài liên quan
+- [158 — Vạt bán nguyệt](../158-lateral-semicircular-flap/technique.md): vạt thay thế.
+- [159 — Mi + góc ngoài](../159-upper-lid-canthal-flap-graft/technique.md): lan góc.
+- [223 — Góc ngoài + ghép da](../223-lateral-canthal-skin-graft/technique.md): so sánh.

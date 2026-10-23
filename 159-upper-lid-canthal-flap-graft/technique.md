@@ -29,3 +29,8 @@ Phân vùng che phủ theo độ dày da: vạt xoay dày cho phần ngoài mi, 
 1. Vì sao vạt dày cho ngoài mi còn ghép mỏng cho mi?
 2. Vì sao lấy mẫu 2 lần (trước-sau thu nhỏ)?
 3. Lỗ thủng trong ghép xử trí thế nào?
+
+## 7. Bài liên quan
+- [157 — Ngoài lớn](../157-large-lateral-upper-defect/technique.md): không lan góc.
+- [161 — Góc ngoài + ghép](../161-lateral-canthal-skin-graft/technique.md): ghép thay vạt.
+- [222 — Mi trên + góc ngoài](../222-lid-lateral-canthal/technique.md): bản tương tự nhóm C.

@@ -30,3 +30,8 @@ Khuyết trong toàn bộ chiều dày: lá sau ghép sụn mi đối bên neo m
 1. Vì sao lấy sụn mi đối bên?
 2. Vì sao chỗ cho ghép tự liền không khâu?
 3. Khi nào đổi từ bilobe sang tiến đơn?
+
+## 7. Bài liên quan
+- [151 — Khuyết trong nhỏ](../151-medial-upper-lid-defect/technique.md): bậc thấp hơn.
+- [153 — Hai mi + vạt trán](../153-medial-50-both-lids-forehead-flap/technique.md): lan hai mi.
+- [200 — Ghép sụn rời](../200-free-tarsal-central/technique.md): kỹ thuật ghép.

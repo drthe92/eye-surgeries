@@ -29,3 +29,7 @@ Nguyên lý rút ngắn lá sau sinh thừa lá trước: thay vì thêm mô ngo
 1. Vì sao bớt trong lại thừa ngoài?
 2. Khi nào nguyên lý này đủ và khi nào cần thêm mô?
 3. Màng góc ngoài do đâu và phòng thế nào?
+
+## 7. Bài liên quan
+- [161 — Góc ngoài + ghép da](../161-lateral-canthal-skin-graft/technique.md): kết hợp.
+- [220 — Sửa khuyết góc ngoài](../220-lateral-canthal-defect/technique.md): nguyên lý dựng góc.

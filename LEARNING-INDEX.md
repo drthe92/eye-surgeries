@@ -308,6 +308,14 @@
 | 285 | U-upper | Entropion lecture (Cybersight) | Khung phân loại quặm và xử trí theo cơ chế. | https://cybersight.org/library/lecture-entropion-when-lids-rub-you-the-wrong-way/ | [x] |
 | 286 | B-ectropion/entropion | Entropion + canthoplasty + skin (Cybersight) | Quặm + tạo hình góc + cắt da: cắt da vừa phải. | https://cybersight.org/library/surgery-entropion-repair-and-lateral-canthoplasty-with-skin-excision/ | [x] |
 
+| 287 | R-recon | Upper advancement flap 1 | Vạt tiến lá trước mi trên: trượt da lân cận, không căng bờ mi. | https://eyerounds.org/video/plastics/1/Upper-lid-Advancement-Flap-1.htm | [x] |
+| 288 | R-recon | Upper advancement flap 2 | Biến thể vạt tiến cong, giấu sẹo. | https://eyerounds.org/video/plastics/1/Upper-lid-Advancement-flap-2.htm | [x] |
+| 289 | R-recon | Pedicle flap brow to lid | Vạt có cuống từ mày lên mi trên: khuyết lớn, hai thì. | https://eyerounds.org/video/plastics/5/3-pedicle-flap.htm | [x] |
+| 290 | R-recon | Multiple flaps upper lid | Nhiều vạt phối hợp chia lực căng. | https://eyerounds.org/video/plastics/11/86-multiple-flaps-upper-lid-defect.htm | [x] |
+| 291 | R-recon | Central brow + upper lid defect | Khuyết giữa mày + mi trên: tái tạo cả hai, đúng hướng lông. | https://eyerounds.org/video/plastics/6/14-upper-lid-and-brow-defect.htm | [x] |
+| 292 | R-recon | FTSG to upper eyelid | Ghép da toàn lớp mi trên khi chỉ thiếu da. | https://eyerounds.org/video/plastics/8/6-upper-lid-full-thickness-skin-graft.htm | [x] |
+| 293 | R-recon | Rhomboid flap (upper lid) | Vạt hình thoi mi trên cho khuyết tròn. | https://eyerounds.org/video/plastics/1/Rhomboid-Flap.htm | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

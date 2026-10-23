@@ -30,3 +30,8 @@ Tách 2 lá xử trí riêng khi lá sau đủ nhão khâu trực tiếp còn l�
 1. Điều kiện wedge trực tiếp lá sau là gì?
 2. Vì sao kim nhỏ tại bờ mi ghép-sụn?
 3. Bolster + dính tạm giải quyết 2 vấn đề nào?
+
+## 7. Bài liên quan
+- [155 — Rạch góc](../155-upper-50-canthotomy-cantholysis/technique.md): khuyết lớn hơn.
+- [292 — Ghép da mi trên](../292-ftsg-upper-lid/technique.md): bản ghép da đơn thuần.
+- [213 — Kỹ thuật ghép da](../213-ftsg-technique/technique.md): bài nền.

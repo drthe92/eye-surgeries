@@ -28,3 +28,7 @@ Vẽ thừa-cắt sau: thừa an toàn hơn thiếu; mọi đường cắt thừ
 1. Vì sao thừa tốt hơn thiếu ở vạt da?
 2. Burrow phải hướng ra khỏi chân vạt vì sao?
 3. So sánh số 168 vs số 164?
+
+## 7. Bài liên quan
+- [164 — Glabella](../164-glabellar-flap/technique.md): bài gốc.
+- [170 — Combo glabella + xoay](../170-combo-glabellar-rotational/technique.md): phối hợp.

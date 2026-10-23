@@ -29,3 +29,7 @@ Vạt 2 thùy chuyển lực căng từ dọc sang ngang: đóng chỗ cho dư�
 1. Vì sao đóng chỗ cho dọc triệt được căng dọc mi?
 2. Khi nào bilobe hơn glabella/ngang/ghép?
 3. Vì sao đóng chỗ cho trước khâu vạt?
+
+## 7. Bài liên quan
+- [164 — Glabella](../164-glabellar-flap/technique.md): vạt đơn giản hơn.
+- [162 — Mustarde + glabella](../162-mustarde-glabellar-flap/technique.md): phối hợp.

@@ -30,3 +30,8 @@ Khuyết trong mi trên kèm lệ đạo: nong lệ trước, giải phóng 2 đ
 1. Vì sao nong lệ trước khi chuyển mô?
 2. Dấu hiệu cần giải phóng thêm khi ướm là gì?
 3. Mào lệ sau thay thế cấu trúc nào làm điểm tựa?
+
+## 7. Bài liên quan
+- [152 — Nửa trong + ghép](../152-medial-upper-graft-myoflap/technique.md): khuyết lớn hơn.
+- [205 — Khuyết trong mi dưới](../205-medial-lower-defect/technique.md): so trên-dưới.
+- [136 — Rách lệ quản](../136-ll-canalicular-laceration-1/technique.md): chấn thương lệ quản.

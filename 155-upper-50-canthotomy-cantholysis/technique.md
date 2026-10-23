@@ -29,3 +29,8 @@ Mở rộng khả năng khâu trực tiếp từ 33% lên 50% bằng giải phó
 1. Vì sao căng khi đóng trực tiếp gây sụp mi?
 2. Vì sao cắt gân góc TRÊN chứ không phải dưới?
 3. Giới hạn % khâu trực tiếp sau giải phóng là bao nhiêu?
+
+## 7. Bài liên quan
+- [154 — Trực tiếp](../154-upper-defect-direct-myoflap/technique.md): không đủ thì mở góc.
+- [156 — Wedge + ghép da](../156-wedge-plus-ftsg/technique.md): kết hợp lá sau-trước.
+- [13 — Vạt Tenzel](../13-tenzel-flap/technique.md): nguyên lý giải phóng.

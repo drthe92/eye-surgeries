@@ -29,3 +29,8 @@ Hai vạt gặp nhau giữa khuyết: glabella che trên + Mustarde che dưới,
 1. Vì sao phải xác nhận lệ nguyên vẹn trước khi vẽ vạt?
 2. Lõm nhỏ sau neo màng xương có phải biến chứng không?
 3. So sánh số 170 vs số 162?
+
+## 7. Bài liên quan
+- [164 — Glabella](../164-glabellar-flap/technique.md): một vạt.
+- [169 — Vạt xoay](../169-rotational-flap-medial/technique.md): vạt thứ hai.
+- [162 — Mustarde + glabella](../162-mustarde-glabellar-flap/technique.md): bản khác.

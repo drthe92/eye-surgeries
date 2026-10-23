@@ -30,3 +30,8 @@ Khuyết trong 2 mi toàn bộ: mi dưới kéo về mào sau kèm nong đơn l�
 1. Vì sao mất lệ quản trên thì nong đơn dưới là đủ?
 2. Thang leo kéo-cắt gân góc-ghép quyết định thế nào?
 3. Vì sao vạt trán bắt buộc làm mỏng chỗ trước sụn?
+
+## 7. Bài liên quan
+- [152 — Một mi](../152-medial-upper-graft-myoflap/technique.md): nhẹ hơn.
+- [165 — Vạt trán giữa](../165-median-forehead-flap/technique.md): vạt chính.
+- [162 — Mustarde + glabella](../162-mustarde-glabellar-flap/technique.md): phối hợp vạt.

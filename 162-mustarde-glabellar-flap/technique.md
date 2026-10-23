@@ -29,3 +29,8 @@ Khuyết sâu góc trong 2 tầng da khác loại: vạt glabella dày che trên
 1. Vì sao 2 vạt cho 2 loại da khác nhau?
 2. Vì sao lệ và góc làm trước vạt?
 3. Khi nào được bỏ dải?
+
+## 7. Bài liên quan
+- [163 — Bilobe](../163-bilobe-flap-medial/technique.md): vạt thay thế.
+- [164 — Glabella đơn](../164-glabellar-flap/technique.md): bậc thấp hơn.
+- [170 — Combo glabella + xoay](../170-combo-glabellar-rotational/technique.md): bản phối hợp.
