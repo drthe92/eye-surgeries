@@ -20,10 +20,31 @@ h1{font-size:1.5em}h2{background:#f0f4f8;padding:8px 12px;border-radius:8px;font
 #lfilter{font-size:1em;padding:10px;border:1px solid #bbb;border-radius:8px}
 #prog{font-size:.85em;color:#3c6b4c;margin:2px 0 6px}
 .card.learned{position:relative}
+#backup{margin:8px 0 14px;font-size:.9em}
+#backup summary{cursor:pointer;color:#2f6b42;font-weight:600}
+.bk{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+.bk button{font:inherit;font-size:.85em;padding:6px 12px;border:1px solid #bbb;border-radius:8px;background:#fff;cursor:pointer}
+.bk button:hover{background:#f3f8f4}
+#bk-code{width:100%;box-sizing:border-box;min-height:64px;font-family:ui-monospace,monospace;font-size:.78em;padding:8px;border:1px solid #bbb;border-radius:8px;resize:vertical}
+#bk-msg{color:#3c6b4c}
 </style></head><body>
 <h1>Thư viện phẫu thuật mắt (283 bài)</h1>
 <p class="count">Gõ tiếng Việt hoặc tiếng Anh để lọc theo tên. Mỗi thẻ có link Bài học, Transcript và Video.<br>Tổng quan theo nhóm: <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-A-goc-ngoai.md">A. Góc ngoài — nền tảng (01–06)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-B-lat-quam-mi-duoi.md">B. Lật-quặm mi dưới (07–12, 185–193)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-C-mi-duoi-ma-goc-ngoai.md">C. Mi dưới-má-góc ngoài (13–20, 194–223)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-N-vo-cam.md">N. Vô cảm (24–27, 224)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-mi-duoi/giai-phau-mi-duoi.md">Giải phẫu mi dưới</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-S-lac.md">S. Lác (40–52, 226–230)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-lac/giai-phau-lac.md">Giải phẫu lác</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-M-goc-trong.md">M. Góc trong (102–103, 253–255)</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/giai-phau-mi-tren/giai-phau-mi-tren.md">Giải phẫu mi trên</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-dao-dien.md">Dao điện</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-chi-khau.md">Chỉ khâu</a> · <a href="https://github.com/drthe92/eye-surgeries/blob/main/tong-quan-vi-phau.md">Vi phẫu</a>.</p>
 <div id="prog"></div>
+<details id="backup">
+<summary>Sao lưu / khôi phục tiến độ</summary>
+<div class="bk">
+<button type="button" id="bk-export">Tạo mã sao lưu</button>
+<button type="button" id="bk-download">Tải file .txt</button>
+<button type="button" id="bk-copy">Chép mã</button>
+</div>
+<textarea id="bk-code" placeholder="Dán mã sao lưu (bắt đầu bằng EYE1.) vào đây rồi bấm Khôi phục"></textarea>
+<div class="bk">
+<button type="button" id="bk-import">Khôi phục từ mã</button>
+<span id="bk-msg"></span>
+</div>
+<p class="count" style="margin:4px 0 0">Mã base64 chỉ là cách đóng gói, không phải mật khẩu: ai có mã đều đọc được danh sách bài đã học. Mã chỉ chứa số bài, không có thông tin cá nhân.</p>
+</details>
 <div class="bar">
 <input id="search" type="text" placeholder="Tìm kiếm: sụp mi, lác, vỡ sàn, DCR..." oninput="f()">
 <select id="grp" onchange="f()"><option value="">Tất cả nhóm</option><option value="A-core">A. Góc ngoài — nền tảng</option><option value="B-ectropion/entropion">B. Lật-quặm mi dưới</option><option value="C-lower-lid">C. Tái tạo mi dưới ngoài</option><option value="D-midface">D. Nâng má giữa mặt</option><option value="Brow">Brow</option><option value="N-anesthesia">N. Vô cảm</option><option value="U-upper">U. Mi trên (quặm)</option><option value="U-retraction">U. Co rút mi</option><option value="S-strabismus">S. Lác</option><option value="W-brow">W. Mày-trán</option><option value="E-blepharo">E. Mi (blepharoplasty)</option><option value="P-ptosis">P. Sụp mi</option><option value="L-lacrimal">L. Lệ đạo</option><option value="F-palsy">F. Liệt mặt</option><option value="T-trauma">T. Chấn thương mi-lệ quản</option><option value="O-orbit">O. Hốc mắt — vỡ sàn</option><option value="R-recon">R. Tái tạo mi trên — góc trong</option><option value="Bx-biopsy">Bx. Sinh thiết mi — u mi</option><option value="M-medial">M. Góc trong</option></select>
@@ -1517,4 +1538,19 @@ saveLearned();paint(c);updateProgress();f();});
 c.insertBefore(b,c.firstChild);
 paint(c);});
 updateProgress();f();});
+
+function b64enc(str){var bytes=new TextEncoder().encode(str),bin='';for(var i=0;i<bytes.length;i++){bin+=String.fromCharCode(bytes[i]);}return btoa(bin);}
+function b64dec(b64){var bin=atob(b64.replace(/\s+/g,'')),arr=new Uint8Array(bin.length);for(var i=0;i<bin.length;i++){arr[i]=bin.charCodeAt(i);}return new TextDecoder().decode(arr);}
+function buildCode(){var ids=Object.keys(learned).sort();return 'EYE1.'+b64enc(JSON.stringify({v:1,ids:ids}));}
+function parseCode(code){code=(code||'').trim();if(code.indexOf('EYE1.')===0){code=code.slice(5);}var o=JSON.parse(b64dec(code));if(!o||!Array.isArray(o.ids)){throw new Error('Định dạng không đúng');}return o.ids;}
+function bkMsg(s,ok){var m=document.getElementById('bk-msg');if(m){m.textContent=s;m.style.color=ok?'#3c6b4c':'#a33';}}
+function refreshAll(){document.querySelectorAll('.card').forEach(paint);updateProgress();f();}
+document.addEventListener('DOMContentLoaded',function(){
+var ex=document.getElementById('bk-export'),dl=document.getElementById('bk-download'),cp=document.getElementById('bk-copy'),im=document.getElementById('bk-import'),ta=document.getElementById('bk-code');
+if(ex){ex.addEventListener('click',function(){ta.value=buildCode();bkMsg('Đã tạo mã cho '+Object.keys(learned).length+' bài.',true);});}
+if(dl){dl.addEventListener('click',function(){var code=buildCode();var blob=new Blob([code],{type:'text/plain;charset=utf-8'});var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='tien-do-hoc-'+new Date().toISOString().slice(0,10)+'.txt';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(a.href);},1000);ta.value=code;bkMsg('Đã tải file sao lưu.',true);});}
+if(cp){cp.addEventListener('click',function(){if(!ta.value){ta.value=buildCode();}ta.select();var done=false;try{done=document.execCommand('copy');}catch(e){}
+if(navigator.clipboard&&!done){navigator.clipboard.writeText(ta.value).then(function(){bkMsg('Đã chép mã.',true);},function(){bkMsg('Không chép được, hãy chọn mã và Ctrl+C.',false);});}else{bkMsg(done?'Đã chép mã.':'Không chép được, hãy chọn mã và Ctrl+C.',done);}});}
+if(im){im.addEventListener('click',function(){try{var ids=parseCode(ta.value);var add=0;ids.forEach(function(id){var k=String(id).padStart(3,'0');if(!learned[k]){learned[k]=Date.now();add++;}});saveLearned();refreshAll();bkMsg('Đã khôi phục '+ids.length+' bài (thêm mới '+add+').',true);}catch(e){bkMsg('Mã không hợp lệ: '+(e.message||'lỗi đọc mã'),false);}});}
+});
 </script></body></html>
