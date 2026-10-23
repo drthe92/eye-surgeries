@@ -84,7 +84,7 @@ Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, khôn
 
 | Nhóm | Số bài dưới 60 | Tổng | TB hiện tại | Ưu tiên |
 |---|---|---|---|---|
-| P-ptosis | 24 | 26 | 44,5 | 1 |
+| P-ptosis ✅ | 0 | 26 | 44,5 → 65,5 | xong |
 | B-ectropion/entropion | 13 | 19 | 45,9 | 2 |
 | E-blepharo | 13 | 14 | 43,8 | 3 |
 | Bx-biopsy | 10 | 10 | 45,1 | 4 |
