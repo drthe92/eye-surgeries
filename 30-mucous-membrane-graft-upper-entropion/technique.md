@@ -31,3 +31,8 @@ Bù chiều dài lá sau bằng ghép niêm mạc: cắt đứt vòng sẹo kế
 1. Vì sao phải giải phóng triệt để trước khi đo ghép?
 2. Vì sao mắt còn nhãn phải khâu vùi mép dưới?
 3. Phân biệt chỉ định số 30 vs số 28 vs số 29?
+
+## 7. Bài liên quan
+- [29 — Lùi lá trước](../29-anterior-lamellar-recession-upper-lid/technique.md): nhẹ hơn.
+- [33 — Ghép vòm miệng](../33-hard-palate-graft-lower-retraction/technique.md): vật liệu thay thế.
+- [285 — Bài giảng](../285-entropion-lecture/technique.md): khung.

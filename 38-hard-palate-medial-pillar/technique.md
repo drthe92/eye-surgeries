@@ -31,3 +31,7 @@ Dùng thời gian giữ (2 tháng) để thắng sẹo tái phát: pillar trong 
 1. Vì sao pillar giữ tới 2 tháng trong khi Frost thường chỉ 1 tuần?
 2. Vì sao mổ lại nhiều lần buộc phải bóc hết sẹo cũ?
 3. So sánh số 38 vs số 33 vs số 36?
+
+## 7. Bài liên quan
+- [33 — Vòm miệng](../33-hard-palate-graft-lower-retraction/technique.md): gốc.
+- [36 — Enduragen + trụ](../36-enduragen-pillar-tarsorrhaphy/technique.md): so vật liệu.

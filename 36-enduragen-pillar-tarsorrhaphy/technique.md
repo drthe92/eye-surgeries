@@ -32,3 +32,7 @@ Dùng thời gian giữ kéo lên thay cho neo ngoài: 2 trụ sụn-kết mạc
 1. Vì sao giữ kéo lên càng lâu càng tốt?
 2. Vì sao ca này không cần dải ngoài?
 3. So sánh pillar vs Frost dán trán?
+
+## 7. Bài liên quan
+- [35 — Enduragen + mũi lộn](../35-enduragen-inverting-sutures/technique.md): bậc thấp hơn.
+- [38 — Vòm miệng + trụ](../38-hard-palate-medial-pillar/technique.md): vật liệu khác.

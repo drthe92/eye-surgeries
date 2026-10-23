@@ -32,3 +32,8 @@ Nới dài lá sau bằng vật liệu sinh học sẵn có + nâng má đỡ d�
 1. Vì sao Enduragen bắt buộc phải phủ kết mạc?
 2. Vì sao thủng kết mạc khi tách là bình thường?
 3. So sánh Enduragen vs vòm miệng vs sụn tai?
+
+## 7. Bài liên quan
+- [33 — Vòm miệng](../33-hard-palate-graft-lower-retraction/technique.md): tự thân.
+- [35 — Enduragen + mũi lộn](../35-enduragen-inverting-sutures/technique.md): kèm lật.
+- [36 — Enduragen + trụ](../36-enduragen-pillar-tarsorrhaphy/technique.md): kèm dính.

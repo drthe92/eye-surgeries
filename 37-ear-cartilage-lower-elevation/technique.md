@@ -32,3 +32,7 @@ Nới dài lá sau bằng sụn vành tai (cứng, cong tự nhiên) + dải (st
 1. Vì sao phải khía mặt sụn?
 2. Vì sao chừa 5mm sụn vành helix?
 3. So sánh sụn tai vs vòm miệng vs Enduragen?
+
+## 7. Bài liên quan
+- [33 — Vòm miệng](../33-hard-palate-graft-lower-retraction/technique.md): vật liệu cứng khác.
+- [34 — Enduragen](../34-enduragen-graft-lower-retraction/technique.md): nhân tạo.

@@ -31,3 +31,9 @@ Cắt đứt vòng sẹo bằng đường rạch ngang sụn rồi khâu lộn m
 1. Vì sao đường rạch cách bờ đúng 2-3mm?
 2. Vì sao để mũi chưa buộc khi đặt mũi cạnh?
 3. Phân biệt chỉ định số 28 vs số 30?
+
+## 7. Bài liên quan
+- [29 — Lùi lá trước mi trên](../29-anterior-lamellar-recession-upper-lid/technique.md): quặm nhẹ hơn.
+- [30 — Ghép niêm mạc](../30-mucous-membrane-graft-upper-entropion/technique.md): sẹo nặng co rút.
+- [12 — Quặm sẹo mi dưới](../12-cicatricial-entropion-quickert-lts/technique.md): so trên-dưới.
+- [285 — Bài giảng quặm](../285-entropion-lecture/technique.md): khung phân loại.

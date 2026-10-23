@@ -31,3 +31,9 @@ Nới dài lá sau bằng vật liệu cứng (vòm miệng) chống co rút th�
 1. Vì sao đặt ghép lệch vào trong hơn dự tính?
 2. Vì sao Frost 1 tuần là bắt buộc?
 3. So sánh vòm miệng vs Enduragen?
+
+## 7. Bài liên quan
+- [34 — Enduragen](../34-enduragen-graft-lower-retraction/technique.md): vật liệu nhân tạo.
+- [37 — Sụn tai](../37-ear-cartilage-lower-elevation/technique.md): vật liệu tự thân.
+- [38 — Vòm miệng + trụ](../38-hard-palate-medial-pillar/technique.md): bản phối hợp.
+- [30 — Ghép niêm mạc mi trên](../30-mucous-membrane-graft-upper-entropion/technique.md): so trên-dưới.

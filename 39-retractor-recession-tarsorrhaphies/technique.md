@@ -31,3 +31,8 @@
 1. Vì sao thả cơ rút mà không khâu lại vẫn nâng được mi?
 2. Vì sao khâu lá sau chỉ cắn một phần sụn?
 3. Nguy cơ lớn nhất khi rạch V trong là gì?
+
+## 7. Bài liên quan
+- [36 — Trụ Enduragen](../36-enduragen-pillar-tarsorrhaphy/technique.md): phối hợp dính.
+- [131 — Dính ngoài](../131-lateral-tarsorrhaphy/technique.md): kỹ thuật dính.
+- [130 — Dính trụ](../130-pillar-tarsorrhaphy/technique.md): kỹ thuật dính.

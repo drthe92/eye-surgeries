@@ -32,3 +32,7 @@ Dự đoán và chặn trước biến chứng lật sau đặt tấm ghép: gi�
 1. Vì sao đặt Enduragen gây xu hướng lật sau mổ?
 2. Vì sao 3 điểm neo (lộn-strip-tarsorrhaphy) là cần thiết?
 3. Khi nào khâu kết mạc phải vùi?
+
+## 7. Bài liên quan
+- [34 — Enduragen đơn](../34-enduragen-graft-lower-retraction/technique.md): gốc.
+- [36 — Enduragen + trụ](../36-enduragen-pillar-tarsorrhaphy/technique.md): nặng hơn.

@@ -32,3 +32,8 @@ Giải phóng bậc thang từ ngoài vào trong-trên xuống dưới: cân-vá
 1. Vì sao phải cắt sừng ngoài mới hết temporal flare?
 2. Vì sao chừa cầu kết mạc ngang đỉnh đồng tử?
 3. Vì sao phải dựng BN ngồi giữa mổ?
+
+## 7. Bài liên quan
+- [32 — Blepharotomy + debulking](../32-blepharotomy-debulking-fat/technique.md): kèm mỡ mi trong-mày.
+- [33 — Ghép vòm miệng mi dưới](../33-hard-palate-graft-lower-retraction/technique.md): co rút dưới.
+- [85 — Hạ mi trên co rút](../85-mmcr-2/technique.md): khác: co rút do cơ nâng.

@@ -304,6 +304,10 @@
 | 282 | T-trauma | Canalicular laceration (Cybersight) | Rách mi + lệ quản: lệ trước mi sau, khâu quanh stent. | https://cybersight.org/library/surgery-surgical-repair-of-eyelid-canalicular-laceration/ | [x] |
 | 283 | T-trauma | Periocular trauma + scarring (lecture) | Phòng sẹo và khi nào mổ sẹo thì hai (chờ 3-6 tháng). | https://cybersight.org/library/lecture-management-of-periocular-trauma-and-scarring/ | [x] |
 
+| 284 | U-upper | Trachomatous trichiasis (clamp) | Mắt hột: kẹp giữ bờ, rạch sụn xoay bờ, khâu cố định; hơi quá chỉnh. | https://cybersight.org/library/trachomatous-trichiasis-surgery-a-procedure-using-new-clamp-method/ | [x] |
+| 285 | U-upper | Entropion lecture (Cybersight) | Khung phân loại quặm và xử trí theo cơ chế. | https://cybersight.org/library/lecture-entropion-when-lids-rub-you-the-wrong-way/ | [x] |
+| 286 | B-ectropion/entropion | Entropion + canthoplasty + skin (Cybersight) | Quặm + tạo hình góc + cắt da: cắt da vừa phải. | https://cybersight.org/library/surgery-entropion-repair-and-lateral-canthoplasty-with-skin-excision/ | [x] |
+
 ## Cách dùng
 1. Học theo Thứ tự từ trên xuống; folder tài liệu trùng số thứ tự (ví dụ số 1 là `01-lateral-tarsal-strip`).
 2. Mỗi dòng `[ ]` khi học xong: điền link Vimeo thật, viết Tóm tắt ~100 từ theo bài đã học, đổi thành `[x]`.

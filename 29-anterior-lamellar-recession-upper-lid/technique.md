@@ -28,3 +28,8 @@ Tách lá trước (da-cơ vòng) khỏi lá sau (sụn-kết mạc) theo đư�
 1. Vì sao lùi cơ lá trước lộn được bờ mi mà không cần cắt sụn?
 2. Nguy cơ lớn nhất của lùi cơ quá mức là gì?
 3. Phân biệt chỉ định số 29 vs số 28 vs số 30?
+
+## 7. Bài liên quan
+- [28 — Mở sụn](../28-upper-eyelid-tarsotomy/technique.md): bậc thấp hơn.
+- [30 — Ghép niêm mạc](../30-mucous-membrane-graft-upper-entropion/technique.md): khi thiếu mô.
+- [188 — Lùi lá trước mi dưới](../188-anterior-lamellar-recession-ll/technique.md): gương soi mi dưới.

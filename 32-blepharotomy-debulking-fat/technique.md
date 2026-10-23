@@ -32,3 +32,7 @@ Một ca giải quyết cả co rút (hạ mi) lẫn phì đại mỡ (làm gọ
 1. Vì sao không kẹp mỡ trước khi cắt?
 2. Vì sao phải tê riêng mỡ medial?
 3. Phân biệt chỉ định số 32 vs số 31?
+
+## 7. Bài liên quan
+- [31 — Blepharotomy nền](../31-modified-blepharotomy-upper-retraction/technique.md): gốc.
+- [76 — Maximal single incision](../76-maximal-single-incision/technique.md): một đường nhiều việc.
