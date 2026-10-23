@@ -43,3 +43,9 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 5. **Tiếng Việt lên trước**, tiếng Anh trong ngoặc ở lần đầu; link video mở tab mới (index.html); link nội bộ markdown mở cùng tab (giới hạn của markdown).
 6. **Nhãn mức chắc chắn:** mỗi bài ghi rõ transcript nguyên văn / dựng từ nguyên lý / có y văn đối chiếu; chỉ mổ thật khi được đào tạo + giám sát.
 7. **Mã nhóm mới:** khi mở rộng sang chuyên ngành khác (đục thủy tinh thể, giác mạc, glocom, võng mạc...) thì đặt mã nhóm mới (Ca, Co, Gl, Re...) theo yêu cầu học, số thứ tự vẫn tiếp nối không đánh lại.
+
+## MỞ RỘNG SANG NỘI NHÃN (2026-10-23)
+- Mục đích: **học mổ**, không lan man bệnh lý. Mỗi bài vẫn 6 mục, thêm "thông số máy / điểm quyết định / biến chứng tại bước / tiêu chí nghiệm thu".
+- Đã tạo `nguon-hoc-ngoai.md` (phân loại nguồn + giấy phép) và `khao-sat-ca-duc-thuy-tinh-the.md` (kho 89 video Cybersight + kế hoạch 3 chặng).
+- QUY TẮC BẢN QUYỀN MỚI: chỉ tải/trích khi nguồn cho phép (Cybersight, EyeRounds, CEHJ, Wikimedia). **AAO/EyeWiki và Moran CORE: chỉ dẫn link, không sao chép/không đưa vào AI**. CataractCoach/Eyetube: link + tóm tắt tự viết.
+- Nhóm mới dự kiến: **Ca** (đục thủy tinh thể, bắt đầu 296), Co (giác mạc), Gl (glocom), Re (võng mạc), Ne/Pe (thần kinh/nhi).
