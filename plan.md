@@ -66,7 +66,7 @@ Mục đích: người đọc hiểu tổng quan và **gợi lại được** n�
 | Nhóm | Số bài | TB từ | Trạng thái |
 |---|---|---|---|
 | Ca-cataract | 15 | 6,9 | ✅ đã viết lại |
-| R-recon | 31 | 8,1 | ⬜ |
+| R-recon | 31 | 8,1 → 67,8 | ✅ đã viết lại |
 | O-orbit | 11 | 9,5 | ⬜ |
 | T-trauma | 10 | 19,1 | ⬜ |
 | M-medial | 3 | 21,0 | ⬜ |
