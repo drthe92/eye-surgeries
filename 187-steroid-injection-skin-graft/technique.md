@@ -7,14 +7,14 @@
 Mảnh ghép da co kéo sớm: tiêm steroid (triamcinolone) trong tổn thương để mềm sẹo, giảm co rút, cứu mảnh ghép khỏi mổ lại. Liều thấp nhiều điểm, tránh teo da-loét, theo dõi nhãn áp vì steroid quanh mắt có thể tăng nhãn áp.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: mảnh ghép da còn sống nhưng co kéo sớm trong 1-3 tháng đầu, gây lật mi nhẹ đến vừa; dùng phối hợp massage và chống nắng.
+- Chống chỉ định tương đối: nhiễm trùng hoặc hoại tử mảnh ghép, co kéo nặng cần mổ lại, glocom chưa kiểm soát hoặc có tiền sử đáp ứng steroid làm tăng nhãn áp, dị ứng steroid. Không tiêm khi chưa loại trừ nhiễm trùng.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê bề mặt bằng proparacaine hoặc tetracaine; không cần tê thấm sâu, tránh làm phồng mảnh ghép.
+- Dụng cụ và thuốc: bơm 1 mL, kim 27-30G, triamcinolone nồng độ thấp (10-40 mg/mL), gạc vô khuẩn, mỡ kháng sinh. Không dùng dao, đốt hay chỉ khâu.
+- Bệnh nhân: chụp ảnh, đo nhãn áp nền, giải thích nguy cơ teo da, mất sắc tố và phải tiêm nhắc lại; không tiêm khi có dấu hiệu nhiễm.
+- Đánh giá nền: nhãn áp, tiền sử glocom hoặc đáp ứng steroid, đái tháo đường, dị ứng và tình trạng mảnh ghép.
 
 ## 4. Quy trình
 - **Bước 1 — Nhận biết co kéo sớm cứu được:** Ghép dày, cứng, co dần trong 1-3 tháng đầu mà còn sống tốt. Nghiệm thu: phân biệt co kéo (cứu được) với hoại tử ghép (phải thay). Cốt lõi: càng sớm càng đáp ứng. Lỗi: chờ sẹo chín mới tiêm gây mất thời gian vàng.

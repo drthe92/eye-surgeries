@@ -7,14 +7,14 @@
 Bít điểm lệ bằng chỉ khâu (tạm thời, tháo được) cho khô mắt: khâu kín điểm lệ giữ nước mắt. Ngược với đốt bít vĩnh viễn (bài 103) — thử trước bằng khâu, hợp thì đốt sau.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: khô mắt cần giữ nước mắt tạm thời, muốn thử trước khi đốt bít vĩnh viễn; khô mắt nhẹ đến vừa chưa có chỉ định phẫu thuật.
+- Chống chỉ định tương đối: nhiễm trùng điểm lệ, viêm lệ quản, dị ứng chỉ. Nếu đã chắc chắn cần bít vĩnh viễn thì làm bài 103.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; chờ epi ngấm (trắng da ~7 phút, xem bài 27).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ mảnh, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đo đạc trước mổ, đồng thuận (consent) về sẹo và tái phát.
-- Đánh giá nền: thị lực, lệ đạo, thuốc chống đông.
+- Vô cảm: tê bề mặt điểm lệ.
+- Dụng cụ và chỉ: chỉ 6-0 hoặc 7-0, kẹp nhỏ, kéo Westcott, mỡ kháng sinh. Không dùng dao hay đốt.
+- Bệnh nhân: chụp ảnh, đánh giá khô mắt, đồng thuận về tháo chỉ và tái khô.
+- Đánh giá nền: Schirmer, tình trạng giác mạc, thuốc nhỏ mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn bít tạm hay vĩnh viễn:** Khô mắt chưa rõ mức thì khâu thử trước. Nghiệm thu: quyết định có bậc thang. Cốt lõi: thử tạm trước khi đốt vĩnh viễn. Lỗi: đốt ngay khi còn điều trị được.

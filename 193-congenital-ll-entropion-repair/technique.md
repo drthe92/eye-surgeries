@@ -7,14 +7,14 @@
 Quặm mi dưới bẩm sinh (kém phát triển cơ rút, sụn mềm): khâu lại cơ rút vào sụn kèm cố định ngang, bảo tồn tối đa vì mi trẻ còn phát triển. Khác epiblepharon ở chỗ có bất thường cấu trúc thật, và khác quặm tuổi già ở chỗ mô trẻ lành không sẹo.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: quặm mi dưới bẩm sinh có bất thường cấu trúc, gây tổn thương giác mạc hoặc không tự cải thiện theo tuổi.
+- Chống chỉ định tương đối: epiblepharon đơn thuần (bài 192), nhiễm trùng cấp, trẻ có bệnh toàn thân chưa ổn định. Cần đánh giá khúc xạ và nhược thị trước mổ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: gây mê toàn thân.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ tiêu 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, đo khúc xạ, phụ huynh đồng thuận về mổ lại theo tăng trưởng.
+- Đánh giá nền: nhược thị, bệnh toàn thân, tiền sử gây mê và dị ứng.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán quặm thật bẩm sinh:** Quặm từ sơ sinh, giác mạc tổn thương, không phải da đè đơn thuần. Nghiệm thu: loại trừ epiblepharon bằng test kéo da. Cốt lõi: quặm thật không tự khỏi. Lỗi: chờ tự khỏi như epiblepharon gây sẹo giác mạc.

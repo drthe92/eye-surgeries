@@ -29,3 +29,12 @@ Mỗi bước theo khung:
 - Biến chứng cần dặn BN quay lại ngay.
 
 ## 6. Tự lượng giá (3 câu)
+
+## Quy tắc chống template (bắt buộc từ 2026-10-24)
+Mục 2 và mục 3 phải **đặc thù cho đúng kỹ thuật này**, không được dùng câu chung.
+
+- Mục 2: nêu chẩn đoán cụ thể, điều kiện đủ, và **thay thế bằng bài nào** nếu không làm được.
+- Mục 3: chỉ liệt kê dụng cụ/thuốc **thực sự xuất hiện ở mục 4**. Bài tiêm steroid không liệt kê dao 15, bipolar hay chỉ 5-0.
+- Bài giảng (không thực hiện thủ thuật): ghi rõ “Bài giảng không thực hiện thủ thuật” ở mục 2 và “không cần dụng cụ” ở mục 3.
+- Ví dụ sai: “Chỉ định: theo từng bước dưới đây” hoặc “Dụng cụ: dao 15, bipolar, chỉ 5-0/6-0, chỉ không tiêu 4-0 cho neo ngang” trong bài tiêm steroid.
+- Kiểm tra trước commit: `python3 tools/kiem-tra-bai.py`

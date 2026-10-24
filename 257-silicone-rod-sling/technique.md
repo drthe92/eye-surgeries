@@ -7,14 +7,14 @@
 Treo trán bằng thanh silicone (rod) thay vì vòng silicone: cứng hơn, giữ nếp tốt, dễ chỉnh-tháo. So với 94/95/99 (vòng/mảnh silicone): rod cho nếp sắc hơn nhưng cộm hơn ở trẻ gầy.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: sụp mi nặng, chức năng cơ nâng kém, cần treo trán; thanh silicone phù hợp khi muốn nếp sắc và dễ chỉnh.
+- Chống chỉ định tương đối: trẻ quá gầy hoặc da trán mỏng (nguy cơ lộ thanh), nhiễm trùng cấp, dị ứng silicone. Nếu mô trán mỏng nên chọn vòng silicone hoặc cân tự thân.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine (trẻ em: mê toàn thân).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ khâu phù hợp, mỡ kháng sinh.
-- Bệnh nhân: đo MRD1, chức năng cơ nâng, Bell, phenylephrine test; chụp ảnh; đồng thuận (consent) về quá/thiếu chỉnh và mổ lại.
-- Đánh giá nền: nhược thị (trẻ em), khô mắt, thuốc chống đông.
+- Vô cảm: gây mê ở trẻ, tê tại chỗ ở người lớn.
+- Dụng cụ và chỉ: thanh silicone, ống sleeve, chỉ cố định, dao 15, kẹp, đốt lưỡng cực, mỡ kháng sinh.
+- Bệnh nhân: đo MRD1, chức năng cơ nâng, chụp ảnh, đồng thuận về hở mi khi ngủ và khả năng chỉnh.
+- Đánh giá nền: Bell, khô mắt, dị ứng vật liệu.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn rod hay vòng silicone:** Rod cứng giữ nếp sắc, vòng mềm êm hơn. Nghiệm thu: quyết định theo tuổi-mỡ trán. Cốt lõi: trẻ gầy hợp vòng, trán dày hợp rod. Lỗi: rod ở trẻ gầy gây lộ cộm.

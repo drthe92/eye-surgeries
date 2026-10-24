@@ -95,3 +95,9 @@ Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, khôn
 | N-anesthesia ✅ | 0 | 5 | 69,0 | xong |
 
 Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Không còn thẻ nào dưới chuẩn.
+
+### Audit chất lượng mục 2–3 (2026-10-24)
+- Phát hiện 9 bài nhóm B (185–193) dùng chung khối “đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh)” và “dao 15, bipolar, chỉ 5-0/6-0, chỉ không tiêu 4-0” — không liên quan nội dung (ví dụ 187 chỉ tiêm steroid).
+- Mở rộng quét: thêm 10 bài (253–255, 257–260, 284–286, 294–295) dùng câu “như từng bước dưới đây / nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát”.
+- Đã sửa **19/19** bài bằng nội dung đặc thù; thêm `tools/kiem-tra-bai.py` để chặn tái diễn; quy tắc ghi vào template + AGENTS.
+- Kết quả: 310 bài, **0 lỗi template**, 159 cảnh báo (chủ yếu mục 2 ngắn hoặc dụng cụ không lặp lại ở mục 4).

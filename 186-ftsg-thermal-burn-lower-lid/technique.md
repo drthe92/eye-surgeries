@@ -7,14 +7,14 @@
 Bỏng nhiệt gây co kéo nặng mi dưới: chờ sẹo ổn định, cắt bỏ sẹo xơ rộng tới mô lành, ghép da toàn lớp lớn, nẹp giữ mi (Frost/kéo căng) 1-2 tuần chống co kéo tái phát. Khác ghép thường ở chỗ nền bỏng kém nuôi và co kéo mạnh nên ghép phải rộng và giữ lâu hơn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: lật mi do sẹo bỏng nhiệt hoặc hóa chất đã ổn định, có hở mi hoặc trợt giác mạc do co kéo; sẹo đã qua giai đoạn tiến triển.
+- Chống chỉ định tương đối: bỏng còn hoạt động hoặc sẹo non dưới 3 tháng, nhiễm trùng vùng mổ, nền ghép kém mạch, khô mắt nặng chưa kiểm soát. Nếu co kéo tái phát sớm sau ghép thì chuyển sang tiêm steroid (bài 187) trước khi mổ lại.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ hoặc gây mê tùy mức tổn thương; tránh tiêm phồng làm mất mốc sẹo.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ khâu ghép 6-0, bolster, nẹp Frost hoặc chỉ kéo căng, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đo khuyết sau khi cắt hết sẹo, đồng thuận về ghép rộng, nẹp giữ 1-2 tuần và nguy cơ co kéo lại.
+- Đánh giá nền: phản xạ Bell, tình trạng giác mạc, khô mắt, dinh dưỡng và thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chờ thời điểm sẹo ổn định:** Mổ khi sung huyết giảm, sẹo mềm bớt (thường sau vài tháng), trừ hở giác mạc đe dọa. Nghiệm thu: ranh giới sẹo-mô lành rõ. Cốt lõi: mổ vào sẹo non đang tiến triển sẽ co kéo lại. Lỗi: mổ quá sớm gây tái co kéo ngay.

@@ -7,14 +7,14 @@
 Sinh thiết tổn thương bờ mi trên: cắt hình wedge nhỏ qua toàn bộ chiều dày tại bờ mi, bảo tồn nang lông lành, khâu sụn trước-da sau theo nguyên tắc wedge, căn thẳng hàng lông mi. Mục tiêu là mẫu đủ toàn lớp mà bờ mi sau lành không khuyết.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: tổn thương ngay bờ mi trên nghi ngờ ác tính hoặc viêm mạn, cần lấy toàn lớp mà vẫn giữ bờ mi.
+- Chống chỉ định tương đối: tổn thương lan quá 1/3 bờ mi (cần wedge lớn hoặc vạt), nhiễm trùng cấp, nghi melanoma cần hội chẩn trước.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kẹp chalazion bảo vệ nhãn cầu, kéo Westcott, chỉ tiêu 6-0 khâu sụn, chỉ da mảnh, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu bờ tổn thương, đồng thuận về sẹo bờ mi và khả năng cắt rộng thì hai.
+- Đánh giá nền: thị lực, chức năng mi, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá tổn thương bờ mi trước mổ:** Soi đèn khe, đánh dấu ranh giới và chụp ảnh. Nghiệm thu: vẽ được bản đồ tổn thương theo giờ bờ mi. Cốt lõi: phân biệt tổn thương nguồn gốc da, sụn hay kết mạc. Lỗi: bỏ sót lan kết mạc gây cắt thiếu.

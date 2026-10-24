@@ -7,14 +7,14 @@
 Quặm do lá trước thừa/co kéo đè lông vào trong: rạch dưới lông mi, tách lá trước (da-cơ vòng) khỏi sụn xuống tới bờ dưới sụn, để lá trước trượt xuống (có thể xen ghép), khâu cố định vào cơ rút. Giữ nguyên sụn nên bờ mi vững, khác bẻ sụn ở chỗ không cắt sụn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: quặm mi dưới do lá trước thừa hoặc co kéo đè lông vào trong, kết mạc không sẹo, bờ mi còn lộn ra được.
+- Chống chỉ định tương đối: quặm do co rút lá sau (cần mở sụn hoặc ghép), nhiễm trùng cấp, thiếu da đáng kể cần ghép kèm. Nếu kèm tuột cơ rút thì phải làm thêm khâu cơ rút (bài 190).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung nếu cần.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5 mm, đốt lưỡng cực, chỉ tiêu 6-0 (Vicryl hoặc tiêu nhanh) và mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, đánh dấu mức lùi, đồng thuận về quặm tái phát hoặc lật ngược.
+- Đánh giá nền: phản xạ Bell, khô mắt, độ lỏng ngang và thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán lá trước thừa đè lông:** Lông quặm nhưng kết mạc-sụn không sẹo co rút. Nghiệm thu: kéo da xuống mà lông hết quặm là đúng bệnh. Cốt lõi: phân biệt với quặm sẹo lá sau (cần bẻ sụn/ghép). Lỗi: lùi lá trước cho quặm sẹo lá sau gây không khỏi.

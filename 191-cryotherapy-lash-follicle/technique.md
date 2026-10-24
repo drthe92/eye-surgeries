@@ -7,14 +7,14 @@
 Lông mọc sai hướng (quặm khu trú, hai hàng lông) sau sẹo/hóa chất: đông lạnh nang lông -20°C hai chu kỳ đông-tan để diệt có chọn lọc, giữ được bờ mi. Thay thế nhổ (tái phát) và đốt điện (sẹo), nhược điểm là mất sắc tố và có thể cần nhắc lại.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: lông quặm hoặc lông hàng thứ hai khu trú, tái phát sau nhổ, không phù hợp với mổ bờ mi; bệnh nhân chấp nhận đổi sắc tố.
+- Chống chỉ định tương đối: nhiễm trùng cấp vùng mi, quặm toàn bộ cần phẫu thuật, da sẫm màu hoặc tiền sử loạn sắc tố, rối loạn dung nạp lạnh. Nếu lông quặm lan rộng thì chọn bài 12 hoặc 284.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê bề mặt điểm lệ và kết mạc; có thể tê tại chỗ quanh nang lông.
+- Dụng cụ: đầu đông lạnh (nitrous oxide), bông/kẹp giữ mi, thuốc tra kháng sinh, gạc bảo vệ. Không dùng dao, đốt hay chỉ khâu.
+- Bệnh nhân: chụp ảnh, đếm và đánh dấu từng nang lông bệnh, đồng thuận về mất sắc tố và tái mọc cần nhắc lại.
+- Đánh giá nền: loại da, tiền sử đông lạnh, rối loạn sắc tố và thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn đúng lông cần diệt:** Lông quặm khu trú, hai hàng lông cọ giác mạc. Nghiệm thu: đếm và đánh dấu từng nang bệnh. Cốt lõi: đông lạnh lan tỏa không thay được phẫu thuật khi quặm toàn bộ. Lỗi: đông cả hàng lông lành gây trụi mi.

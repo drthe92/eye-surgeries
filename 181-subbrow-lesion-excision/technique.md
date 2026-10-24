@@ -7,14 +7,14 @@
 Cắt u dưới mày qua đường rạch giấu dưới chân mày: tê, rạch theo bờ dưới mày, bóc trọn nang-u, cầm máu tránh nhánh thần kinh trên ổ mắt, khâu nhiều lớp. Sẹo giấu vào chân mày, giữ được dáng mày và tránh sụp mày thứ phát.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: u lành hoặc nang vùng dưới mày gây mất thẩm mỹ, chèn ép hoặc nghi ngờ; cần lấy trọn để xét nghiệm.
+- Chống chỉ định tương đối: u dính sâu vào xương hoặc nghi ác tính cần ảnh học trước, nhiễm trùng cấp, rối loạn đông máu.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ tiêu 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu đường rạch dưới chân mày, đồng thuận về sẹo và khả năng lõm mày.
+- Đánh giá nền: thần kinh trên ổ mắt, tiền sử u, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán u dưới mày trước mổ:** Sờ nắn, siêu âm khi cần, phân biệt nang bã-dermoid. Nghiệm thu: xác định u di động hay dính sâu. Cốt lõi: u dính xương cần ảnh học trước. Lỗi: mổ u dermoid sâu như u da đơn giản gây vỡ nang và sót.

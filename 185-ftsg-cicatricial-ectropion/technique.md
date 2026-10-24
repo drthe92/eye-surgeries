@@ -7,14 +7,14 @@
 Lật mi do thiếu da co kéo: giải phóng sẹo cũ tới khi mi về vị trí, đo khuyết da khi mi kéo lên đúng chỗ, lấy da toàn lớp (sau tai/trên đòn/mặt trong cánh tay), khâu ghép phủ khuyết, ép bolster 5-7 ngày. Chìa khóa là giải phóng đủ và ghép đủ rộng, không khâu căng.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: lật mi hoặc co rút mi dưới do thiếu lá trước sau chấn thương, bỏng, mổ cũ; kéo mi lên thì mi về được vị trí nhưng thả ra lại trễ; kết mạc lành, không nhiễm trùng.
+- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, viêm bờ mi chưa kiểm soát, thiếu da cho ghép, khô mắt nặng kèm hở mi (cân nhắc ghép + bảo vệ giác mạc). Nếu kèm lỏng ngang thì phải thêm dải sụn, không chỉ ghép da.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ bằng lidocaine 2% kèm epinephrine; có thể thêm tê dưới da vùng lấy ghép và vùng nhận; trẻ em hoặc ca lớn có thể gây mê.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực (bipolar), chỉ khâu ghép 6-0 (silk/nylon), chỉ tiêu 5-0 cho mép, bolster và mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu khuyết khi mi ở đúng vị trí, đồng thuận về sẹo nơi lấy ghép, ghép co kéo hoặc hoại và khả năng mổ lại.
+- Đánh giá nền: phản xạ Bell, test Schirmer, độ lỏng ngang (để quyết định thêm dải), thuốc chống đông và thuốc lá (ảnh hưởng sống ghép).
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán thiếu da gây lật (test kéo):** Kéo mi lên mà về được vị trí là thiếu da đơn thuần. Nghiệm thu: phân biệt được với lỏng ngang (cần thêm dải). Cốt lõi: thiếu da + lỏng ngang thường đi cùng nhau ở người già. Lỗi: chỉ ghép da mà bỏ sót lỏng ngang gây tái lật.

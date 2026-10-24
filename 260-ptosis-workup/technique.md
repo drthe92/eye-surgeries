@@ -7,14 +7,13 @@
 Bài giảng tầm soát sụp mi: khi nào phải tìm bệnh toàn thân/thần kinh (dao động trong ngày, đồng tử, vận nhãn, mặt) và khi nào mổ thẳng. Chống mổ vội sụp mới mắc.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Bài giảng không thực hiện thủ thuật; mục này là khung tầm soát: sụp mi mới mắc, dao động trong ngày, bất thường đồng tử, hạn chế vận nhãn hoặc yếu mặt cần tìm nguyên nhân trước khi mổ.
+- Không có chống chỉ định riêng; nguyên tắc là không mổ vội khi chưa loại trừ bệnh thần kinh hoặc toàn thân.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine (trẻ em: mê toàn thân).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ khâu phù hợp, mỡ kháng sinh.
-- Bệnh nhân: đo MRD1, chức năng cơ nâng, Bell, phenylephrine test; chụp ảnh; đồng thuận (consent) về quá/thiếu chỉnh và mổ lại.
-- Đánh giá nền: nhược thị (trẻ em), khô mắt, thuốc chống đông.
+- Bài giảng, không cần dụng cụ.
+- Chuẩn bị dữ liệu: bệnh sử thời gian khởi phát, nghiệm pháp mỏi cơ, đo đồng tử, vận nhãn, chức năng cơ nâng và ảnh chụp.
+- Đối chiếu bài 259 để chọn thuật sau khi đã tầm soát.
 
 ## 4. Quy trình
 - **Bước 1 — Sụp nào phải tầm soát:** Dao động (nhược cơ), đồng tử (Horner/III), song thị, mặt. Nghiệm thu: checklist tầm soát. Cốt lõi: sụp mới + dấu thần kinh là cấp cứu chẩn đoán. Lỗi: mổ trước tìm sau.

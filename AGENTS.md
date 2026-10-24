@@ -55,3 +55,9 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Toàn bộ link "Bài học"/"Transcript"/"Tổng quan" trong `index.html` phải trỏ `view.html`, KHÔNG trỏ github.com blob (giữ người đọc trong domain). Link nguồn GitHub chỉ để ở nút "Xem nguồn" trong view.html.
 - view.html tự: dựng mục lục, đổi link `.md` tương đối sang view.html, sửa đường dẫn ảnh, lightbox, thanh tiến độ đọc, và đồng bộ "đã học" với localStorage `eye-surgeries-learned-v1`.
 - **Mermaid**: mọi bài `tong-quan-*.md` có mục `## Sơ đồ quyết định` chứa code block ```mermaid flowchart TD```. Khi viết tổng quan mới hoặc sửa cây quyết định, cập nhật cả bảng và sơ đồ; kiểm syntax bằng `mermaid.parse` trước khi push.
+
+## CHẤT LƯỢNG BÀI — CHỐNG TEMPLATE (2026-10-24)
+- Mục 2 (chỉ định) và mục 3 (chuẩn bị) phải đặc thù cho kỹ thuật, không dùng câu chung. Mục 3 chỉ liệt kê dụng cụ thực sự dùng ở mục 4.
+- Bài giảng ghi rõ “Bài giảng không thực hiện thủ thuật”.
+- **Bắt buộc chạy `python3 tools/kiem-tra-bai.py` trước mỗi commit**; 0 lỗi mới được push. Cảnh báo nên xem, nhất là dụng cụ không thấy trong quy trình.
+- Lỗi gốc 2026-10-24: 19 bài (185-193, 253-255, 257-260, 284-286, 294-295) dùng chung khối template; đã sửa toàn bộ.

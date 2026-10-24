@@ -7,14 +7,14 @@
 Quặm tuổi già kèm da thừa: phối hợp làm chặt ngang bằng tạo hình góc ngoài + cắt da thừa một thì. Cắt da phải thận trọng — cắt quá gây hở mi, nhất là khi đã làm chặt ngang.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: quặm tuổi già kèm da thừa mi dưới, cần làm chặt ngang và cắt da trong một thì.
+- Chống chỉ định tương đối: khô mắt nặng, hở mi sẵn, nhiễm trùng cấp. Nếu chỉ quặm không kèm da thừa thì làm bài 11.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em/mắt hột nặng: có thể mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, kẹp, đốt lưỡng cực, chỉ tiêu 5-0/6-0, mỡ kháng sinh.
-- Bệnh nhân: nhuộm giác mạc, chụp ảnh, đồng thuận (tái phát, hở mi, sẹo).
-- Đánh giá nền: Bell, khô mắt, thị lực, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5 mm, đốt lưỡng cực, chỉ tiêu 6-0 và chỉ da mảnh, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh giá da thừa và lỏng ngang, đồng thuận về hở mi nếu cắt quá tay.
+- Đánh giá nền: Bell, khô mắt, độ lỏng ngang, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá da thừa + lỏng ngang:** Pinch test, kéo mi. Nghiệm thu: biết cắt bao nhiêu da. Cốt lõi: chặt ngang xong da càng căng. Lỗi: cắt da như ca blepharo thường.

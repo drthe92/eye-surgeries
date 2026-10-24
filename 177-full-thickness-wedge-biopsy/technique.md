@@ -7,14 +7,14 @@
 Sinh thiết wedge toàn bộ chiều dày mi: cắt hình tam giác đáy tại bờ mi lấy trọn tổn thương nghi ngờ, khâu sụn bằng chỉ tiêu nút chôn rồi khâu da-cơ và kết mạc riêng. Kỹ thuật vừa chẩn đoán vừa điều trị tổn thương nhỏ, giữ bờ mi thẳng không khuyết.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: tổn thương bờ mi khu trú dưới 1/3 chiều ngang, muốn vừa chẩn đoán vừa điều trị; tổn thương lành tính cần cắt bỏ.
+- Chống chỉ định tương đối: khuyết sau cắt quá lớn không khép được, nhiễm trùng cấp, bờ u chưa rõ cần hội chẩn.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kẹp 0,5 mm, kéo Westcott, chỉ tiêu 6-0 khâu sụn nút chôn, chỉ da mảnh, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, ướm khép trước, đồng thuận về sẹo và khả năng vạt nếu khuyết rộng.
+- Đánh giá nền: thị lực, chức năng mi, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn tổn thương vừa wedge một thì:** Tổn thương nhỏ chiếm dưới 1/3 chiều ngang mi. Nghiệm thu: sau cắt hai mép khép được không căng. Cốt lõi: lớn hơn 1/3 phải chuyển vạt, không cố wedge. Lỗi: wedge quá rộng gây căng và hở mi.

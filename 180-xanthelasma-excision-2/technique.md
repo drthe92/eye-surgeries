@@ -7,14 +7,14 @@
 Ca thứ hai cắt xanthelasma trên-dưới: nhấn mạnh xử trí mảng lan rộng góc trong, bảo tồn lệ quản-điểm lệ, có thể ghép da nếu thiếu da. Sau mổ chống sẹo co kéo góc trong (web) bằng massage và theo dõi tái phát.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: u vàng lan tới góc trong hoặc hai mi, cần xử trí rộng nhưng phải bảo tồn lệ quản và điểm lệ.
+- Chống chỉ định tương đối: tổn thương sát điểm lệ chưa đánh giá lệ đạo, viêm da cấp, rối loạn lipid chưa kiểm soát. Nếu thiếu da nhiều thì ghép da kèm.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, sonde lệ quản để bảo vệ điểm lệ, đốt lưỡng cực, chỉ 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, bơm rửa lệ đạo, đồng thuận về sẹo góc trong, web và tái phát.
+- Đánh giá nền: lệ đạo, lipid máu, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Phân biệt ca lan góc trong với ca khu trú:** Mảng lan tới dây chằng góc trong nguy cơ web sẹo. Nghiệm thu: xác định được có phạm vùng lệ quản. Cốt lõi: ca này cần bảo tồn sâu hơn ca 1. Lỗi: áp dụng cùng một đường cắt cho mọi ca gây biến chứng góc trong.

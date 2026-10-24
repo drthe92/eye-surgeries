@@ -7,14 +7,14 @@
 Sinh thiết mi cơ bản: tê tại chỗ, punch hoặc dao lấy mẫu da-cơ đại diện kèm rìa tổn thương và mô lành, cầm máu nhẹ, khâu trực tiếp không căng, gửi mô bệnh học kèm định hướng mẫu. Nguyên tắc vàng là lấy đủ sâu tới mô bệnh và khâu đúng lớp để không gây khuyết bờ mi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: tổn thương da-cơ mi chưa rõ lành hay ác cần chẩn đoán mô bệnh; tổn thương viêm tái phát không đáp ứng điều trị; cần xác định bờ trước khi cắt rộng.
+- Chống chỉ định tương đối: nghi melanoma cần hội chẩn ung thư mắt trước, nhiễm trùng cấp, rối loạn đông máu chưa kiểm soát. Nếu tổn thương nhỏ và muốn điều trị luôn thì dùng wedge (bài 177).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine, tránh phồng trước khi đánh dấu.
+- Dụng cụ và chỉ: dao 15 hoặc punch, kẹp mô mảnh, đốt lưỡng cực, chỉ 6-0 nylon hoặc tiêu, lọ formalin và phiếu định hướng.
+- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận về sẹo và kết quả mô bệnh có thể đổi hướng điều trị.
+- Đánh giá nền: thị lực, dị ứng, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định làm sinh thiết da-cơ mi (punch/incisional):** Tổn thương mi chưa rõ lành-ác cần chẩn đoán mô bệnh trước khi mổ rộng. Nghiệm thu: mẫu lấy trúng ranh giới tổn thương-mô lành, đủ sâu tới lớp bệnh. Cốt lõi: lấy cả vùng chuyển tiếp, không chỉ giữa vùng hoại tử. Lỗi: lấy quá nông hoặc chỉ mô hoại tử gây âm tính giả.

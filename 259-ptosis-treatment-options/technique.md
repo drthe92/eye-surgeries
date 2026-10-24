@@ -7,14 +7,13 @@
 Bài giảng khung chọn điều trị sụp mi bẩm sinh vs mắc phải: từ đo chức năng cơ nâng → tiến cơ nâng / MMCR / Fasanella / treo trán. Khung quyết định cho mọi bài 81-101.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Bài giảng không thực hiện thủ thuật; mục này là khung chỉ định: sụp mi bẩm sinh hoặc mắc phải được chọn thuật theo chức năng cơ nâng, mức sụp, tuổi và nguyên nhân.
+- Không có chống chỉ định riêng; khung này dùng để quyết định giữa tiến cơ nâng, MMCR, Fasanella và treo trán.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine (trẻ em: mê toàn thân).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ khâu phù hợp, mỡ kháng sinh.
-- Bệnh nhân: đo MRD1, chức năng cơ nâng, Bell, phenylephrine test; chụp ảnh; đồng thuận (consent) về quá/thiếu chỉnh và mổ lại.
-- Đánh giá nền: nhược thị (trẻ em), khô mắt, thuốc chống đông.
+- Bài giảng, không cần dụng cụ hay vô cảm.
+- Người học cần chuẩn bị số đo: MRD1, chức năng cơ nâng, phản xạ Bell, test phenylephrine và đánh giá nhược thị ở trẻ.
+- Đối chiếu với các bài 81-101 để chọn kỹ thuật tương ứng.
 
 ## 4. Quy trình
 - **Bước 1 — Phân loại bẩm sinh-mắc phải:** Bẩm sinh: cơ nâng loạn sản, nhược thị kèm; mắc phải: cân dãn, thần kinh, cơ. Nghiệm thu: phân loại đúng. Cốt lõi: bẩm sinh lo nhược thị trước. Lỗi: mổ sụp bỏ quên nhược thị trẻ.

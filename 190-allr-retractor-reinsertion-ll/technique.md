@@ -7,14 +7,14 @@
 Quặm sẹo mi dưới có cả co kéo lá trước lẫn tuột cơ rút: một thì vừa lùi lá trước vừa khâu lại cơ rút vào sụn. Giải quyết đồng thời mặt trước thừa và mặt sau yếu, là bản đầy đủ của 188, dành cho ca sẹo vừa-nặng còn sụn dùng được.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: quặm mi dưới có đồng thời lá trước thừa/co kéo và cơ rút bị tuột, biểu hiện cùng đồ sâu và mi không đi theo khi nhìn xuống.
+- Chống chỉ định tương đối: quặm do co rút lá sau đơn thuần (cần mở sụn/ghép), nhiễm trùng cấp, thiếu da cần ghép. Không dùng cho quặm tuổi già đơn thuần khi chưa xác định tuột cơ rút.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine, tê kết mạc bổ sung.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5 mm, đốt lưỡng cực, chỉ tiêu 6-0 cho cơ rút và 5-0 tiêu nhanh cho da, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, đánh giá tuột cơ rút, đồng thuận về quặm/lật tái phát.
+- Đánh giá nền: phản xạ Bell, khô mắt, độ lỏng ngang và thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá hai mặt cùng lúc:** Vừa thừa lá trước vừa tuột cơ rút (cùng đồ sâu). Nghiệm thu: liệt kê được cả hai tổn thương trước mổ. Cốt lõi: bỏ sót một mặt là tái quặm. Lỗi: chỉ lùi lá trước mà quên cơ rút tuột.

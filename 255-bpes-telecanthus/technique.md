@@ -7,14 +7,14 @@
 Hội chứng hẹp khe mi bẩm sinh (BPES): sửa nếp quạt ngược + giãn góc trong (telecanthus) bằng Z-plasty/vạt da. Góc trong là trung tâm thẩm mỹ-chức năng của cả hai mi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: hội chứng hẹp khe mi bẩm sinh có giãn góc trong, nếp quạt ngược, sụp mi; cần sửa góc trong để giải phóng khe mi.
+- Chống chỉ định tương đối: bệnh toàn thân chưa ổn định, nhiễm trùng cấp, chưa đánh giá sụp mi và nhược thị. Nếu chỉ có nếp quạt đơn thuần thì không cần cố định gân.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; chờ epi ngấm (trắng da ~7 phút, xem bài 27).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ mảnh, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đo đạc trước mổ, đồng thuận (consent) về sẹo và tái phát.
-- Đánh giá nền: thị lực, lệ đạo, thuốc chống đông.
+- Vô cảm: gây mê toàn thân ở trẻ.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ tiêu 6-0 hoặc 7-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đo khoảng cách góc trong, đánh giá sụp mi, phụ huynh đồng thuận về sẹo và mổ nhiều thì.
+- Đánh giá nền: thị lực, khúc xạ, nhược thị, hội chứng BPES.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán bộ ba BPES:** Hẹp khe ngang + sụp mi + nếp quạt ngược + giãn góc trong. Nghiệm thu: đủ tiêu chuẩn hội chứng. Cốt lõi: BPES là bệnh hệ thống mi. Lỗi: sửa một điểm bỏ cả hội chứng.

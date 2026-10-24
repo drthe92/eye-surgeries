@@ -7,14 +7,14 @@
 Treo trán bằng Gore-Tex (ePTFE xốp): mô mọc vào lỗ xốp nên bám chắc, giữa silicone (trơ) và cân tự thân (phải lấy mô). Nhược điểm: nhiễm trùng khó giữ, phải tháo.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: sụp mi nặng cần treo trán, muốn vật liệu bám chắc hơn silicone mà không lấy cân tự thân.
+- Chống chỉ định tương đối: nguy cơ nhiễm trùng cao, da phủ mỏng, dị ứng ePTFE, nhiễm trùng cấp. Nhiễm trùng Gore-Tex thường phải tháo.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine (trẻ em: mê toàn thân).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ khâu phù hợp, mỡ kháng sinh.
-- Bệnh nhân: đo MRD1, chức năng cơ nâng, Bell, phenylephrine test; chụp ảnh; đồng thuận (consent) về quá/thiếu chỉnh và mổ lại.
-- Đánh giá nền: nhược thị (trẻ em), khô mắt, thuốc chống đông.
+- Vô cảm: gây mê ở trẻ, tê tại chỗ ở người lớn.
+- Dụng cụ và chỉ: tấm Gore-Tex, dao 15, kẹp, đốt lưỡng cực, chỉ cố định không tiêu, mỡ kháng sinh.
+- Bệnh nhân: đo MRD1, chức năng cơ nâng, chụp ảnh, đồng thuận về nguy cơ nhiễm trùng và tháo vật liệu.
+- Đánh giá nền: Bell, khô mắt, dị ứng vật liệu.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn Gore-Tex khi nào:** Muốn bám chắc hơn silicone mà không lấy cân tự thân. Nghiệm thu: quyết định theo nguy cơ nhiễm trùng. Cốt lõi: xốp bám tốt nhưng nhiễm trùng là tháo. Lỗi: Gore-Tex cho ca nhiễm trùng cao.

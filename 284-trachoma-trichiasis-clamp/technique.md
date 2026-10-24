@@ -7,14 +7,14 @@
 Mổ lông quặm do mắt hột (trachoma) — nguyên nhân quặm sẹo phổ biến nhất ở vùng lưu hành: dùng kẹp giữ bờ mi cố định, rạch sụn ngang + xoay bờ mi ra, khâu cố định. Kẹp giúp đường rạch chuẩn và cầm máu, quan trọng ở tuyến cơ sở đông bệnh nhân.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: lông quặm do mắt hột gây cọ giác mạc, có sẹo kết mạc và lông hướng vào trong; cần mổ hàng loạt ở vùng lưu hành.
+- Chống chỉ định tương đối: nhiễm trùng cấp, mắt hột đang hoạt động chưa điều trị, bệnh toàn thân chưa ổn định. Nếu chỉ vài lông khu trú thì chọn đông lạnh (bài 191).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em/mắt hột nặng: có thể mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, kẹp, đốt lưỡng cực, chỉ tiêu 5-0/6-0, mỡ kháng sinh.
-- Bệnh nhân: nhuộm giác mạc, chụp ảnh, đồng thuận (tái phát, hở mi, sẹo).
-- Đánh giá nền: Bell, khô mắt, thị lực, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine; trẻ em hoặc ca nặng có thể gây mê.
+- Dụng cụ và chỉ: kẹp giữ bờ mi, dao 15, kéo, đốt lưỡng cực, chỉ tiêu 5-0/6-0, mỡ kháng sinh.
+- Bệnh nhân: nhuộm giác mạc, chụp ảnh, đồng thuận về tái phát và sẹo bờ mi.
+- Đánh giá nền: mức sẹo kết mạc, tình trạng mắt hột, thị lực.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định theo mức lông quặm:** Lông cọ giác mạc + sẹo kết mạc; phân độ theo số lông và tổn thương giác mạc. Nghiệm thu: biết mức độ trước mổ. Cốt lõi: lông quặm là mù lòa phòng được. Lỗi: chờ loét giác mạc mới mổ.

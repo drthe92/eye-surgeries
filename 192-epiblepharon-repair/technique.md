@@ -7,14 +7,14 @@
 Trẻ em (thường châu Á) nếp da-cơ thừa đè hàng lông dưới vào trong nhưng không sẹo kết mạc: cắt nếp da-cơ thừa, khâu da vào sụn/cơ rút để lộn mép ra. Khác quặm thật ở chỗ không sẹo và khỏi hẳn sau mổ, không tái phát kiểu sẹo.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: trẻ có nếp da-cơ thừa đè hàng lông mi dưới vào trong, kết mạc không sẹo, gây cọ giác mạc hoặc chảy nước mắt.
+- Chống chỉ định tương đối: quặm thật bẩm sinh có bất thường sụn/cơ rút (bài 193), nhiễm trùng cấp, trẻ chưa đủ tuổi gây mê theo đánh giá gây mê. Nếu chỉ nhẹ và không tổn thương giác mạc thì có thể theo dõi.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: gây mê toàn thân cho trẻ nhỏ; trẻ lớn có thể tê tại chỗ có tiền mê.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ tiêu 6-0 hoặc 7-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, phụ huynh đồng thuận về sẹo, tái phát và theo dõi tăng trưởng.
+- Đánh giá nền: khúc xạ và nguy cơ nhược thị, sức khỏe toàn thân, tiền sử gây mê.
 
 ## 4. Quy trình
 - **Bước 1 — Phân biệt với quặm thật:** Không sẹo kết mạc, lông quặm do da đè, trẻ nhỏ. Nghiệm thu: kéo da xuống hết quặm + kết mạc lành. Cốt lõi: quặm thật cần mổ sụn, epiblepharon chỉ cần da-cơ. Lỗi: mổ sụn cho epiblepharon gây xâm lấn thừa.

@@ -7,14 +7,14 @@
 Quặm sẹo nhẹ-vừa mi dưới: đường kết mạc rạch ngang sụn (giữ nguyên da-cơ ngoài), để hở cho sẹo tự lộn mép ra ngoài, có thể khâu cơ rút kèm. Không sẹo da, ít xâm lấn, là bước giữa mũi lộn và bẻ sụn toàn lớp.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh) thì một thì khỏi, sai bệnh thì mổ lại.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, sẹo đang tiến triển mạnh (hoãn hoặc chuyển ghép), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn kỹ thuật đúng bệnh.
+- Chỉ định: quặm sẹo nhẹ đến vừa mi dưới, sụn còn mềm và còn khả năng lộn ra; lông quặm khu trú.
+- Chống chỉ định tương đối: sẹo xơ cứng toàn bộ hoặc co rút lá sau nặng (cần bẻ sụn/ghép), nhiễm trùng cấp, co thắt mi đang hoạt động. Nếu sau mở sụn vẫn còn quặm thì nâng lên bài 12 hoặc 190.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tê kết mạc bổ sung khi đi đường trong.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, nhuộm giác mạc trước mổ, đồng thuận (consent) về sẹo, tái phát và khả năng mổ bổ sung.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê bề mặt và tê tại chỗ; có thể dùng kẹp mi để cố định.
+- Dụng cụ và chỉ: kẹp mi, dao 15 hoặc đốt đầu kim, kẹp mô mảnh, chỉ tiêu 6-0 nếu khâu cơ rút, mỡ kháng sinh. Không cần ghép hay chỉ không tiêu.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, đồng thuận về tái quặm và khả năng phải bẻ sụn nếu không đủ.
+- Đánh giá nền: mức sẹo kết mạc, phản xạ Bell, khô mắt và thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn ca sẹo nhẹ-vừa:** Quặm sẹo khu trú, sụn còn đủ cứng. Nghiệm thu: sụn còn đàn hồi khi nắn. Cốt lõi: sẹo quá nặng phải bẻ toàn lớp hoặc ghép. Lỗi: mở sụn cho sẹo xơ cứng toàn bộ gây không lộn.

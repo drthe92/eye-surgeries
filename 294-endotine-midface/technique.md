@@ -7,14 +7,14 @@
 Nâng má giữa mặt bằng dụng cụ cố định sinh học Endotine (ngạnh tự tiêu): bóc mặt phẳng dưới màng xương/tiền màng xương, nâng khối má lên rồi gắn vào bờ xương bằng ngạnh — thay chỉ khâu, phân bố lực đều hơn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: sa khối má giữa mặt mức vừa đến nhiều, cần nâng và cố định vào bờ xương; bệnh nhân muốn cố định đều, ít phụ thuộc chỉ khâu.
+- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, bệnh toàn thân chưa kiểm soát, da phủ mỏng hoặc tiền sử nhiễm dụng cụ cấy. Nếu sa nhẹ, chọn bài 21.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, đốt lưỡng cực, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi ngồi, đồng thuận sẹo và bất đối xứng.
-- Đánh giá nền: chức năng mặt (VII), khô mắt, chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine; có thể thêm an thần; chờ epi ngấm khoảng 7 phút.
+- Dụng cụ và vật liệu: dụng cụ Endotine midface, dao 15, kéo, đốt lưỡng cực, chỉ cố định, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu khi ngồi, đồng thuận về bất đối xứng và khả năng chỉnh thì hai.
+- Đánh giá nền: chức năng nhánh VII, khô mắt, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn mặt phẳng bóc:** Dưới màng xương hoặc tiền màng xương tùy mức sa. Nghiệm thu: khối má di động lên được. Cốt lõi: đúng mặt phẳng mới nâng đúng khối. Lỗi: bóc nông chỉ kéo da.

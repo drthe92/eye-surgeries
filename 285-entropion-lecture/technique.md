@@ -7,14 +7,13 @@
 Bài giảng khung quặm mi cả hai mi: co thắt (viêm kích thích), tuổi già (lỏng + tuột cơ rút), sẹo (lá sau/lá trước), bẩm sinh. Chìa khóa là phân loại đúng vì mỗi loại một cơ chế và một thuật khác nhau.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Bài giảng không thực hiện thủ thuật; mục này là khung phân loại quặm: co thắt, tuổi già, sẹo, bẩm sinh, mỗi loại có cơ chế và thuật khác nhau.
+- Không có chống chỉ định riêng; mục đích là chọn đúng nhóm trước khi mổ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em/mắt hột nặng: có thể mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, kẹp, đốt lưỡng cực, chỉ tiêu 5-0/6-0, mỡ kháng sinh.
-- Bệnh nhân: nhuộm giác mạc, chụp ảnh, đồng thuận (tái phát, hở mi, sẹo).
-- Đánh giá nền: Bell, khô mắt, thị lực, thuốc chống đông.
+- Bài giảng, không cần dụng cụ.
+- Chuẩn bị dữ liệu: nghiệm pháp kéo da, kéo mi, soi kết mạc tìm sẹo, đánh giá co thắt và tuổi.
+- Đối chiếu bài 11, 12, 28-30, 189-193 để chọn thuật.
 
 ## 4. Quy trình
 - **Bước 1 — Phân loại trước khi mổ:** Co thắt / tuổi già / sẹo / bẩm sinh. Nghiệm thu: gọi đúng tên loại quặm. Cốt lõi: sai loại là sai thuật. Lỗi: mổ tuổi già cho quặm sẹo.

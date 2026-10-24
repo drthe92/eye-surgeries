@@ -7,14 +7,14 @@
 So sánh mở điểm lệ hẹp: 2 nhát (dọc rồi chéo sau) đủ rộng và ít sẹo hơn 3 nhát kinh điển. Bài chuẩn chọn 2-snip làm mặc định, 3-snip khi cần rộng tối đa.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: hẹp điểm lệ gây chảy nước mắt, bơm rửa khó vào, điểm lệ xơ nhưng lệ quản còn thông.
+- Chống chỉ định tương đối: tắc lệ quản phía sau điểm lệ (cần thông hoặc mổ khác), nhiễm trùng cấp, hẹp do u. Nếu xơ cứng nặng cần rộng tối đa thì chọn 3 nhát.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; chờ epi ngấm (trắng da ~7 phút, xem bài 27).
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0,5mm, đốt lưỡng cực (bipolar), chỉ mảnh, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đo đạc trước mổ, đồng thuận (consent) về sẹo và tái phát.
-- Đánh giá nền: thị lực, lệ đạo, thuốc chống đông.
+- Vô cảm: tê bề mặt và tê tại chỗ quanh điểm lệ.
+- Dụng cụ và chỉ: dao 15 hoặc kéo nhỏ, kẹp mô mảnh, sonde Bowman, stent nếu cần, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, bơm rửa đánh giá tầng tắc, đồng thuận về tái hẹp.
+- Đánh giá nền: lệ đạo, khô mắt, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá hẹp điểm lệ:** Điểm lệ chít, bơm khó vào. Nghiệm thu: phân độ hẹp. Cốt lõi: hẹp thật mới mở. Lỗi: mở điểm lệ bình thường.

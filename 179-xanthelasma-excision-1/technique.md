@@ -7,14 +7,14 @@
 Cắt u vàng mi trên và dưới cùng thì: vẽ vừa đủ trong giới hạn da thừa, bóc tách trên mặt cơ vòng, cắt bỏ da nhiễm cholesterol, khâu trực tiếp theo đường nếp mi. Kết hợp chỉnh da thừa blepharoplasty, xét nghiệm mỡ máu vì xanthelasma có thể kèm rối loạn lipid.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: u vàng mi gây mất thẩm mỹ hoặc cọ mi, đã điều trị rối loạn lipid mà vẫn còn; tổn thương khu trú trong vùng da thừa.
+- Chống chỉ định tương đối: rối loạn lipid chưa kiểm soát, viêm da cấp, tổn thương lan rộng cần ghép da. Nếu lan tới góc trong thì xem bài 180.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ da 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu khi nhắm và mở mắt, xét nghiệm lipid, đồng thuận về tái phát.
+- Đánh giá nền: lipid máu, bệnh tim mạch, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá da thừa và mỡ máu trước mổ:** Đo da thừa, chụp ảnh, xét nghiệm lipid. Nghiệm thu: biết được có đủ da để đóng trực tiếp. Cốt lõi: xanthelasma là dấu hiệu toàn thân, không chỉ bệnh da. Lỗi: mổ mà không tư vấn tái phát và bệnh lipid nền.

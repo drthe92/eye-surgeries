@@ -7,14 +7,14 @@
 Cắt wedge lá sau (sụn-kết mạc) từ phía trong: lật mi, cắt bỏ dải sụn bệnh mà giữ nguyên da-cơ phía ngoài, khâu sụn trực tiếp. Giữ được mặt ngoài mi nên sẹo đẹp, phù hợp tổn thương mặt sau sụn và chỉnh ngắn mi trong quặm-lật.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: theo từng bước dưới đây; nguyên tắc chung là tổn thương cần chẩn đoán mô bệnh hoặc gây mất thẩm mỹ-chức năng mà có thể đóng trực tiếp an toàn.
-- Chống chỉ định tương đối: nhiễm trùng cấp vùng mổ, nghi melanoma lan rộng cần hội chẩn trước, bệnh toàn thân chưa kiểm soát (đái tháo đường, chống đông). Thay thế: theo dõi-sinh thiết kim nhỏ hoặc chuyển tuyến ung thư mắt khi vượt khả năng.
+- Chỉ định: tổn thương mặt sau sụn hoặc kết mạc, cần cắt bỏ mà giữ da-cơ ngoài; cần rút ngắn mi khi quặm hoặc lật.
+- Chống chỉ định tương đối: tổn thương da phía ngoài, nhiễm trùng cấp, sẹo co kéo toàn bộ cần vạt.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine; tránh tê phồng quá trước khi đánh dấu mốc.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp 0.5mm, đốt lưỡng cực (bipolar), chỉ nylon/prolene 6-0 và chỉ tiêu 6-0, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, tái phát và kết quả mô bệnh có thể đổi hướng điều trị.
-- Đánh giá nền: thị lực, vận nhãn, lệ đạo khi tổn thương góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ và tê kết mạc.
+- Dụng cụ và chỉ: kẹp Desmarres, dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, nhuộm giác mạc, đồng thuận về khuyết bờ mi và khả năng mổ lại.
+- Đánh giá nền: tình trạng kết mạc, khô mắt, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định đường sau thay vì đường ngoài:** Tổn thương mặt sau sụn hoặc cần rút ngắn mi mà muốn giữ da-cơ. Nghiệm thu: mặt ngoài mi nguyên vẹn sau mổ. Cốt lõi: đường sau tránh sẹo da. Lỗi: chọn đường sau cho tổn thương da gây sót bệnh.

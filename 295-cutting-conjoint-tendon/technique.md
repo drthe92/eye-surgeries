@@ -7,14 +7,14 @@
 Cắt đường gân hợp (conjoint tendon) — nơi cơ vòng trước vách và ổ mắt hợp lại ở thái dương — để giải phóng đuôi mày ngoài, giảm xệ thái dương. Bổ trợ cho nâng mày/blepharoplasty thay vì cắt da thêm.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: xệ đuôi mày ngoài do dây chằng thái dương, kèm hoặc không kèm nâng mày; muốn giải phóng thay vì cắt thêm da.
+- Chống chỉ định tương đối: nhiễm trùng cấp vùng thái dương, tổn thương thần kinh mặt cùng bên, bệnh toàn thân chưa kiểm soát. Nếu chỉ sa mày nhẹ, chọn browpexy (bài 57).
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, đốt lưỡng cực, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi ngồi, đồng thuận sẹo và bất đối xứng.
-- Đánh giá nền: chức năng mặt (VII), khô mắt, chống đông.
+- Vô cảm: tê tại chỗ lidocaine kèm epinephrine; chờ epi ngấm khoảng 7 phút.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô mảnh, đốt lưỡng cực, chỉ tiêu 6-0 nếu cần, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, đánh dấu khi ngồi, đồng thuận về sẹo nhỏ và bất đối xứng.
+- Đánh giá nền: chức năng nhánh VII thái dương, khô mắt, thuốc chống đông.
 
 ## 4. Quy trình
 - **Bước 1 — Xác định đường hợp:** Sờ/tìm dải gân ở đuôi mày ngoài-thái dương. Nghiệm thu: xác định đúng đường. Cốt lõi: đây là điểm treo mô thái dương. Lỗi: cắt lệch vào mỡ/thần kinh.
