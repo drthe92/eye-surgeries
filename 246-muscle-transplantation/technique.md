@@ -7,14 +7,14 @@
 Adio (Nigeria): ghép cơ thật (lấy đoạn cơ cho ghép vào cơ liệt) cho lác ngang cực lớn không còn gì để lùi/cắt/chuyển — cứu vãn cuối cùng ở nơi thiếu nguồn lực. Hiểu nguyên lý và giới hạn.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác ngang cực lớn không còn cơ để lùi/cắt/chuyển, cần ghép cơ.
+- Chống chỉ định tương đối: còn cơ đủ để lùi/cắt, mắt không còn thị lực, nhiễm trùng. Thay thế: chuyển cơ hoặc kính lăng kính.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, mảnh cơ cho, caliper, đốt.
+- Bệnh nhân: đo góc, chụp ảnh, đồng thuận về nguồn cơ cho.
+- Đánh giá nền: vận nhãn, mạch thể mi, tiền sử mổ, thị lực.
 
 ## 4. Quy trình
 - **Bước 1 — Khi nào phải ghép cơ:** Hết cơ để dùng: liệt lâu xơ hết, mổ lại nhiều. Nghiệm thu: liệt kê đã thử gì. Cốt lõi: ghép là đường cùng. Lỗi: ghép khi còn cách thường.
@@ -24,10 +24,10 @@ Adio (Nigeria): ghép cơ thật (lấy đoạn cơ cho ghép vào cơ liệt) c
 - **Bước 5 — Mục tiêu thực tế:** Thẳng nhìn thẳng là thắng. Nghiệm thu: đồng thuận thấp. Cốt lõi: cứu vãn không đòi hoàn hảo. Lỗi: hứa vận động.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, kháng sinh-steroid tra, không dụi.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần; 6 tuần đo góc và tìm thiếu máu đoạn trước; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

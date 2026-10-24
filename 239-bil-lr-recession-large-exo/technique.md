@@ -7,14 +7,14 @@
 Lác ngoài lớn nguyên phát: lùi trực ngoài hai mắt liều lớn. Bài chuẩn của lác ngoài — so với 235 (có thêm cắt trong khi mạn co rút) và 238 (kiểu treo lùi ở trẻ + DVD).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác ngoài lớn nguyên phát hai mắt, cần lùi LR hai bên liều lớn.
+- Chống chỉ định tương đối: lác ngoài do liệt VI chưa đánh giá, góc chưa ổn định, mắt không còn thị lực. Thay thế: lùi một bên hoặc chuyển cơ.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê hoặc tê cạnh nhãn.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo góc xa-gần, chụp ảnh, đồng thuận về lác ẩn.
+- Đánh giá nền: vận nhãn, góc lác, tiền sử mổ, thị lực.
 
 ## 4. Quy trình
 - **Bước 1 — Đo lác ngoài đầy đủ:** Xa-gần, các hướng. Nghiệm thu: loại trừ giả lác ngoài (cận nặng). Cốt lõi: đo đủ. Lỗi: đo thiếu.
@@ -24,10 +24,10 @@ Lác ngoài lớn nguyên phát: lùi trực ngoài hai mắt liều lớn. Bài
 - **Bước 5 — Theo dõi lác ẩn:** Lác ngoài dễ tái. Nghiệm thu: hẹn dài hạn. Lỗi: khỏi là thôi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, kháng sinh-steroid tra, không dụi.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần; 6 tuần đo góc xa-gần và lác ẩn; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

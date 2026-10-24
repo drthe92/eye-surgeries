@@ -7,14 +7,14 @@
 Tập lùi cơ chéo dưới trên mắt mô phỏng: rạch cùng đồ thái dương-dưới, móc chéo dưới DƯỚI NHÌN TRỰC TIẾP (cấm móc mù), làm sạch bao, kiểm tra sợi sau, cắt-lùi-khâu đúng vị trí. Quy tắc vàng cho cả mổ thật.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; nguyên tắc chung là đúng bệnh-đúng cơ-đúng liều, đo lăng kính trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định (liệt mới cần chờ), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài tập lùi chéo dưới trên mắt mô phỏng, rạch cùng đồ thái dương-dưới và móc dưới nhìn trực tiếp.
+- Chống chỉ định tương đối: không có chống chỉ định trên người; không tập móc mù hoặc khi thiếu mô phỏng. Thay thế: học trên mô phỏng khác hoặc ca thật có giám sát.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn hợp tác).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía, Jameson), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ khâu kết mạc 6-0/8-0, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng nhìn, nghiệm pháp ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ (nhược thị), võng mạc, thuốc chống đông.
+- Vô cảm: không cần.
+- Dụng cụ và chỉ: mắt mô phỏng SOS, móc chéo dưới, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: không có bệnh nhân; chuẩn bị mô phỏng, ánh sáng, video.
+- Đánh giá nền: không có; nắm giải phẫu cùng đồ thái dương-dưới và đường đi chéo dưới.
 
 ## 4. Quy trình
 - **Bước 1 — Rạch cùng đồ đúng vị trí:** Mở kết mạc + Tenon cạnh trực dưới-ngoài, mở rộng đủ nhìn. Nghiệm thu: thấy được gân. Cốt lõi: rạch sai chỗ gây mò mẫm. Lỗi: rạch nhỏ quá phải mò mù.
@@ -24,10 +24,7 @@ Tập lùi cơ chéo dưới trên mắt mô phỏng: rạch cùng đồ thái d
 - **Bước 5 — Mở rộng: cắt bỏ + đưa ra trước:** Cùng mô hình tập được myectomy và anteriorization. Nghiệm thu: biết khi nào chọn lùi-cắt-đưa trước. Cốt lõi: mỗi biến thể một chỉ định. Lỗi: một công thức cho mọi ca.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ; giảm đau.
-- Tái khám: đo lăng kính lại, phát hiện u hạt sinh mủ (steroid tra, không phải nhiễm trùng) và nang vùi (mổ lấy).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực, sốt.
+Không có hậu phẫu: bài mô phỏng trên mắt SOS. Khi áp dụng ca thật: theo dõi góc đứng, vận nhãn, nhiễm trùng; tái khám 1 tuần, 6 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

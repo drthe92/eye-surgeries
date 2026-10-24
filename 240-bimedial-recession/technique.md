@@ -7,14 +7,14 @@
 Lác trong hai mắt (nhất là trẻ em): lùi trực trong hai mắt đối xứng — ca mổ lác phổ biến nhất. Đại diện cho 3 video biến thể trên Cybersight (bản 1/2/3 cùng kỹ thuật).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác trong hai mắt ở trẻ, cần lùi MR đối xứng.
+- Chống chỉ định tương đối: lác điều tiết chưa chỉnh kính, góc chưa ổn định, mắt không còn thị lực. Thay thế: lùi một bên hoặc botox 242.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo góc, chụp ảnh, đồng thuận về nhược thị.
+- Đánh giá nền: khúc xạ, nhược thị, góc lác, tiền sử mổ.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định trẻ lác trong:** Lác trong bẩm sinh/mắc phải hai mắt. Nghiệm thu: đo đủ trước mổ. Cốt lõi: trẻ cần đo nhiều lần (lúc khóc-lúc tỉnh). Lỗi: đo một lần.
@@ -24,10 +24,10 @@ Lác trong hai mắt (nhất là trẻ em): lùi trực trong hai mắt đối x
 - **Bước 5 — Theo dõi nhược thị:** Mổ lác không chữa nhược thị. Nghiệm thu: bịt mắt tập tiếp sau mổ. Cốt lõi: thẳng mắt rồi vẫn phải chữa nhược thị. Lỗi: mổ xong là xong.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh, kháng sinh-steroid tra.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo góc; theo dõi nhược thị 3-6 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

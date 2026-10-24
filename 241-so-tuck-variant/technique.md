@@ -7,14 +7,14 @@
 Gấp gân chéo trên bản phẫu thuật viên khác — so với bài 49 kinh điển: cùng nguyên lý gấp nếp tăng lực, khác đường mở và cách khâu. Học để thấy một kỹ thuật nhiều tay mổ.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: liệt SO cần gấp gân, bản phẫu thuật viên khác; chỉ định như tuck kinh điển.
+- Chống chỉ định tương đối: SO overaction, Brown thật, mắt không còn thị lực. Thay thế: tuck 49 hoặc Harada-Ito 50.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc gân, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo xoắn, chụp ảnh, đồng thuận Brown nhân tạo.
+- Đánh giá nền: vận nhãn, xoắn, góc đứng, tiền sử mổ.
 
 ## 4. Quy trình
 - **Bước 1 — So với bản 49:** Cùng gấp gân, khác tay mổ. Nghiệm thu: liệt kê được điểm giống-khác. Cốt lõi: nguyên lý một, tay nghề nhiều. Lỗi: học vẹt một bản.
@@ -24,10 +24,10 @@ Gấp gân chéo trên bản phẫu thuật viên khác — so với bài 49 kin
 - **Bước 5 — So kết quả hai bản:** Theo dõi so với 49. Nghiệm thu: biết bản nào hợp tay mình. Cốt lõi: chọn bản hợp tay. Lỗi: đổi bản liên tục.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh, kháng sinh-steroid tra.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo xoắn; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

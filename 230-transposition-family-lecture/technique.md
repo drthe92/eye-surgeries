@@ -7,14 +7,14 @@
 Bài giảng kỹ thuật chuyển cơ khi không còn cơ để lùi/cắt: VRT toàn phần/bán phần, Yamada, Yokoyama (buộc cơ), Jensen bán phần, Scott-Buckley (cắt-lùi phối hợp), Y-split trực trên, Faden (khâu hãm sau). So sánh ưu-nhược và biến chứng (thiếu máu đoạn trước, phù gai, tràn dịch màng mạch với bản chẻ trực ngoài mới).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; nguyên tắc chung là đúng bệnh-đúng cơ-đúng liều, đo lăng kính trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định (liệt mới cần chờ), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài giảng họ chuyển cơ当 không còn cơ để lùi/cắt; không thực hiện thủ thuật trên bệnh nhân.
+- Chống chỉ định tương đối: không có; dùng để chọn VRT, Jensen, Yokoyama, Scott-Buckley, Y-split hay Faden theo tình trạng cơ. Thay thế: bài 231-252 để chọn kỹ thuật cụ thể.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn hợp tác).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía, Jameson), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ khâu kết mạc 6-0/8-0, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng nhìn, nghiệm pháp ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ (nhược thị), võng mạc, thuốc chống đông.
+- Vô cảm: không áp dụng.
+- Dụng cụ và chỉ: bài giảng, không cần dụng cụ.
+- Bệnh nhân: chuẩn bị số đo góc, vận nhãn, ảnh 9 hướng.
+- Đánh giá nền: hiểu mạch thể mi trước và nguy cơ thiếu máu đoạn trước.
 
 ## 4. Quy trình
 - **Bước 1 — Hiểu khi nào phải chuyển cơ:** Liệt nặng, cơ xơ, mổ lại nhiều lần không còn cơ lành. Nghiệm thu: liệt kê được chỉ định chuyển cơ. Cốt lõi: chuyển cơ là cứu vãn, không phải lựa chọn đầu. Lỗi: chuyển cơ khi lùi/cắt thường còn làm được.
@@ -24,10 +24,7 @@ Bài giảng kỹ thuật chuyển cơ khi không còn cơ để lùi/cắt: VRT
 - **Bước 5 — Biến chứng thiếu máu và bản mới:** Mổ 3 trực cùng mắt gây thiếu máu đoạn trước; bản chẻ trực ngoài chuyển vào trực trong có báo cáo phù gai + tràn dịch màng mạch. Nghiệm thu: đếm mạch máu trước khi mổ nhiều cơ. Lỗi: tham nhiều cơ một mắt gây hoại tử đoạn trước.
 
 ## 5. Hậu phẫu
-- Không có hậu phẫu: bài giảng so sánh các kỹ thuật chuyển cơ, không thực hiện trên bệnh nhân.
-- Khi áp dụng: theo dõi góc lác 1-2 tuần và 6-8 tuần, sắc giác mạc, phù gai/thiếu máu đoạn trước; đo lại vận nhãn.
-- Chọn kỹ thuật theo tình trạng cơ và mạch máu trước mổ; ghi rõ kiểu chuyển cơ để so sánh kết quả.
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
+Không có hậu phẫu: bài giảng họ chuyển cơ. Khi áp dụng: theo dõi thiếu máu đoạn trước, phù gai, tràn dịch màng mạch; tái khám 1-2 tuần, 6-8 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao chuyển cơ toàn phần nguy cơ thiếu máu đoạn trước hơn bán phần?

@@ -7,14 +7,14 @@
 Liệt III mạn co rút cơ trực ngoài: cắt cơ ngoài khâu vào màng xương (xóa lực kéo ngoài vĩnh viễn) + chuyển gân chéo trên thành cơ khép cạnh bám trực trong + cắt ngắn lớn trực trong. Mục tiêu là thẳng ở nhìn thẳng, không phải phục hồi vận động.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; nguyên tắc chung là đúng bệnh-đúng cơ-đúng liều, đo lăng kính trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định (liệt mới cần chờ), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: liệt III mạn có co rút trực ngoài, lác ngoài lớn, cần chuyển gân chéo trên + cắt trực ngoài khâu màng xương + cắt ngắn trực trong.
+- Chống chỉ định tương đối: liệt III mới chưa ổn định, còn khả năng hồi phục, góc lác chưa đo ổn định, mắt không còn thị lực. Thay thế: kính lăng kính hoặc chuyển cơ khác nếu không mổ.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn hợp tác).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía, Jameson), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ khâu kết mạc 6-0/8-0, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng nhìn, nghiệm pháp ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ (nhược thị), võng mạc, thuốc chống đông.
+- Vô cảm: gây mê toàn thân.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, polyester 5-0 neo màng xương, đốt bipolar, thước đo.
+- Bệnh nhân: chụp ảnh 9 hướng, đo góc, đồng thuận mục tiêu chức năng/thẩm mỹ, giải thích hạn chế vận nhãn.
+- Đánh giá nền: chức năng mi, giác mạc, góc lác, tiền sử mổ, thị lực.
 
 ## 4. Quy trình
 - **Bước 1 — Nghiệm pháp ép buộc + đồng thuận mục tiêu:** Ép buộc xác nhận cơ ngoài co rút, trực trong lỏng. Nghiệm thu: biết cơ nào cản-cơ nào yếu. Cốt lõi: đồng thuận chỉ được thẳng nhìn thẳng, sụp mi còn nguyên, vùng nhìn đôi còn hẹp. Lỗi: hứa phục hồi vận động gây thất vọng.
@@ -24,10 +24,10 @@ Liệt III mạn co rút cơ trực ngoài: cắt cơ ngoài khâu vào màng x�
 - **Bước 5 — Cắt ngắn trực trong + chuyển gân chéo trên:** Cắt ngắn trực trong 10-11mm; gân chéo trên đặt cạnh bám trực trong thành cơ khép thuần. Nghiệm thu: mắt chặt khít nhìn thẳng, ép buộc vào được. Cốt lõi: khâu kết mạc gọn (cắt bớt kết mạc thừa, tỉa Tenon lộ) chống u hạt sinh mủ. Lỗi: khâu ẩu gây xấu và dellen.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ; giảm đau.
-- Tái khám: đo lăng kính lại, phát hiện u hạt sinh mủ (steroid tra, không phải nhiễm trùng) và nang vùi (mổ lấy).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực, sốt.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, tra kháng sinh-steroid.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo góc/vận nhãn; 3 tháng đánh giá ổn định.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

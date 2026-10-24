@@ -7,14 +7,14 @@
 Bé gái 14 tuổi lác trong bẩm sinh: lùi trực trong một mắt (Wagner). Dạy móc nhỏ bộc lộ, làm sạch mô liên kết trước khi khâu — chi tiết tay nghề của lùi đơn mà bài 41 (hai mắt, Kemp) không có.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác trong bẩm sinh một mắt, góc vừa, cần lùi MR một bên.
+- Chống chỉ định tương đối: lác điều tiết chưa chỉnh kính, góc chưa ổn định, mắt không còn thị lực. Thay thế: lùi hai bên 240 hoặc botox 242.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ, thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ nhỏ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo góc, chụp ảnh, đồng thuận về một bên.
+- Đánh giá nền: khúc xạ, nhược thị, góc lác, tiền sử mổ.
 
 ## 4. Quy trình
 - **Bước 1 — Móc và bộc lộ sạch:** Móc nhỏ nâng kết mạc, làm sạch mô liên kết quanh cơ. Nghiệm thu: cơ lộ sạch. Cốt lõi: sạch mới khâu chuẩn mm. Lỗi: còn mô liên kết gây dính liều sai.
@@ -24,10 +24,10 @@ Bé gái 14 tuổi lác trong bẩm sinh: lùi trực trong một mắt (Wagner)
 - **Bước 5 — So với lùi hai mắt:** Một mắt khi lệch chủ yếu một bên. Nghiệm thu: biết chọn một-hai mắt. Cốt lõi: bên lác chính. Lỗi: mổ cả hai khi chỉ cần một.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại.
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, kháng sinh-steroid tra, không dụi.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần; 6 tuần đo góc và theo dõi nhược thị; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

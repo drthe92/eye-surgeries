@@ -7,14 +7,14 @@
 Ganesh (Aravind): xử trí liệt chéo trên bẩm sinh/mắc phải qua 7-8 ca: đánh giá (Bielschowsky, đo xoay), chọn mổ (cắt/gấp/Harada-Ito/chuyển) theo mức. Khung quyết định cho mọi bài 48-51.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài giảng/hướng dẫn xử trí liệt SO; không thực hiện một thủ thuật duy nhất.
+- Chống chỉ định tương đối: không có; dùng để chọn cắt/gấp/Harada-Ito/chuyển theo mức. Thay thế: bài 48-51, 237, 241.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: không áp dụng.
+- Dụng cụ và chỉ: bài giảng, không cần dụng cụ.
+- Bệnh nhân: chuẩn bị Bielschowsky, đo xoay, ảnh 9 hướng.
+- Đánh giá nền: phân loại bẩm sinh/mắc phải và mức liệt.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá liệt SO:** Nghiêng đầu, Bielschowsky (+), đo xoay. Nghiệm thu: chẩn đoán chắc liệt SO. Cốt lõi: nghiêng đầu về bên liệt nặng hơn. Lỗi: nhầm liệt trực trên.
@@ -24,10 +24,7 @@ Ganesh (Aravind): xử trí liệt chéo trên bẩm sinh/mắc phải qua 7-8 c
 - **Bước 5 — Theo dõi xoay sau mổ:** Đo xoay lại. Nghiệm thu: hết song thị xoay. Cốt lõi: xoay là đích. Lỗi: chỉ đo ngang-đứng.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+Không có hậu phẫu: bài giảng liệt SO. Khi áp dụng: theo dõi xoay, góc đứng, nhìn đôi; tái khám 1-2 tuần, 6-8 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

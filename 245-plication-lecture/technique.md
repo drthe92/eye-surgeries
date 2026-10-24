@@ -7,14 +7,14 @@
 Bài giảng gấp nếp cơ trực (plication): tăng lực cơ mà KHÔNG cắt (khâu gấp khúc cơ về bám cũ) — giữ mạch máu trước, ít xâm lấn hơn cắt ngắn, có thể tháo được. So với cắt ngắn (227): plication giữ nguyên giải phẫu mạch.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài giảng gấp nếp cơ trực; không thực hiện thủ thuật trên bệnh nhân.
+- Chống chỉ định tương đối: không có; dùng để chọn giữa plication và cắt ngắn. Thay thế: bài 227/249 nếu cần cắt ngắn.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: không áp dụng.
+- Dụng cụ và chỉ: bài giảng, không cần dụng cụ.
+- Bệnh nhân: chuẩn bị số đo góc, vận nhãn, ảnh 9 hướng.
+- Đánh giá nền: hiểu mạch máu trước và khả năng tháo chỉnh.
 
 ## 4. Quy trình
 - **Bước 1 — Hiểu plication:** Gấp khúc cơ khâu về bám cũ, không cắt. Nghiệm thu: phân biệt cắt vs gấp. Cốt lõi: không cắt nghĩa là giữ mạch. Lỗi: nhầm với tuck (tuck là gân).
@@ -24,10 +24,7 @@ Bài giảng gấp nếp cơ trực (plication): tăng lực cơ mà KHÔNG cắ
 - **Bước 5 — Chọn cắt hay gấp:** Mắt nguy cơ thiếu máu → gấp; góc lớn mắt khỏe → cắt. Nghiệm thu: quyết định đúng. Cốt lõi: mạch máu quyết định. Lỗi: một công thức.
 
 ## 5. Hậu phẫu
-- Không có hậu phẫu: bài giảng về gấp nếp cơ, không thực hiện trên bệnh nhân.
-- Khi áp dụng: theo dõi góc lác, nhìn đôi và phản ứng kết mạc 1-2 tuần; đo lại 6-8 tuần.
-- Ghi lại kiểu gấp nếp và chiều dài gấp để đánh giá tái lác; kháng sinh-steroid tra theo phẫu thuật viên.
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
+Không có hậu phẫu: bài giảng plication. Khi áp dụng: theo dõi góc lác, nhìn đôi, nhiễm trùng; tái khám 1-2 tuần, 6-8 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao plication giữ mạch máu trước tốt hơn cắt ngắn?

@@ -7,14 +7,14 @@
 Chuyển bám trực trong lên trên để vừa đưa vào vừa nâng (lác trong kèm sụp mi dưới/lệch đứng): đặt lại bám chếch lên trên. Một mũi khâu hai tác dụng.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác trong kèm lệch đứng/sụp mi dưới, cần đặt MR lên trên.
+- Chống chỉ định tương đối: lệch đứng do cơ chế khác, mắt không còn thị lực. Thay thế: lùi MR đơn thuần hoặc chỉnh trực dưới.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo hai hướng, chụp ảnh, đồng thuận về lệch chéo.
+- Đánh giá nền: vận nhãn ngang-đứng, góc lác, tiền sử mổ.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định lệch chéo:** Lác trong kèm thành phần đứng. Nghiệm thu: đo cả ngang lẫn đứng. Cốt lõi: mộtmuscle hai vector. Lỗi: chỉ đo ngang.
@@ -24,10 +24,10 @@ Chuyển bám trực trong lên trên để vừa đưa vào vừa nâng (lác t
 - **Bước 5 — Đánh giá hai hướng:** Đo lác ngang + đứng sau mổ. Nghiệm thu: cả hai cải thiện. Cốt lõi: theo dõi cả hai trục. Lỗi: chỉ khám ngang.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh, kháng sinh-steroid tra.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo hai hướng; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

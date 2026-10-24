@@ -7,14 +7,14 @@
 Thiếu nâng một mắt (double elevator palsy): chuyển cả trực trong lẫn trực ngoài lên cạnh trực trên để tạo lực nâng. Không còn cơ nâng thì mượn cơ ngang — nguyên lý chuyển cơ thuần túy.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: double elevator palsy một mắt, thiếu nâng nặng, còn MR/LR để chuyển lên SR.
+- Chống chỉ định tương đối: co rút cơ ngang nặng, thiếu nâng do cơ học chưa giải quyết, mắt không còn thị lực. Thay thế: chuyển cơ khác hoặc kính lăng kính.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: đo 9 hướng, chụp ảnh, đồng thuận về hạn chế vận nhãn.
+- Đánh giá nền: vận nhãn, góc đứng, tiền sử mổ, mạch thể mi.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán thiếu nâng một mắt:** Ép buộc loại trừ co rút trực dưới, Bell còn. Nghiệm thu: ép buộc nâng tự do. Cốt lõi: co rút trực dưới thì lùi trực dưới trước. Lỗi: chuyển cơ khi còn co rút gây liệt ngược.
@@ -24,10 +24,10 @@ Thiếu nâng một mắt (double elevator palsy): chuyển cả trực trong l�
 - **Bước 5 — Đóng và theo dõi nâng:** Kết mạc gọn. Nghiệm thu: nâng cải thiện sau 1 tháng. Cốt lõi: nâng lên dần theo sẹo. Lỗi: đánh giá ngay trên bàn gây thất vọng.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, kháng sinh-steroid tra.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo nâng/vận nhãn; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

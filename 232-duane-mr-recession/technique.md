@@ -7,14 +7,14 @@
 Duane lác trong: lùi trực trong co rút để mắt về giữa, KHÔNG cắt ngắn trực ngoài (thần kinh VI không có, cắt là vô ích và nguy hiểm). Kèm nẹp/hạn chế co rút khi nhìn vào trong.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: Duane lác trong có co rút, góc trong đáng kể, cần lùi MR; không cắt LR.
+- Chống chỉ định tương đối: Duane lác ngoài, co rút nhẹ không ảnh hưởng, mắt không còn thị lực. Thay thế: theo dõi hoặc phẫu thuật trục ngang khác.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê.
+- Dụng cụ và chỉ: móc cơ, chỉ Vicryl 6-0, caliper, đốt.
+- Bệnh nhân: chụp ảnh, đo góc/co rút, đồng thuận về hạn chế vận nhãn.
+- Đánh giá nền: vận nhãn, co rút, góc lác, thị lực.
 
 ## 4. Quy trình
 - **Bước 1 — Chẩn đoán Duane lác trong:** Hẹp khe khi nhìn vào trong, co rút nhãn cầu. Nghiệm thu: phân biệt lác trong thường (cắt ngoài được) với Duane (cấm cắt ngoài). Cốt lõi: sai chẩn đoán là sai hết. Lỗi: cắt trực ngoài ở Duane gây lác ngoài nặng.
@@ -24,10 +24,10 @@ Duane lác trong: lùi trực trong co rút để mắt về giữa, KHÔNG cắ
 - **Bước 5 — Theo dõi vận nhãn còn lại:** Nhìn vào trong vẫn hạn chế (bệnh gốc). Nghiệm thu: bệnh nhân hiểu giới hạn. Cốt lõi: mục tiêu là thẳng nhìn thẳng. Lỗi: hứa phục hồi đưa vào.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: chườm lạnh, kháng sinh-steroid tra.
+- Thuốc: kháng sinh-steroid tra, giảm đau.
+- Tái khám: 1 tuần, 6 tuần đo góc/co rút; 3 tháng.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

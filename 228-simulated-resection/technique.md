@@ -7,14 +7,14 @@
 Tập cắt ngắn trực ngoài trên mắt mô phỏng SOS trước khi mổ thật: móc Chavasse trải cơ, đánh dấu 5mm, đốt nhẹ, cắt trước mũi khâu 1mm, trải cơ đúng bám cũ, chống trượt bằng nút trượt. Không chảy máu, không cần đốt cơ — nhưng nguyên tắc khâu y như thật.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; nguyên tắc chung là đúng bệnh-đúng cơ-đúng liều, đo lăng kính trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định (liệt mới cần chờ), bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài tập cắt ngắn LR trên mắt mô phỏng SOS trước khi mổ thật; không phải chỉ định trên bệnh nhân.
+- Chống chỉ định tương đối: không có chống chỉ định trên người; chỉ tập khi có mô phỏng và người hướng dẫn. Thay thế: học trên mô phỏng khác hoặc quan sát ca thật.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn hợp tác).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía, Jameson), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ khâu kết mạc 6-0/8-0, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng nhìn, nghiệm pháp ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ (nhược thị), võng mạc, thuốc chống đông.
+- Vô cảm: không cần.
+- Dụng cụ và chỉ: mắt mô phỏng SOS, móc Chavasse, chỉ Vicryl 6-0, caliper, đốt, kéo.
+- Bệnh nhân: không có bệnh nhân; chuẩn bị mô phỏng, ánh sáng, video.
+- Đánh giá nền: không có; nắm giải phẫu cơ trực ngoài và kỹ thuật khâu củng mạc.
 
 ## 4. Quy trình
 - **Bước 1 — Móc và trải cơ:** Móc Chavasse trải rộng cơ, làm sạch bao Tenon khỏi gân. Nghiệm thu: gân lộ sạch. Cốt lõi: trải đều để khâu đúng vị trí. Lỗi: khâu dồn một chỗ gây lệch trục.
@@ -24,10 +24,7 @@ Tập cắt ngắn trực ngoài trên mắt mô phỏng SOS trước khi mổ t
 - **Bước 5 — Nút chống trượt:** Nút đôi, trượt chỉ ép cơ sát bám, thêm 2 nút, cắt cách 2mm. Nghiệm thu: kéo không trượt. Cốt lõi: trượt cơ là thất bại thường gặp nhất của người mới. Lỗi: nút lỏng, cắt sát gây tuột.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ; giảm đau.
-- Tái khám: đo lăng kính lại, phát hiện u hạt sinh mủ (steroid tra, không phải nhiễm trùng) và nang vùi (mổ lấy).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực, sốt.
+Không có hậu phẫu: bài mô phỏng trên mắt SOS, không phải ca trên người. Khi áp dụng ca thật: theo dõi góc lác, nhiễm trùng, nhìn đôi; tái khám 1 tuần, 6 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

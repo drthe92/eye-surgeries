@@ -7,14 +7,14 @@
 Tập khâu-cột cơ bản trên mô phỏng trước mọi mổ lác: đường kim qua cơ, nút vuông, độ sâu củng mạc. Bài gốc của mọi bài mô phỏng 228/229/243.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: bài tập khâu-cột cơ bản trên mô phỏng; không phải chỉ định trên bệnh nhân.
+- Chống chỉ định tương đối: không có; cần mô phỏng và người hướng dẫn. Thay thế: học trên mô phỏng khác.
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: không cần.
+- Dụng cụ và chỉ: mô phỏng, chỉ Vicryl 6-0, kim, kẹp, kéo.
+- Bệnh nhân: không có bệnh nhân; chuẩn bị mô phỏng.
+- Đánh giá nền: không có; nắm độ sâu củng mạc và nút vuông.
 
 ## 4. Quy trình
 - **Bước 1 — Kim qua cơ đúng lớp:** Nửa-lớp rồi toàn-lớp. Nghiệm thu: không xuyên thủng. Cốt lõi: cảm giác tay với từng lớp. Lỗi: đâm sâu.
@@ -24,10 +24,7 @@ Tập khâu-cột cơ bản trên mô phỏng trước mọi mổ lác: đườn
 - **Bước 5 — Lên bài nâng cao:** Xong mới sang 228/229/243. Nghiệm thu: thứ tự tập đúng. Cốt lõi: cơ bản trước nâng cao. Lỗi: đốt cháy giai đoạn.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+Không có hậu phẫu: bài mô phỏng khâu-cột. Khi áp dụng ca thật: theo dõi nhiễm trùng, đau, nhìn đôi; tái khám 1 tuần, 6 tuần. Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
