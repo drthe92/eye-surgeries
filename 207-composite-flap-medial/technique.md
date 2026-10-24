@@ -7,14 +7,14 @@
 Vạt gồm nhiều thành phần (da-cơ-sụn) xoay từ trên xuống phủ khuyết trong: một vạt mang cả hai lá. Dạy cách lấy vạt phức hợp mà nơi cho vẫn đóng được.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết trong mi cần cả hai lá, có thể lấy vạt phức hợp da-cơ-sụn.
+- Chống chỉ định tương đối: cuống nuôi kém, nhiễm trùng, khuyết quá lớn. Thay thế: 206 vạt trượt + ghép; 208 Mustarde.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp mô, đốt bipolar, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đánh dấu vạt, đồng thuận về sẹo nơi cho.
+- Đánh giá nền: mạch cuống, lệ đạo, laxity.
 
 ## 4. Quy trình
 - **Bước 1 — Thiết kế vạt đủ hai lá:** Vẽ gồm da-cơ-sụn trong một khối. Nghiệm thu: vạt có cả cứng lẫn phủ. Cốt lõi: phức hợp nghĩa là mang khung theo. Lỗi: thiếu sụn gây cụp.
@@ -24,10 +24,10 @@ Vạt gồm nhiều thành phần (da-cơ-sụn) xoay từ trên xuống phủ k
 - **Bước 5 — Đóng nơi cho trực tiếp:** Nơi cho khép trực tiếp. Nghiệm thu: sẹo nơi cho mảnh. Cốt lõi: thiết kế để nơi cho đóng được. Lỗi: nơi cho phải ghép thêm.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: chườm lạnh, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá vạt; 3 tháng.
+- Dặn quay lại ngay: đầu vạt tím-đen, chảy máu, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

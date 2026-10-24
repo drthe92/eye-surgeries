@@ -7,14 +7,14 @@
 Khuyết nhỏ góc ngoài: khép trực tiếp + dải gia cố, nhanh gọn một thì. Đừng dùng đại bác bắn chim sẻ — vạt lớn cho khuyết nhỏ là sai.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết nhỏ góc ngoài mi dưới, khép trực tiếp được, cần dải gia cố.
+- Chống chỉ định tương đối: khuyết >25%, góc ngoài mất neo, mô xơ. Thay thế: 216 vạt xoay; 220 tái tạo góc.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi.
+- Dụng cụ và chỉ: dao 15, kẹp sụn, dải sụn/màng xương, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đo khuyết, đánh dấu dải, đồng thuận hở mi.
+- Đánh giá nền: góc ngoài, laxity, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Xác nhận khuyết nhỏ thật:** Dưới 1/3 chiều ngang, mô xung quanh tốt. Nghiệm thu: ướm khép nhẹ nhàng. Cốt lõi: nhỏ mới được đơn giản. Lỗi: đánh giá thấp kích thước.
@@ -24,10 +24,10 @@ Khuyết nhỏ góc ngoài: khép trực tiếp + dải gia cố, nhanh gọn m�
 - **Bước 5 — Theo dõi ngắn:** Tái khám 1 tuần-1 tháng. Nghiệm thu: không trễ muộn. Cốt lõi: nhỏ nhưng vẫn hẹn. Lỗi: khỏi là thôi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
-- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi.
+- Thuốc: mỡ kháng sinh.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá góc ngoài.
+- Dặn quay lại ngay: hở mi, góc lệch, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

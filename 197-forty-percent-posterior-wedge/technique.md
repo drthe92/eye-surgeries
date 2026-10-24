@@ -7,27 +7,27 @@
 Khuyết 40% giữa mi dưới: wedge sau giữ da-cơ ngoài, khâu sụn trực tiếp, gia cố dải ngoài. Ngưỡng giữa đóng trực tiếp và vạt lớn — video dạy cách quyết định.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết 30-40% giữa mi dưới, còn da-cơ ngoài, có thể khép sau khi gia cố dải ngoài.
+- Chống chỉ định tương đối: khuyết >40%, da-cơ thiếu, góc ngoài lỏng nặng. Thay thế: 198 Tenzel hoặc 199 ghép sụn.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi.
+- Dụng cụ và chỉ: dao 15, kẹp sụn, chỉ Vicryl 6-0, dải sụn/màng xương, Mersilene 4-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đo khuyết, đánh dấu dải neo, đồng thuận về hở mi.
+- Đánh giá nền: laxity, góc ngoài, lệ đạo, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Xác định còn đóng được:** 40% là giới hạn trên của wedge. Nghiệm thu: ướm khép không trắng. Cốt lõi: quá 40% chuyển Tenzel/Hughes. Lỗi: cố wedge gây ngắn mi.
 - **Bước 2 — Wedge mặt sau giữ da:** Lật mi cắt sụn bệnh, giữ da-cơ. Nghiệm thu: mặt ngoài nguyên. Cốt lõi: giữ máu nuôi mép. Lỗi: cắt cả da gây thiếu mô.
 - **Bước 3 — Khâu sụn chịu lực:** Nút chôn nhiều mũi. Nghiệm thu: sụn liền chắc. Cốt lõi: sụn chịu toàn bộ lực căng. Lỗi: thưa mũi gây toác.
-- **Bước 4 — Gia cố dải ngoài:** Dải sụn neo Whitnall chống kéo xuống. Nghiệm thu: góc ngoài vững. Cốt lõi: wedge rộng cần neo phụ. Lỗi: thiếu neo gây trễ góc.
+- **Bước 4 — Gia cố dải ngoài:** Dải sụn neo Whitnall bằng Mersilene 4-0 chống kéo xuống. Nghiệm thu: góc ngoài vững. Cốt lõi: wedge rộng cần neo phụ. Lỗi: thiếu neo gây trễ góc.
 - **Bước 5 — Đóng và theo dõi co kéo:** Da khâu không căng. Nghiệm thu: mi áp cầu. Cốt lõi: sẹo co 3 tháng đầu. Lỗi: không hẹn theo dõi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
-- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
+- Chăm sóc: chườm lạnh 24-48 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá co kéo/hở mi; 3 tháng.
+- Dặn quay lại ngay: hở mi tăng, co kéo, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

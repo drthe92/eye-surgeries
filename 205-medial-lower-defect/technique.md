@@ -7,14 +7,14 @@
 Khuyết phía trong mi dưới sát lệ đạo: thông và bảo vệ lệ quản trước, rồi mới dựng mi bằng huy động tại chỗ. Đụng lệ quản là hỏng cả mi lẫn lệ.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết toàn lớp phía trong sát lệ đạo, cần bảo vệ lệ quản trước.
+- Chống chỉ định tương đối: tắc lệ đạo chưa xử trí, nhiễm trùng, khuyết >50%. Thay thế: 206 vạt trượt + ghép sụn + stent.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kẹp mô, sonde Bowman, stent, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, bơm rửa lệ đạo, đánh dấu lệ quản.
+- Đánh giá nền: lệ đạo, điểm lệ, laxity, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Thông lệ đạo trước mổ:** Bơm rửa + sonde đánh giá. Nghiệm thu: biết lệ quản còn hay mất. Cốt lõi: lệ đạo quyết định đường mổ. Lỗi: mổ mi mù về lệ đạo.
@@ -24,10 +24,10 @@ Khuyết phía trong mi dưới sát lệ đạo: thông và bảo vệ lệ qu�
 - **Bước 5 — Stent lệ khi cần:** Đặt stent nếu lệ quản bị đe dọa. Nghiệm thu: nước mắt dẫn lưu sau mổ. Cốt lõi: stent 3 tháng. Lỗi: rút stent sớm gây chít.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, không xì mũi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng bơm rửa lệ đạo; 3 tháng.
+- Dặn quay lại ngay: chảy nước mắt tăng, chảy máu mũi, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

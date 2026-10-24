@@ -7,14 +7,14 @@
 Khuyết nửa phía trong: vạt trượt từ má-mũi + ghép sụn + stent lệ đạo. Video dài dạy giải phẫu góc trong chi tiết — vùng khó nhất mi dưới.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết 50% phía trong, cần vạt trượt má-mũi + ghép sụn + stent lệ.
+- Chống chỉ định tương đối: lệ đạo không thông, nền xơ, nhiễm trùng. Thay thế: 205 nếu khuyết nhỏ; 207 vạt phức hợp.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo, ghép sụn, stent lệ, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, bơm rửa, đánh dấu vạt, đồng thuận stent 3 tháng.
+- Đánh giá nền: lệ đạo, góc trong, laxity, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Vẽ vạt trượt má-mũi:** Vạt từ rãnh mũi-má trượt lên. Nghiệm thu: vạt đủ tới khuyết không căng. Cốt lõi: mạch mũi-má nuôi tốt. Lỗi: vạt ngắn gây kéo lệch góc trong.
@@ -24,10 +24,10 @@ Khuyết nửa phía trong: vạt trượt từ má-mũi + ghép sụn + stent l
 - **Bước 5 — Giữ stent 3 tháng:** Rút stent sau 3 tháng. Nghiệm thu: hết chảy nước mắt. Cốt lõi: lệ đạo cần thời gian biểu mô hóa. Lỗi: rút sớm gây chít lệ.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: chườm lạnh, không xì mũi, giữ stent.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần, 1 tháng, rút stent 3 tháng.
+- Dặn quay lại ngay: chảy nước mắt, chảy máu mũi, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

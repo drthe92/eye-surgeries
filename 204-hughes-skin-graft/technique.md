@@ -7,14 +7,14 @@
 Hughes nhưng thiếu luôn da phủ ngoài: ghép da toàn lớp phủ vạt sụn-kết mạc. Hai lớp ghép chồng nhau — dạy cách cho cả hai cùng sống.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết toàn bộ mi dưới thiếu cả lá sau và da phủ.
+- Chống chỉ định tương đối: nền ghép xơ, nhiễm trùng, không chấp nhận che mắt. Thay thế: 201 Hughes + vạt da tại chỗ; 203 nếu tới góc.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: gây mê hoặc tê tại chỗ + an thần.
+- Dụng cụ và chỉ: dao 15, kẹp sụn, ghép da, bolster, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đánh dấu vạt/ghép, đồng thuận hai lớp.
+- Đánh giá nền: mi trên, da cho, lệ đạo, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Nhận biết thiếu cả hai lá:** Khuyết toàn lớp + mất da rộng xung quanh. Nghiệm thu: đo cả khuyết sụn lẫn khuyết da. Cốt lõi: da xung quanh cũng là tổn thương. Lỗi: chỉ tính sụn mà quên da.
@@ -24,10 +24,10 @@ Hughes nhưng thiếu luôn da phủ ngoài: ghép da toàn lớp phủ vạt s�
 - **Bước 5 — Thì hai chung:** Cắt cuống + tỉa da thừa một lần. Nghiệm thu: một lần mổ cho thì hai. Cốt lõi: gộp thì giảm mổ. Lỗi: tách nhiều thì nhỏ.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: bolster 5-7 ngày, che mắt, không dụi.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần tháo bolster; 2-3 tuần thì hai; 3 tháng.
+- Dặn quay lại ngay: ghép/vạt tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

@@ -7,14 +7,14 @@
 Biến thể cắt wedge từ mặt sau sụn: lật mi, cắt bỏ dải sụn bệnh giữ da-cơ ngoài, khâu sụn trực tiếp. Sẹo giấu mặt trong, hợp tổn thương mặt sau và rút ngắn mi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: tổn thương mặt sau sụn/kết mạc khu trú, cần cắt bỏ mà giữ da-cơ ngoài; rút ngắn mi nhẹ.
+- Chống chỉ định tương đối: tổn thương da phía trước, khuyết >30%, sẹo co kéo toàn bộ. Thay thế: 194 nếu tổn thương toàn lớp; 12 nếu quặm sẹo.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + tê kết mạc; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kẹp sụn, kéo Westcott, chỉ Vicryl 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, lật mi đánh dấu dải sụn, đồng thuận về sẹo mặt trong.
+- Đánh giá nền: tình trạng kết mạc, sẹo cùng đồ, laxity, Bell.
 
 ## 4. Quy trình
 - **Bước 1 — Lật mi bộc lộ mặt sau:** Kẹp Desmarres, lộ toàn mặt sau sụn. Nghiệm thu: thấy rõ ranh giới bệnh. Cốt lõi: lật đúng nếp. Lỗi: rách kết mạc lành.
@@ -24,10 +24,10 @@ Biến thể cắt wedge từ mặt sau sụn: lật mi, cắt bỏ dải sụn 
 - **Bước 5 — Trả mi kiểm tra giác mạc:** Nhuộm fluorescein. Nghiệm thu: không trợt mới. Cốt lõi: tra mỡ nếu trợt. Lỗi: bỏ qua kiểm tra.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
-- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô 48 giờ.
+- Thuốc: mỡ kháng sinh 5-7 ngày, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ, kiểm tra mặt sau sụn; 1 tháng đánh giá quặm/lật.
+- Dặn quay lại ngay: lông quặm lại, cộm đau, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

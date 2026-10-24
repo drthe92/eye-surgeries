@@ -7,14 +7,14 @@
 Khuyết má quá rộng một vạt không đủ: Mustarde phủ trung tâm + ghép da phủ ngoại vi. Dạy chia khuyết thành vùng theo mạch nuôi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết má quá rộng, Mustarde chỉ đủ trung tâm, ngoại vi cần ghép da.
+- Chống chỉ định tương đối: nhiễm trùng, nền ghép xơ, thiếu da cho. Thay thế: 208 Mustarde đơn thuần; 210 vạt xoay.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: gây mê hoặc tê + an thần.
+- Dụng cụ và chỉ: dao 15, kéo, ghép da, bolster, Vicryl 4-0/6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, chia vùng khuyết, đồng thuận hai vùng.
+- Đánh giá nền: mạch nền, laxity, lệ đạo.
 
 ## 4. Quy trình
 - **Bước 1 — Chia khuyết thành vùng:** Vùng có mạch dùng vạt, vùng xa dùng ghép. Nghiệm thu: bản đồ hai vật liệu. Cốt lõi: ghép cần nền tốt. Lỗi: ghép lên nền xấu gây hoại.
@@ -24,10 +24,10 @@ Khuyết má quá rộng một vạt không đủ: Mustarde phủ trung tâm + g
 - **Bước 5 — Chỉnh sẹo thì hai:** Tỉa sẹo sau 3-6 tháng. Nghiệm thu: lịch chỉnh rõ. Cốt lõi: combo lớn luôn cần chỉnh. Lỗi: hứa một lần đẹp ngay.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: bolster 5-7 ngày, chườm lạnh, không dụi.
+- Thuốc: mỡ kháng sinh, giảm đau.
+- Tái khám: 1 tuần tháo bolster; 1 tháng; 3-6 tháng chỉnh sẹo.
+- Dặn quay lại ngay: ghép/vạt tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

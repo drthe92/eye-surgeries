@@ -7,14 +7,14 @@
 Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy động hai mép khép trực tiếp không cần vạt. Rẻ và nhanh nhất, điều kiện là khuyết vừa và mô còn chun.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết mi dưới vừa sau cắt u, mô còn chun, không khép được do căng ngang.
+- Chống chỉ định tương đối: khuyết >50%, mô xơ cứng, góc ngoài đã mất neo. Thay thế: 198 Tenzel hoặc 208 Mustarde.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô, đốt bipolar, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đo khuyết, đánh dấu chân gân góc, đồng thuận về hở mi.
+- Đánh giá nền: laxity ngang, góc ngoài, Bell, lệ đạo.
 
 ## 4. Quy trình
 - **Bước 1 — Đo khuyết và độ chun:** Kéo hai mép ướm khép trực tiếp. Nghiệm thu: khép được không trắng mép. Cốt lõi: ướm quyết định vạt hay trực tiếp. Lỗi: cố khép căng gây lật.
@@ -24,10 +24,10 @@ Khuyết mi dưới vừa sau cắt u: cắt chân dưới gân góc để huy �
 - **Bước 5 — Kiểm tra căng-lật:** Kéo mi xuống buông ra. Nghiệm thu: về vị trí không trễ. Cốt lõi: căng quá phải chuyển vạt ngay. Lỗi: chấp nhận căng gây lật muộn.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
-- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, giảm đau.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá góc ngoài/hở mi.
+- Dặn quay lại ngay: hở mi tăng, góc ngoài lệch, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

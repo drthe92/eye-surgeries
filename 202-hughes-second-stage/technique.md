@@ -7,14 +7,14 @@
 Sau 2-3 tuần: cắt cuống vạt Hughes, tạo bờ mi mới, khâu kết mạc ra da. Quyết định chiều cao bờ mi mới.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: sau 2-3 tuần vạt Hughes đã dính, cần cắt cuống tạo bờ mi.
+- Chống chỉ định tương đối: vạt chưa dính, nhiễm trùng, thiếu da. Thay thế: hoãn thì hai thêm 1-2 tuần.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, kẹp mô, Vicryl 6-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đánh dấu bờ mi mới, đồng thuận về chiều cao.
+- Đánh giá nền: độ dính vạt, giác mạc, lệ đạo.
 
 ## 4. Quy trình
 - **Bước 1 — Chờ đủ thời gian dính:** 2-3 tuần cho vạt bám chắc. Nghiệm thu: vạt hồng, bám đều. Cốt lõi: cắt sớm gây hoại đầu vạt. Lỗi: sốt ruột cắt sớm.
@@ -24,10 +24,10 @@ Sau 2-3 tuần: cắt cuống vạt Hughes, tạo bờ mi mới, khâu kết m�
 - **Bước 5 — Mở mắt và chỉnh:** Tháo băng, đánh giá áp cầu-hở. Nghiệm thu: mi áp cầu, mắt mở được. Cốt lõi: chỉnh ngay nếu trễ. Lỗi: hẹn xa gây dính co.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá bờ mi/hở mi.
+- Dặn quay lại ngay: hở mi, bờ mi lệch, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

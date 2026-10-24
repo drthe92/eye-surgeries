@@ -7,27 +7,27 @@
 Khuyết nửa mi dưới: huy động tối đa rồi khép trực tiếp có neo, hoặc chuyển Tenzel. Video so sánh hai lựa chọn theo tuổi và độ chun mô.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết mi dưới-mi má-góc ngoài sau cắt u/chấn thương đúng kích thước và vị trí như từng bước dưới đây.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan để chọn vạt/ghép đúng kích thước khuyết.
+- Chỉ định: khuyết 50% mi dưới, cần chọn khép trực tiếp có neo hoặc Tenzel tùy tuổi/độ chun.
+- Chống chỉ định tương đối: khuyết >60%, mô xơ, bệnh nhân không đồng ý vạt. Thay thế: 199 ghép sụn hoặc 208 Mustarde.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ bằng lidocaine kèm epinephrine quanh khuyết; tiền mê khi vạt lớn.
-- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt lưỡng cực (bipolar), chỉ tiêu 5-0/6-0 và chỉ không tiêu cho neo, mỡ kháng sinh.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận (consent) về sẹo, co kéo và khả năng mổ chỉnh thì hai.
-- Đánh giá nền: thị lực, phản xạ Bell (Bell phenomenon), lệ đạo khi khuyết góc trong, thuốc chống đông.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo Westcott, đốt bipolar, Vicryl 6-0, Mersilene 4-0, silk 7-0.
+- Bệnh nhân: chụp ảnh, đo khuyết, đánh dấu Tenzel, đồng thuận về sẹo dài.
+- Đánh giá nền: tuổi, laxity, góc ngoài, Bell, lệ đạo.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá tuổi và chun mô:** Trẻ chun tốt khép được, già trùng dễ hơn nhưng lỏng sẵn. Nghiệm thu: quyết định trực tiếp hay vạt. Cốt lõi: tuổi quyết định. Lỗi: một công thức cho mọi tuổi.
 - **Bước 2 — Huy động ngoài tối đa:** Giải phóng góc + bóc má nâng. Nghiệm thu: mép ngoài vào thêm 1cm. Cốt lõi: huy động trước khi cắt thêm. Lỗi: cắt mô lành bù thay vì huy động.
-- **Bước 3 — Khép trực tiếp có neo:** Khâu sụn + neo góc ngoài. Nghiệm thu: không trắng mép. Cốt lõi: neo gánh lực căng. Lỗi: khâu sụn đơn độc gây toác.
+- **Bước 3 — Khép trực tiếp có neo:** Khâu sụn + neo góc ngoài bằng Mersilene 4-0. Nghiệm thu: không trắng mép. Cốt lõi: neo gánh lực căng. Lỗi: khâu sụn đơn độc gây toác.
 - **Bước 4 — Chuyển Tenzel khi căng:** Vạt bán nguyệt ngoài khi ướm còn căng. Nghiệm thu: vạt phủ không kéo. Cốt lõi: biết dừng đúng lúc. Lỗi: cố khép gây lật-hở.
 - **Bước 5 — Chống kéo xuống sau mổ:** Dải/Frost 1 tuần. Nghiệm thu: mi giữ vị trí. Cốt lõi: trọng lực kéo 2 tuần đầu. Lỗi: không nẹp gây trễ dần.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
-- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
+- Chăm sóc: chườm lạnh 24-48 giờ, đầu cao, không dụi.
+- Thuốc: mỡ kháng sinh, giảm đau.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá hở mi/góc ngoài; 3 tháng.
+- Dặn quay lại ngay: hở mi, góc ngoài lệch, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?
