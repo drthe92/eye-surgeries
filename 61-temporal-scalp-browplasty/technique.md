@@ -26,7 +26,7 @@ Nâng mày thái dương bằng giải phóng (không cắt da trán): cắt cơ
 ## 5. Hậu phẫu
 - Băng đầu 24-48h, mỡ 3 lần/ngày, cắt chỉ-staples 1 tuần.
 - Tái khám: gồ da xẹp dần, đối xứng, cảm giác.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao mọi ca sụp mày đều cắt cơ vòng thái dương?

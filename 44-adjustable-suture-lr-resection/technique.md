@@ -23,7 +23,7 @@ cắt bỏ (Resection) cơ ngoài nhưng khâu bằng nút tạm (bow/slip-knot)
 
 ## 5. Hậu phẫu
 - Chỉnh trong 24h đầu; sau khóa theo dõi như cắt bỏ thường; dặn song thị thoáng qua sau chỉnh.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao chỉnh chỉ chỉ làm được ở người lớn hợp tác?

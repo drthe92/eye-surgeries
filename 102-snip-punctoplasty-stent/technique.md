@@ -24,7 +24,7 @@ Mở rộng điểm lệ hẹp bằng 2 nhát cắt (dọc + chéo phần sau) k
 
 ## 5. Hậu phẫu
 - Kháng sinh, theo dõi stent (cứa, tụt, nhiễm trùng); hẹn rút stent theo lịch.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Chạm cứng và chạm mềm khác nhau thế nào và quyết định gì?

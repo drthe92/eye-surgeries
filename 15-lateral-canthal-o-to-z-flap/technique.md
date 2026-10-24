@@ -28,7 +28,7 @@ Khuyết góc mắt ngoài được đóng bằng 2 vạt O-to-Z + gia cố mi d
 - Chăm sóc: lạnh 24-48h, không dụi/kéo má, nằm đầu cao.
 - Thuốc: mỡ kháng sinh; nước mắt nhân tạo (lubricants) nếu hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
 - Tái khám: 1 tuần đánh giá sống vạt/góc/trễ mi; 1 tháng đánh giá sẹo co kéo/lệch góc.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao cần mũi Vicryl 4-0 nâng má ngoài dải?

@@ -24,10 +24,10 @@ Quặm mi dưới bẩm sinh (kém phát triển cơ rút, sụn mềm): khâu l
 - **Bước 5 — Theo dõi dài theo tăng trưởng:** Tái khám định kỳ tới lớn vì mi-mặt còn thay đổi. Nghiệm thu: lịch theo dõi nhiều năm. Cốt lõi: tái phát có thể xuất hiện muộn. Lỗi: khỏi là thôi, mất dấu tới khi sẹo giác mạc.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: chườm lạnh nhẹ 24 giờ, không dụi, giữ khô 48 giờ; trẻ nhỏ cần người lớn giữ tay khi ngủ.
+- Thuốc: mỡ kháng sinh 5-7 ngày, nước mắt nhân tạo; điều trị khô mắt kèm nếu có.
+- Tái khám: 1 tuần cắt chỉ, 1 tháng đánh giá quặm/giác mạc, 6-12 tháng theo dõi tăng trưởng và khúc xạ/nhược thị.
+- Dặn quay lại ngay: quặm tái phát, trợt giác mạc, chảy nước mắt tăng, sưng nóng đỏ, sốt.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

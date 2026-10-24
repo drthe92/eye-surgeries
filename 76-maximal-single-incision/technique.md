@@ -25,7 +25,7 @@ Bốn thủ thuật qua một đường mi: blepharo (da-mỡ) + treo mày (brow
 
 ## 5. Hậu phẫu
 - Erythromycin 3 lần/ngày 1 tuần, cắt chỉ 1 tuần; sưng nhiều hơn mổ đơn (kính tiếp xúc + lubricants).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao treo góc phải để chưa buộc tới sau cắt cơ Muller-kết mạc?

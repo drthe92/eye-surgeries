@@ -23,7 +23,7 @@ Vạt trán cạnh giữa không cần vẽ động mạch: đổi mặt bóc đ
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi sống vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao không cần vẽ động mạch trên ổ mắt?

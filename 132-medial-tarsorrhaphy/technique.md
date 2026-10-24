@@ -24,7 +24,7 @@
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi lệ chảy (tắc lệ quản do khâu) và web.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Hai cấm địa của khâu dính trong là gì?

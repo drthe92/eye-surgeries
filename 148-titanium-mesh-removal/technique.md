@@ -24,7 +24,7 @@ Tháo vật liệu gây đau mạn do mô mọc vào lưới: khó chính vì ư
 
 ## 5. Hậu phẫu
 - Theo dõi lõm mắt sau tháo (mất đỡ), nhiễm trùng; tái khám đau.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao nhiều phẫu thuật viên tránh lưới dù bám chắc?

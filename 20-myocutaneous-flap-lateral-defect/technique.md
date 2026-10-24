@@ -26,7 +26,7 @@ Vạt da-cơ tại chỗ kiểu Mustarde phủ khuyết lá trước ngoài + d�
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: mỡ kháng sinh 3 lần/ngày.
 - Tái khám: 1 tuần cắt chỉ, đánh giá vận động mặt/sống vạt/trễ mi.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao mặt bóc phải ngay dưới mỡ dưới da?

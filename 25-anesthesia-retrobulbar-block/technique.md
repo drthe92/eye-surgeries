@@ -27,7 +27,7 @@
 - Chăm sóc: che mắt, không dụi, theo dõi đau căng sau nhãn, nhìn mờ, song thị.
 - Thuốc: giảm đau; xử trí ngộ độc/máu tụ theo phác đồ.
 - Tái khám: đánh giá vận nhãn/thị lực trước mổ; dặn quay lại ngay nếu đau dữ dội, lồi mắt tăng, mất thị lực (máu tụ sau nhãn).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt tăng, mất thị lực, co giật.
 
 ## 6. Tự lượng giá
 1. Vì sao phải hút thử trước khi bơm?

@@ -25,7 +25,7 @@ Khâu rách lệ quản trên nòng stent: tìm 2 đầu cắt (xa-gần), nong 
 
 ## 5. Hậu phẫu
 - Kháng sinh, hẹn rút stent 4 tháng; bơm rửa kiểm tra thông sau rút.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, chảy nước mắt tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao rách trong với điểm lệ mặc định đứt lệ quản?

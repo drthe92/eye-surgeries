@@ -23,7 +23,7 @@ Hai thì cách nhau 2 tháng: thì 1 dựng (lá sau mào lệ sau + vạt trán
 
 ## 5. Hậu phẫu
 - Băng nhẹ 2 ngày, cắt chỉ 1 tuần; mỡ kháng sinh; theo dõi mô bệnh xương.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao thì 1 giữ dày mà thì 2 mới làm mỏng?

@@ -26,7 +26,7 @@ Tiến cơ nâng (advancement) như người lớn nhưng thích ứng trẻ em:
 
 ## 5. Hậu phẫu
 - Tháo băng-Frost sáng hôm sau; mỡ kháng sinh; theo dõi hở/nhược thị/khúc xạ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao trẻ em định liều trước thay vì căn ngồi?

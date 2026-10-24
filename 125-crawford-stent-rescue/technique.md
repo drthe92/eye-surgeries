@@ -23,7 +23,7 @@ Cứu vãn khi chạm mềm bằng sonde đuôi lợn dẫn đường vòng qua 
 
 ## 5. Hậu phẫu
 - Như nong stent (rút 4 tháng); theo dõi bít lại chỗ mềm cũ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao đuôi lợn qua được chỗ sonde thẳng không qua?

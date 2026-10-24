@@ -32,7 +32,7 @@ Lịch sử: khâu trực tiếp -> Tenzel 1975 cho khuyết 33-50% mi -> Anders
 - Chăm sóc: lạnh 24-48h, không dụi, tránh nheo/há lớn 1 tuần.
 - Thuốc: erythromycin tra mắt 3 lần/ngày; nước mắt nhân tạo (lubricants) nếu hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
 - Tái khám: ~1 tuần đánh giá sống vạt/cao độ/góc/sẹo; 1 tháng đánh giá trễ mi/khô mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phối hợp dải khi chỉ khuyết lá trước?

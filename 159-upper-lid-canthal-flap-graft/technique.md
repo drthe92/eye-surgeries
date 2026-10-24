@@ -23,7 +23,7 @@ Phân vùng che phủ theo độ dày da: vạt xoay dày cho phần ngoài mi, 
 
 ## 5. Hậu phẫu
 - Tháo bolster 1 tuần; theo dõi sống ghép 2 vùng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao vạt dày cho ngoài mi còn ghép mỏng cho mi?

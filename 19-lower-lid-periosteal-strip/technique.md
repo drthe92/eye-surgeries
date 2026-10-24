@@ -27,7 +27,7 @@ Chia khuyết làm hai: đoạn trong tận dụng sụn ngoài còn lại khâu
 - Chăm sóc: giữ bolster, lạnh, không dụi.
 - Thuốc: mỡ kháng sinh.
 - Tái khám: 1 tuần cắt chỉ, đánh giá khuyết/sống dải; 1 tháng đánh giá trễ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: vạt hoặc ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao chia khuyết làm hai đoạn xử trí khác nhau?

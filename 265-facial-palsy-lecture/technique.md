@@ -20,8 +20,10 @@ Bài giảng khung xử trí mắt liệt mặt: bảo vệ giác mạc trước
 - **Bước 2:** Tạm (bôi trơn, keo, dính tạm) trước; vĩnh viễn (tạ, dính vĩnh viễn) khi quá 6 tháng không hồi phục. Nghiệm thu: bậc thang rõ. Cốt lõi: thời gian liệt quyết định. Lỗi: vĩnh viễn quá sớm.
 
 ## 5. Hậu phẫu
-- Chăm sóc: bảo vệ giác mạc là trung tâm; tái khám 1 tuần-1 tháng.
-- Dặn quay lại ngay: đau, nhìn mờ, sưng mủ.
+- Không có hậu phẫu: bài giảng khung xử trí liệt mặt, không thực hiện thủ thuật.
+- Khi áp dụng: bảo vệ giác mạc là ưu tiên; theo dõi hở mi, trợt giác mạc, tạ lộ và hồi phục cơ mặt.
+- Tái khám theo thủ thuật đã chọn (126-133): 1 tuần, 1 tháng, 3-6 tháng; đo MRD1, độ hở mi, lực nhắm.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?

@@ -22,7 +22,7 @@ Cùng đặt ống như số 109 nhưng mở rộng đường rò bằng lưỡi
 
 ## 5. Hậu phẫu
 - Như số 109.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: ống trượt, chảy máu mũi, sưng nóng đỏ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao vướng thì hướng sau thêm?

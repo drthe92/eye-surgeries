@@ -26,7 +26,7 @@ Treo silicone điều chỉnh được (ống sleeve + buộc cố định) cho 
 
 ## 5. Hậu phẫu
 - Băng 24h, mỡ kháng sinh; hẹn 1 tuần; theo dõi lộ ống/nhiễm trùng đường luồn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao silicone hợp ca mổ lại hơn cân tự thân?

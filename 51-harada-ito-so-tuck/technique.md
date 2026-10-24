@@ -25,7 +25,7 @@ Một ca hai việc cho liệt SO hai bên: tuck toàn phần tăng hạ nhãn +
 
 ## 5. Hậu phẫu
 - Đo dọc-xoắn ngày 1, 6 tuần; dặn song thị tồn lưu quay lại; theo dõi Brown nhân tạo.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao vòng Cionni đặt theo nửa góc xoay?

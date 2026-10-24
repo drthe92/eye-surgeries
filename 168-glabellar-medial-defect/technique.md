@@ -22,7 +22,7 @@ Vẽ thừa-cắt sau: thừa an toàn hơn thiếu; mọi đường cắt thừ
 
 ## 5. Hậu phẫu
 - Hẹn 1 tuần cắt chỉ; theo dõi sống vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao thừa tốt hơn thiếu ở vạt da?

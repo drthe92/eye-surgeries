@@ -29,10 +29,10 @@ Tê thấm tại chỗ bằng lidocaine + epi: tê da/mô trước rạch + tê 
 - **Bước 5 — Cầm máu + đóng:** Đốt tối thiểu ở mép da (tránh sẹo xấu), đóng đúng lớp. Nghiệm thu: khô máu, mép áp. Cốt lõi: đốt chọn lọc. Lỗi: đốt quá mép da gây sẹo lồi/xấu.
 
 ## 5. Hậu phẫu
-- Chăm sóc: lạnh 24-48h, đầu cao, băng ép TA biopsy 24-48h, giữ khô.
-- Thuốc: giảm đau, mỡ kháng sinh; theo dõi tê kéo dài (bupivacaine) gây che lấp biến chứng.
-- Tái khám: 1 tuần cắt chỉ/đánh giá sẹo; quay lại ngay nếu sưng nóng đỏ, chảy máu, nhìn mờ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Chăm sóc: chườm lạnh 24-48 giờ, đầu cao, giữ khô vết rạch; không dụi hoặc chà vùng tiêm.
+- Thuốc: giảm đau; theo dõi tê kéo dài do bupivacaine có thể che lấp biến chứng; mỡ kháng sinh ở vết rạch.
+- Tái khám: 1 tuần kiểm tra vết rạch và cảm giác; dặn báo ngay nếu tê lan hoặc yếu cơ.
+- Dặn quay lại ngay: tê kéo dài, đau tăng, sưng nóng đỏ, hoại tử da, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao cấm tiêm thẳng vào động mạch thái dương?

@@ -24,7 +24,7 @@ Làm mạnh cơ trực ngoài bằng cách cắt ngắn (resection) rồi khâu 
 
 ## 5. Hậu phẫu
 - Kháng sinh-chống viêm, không dụi; tái khám ngày 1, 1 tuần, 6 tuần đo góc cuối; dặn đau-đỏ-nhìn đôi mới quay lại ngay.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao cắt bỏ (resection) làm mạnh cơ?

@@ -24,10 +24,10 @@ Quặm sẹo nhẹ-vừa mi dưới: đường kết mạc rạch ngang sụn (g
 - **Bước 5 — Khâu cơ rút kèm khi tuột:** Nếu cùng đồ sâu thì khâu lại cơ rút cùng thì. Nghiệm thu: mi hết cuộn khi kéo xuống. Cốt lõi: một thì giải quyết cả hai trục. Lỗi: bỏ sót tuột dọc gây tái quặm.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô 48 giờ; tránh nheo mi mạnh.
+- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo; giảm đau khi cần.
+- Tái khám: 1 tuần cắt chỉ, đánh giá hướng lông và liền sụn; 1 tháng kiểm tra quặm tái phát; 3 tháng nếu cần.
+- Dặn quay lại ngay: lông quặm lại, đau tăng, chảy máu, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

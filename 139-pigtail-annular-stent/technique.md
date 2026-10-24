@@ -24,7 +24,7 @@ Nong toàn hệ lệ quản bằng vòng silicone khép kín (annular) luồn b�
 
 ## 5. Hậu phẫu
 - Mỡ 3 lần/ngày 1 tuần, rút ~4 tháng; theo dõi nút di lệch.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, chảy nước mắt tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao vòng kín không cần đầu mũi?

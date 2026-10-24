@@ -23,9 +23,10 @@ Bài giảng tắc lệ-mũi trẻ em: đa số tự thông năm đầu (massage
 - **Bước 5 — Theo dõi tái tắc:** Bơm rửa định kỳ sau mổ. Nghiệm thu: thông bền. Cốt lõi: lệ đạo cần theo dõi dài. Lỗi: khỏi là thôi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: không xì mũi mạnh 1-2 tuần (DCR), tra thuốc theo chỉ định.
-- Tái khám: 1 tuần, 1 tháng, 3 tháng bơm rửa kiểm tra.
-- Dặn quay lại ngay: chảy máu mũi nhiều, sưng mủ, sốt.
+- Không có hậu phẫu: bài giảng tắc lệ-mũi trẻ em, không thực hiện thủ thuật.
+- Khi áp dụng: massage và theo dõi tự thông; sau thông hoặc DCR theo dõi chảy nước mắt, bơm rửa và nhiễm trùng.
+- Tái khám: 1 tuần, 1 tháng, 3 tháng sau can thiệp; đánh giá triệu chứng và bơm rửa lệ đạo.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Bơm rửa phân biệt các tầng tắc thế nào?

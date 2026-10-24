@@ -23,7 +23,7 @@ Hai dụng cụ một nguyên tắc (ngoài-quét-kim loại-móc lấy): hook m
 
 ## 5. Hậu phẫu
 - Kiểm tra stent nguyên vẹn sau lấy (đứt sót đầu trong mũi).
-- Dặn quay lại ngay dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao bắt buộc vào ngoài với stent?

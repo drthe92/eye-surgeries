@@ -22,7 +22,7 @@ Phiên bản chuẩn để so sánh dụng cụ: một bên cắt mỡ bằng k�
 
 ## 5. Hậu phẫu
 - Như số 70 (cắt chỉ 1 tuần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Khi nào chọn kéo, khi nào chọn dao đốt cắt mỡ?

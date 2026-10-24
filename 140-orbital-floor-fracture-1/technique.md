@@ -28,7 +28,7 @@ Giải phóng mô kẹt + đặt tấm che vỡ sàn qua đường kết mạc: 
 
 ## 5. Hậu phẫu
 - Kháng sinh, steroids theo phù, không xì mũi-hắt hơi mạnh (tăng áp đẩy mô qua vỡ); theo dõi nhìn mờ-đau (máu tụ-chèn ép), tê má.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao kéo cưỡng bức 3 lần?

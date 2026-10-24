@@ -24,7 +24,7 @@ Sinh thiết xác định viêm hạt (sarcoid) tuyến lệ: lấy nhiều mẫ
 
 ## 5. Hậu phẫu
 - Chờ giải phẫu + ACE quyết định điều trị toàn thân (steroid/ức chế miễn dịch theo sarcoid).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, đau tăng, nhìn đôi.
 
 ## 6. Tự lượng giá
 1. Vì sao phải nhiều mẫu mà không phải một?

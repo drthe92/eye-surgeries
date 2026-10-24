@@ -24,7 +24,7 @@ Khuyết trong mi trên kèm lệ đạo: nong lệ trước, giải phóng 2 đ
 
 ## 5. Hậu phẫu
 - Erythromycin, cắt chỉ 1 tuần, rút stent 4 tháng; theo dõi chảy nước mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: vạt hoặc ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao nong lệ trước khi chuyển mô?

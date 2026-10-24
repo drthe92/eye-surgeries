@@ -26,7 +26,7 @@ Nâng mi sụp còn chức năng cơ nâng bằng cách cắt chỗ bám cân kh
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, cắt chỉ 1 tuần; nước mắt nhân tạo (lubricants) (hở sau nâng).
 - Tái khám: MRD1 ngày 1/tuần/6 tuần (số cuối sau hết phù); dặn quá/thiếu chỉnh quay lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, nhìn đôi.
 
 ## 6. Tự lượng giá
 1. Vì sao khâu cách bờ trên sụn đúng 2mm tại đỉnh mi?

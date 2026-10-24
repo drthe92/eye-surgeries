@@ -23,7 +23,7 @@ Cùng vỡ sàn như số 140 nhưng vỡ LỚN + có rạch góc (canthotomy): 
 
 ## 5. Hậu phẫu
 - Như số 140.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Khi nào Supramid đủ và khi nào cần Titan?

@@ -24,10 +24,10 @@ Bỏng nhiệt gây co kéo nặng mi dưới: chờ sẹo ổn định, cắt b
 - **Bước 5 — Theo dõi giác mạc và co kéo dài hạn:** Nhuộm giác mạc mỗi lần khám, massage-chống nắng sẹo 3-6 tháng. Nghiệm thu: giác mạc nguyên vẹn, sẹo mềm dần. Cốt lõi: bỏng mi là bệnh giác mạc tiềm ẩn. Lỗi: chỉ khám mi mà quên giác mạc.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: nẹp Frost hoặc bolster giữ 1-2 tuần, kê đầu cao, tránh nắng và căng da vùng ghép; không chườm lạnh trực tiếp.
+- Thuốc: mỡ kháng sinh mép ghép, nước mắt nhân tạo, giảm đau; kháng sinh toàn thân khi nhiễm.
+- Tái khám: 1 tuần kiểm tra nẹp và sống ghép; 2 tuần tháo nẹp; 1-3 tháng đánh giá co kéo, hở mi.
+- Dặn quay lại ngay: ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

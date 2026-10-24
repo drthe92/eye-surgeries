@@ -21,7 +21,7 @@ Lấy stent dưới nhìn trực tiếp: đọc mốc cuốn-khe-stent rồi mó
 
 ## 5. Hậu phẫu
 - Như số 118.
-- Dặn quay lại ngay dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Ba mốc theo thứ tự nào?

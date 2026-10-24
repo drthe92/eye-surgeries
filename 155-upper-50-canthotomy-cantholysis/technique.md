@@ -23,7 +23,7 @@ Mở rộng khả năng khâu trực tiếp từ 33% lên 50% bằng giải phó
 
 ## 5. Hậu phẫu
 - Như rách mi; theo dõi sụp do căng tồn lưu.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: vạt hoặc ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao căng khi đóng trực tiếp gây sụp mi?

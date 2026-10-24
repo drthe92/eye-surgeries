@@ -22,7 +22,7 @@ Bản gọn của vỡ sàn vỡ vừa: Supramid + 1-2 vít + dải (strip) tái
 
 ## 5. Hậu phẫu
 - Như vỡ sàn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Khi nào Supramid đủ, khi nào cần Titan/xốp-titan?

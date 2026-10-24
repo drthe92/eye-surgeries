@@ -24,9 +24,10 @@ Chuẩn hóa đo lác để chỉ định mổ: che mắt tách hợp thị từ
 - **Bước 5 — Parks-Bielschowsky 3 bước (lác dọc):** Chính diện → hai nhìn bên → nghiêng phải-trái. Nghiệm thu: đủ 3 bước mới kết luận cơ. Cốt lõi: đúng trình tự. Lỗi: bỏ nghiêng đầu gây nhầm cơ chéo-dọc.
 
 ## 5. Hậu phẫu (áp dụng: quyết định mổ)
-- Ghi góc xa-gần, 9 hướng, tư thế bù; đây là số liệu mổ (recession/resection bao nhiêu mm).
-- Tái khám: đo lại sau mổ đánh giá tồn lưu/quá chỉnh.
-- Dặn: mang kính đúng số tái khám (lác điều tiết thay đổi theo kính).
+- Không có hậu phẫu: đây là nghiệm pháp đo trước mổ.
+- Ghi góc xa-gần, 9 hướng, tư thế bù; đây là số liệu để tính recession/resection.
+- Hẹn đo lại sau mổ hoặc khi đổi kính để đánh giá tồn lưu/quá chỉnh.
+- Dặn bệnh nhân mang kính đúng số khi tái khám; báo ngay nếu nhìn đôi mới hoặc đau mắt.
 
 ## 6. Tự lượng giá
 1. Vì sao che phải ngắn ở single test?

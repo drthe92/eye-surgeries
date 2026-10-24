@@ -26,7 +26,7 @@ Cắt da-cơ vòng thừa mi trên + mỡ medial qua đường nếp mi: bài n�
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, cắt chỉ 1 tuần; lạnh, không dụi.
 - Tái khám: hở mi/khô mắt/nếp mi; dặn nhìn mờ-đau tăng quay lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao không kẹp mỡ trước khi cắt?

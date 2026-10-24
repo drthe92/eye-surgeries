@@ -22,7 +22,7 @@ Chuẩn hóa 2 đường da đầu: dọc (dưới màng tới bờ xương-gố
 
 ## 5. Hậu phẫu
 - Cắt staples 1 tuần; theo dõi nâng/tụt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, tụ máu da đầu, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đặt đầu kéo vào cả 2 khoang rồi mới mở lưỡi?

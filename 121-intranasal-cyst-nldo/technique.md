@@ -23,7 +23,7 @@ Tắc lệ-mũi bẩm sinh thể nang đầu xa: nang dưới cuốn dưới là
 
 ## 5. Hậu phẫu
 - Rửa mũi, kháng sinh; rút stent 4 tháng; soi kiểm tra thông.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Nang dưới cuốn dưới chứng minh điều gì?

@@ -27,7 +27,7 @@ Ba yếu tố quặm tuổi già được sửa qua một đường da: khâu l�
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: mỡ kháng sinh; nước mắt nhân tạo (lubricants) + điều trị tổn thương giác mạc.
 - Tái khám: 1 tuần nhuộm giác mạc xác nhận hết cọ; 1 tháng đánh giá tái quặm.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao đường rạch dưới mi vừa mở vừa chữa quặm?

@@ -24,7 +24,7 @@ Cắt cơ Muller-kết mạc (MMCR) trẻ em với ngưỡng chặt chẽ và li
 
 ## 5. Hậu phẫu
 - Băng qua đêm, mỡ 3 lần/ngày, hẹn 1-2 tuần; theo dõi nhược thị.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Ba điều kiện làm cắt cơ Muller-kết mạc trẻ em là gì?

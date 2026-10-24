@@ -23,7 +23,7 @@
 
 ## 5. Hậu phẫu
 - Như số 109; theo dõi sẹo bít quanh ống (nguy cơ cao hơn).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: ống trượt, chảy máu mũi, sưng nóng đỏ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao sẹo mở lệ đạo cũ vừa là khó khăn vừa là mốc?

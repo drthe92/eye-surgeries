@@ -26,7 +26,7 @@
 - Chăm sóc: che mắt, không dụi, theo dõi phù kết mạc/tụ máu.
 - Thuốc: nước mắt nhân tạo (lubricants) nếu cộm; xử trí tăng nhãn áp nếu chèn ép.
 - Tái khám: đánh giá vô cảm trước mổ; quay lại ngay nếu đau tăng/nhìn mờ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, tụ máu kết mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao sub-Tenons an toàn hơn retrobulbar?

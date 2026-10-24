@@ -18,16 +18,16 @@ Lông mọc sai hướng (quặm khu trú, hai hàng lông) sau sẹo/hóa chấ
 
 ## 4. Quy trình
 - **Bước 1 — Chọn đúng lông cần diệt:** Lông quặm khu trú, hai hàng lông cọ giác mạc. Nghiệm thu: đếm và đánh dấu từng nang bệnh. Cốt lõi: đông lạnh lan tỏa không thay được phẫu thuật khi quặm toàn bộ. Lỗi: đông cả hàng lông lành gây trụi mi.
-- **Bước 2 — Bảo vệ mô lành xung quanh:** Che chắn da và kết mạc lành, đầu cryo đúng nang. Nghiệm thu: vùng đông khu trú quanh nang bệnh. Cốt lõi: lạnh lan gây mất sắc tố rộng. Lỗi: không che chắn gây bạch biến mảng lớn.
+- **Bước 2 — Bảo vệ mô lành xung quanh:** Che chắn da và kết mạc lành, đầu đông lạnh (cryo) đúng nang. Nghiệm thu: vùng đông khu trú quanh nang bệnh. Cốt lõi: lạnh lan gây mất sắc tố rộng. Lỗi: không che chắn gây bạch biến mảng lớn.
 - **Bước 3 — Hai chu kỳ đông-tan đủ liều:** Đông tới -20°C rồi tan hoàn toàn, lặp lại lần hai. Nghiệm thu: viền đông trắng rõ mỗi chu kỳ. Cốt lõi: một chu kỳ không đủ diệt nang. Lỗi: đông non tay gây tái mọc.
 - **Bước 4 — Theo dõi bong vảy và tái mọc:** Vảy bong sau 1-2 tuần, lông rụng dần. Nghiệm thu: bệnh nhân biết lộ trình rụng-bong. Cốt lõi: không cạy vảy sớm. Lỗi: cạy vảy gây sẹo và mất sắc tố thêm.
 - **Bước 5 — Tư vấn mất sắc tố và nhắc lại:** Da vùng đông nhạt màu vĩnh viễn một phần, tỉ lệ tái mọc cần đợt hai. Nghiệm thu: bệnh nhân chấp nhận đổi lông quặm lấy nhạt da. Cốt lõi: nói trước để khỏi khiếu nại sau. Lỗi: hứa một lần khỏi hẳn.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: không chườm lạnh, không băng ép; gạc khô che 24 giờ, không bóc vảy, để vảy bong tự nhiên 1-2 tuần.
+- Thuốc: kháng sinh tra 5-7 ngày, nước mắt nhân tạo, giảm đau; tránh trang điểm vùng mi 1 tuần.
+- Tái khám: 1 tuần kiểm tra giác mạc và phản ứng mi; 3-4 tuần đánh giá rụng lông; 3 tháng đánh giá tái mọc, nhắc lại nếu cần.
+- Dặn quay lại ngay: loét giác mạc, đau tăng, sưng nóng đỏ, mất sắc tố lan rộng, lông quặm lại.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

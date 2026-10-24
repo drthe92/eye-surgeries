@@ -24,7 +24,7 @@ Vừa chẩn đoán (sinh thiết loại trừ u-viêm) vừa chữa sa tuyến:
 
 ## 5. Hậu phẫu
 - Kháng sinh 3 lần/ngày, cắt chỉ 1 tuần; chờ giải phẫu quyết định tiếp; theo dõi khô mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, đau tăng, nhìn đôi.
 
 ## 6. Tự lượng giá
 1. Vì sao móc phần dưới mà phần trên lại vào sau?

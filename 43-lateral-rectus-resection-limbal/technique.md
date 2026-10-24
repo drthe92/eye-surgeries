@@ -21,7 +21,7 @@ Cùng là cắt ngắn cơ trực ngoài như số 42, khác ở đường mở 
 
 ## 5. Hậu phẫu
 - Như số 42, cộng theo dõi sẹo rìa (cộm, đỏ kéo dài) và nước mắt nhân tạo (lubricants) tích cực hơn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Khi nào chọn limbal thay vì cùng đồ?

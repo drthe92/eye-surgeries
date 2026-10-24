@@ -22,7 +22,7 @@ Nâng cấp vật liệu trong mổ: Supramid không đủ đỡ thì chuyển t
 
 ## 5. Hậu phẫu
 - Như vỡ sàn (không xì mũi, theo dõi mù-tê).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Ưu điểm kép của xốp lẫn titan là gì?

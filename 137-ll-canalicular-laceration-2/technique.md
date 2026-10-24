@@ -22,7 +22,7 @@ Sửa thất bại khâu da đơn thuần: nong toàn hệ + nối 2 đầu ốn
 
 ## 5. Hậu phẫu
 - Như số 136.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, chảy nước mắt tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao khâu da đơn thuần thất bại ở rách lệ quản?

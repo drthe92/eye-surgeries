@@ -61,3 +61,10 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Bài giảng ghi rõ “Bài giảng không thực hiện thủ thuật”.
 - **Bắt buộc chạy `python3 tools/kiem-tra-bai.py` trước mỗi commit**; 0 lỗi mới được push. Cảnh báo nên xem, nhất là dụng cụ không thấy trong quy trình.
 - Lỗi gốc 2026-10-24: 19 bài (185-193, 253-255, 257-260, 284-286, 294-295) dùng chung khối template; đã sửa toàn bộ.
+
+## CHẤT LƯỢNG HẬU PHẪU — CHỐNG TEMPLATE (2026-10-24)
+- Mục 5 phải có dòng “Dặn quay lại ngay: …” với 3–5 dấu hiệu cụ thể; cấm “các dấu hiệu trên”, “dấu hiệu trên”, “như trên”.
+- Bài tiêm/đông lạnh: không chườm lạnh, không “vết mổ”, không “cắt chỉ”; dặn theo dõi teo da, mất sắc tố, sụp mi, loét giác mạc… tùy thủ thuật.
+- Bài giảng/nghiệm pháp/không phẫu thuật: ghi “Không có hậu phẫu” thay vì bịa hậu phẫu như ca mổ.
+- Cấu trúc đúng 1–7, mỗi mục một lần; không trùng số mục.
+- **Bắt buộc chạy `python3 tools/kiem-tra-bai.py` trước commit**; 0 lỗi mới push. `--fix` chỉ thay câu rỗng, không thay nội dung đặc thù đã viết tay.

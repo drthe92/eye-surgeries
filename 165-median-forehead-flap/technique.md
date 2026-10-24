@@ -22,7 +22,7 @@ Khuyết lớn góc trong 2 mi: lá sau bằng dải (strip) màng xương chẻ
 
 ## 5. Hậu phẫu
 - Ép tối thiểu, mỡ kháng sinh; theo dõi sống vạt 2 tầng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao bắt chéo kiếm thay vì song song?

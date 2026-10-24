@@ -24,7 +24,7 @@ Khuyết trong 2 mi toàn bộ: mi dưới kéo về mào sau kèm nong đơn l�
 
 ## 5. Hậu phẫu
 - Cắt chỉ 1 tuần; rút stent 4 tháng; theo dõi co rút ghép-vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao mất lệ quản trên thì nong đơn dưới là đủ?

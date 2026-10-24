@@ -24,10 +24,10 @@ Bài giảng gấp nếp cơ trực (plication): tăng lực cơ mà KHÔNG cắ
 - **Bước 5 — Chọn cắt hay gấp:** Mắt nguy cơ thiếu máu → gấp; góc lớn mắt khỏe → cắt. Nghiệm thu: quyết định đúng. Cốt lõi: mạch máu quyết định. Lỗi: một công thức.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Không có hậu phẫu: bài giảng về gấp nếp cơ, không thực hiện trên bệnh nhân.
+- Khi áp dụng: theo dõi góc lác, nhìn đôi và phản ứng kết mạc 1-2 tuần; đo lại 6-8 tuần.
+- Ghi lại kiểu gấp nếp và chiều dài gấp để đánh giá tái lác; kháng sinh-steroid tra theo phẫu thuật viên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

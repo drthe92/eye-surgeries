@@ -24,7 +24,7 @@ Bít lệ đạo vĩnh viễn mức cao nhất (cắt bỏ ống) cho khô mắt
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày, hẹn 1-2 tuần; theo dõi chảy nước mắt quá/tái thông.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau tăng, sưng nóng đỏ, chảy máu, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Thang 3 bậc bít lệ đạo là gì và thứ tự nào?

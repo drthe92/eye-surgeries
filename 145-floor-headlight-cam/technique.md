@@ -23,7 +23,7 @@ Bài dạy 3 điểm mới: đo bên lành đối chứng, cắt môi trước v
 
 ## 5. Hậu phẫu
 - Như vỡ sàn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao đo bên lành trước khi mổ?

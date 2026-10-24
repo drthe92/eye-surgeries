@@ -25,7 +25,7 @@ Cứu vãn khi nong xuôi và ngược đều thất bại: rạch trực tiếp
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi hẹp lại/chảy nước mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Thứ tự thử các đường trước khi cut-down là gì?

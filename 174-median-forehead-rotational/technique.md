@@ -22,7 +22,7 @@ Khuyết trong lớn 2 vạt 2 hướng: trán giữa che trên-giữ lõm bằn
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi 2 vạt + lõm góc.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 neo màng xương mới giữ được lõm?

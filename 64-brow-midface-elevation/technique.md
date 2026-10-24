@@ -24,7 +24,7 @@ Một ca ba tầng: nâng trán (Endotine) + ổn định má (Vicryl gò má-c�
 ## 5. Hậu phẫu
 - Băng đầu, hẹn 1 tuần; mỡ kháng sinh.
 - Tái khám: lõm gò má xẹp dần, đối xứng 3 tầng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, tụ máu da đầu, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao chỉ gọi là ổn định má chứ không phải nâng?

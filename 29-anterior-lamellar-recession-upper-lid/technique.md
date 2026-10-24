@@ -22,7 +22,7 @@ Tách lá trước (da-cơ vòng) khỏi lá sau (sụn-kết mạc) theo đư�
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh + nước mắt nhân tạo (lubricants); tái khám 1 tuần; theo dõi hở mi/tái quặm/khô mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: cộm đau tăng, lông quặm lại, hở mi, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao lùi cơ lá trước lộn được bờ mi mà không cần cắt sụn?

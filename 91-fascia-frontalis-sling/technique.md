@@ -26,7 +26,7 @@ Nối mi lên cơ trán bằng dải cân (treo trán thay cơ nâng đã liệt
 
 ## 5. Hậu phẫu
 - Tháo băng-Frost sáng hôm sau; mỡ + nước mắt nhân tạo (lubricants) dài hạn (hở mạn); theo dõi tụt/nhiễm trùng đường luồn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao treo gây hở vĩnh viễn và phòng bằng gì?

@@ -23,7 +23,7 @@
 
 ## 5. Hậu phẫu
 - Như số 78 + theo dõi trễ mi (đường da) sát hơn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao đường da bắt buộc cân nhắc dải còn đường kết mạc thì không?

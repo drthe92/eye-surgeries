@@ -7,14 +7,14 @@
 Tinley (Cape Town): tiêm botox trực trong cho lác trong khởi phát sớm thay dao kéo ở trẻ nhỏ — liệt cơ tạm thời để mắt thẳng trong giai đoạn vàng phát triển thị giác, có thể nhắc lại. Lựa chọn không mổ của nhóm lác.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: như từng bước dưới đây; đo lăng kính và ép buộc trước mổ.
-- Chống chỉ định tương đối: nhiễm trùng cấp, lác chưa ổn định, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7 Bài liên quan.
+- Chỉ định: lác trong khởi phát sớm ở trẻ, góc vừa, chưa mổ, đang trong giai đoạn vàng phát triển thị giác; phụ huynh chấp nhận theo dõi nhiều đợt và tái khám đúng hẹn.
+- Chống chỉ định tương đối: lác đã ổn định lâu hoặc góc quá lớn, đã mổ cơ, nhiễm trùng vùng tiêm, dị ứng botulinum, bệnh thần kinh cơ (nhược cơ), trẻ không hợp tác hoặc không theo dõi được. Thay thế: mổ lác (bài 248-251).
 
 ## 3. Chuẩn bị
-- Vô cảm: mê toàn thân (trẻ em) hoặc tê cạnh nhãn cầu + tiền mê (người lớn).
-- Dụng cụ và chỉ: móc cơ (Graefe trơn, Green khía), thước/caliper, đốt nhẹ, chỉ Vicryl 6-0 cơ, chỉ kết mạc, mỡ kháng sinh.
-- Bệnh nhân: đo lăng kính mọi hướng, ép buộc, chụp ảnh, đồng thuận (consent) về mổ lại và nhìn đôi tồn lưu.
-- Đánh giá nền: thị lực-khúc xạ, võng mạc, thuốc chống đông.
+- Vô cảm: gây mê ngắn ở trẻ nhỏ; trẻ lớn có thể tê tại chỗ + an thần; có thể dùng EMG để xác nhận thân cơ.
+- Dụng cụ và thuốc: bơm 1 mL, kim 27-30G, botulinum toxin A liều theo cân nặng và cơ, gạc vô khuẩn. Không dùng móc cơ, dao hay chỉ khâu.
+- Bệnh nhân: đo góc lác bằng lăng kính, chụp ảnh, giải thích sụp mi/nhìn đôi tạm thời và khả năng tiêm nhắc lại; đồng thuận của phụ huynh.
+- Đánh giá nền: thị lực, khúc xạ, nhược thị, vận nhãn, dị ứng và bệnh thần kinh cơ.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn trẻ phù hợp:** Lác trong sớm, góc vừa, chưa mổ. Nghiệm thu: đo góc trước tiêm. Cốt lõi: botox là cầu nối phát triển thị giác. Lỗi: góc quá lớn tiêm vô ích.
@@ -24,10 +24,10 @@ Tinley (Cape Town): tiêm botox trực trong cho lác trong khởi phát sớm t
 - **Bước 5 — Chuyển mổ khi đủ lớn:** Lớn không đáp ứng thì mổ thường. Nghiệm thu: quyết định đúng thời điểm. Cốt lõi: botox không thay mổ triệt để. Lỗi: tiêm mãi thay mổ.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ.
-- Tái khám: đo lăng kính lại; u hạt sinh mủ thì steroid tra (không phải nhiễm trùng).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực.
+- Chăm sóc: không dụi mắt 24 giờ, không bơi 1 tuần, sinh hoạt bình thường; theo dõi 30 phút sau tiêm.
+- Thuốc: nước mắt nhân tạo khi cộm; không dùng kháng sinh tra thường quy; giảm đau nếu cần.
+- Tái khám: 1-2 tuần đánh giá góc lác, sụp mi và nhìn đôi; 6-12 tuần đánh giá tác dụng; tiêm nhắc lại nếu tái lác.
+- Dặn quay lại ngay: sụp mi nặng không hồi phục, nhìn đôi tăng, đau hoặc sưng nóng đỏ, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

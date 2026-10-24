@@ -25,7 +25,7 @@ Dẫn lưu sỏi-mủ lệ quản bằng rạch dọc + ép + nạo, để hở 
 
 ## 5. Hậu phẫu
 - Kháng sinh (nhỏ + toàn thân theo cấy); theo dõi hết chảy mủ; tái phát thì tìm sỏi sót.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao không khâu vết rạch?

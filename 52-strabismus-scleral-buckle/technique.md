@@ -25,7 +25,7 @@ Mổ lác trên mắt đã đặt đai củng mạc: đai làm đổi hướng-v
 
 ## 5. Hậu phẫu
 - Theo dõi võng mạc (áp chưa) + góc lác; kháng sinh-chống viêm; dặn đau-nhìn mờ-đỏ tăng quay lại ngay.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đai làm sai liều mổ lác thường?

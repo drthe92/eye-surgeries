@@ -20,8 +20,10 @@ Mở lại dính mi khi liệt đã khỏi: cắt sẹo dính đúng lớp, tiê
 - **Bước 2:** Steroid chống dính lại + theo dõi quặm/lật sau mở. Nghiệm thu: mi độc lập. Cốt lõi: sẹo mới có thể dính lại. Lỗi: không chống dính.
 
 ## 5. Hậu phẫu
-- Chăm sóc: bảo vệ giác mạc là trung tâm; tái khám 1 tuần-1 tháng.
-- Dặn quay lại ngay: đau, nhìn mờ, sưng mủ.
+- Chăm sóc: bảo vệ giác mạc, tra mỡ kháng sinh, không dụi; giữ vết mổ khô 48 giờ.
+- Thuốc: nước mắt nhân tạo, kháng sinh tra khi có chỉ định; tiêm steroid chống dính theo chỉ định.
+- Tái khám: 1 tuần, 1 tháng đánh giá dính tái phát, hở mi và giác mạc.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, sưng mủ, chảy máu, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?

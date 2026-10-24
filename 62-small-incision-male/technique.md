@@ -22,7 +22,7 @@ Small incision số 23 áp cho nam với 3 khác biệt: màng xương dính hơ
 
 ## 5. Hậu phẫu
 - Như số 23 (erythromycin, băng đầu, cắt chỉ-staples 1 tuần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, tê bì lan rộng, chân tóc lệch, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao màng xương nam dính hơn và xử trí thế nào?

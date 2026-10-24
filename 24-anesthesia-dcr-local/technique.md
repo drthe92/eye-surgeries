@@ -27,7 +27,7 @@ Vô cảm tại chỗ đa điểm cho DCR ngoài trên bệnh nhân tỉnh: tê 
 - Chăm sóc: chườm lạnh, đầu cao, không xì mũi mạnh 1-2 tuần, giữ khô vết mổ.
 - Thuốc: kháng sinh toàn thân theo chỉ định nhiễm trùng, giảm đau, mỡ kháng sinh vết mổ; theo dõi chảy máu mũi.
 - Tái khám: 1 tuần đánh giá vết mổ/thông lệ; dặn quay lại ngay nếu chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải tê 4 điểm thay vì chỉ đường rạch?

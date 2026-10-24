@@ -26,7 +26,7 @@ Nhắm mắt bằng trọng lực cho liệt mặt: tạ vàng đặt trước s
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, cắt chỉ 1 tuần; nước mắt nhân tạo (lubricants) (vẫn hở một phần); theo dõi lộ-di lệch-nhiễm trùng quanh tạ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao tạ đặt hơi vào trong?

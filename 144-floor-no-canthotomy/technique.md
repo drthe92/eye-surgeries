@@ -24,7 +24,7 @@ Vỡ sàn ít xâm lấn nhất: chỉ đường kết mạc + malleable bộc l
 
 ## 5. Hậu phẫu
 - Như vỡ sàn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Khi nào bỏ được rạch góc và khi nào bắt buộc?

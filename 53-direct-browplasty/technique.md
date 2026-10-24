@@ -27,7 +27,7 @@ Nâng cung mày bằng cách cắt trực tiếp dải da-mỡ dưới da ngay t
 - Chăm sóc: lạnh 24-48h, giữ khô, không nhướng trán mạnh 1 tuần.
 - Thuốc: mỡ kháng sinh.
 - Tái khám: 1 tuần cắt chỉ, đánh giá đối xứng/sẹo; 1-3 tháng đánh giá sẹo cuối (chống nắng).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao direct cho độ nâng trên mỗi mm cao nhất?

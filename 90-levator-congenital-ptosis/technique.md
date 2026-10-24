@@ -23,7 +23,7 @@ Cắt bỏ (resection) 20mm cho sụp 2-3mm còn nâng 6-8mm: cắt-bỏ đoạn
 
 ## 5. Hậu phẫu
 - Như số 89 (1 tuần; theo dõi nhược thị).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Công thức 2-3mm sụp + 6-8mm nâng → 20mm cắt nói lên gì?

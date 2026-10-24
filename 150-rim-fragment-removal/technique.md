@@ -25,7 +25,7 @@ Xử trí mảnh vỡ bờ xương di lệch gây biến dạng-lõm mắt: lấ
 
 ## 5. Hậu phẫu
 - Hẹn 1 tuần; theo dõi lõm mắt/song thị/rò dịch (vỡ trần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Khi nào lấy bỏ và khi nào nắn đặt lại mảnh vỡ?

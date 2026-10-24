@@ -24,7 +24,7 @@ Siết lại treo (sling) tụt qua sẹo cũ mà không thay mới: tháo khóa
 
 ## 5. Hậu phẫu
 - Như treo; theo dõi lộ treo/u hạt/tụt lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao chỉ tháo khóa trên mà giữ khóa dưới?

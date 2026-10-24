@@ -26,7 +26,7 @@ Nối túi lệ vào mũi qua cửa sổ xương: mở xương đúng 4 biên, k
 
 ## 5. Hậu phẫu
 - Kháng sinh, rửa mũi, không xì mạnh; theo dõi chảy máu mũi/sa stent/viêm.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Bốn biên cửa sổ xương là gì và thiếu biên nào hay bít nhất?

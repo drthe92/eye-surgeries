@@ -26,7 +26,7 @@ Nâng mày bằng 2 đường rạch rời giữa trán giấu trong nếp nhăn
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, cắt chỉ 1 tuần, chống nắng sẹo trán.
 - Tái khám: sẹo/cảm giác trán/đối xứng; dặn tê kéo dài quay lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 đường rời thay vì 1 đường ngang?

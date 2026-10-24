@@ -25,7 +25,7 @@
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi bung (dehiscence)/nhiễm trùng; nước mắt nhân tạo (lubricants) phần hở còn lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao cấm đốt điện khi khâu dính?

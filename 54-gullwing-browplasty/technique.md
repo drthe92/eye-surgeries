@@ -27,7 +27,7 @@ Nâng toàn bộ mày kể cả đầu trong bằng dải cắt liền mạch qu
 - Chăm sóc: lạnh, giữ khô, đeo kính thường xuyên.
 - Thuốc: mỡ kháng sinh 3 lần/ngày.
 - Tái khám: 1 tuần cắt chỉ; 1-3 tháng đánh giá sẹo (chống nắng).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao chỉ BN đeo kính mới làm được gull-wing?

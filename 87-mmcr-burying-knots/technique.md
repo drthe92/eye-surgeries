@@ -23,7 +23,7 @@ Cùng cắt cơ Muller-kết mạc (MMCR) nhưng tạo hốc kết mạc để v
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày 1 tuần, KHÔNG kính; theo dõi cộm tồn lưu.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. So sánh 3 cách xử trí nút: trong-kính, ngoài-da, vùi-hốc?

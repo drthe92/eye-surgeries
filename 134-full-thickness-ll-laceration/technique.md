@@ -25,7 +25,7 @@ Khâu rách mi theo lớp từ trong ra ngoài: sụn chịu lực trước (2 m
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi khuyết/nhiễm trùng/u hạt lông.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, giảm thị lực, sốt.
 
 ## 6. Tự lượng giá
 1. Vì sao buộc mũi dưới trước mũi trên sau?

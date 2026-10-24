@@ -24,7 +24,7 @@ Sửa treo (sling) cũ bằng 2 việc: siết lại treo sẵn có (không cắ
 
 ## 5. Hậu phẫu
 - Băng qua đêm, hẹn 1 tuần; nước mắt nhân tạo (lubricants); theo dõi tụt lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao cấm cắt đứt treo cũ khi bóc?

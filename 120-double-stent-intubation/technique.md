@@ -25,7 +25,7 @@ Tắc lệ quản tái phát nguy cơ hỏng cao: mở tìm chỗ tắc + nong �
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày 1 tuần; lịch rút 4+4 tháng; theo dõi bít lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao tái phát phải nong đôi?

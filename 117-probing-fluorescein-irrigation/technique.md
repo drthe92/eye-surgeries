@@ -21,7 +21,7 @@ Chẩn đoán (fluorescein trào ngược) và điều trị (thông-stent) tron
 
 ## 5. Hậu phẫu
 - Như số 104.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Trào ngược và không trào kết luận gì?

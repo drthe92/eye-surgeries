@@ -24,10 +24,10 @@ Quặm do lá trước thừa/co kéo đè lông vào trong: rạch dưới lôn
 - **Bước 5 — Cố định và đóng:** Khâu lá trước vào cơ rút bằng chỉ tiêu, đóng da không căng. Nghiệm thu: lông ra ngoài đều toàn chiều dài. Cốt lõi: kiểm tra từng đoạn bờ mi. Lỗi: bỏ sót đoạn trong/góc gây quặm khu trú.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh căng mi.
+- Thuốc: mỡ kháng sinh 5-7 ngày, nước mắt nhân tạo khi cộm; kháng sinh toàn thân chỉ khi nhiễm.
+- Tái khám: 1 tuần cắt chỉ và kiểm tra hướng lông; 1 tháng đánh giá quặm/lật tái phát; 3 tháng nếu còn cộm.
+- Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

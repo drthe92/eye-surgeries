@@ -24,10 +24,10 @@ Mảnh ghép da co kéo sớm: tiêm steroid (triamcinolone) trong tổn thươn
 - **Bước 5 — Canh biến chứng steroid:** Đo nhãn áp định kỳ, dặn mờ mắt-đau nhức phải quay lại. Nghiệm thu: nhãn áp trong giới hạn suốt liệu trình. Cốt lõi: steroid quanh mắt tăng nhãn áp ở người nhạy cảm. Lỗi: tiêm nhiều đợt mà không đo nhãn áp.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: không chườm lạnh, không băng ép, không cắt chỉ; giữ da sạch, không trang điểm vùng tiêm 24 giờ, theo dõi tại chỗ 15-30 phút.
+- Thuốc: không cần kháng sinh thường quy; giảm đau nếu cần; tiếp tục massage và chống nắng như chỉ định.
+- Tái khám: 3-4 tuần/lần đo nhãn áp và đánh giá sẹo; nhắc lại 2-3 đợt nếu còn co; theo dõi teo da, mất sắc tố.
+- Dặn quay lại ngay: đau tăng, sưng nóng đỏ, giảm thị lực hoặc đau nhức mắt (tăng nhãn áp), teo lõm da lan rộng, mất sắc tố.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

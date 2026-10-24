@@ -22,7 +22,7 @@ Cắt ngắn cả 3 lớp (sụn + kết mạc + Muller) 1/3 giữa mi để nâ
 
 ## 5. Hậu phẫu
 - Nhỏ kháng sinh 3 lần/ngày 1 tuần, giữ kính tiếp xúc tới hẹn; theo dõi sụn yếu về sau.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao Fasanella làm yếu sụn còn cắt cơ Muller-kết mạc thì không?

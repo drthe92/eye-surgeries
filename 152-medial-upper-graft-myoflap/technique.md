@@ -24,7 +24,7 @@ Khuyết trong toàn bộ chiều dày: lá sau ghép sụn mi đối bên neo m
 
 ## 5. Hậu phẫu
 - Erythromycin, cắt chỉ 1 tuần; rút stent 4 tháng; theo dõi co rút ghép.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao lấy sụn mi đối bên?

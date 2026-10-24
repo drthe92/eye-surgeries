@@ -21,7 +21,7 @@ Cùng direct như số 53, video này nhấn mạnh 3 điểm kỹ thuật: rạ
 
 ## 5. Hậu phẫu
 - Như số 53 (mỡ kháng sinh, cắt chỉ 1 tuần, chống nắng sẹo).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, sẹo lồi.
 
 ## 6. Tự lượng giá
 1. Vì sao rạch một nét không nhấc dao?

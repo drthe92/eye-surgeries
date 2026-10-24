@@ -23,7 +23,7 @@ Khuyết sâu góc trong 2 tầng da khác loại: vạt glabella dày che trên
 
 ## 5. Hậu phẫu
 - Cắt chỉ 1 tuần; rút stent 4 tháng; theo dõi góc-lệ-sẹo 2 vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 vạt cho 2 loại da khác nhau?

@@ -24,7 +24,7 @@ Nâng riêng đầu trong mày (vùng small incision thường bỏ sót) bằng
 
 ## 5. Hậu phẫu
 - Như small incision (erythromycin, cắt chỉ-staples 1 tuần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao small incision thường bỏ sót đầu trong?

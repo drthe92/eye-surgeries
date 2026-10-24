@@ -22,7 +22,7 @@ Cùng nội soi như số 107 nhưng thêm khoan xương cho xương dày phía 
 
 ## 5. Hậu phẫu
 - Như số 107.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao vùng xương trên là quan trọng nhất?

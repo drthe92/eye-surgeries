@@ -31,7 +31,7 @@ Lịch sử: vạt xoay kinh điển cho má/thái dương -> biến thể O-to-
 - Chăm sóc: lạnh 24h, giữ khô 48h, chống nắng sẹo, không kéo má mạnh 1 tuần.
 - Thuốc: mỡ kháng sinh; giảm đau; kháng sinh toàn thân chỉ khi nhiễm trùng.
 - Tái khám: cắt chỉ da theo lịch vùng mặt (~1 tuần), đánh giá sống vạt/sẹo/kéo mi; theo dõi tái phát BCC theo hẹn Mohs.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao O-to-Z giảm kéo mi dưới hơn khâu trực tiếp?

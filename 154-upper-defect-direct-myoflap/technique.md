@@ -25,7 +25,7 @@ Khuyết toàn bộ mi trên mà lá trước thừa-lá sau vừa: khâu trực
 
 ## 5. Hậu phẫu
 - Mỡ 3 lần/ngày, cắt chỉ 1 tuần; theo dõi khuyết/lệch mi.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Ướm phát hiện thừa-thiếu thế nào?

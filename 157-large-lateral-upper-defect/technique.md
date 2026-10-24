@@ -24,7 +24,7 @@ Hết sụn 2 bên + từ chối Cutler-Beard: lá sau bằng dải (strip) màn
 
 ## 5. Hậu phẫu
 - Bolster ghép da, hẹn 1 tuần; theo dõi sống 3 mô.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: mảnh ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao dải phải kéo dài xuống dưới?

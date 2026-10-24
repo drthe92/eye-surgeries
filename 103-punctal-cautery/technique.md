@@ -24,7 +24,7 @@ Bít điểm lệ vĩnh viễn bằng sẹo nhiệt cho khô mắt nặng: giữ
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi chảy nước mắt quá (bít quá) hoặc tái thông (sẹo không kín).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau tăng, sưng nóng đỏ, chảy mủ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải thử nút tạm trước khi đốt vĩnh viễn?

@@ -24,7 +24,7 @@ Tách 2 lá xử trí riêng khi lá sau đủ nhão khâu trực tiếp còn l�
 
 ## 5. Hậu phẫu
 - Băng ép 1 tuần, mỡ kháng sinh; theo dõi sống ghép/co rút.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: mảnh ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Điều kiện wedge trực tiếp lá sau là gì?

@@ -101,3 +101,11 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Mở rộng quét: thêm 10 bài (253–255, 257–260, 284–286, 294–295) dùng câu “như từng bước dưới đây / nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát”.
 - Đã sửa **19/19** bài bằng nội dung đặc thù; thêm `tools/kiem-tra-bai.py` để chặn tái diễn; quy tắc ghi vào template + AGENTS.
 - Kết quả: 310 bài, **0 lỗi template**, 159 cảnh báo (chủ yếu mục 2 ngắn hoặc dụng cụ không lặp lại ở mục 4).
+
+### Audit hậu phẫu mục 5 (2026-10-24)
+- Nguyên nhân: 146 bài dùng câu rỗng “Dặn quay lại ngay các dấu hiệu trên.”; nhóm 185–193 dùng chung khối hậu phẫu; 187/191/242/278 bị gán hậu phẫu của mổ hở dù là tiêm/đông lạnh; 8 bài giảng và 3 bài không phẫu thuật (40, 98, 100) bị gán hậu phẫu như ca mổ.
+- Đã thay 146 câu rỗng bằng dấu hiệu theo nhóm + tinh chỉnh theo kỹ thuật (mi, lệ đạo, hốc mắt, mày, lác, sụp mi, giác mạc...).
+- Viết lại tay: 185–193 (mi dưới), 187 (tiêm steroid), 191 (đông lạnh), 242+278 (botox), 24/26/103 (vô cảm/điểm lệ), 40/98/100 (nghiệm pháp/bài mẫu), 8 bài giảng (230, 245, 259, 260, 265, 275, 283, 285).
+- Chuẩn hóa cấu trúc 1–7 cho 47, 49, 50 (trước đó trùng số mục và thiếu mục 5).
+- Checker mới: kiểm mục 5, cấu trúc 1–7, câu rỗng, bài tiêm/đông lạnh/bài giảng; thêm `--fix` để thay câu rỗng an toàn.
+- Kết quả: 310 bài, **0 lỗi**, 220 cảnh báo (chủ yếu mục 2 ngắn, dụng cụ không lặp ở mục 4, câu “như từng bước dưới đây” ở 64 bài chưa xử lý).

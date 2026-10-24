@@ -24,10 +24,10 @@ Lật mi do thiếu da co kéo: giải phóng sẹo cũ tới khi mi về vị t
 - **Bước 5 — Khâu ghép và ép bolster:** Khâu viền chỉ mảnh, đặt bolster ép đều 5-7 ngày, tra mỡ. Nghiệm thu: ghép hồng đều sau tháo ép. Cốt lõi: ép đều chống tụ máu dưới ghép. Lỗi: ép lệch gây hoại tử một góc ghép.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: giữ bolster và mảnh ghép khô 5-7 ngày, kê đầu cao, tránh căng mi khi nói cười mạnh; không chườm lạnh trực tiếp lên ghép.
+- Thuốc: mỡ kháng sinh ở mép ghép ngày 1-2 lần; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi có nhiễm trùng.
+- Tái khám: 5-7 ngày tháo bolster kiểm tra sống ghép; 2 tuần đánh giá liền mép; 1-3 tháng đánh giá co kéo và lật mi tái phát.
+- Dặn quay lại ngay: mảnh ghép trắng-tím-đen, chảy máu không cầm, sưng nóng đỏ, hở mi tăng, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

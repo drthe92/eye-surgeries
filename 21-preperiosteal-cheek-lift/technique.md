@@ -27,7 +27,7 @@ Nâng má trên mặt màng xương (không bóc dưới màng xương, không k
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: mỡ kháng sinh 3 lần/ngày.
 - Tái khám: 1 tuần đánh giá má/mi; dài hạn tái lật do Vicryl tiêu + sẹo tiến triển.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, méo mặt tăng, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao gọi là tiền màng xương và khác gì dưới màng xương?

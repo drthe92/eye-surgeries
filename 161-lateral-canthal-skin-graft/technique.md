@@ -24,7 +24,7 @@ Khi sẹo-actinic triệt tiêu mọi vạt tại chỗ: dải (strip) giữ mi 
 
 ## 5. Hậu phẫu
 - Tháo bolster 1 tuần; theo dõi sống-co rút-màu ghép.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: mảnh ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Khi nào vạt tại chỗ thua ghép từ xa?

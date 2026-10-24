@@ -27,7 +27,7 @@ Nâng mày không sẹo ngoài bằng một mũi khâu trong: treo mép trên đ
 - Chăm sóc: lạnh, không nhướng mạnh.
 - Thuốc: mỡ kháng sinh.
 - Tái khám: 1 tuần cắt chỉ; 1-3 tháng đánh giá tụt (Vicryl tiêu).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, tụ máu da đầu, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao compa phải đo 2 lần cùng số?

@@ -22,7 +22,7 @@ Vạt xoay ngoài che lá trước với 2 neo: dải (strip) giữ mi + mũi s�
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi sống vạt/tụt vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao rút ngắn mi trước khi phủ vạt?

@@ -23,10 +23,10 @@ Bài giảng tầm soát sụp mi: khi nào phải tìm bệnh toàn thân/thầ
 - **Bước 5 — Theo dõi sau mổ:** Tái phát gợi ý bệnh nền bỏ sót. Nghiệm thu: tái khám tìm nguyên nhân. Cốt lõi: sụp tái phát là triệu chứng mới. Lỗi: mổ lại mà không tìm.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi, tập nhắm mắt.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở mi.
-- Tái khám: 1 tuần cao độ-đường cong-giác mạc; 1-3 tháng ổn định.
-- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
+- Không có hậu phẫu: bài giảng tầm soát sụp mi, không thực hiện thủ thuật.
+- Khi tầm soát: hẹn theo dõi bệnh nền (nhược cơ, liệt III, bệnh toàn thân) trước khi quyết định mổ.
+- Sau mổ theo bài tương ứng: 1 tuần, 1 tháng, 3 tháng; theo dõi hở mi, trợt giác mạc và tái sụp.
+- Dặn quay lại ngay: sụp mi tăng nhanh, nhìn đôi, hở mi, trợt giác mạc, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Chức năng cơ nâng quyết định chọn thuật thế nào?

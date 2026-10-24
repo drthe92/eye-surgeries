@@ -25,7 +25,7 @@
 - Chăm sóc: không dụi, giữ vệ sinh.
 - Thuốc: erythromycin; nước mắt nhân tạo (lubricants) tích cực.
 - Tái khám: 1 tuần đánh giá viêm giác mạc/hẹp khe; dài hạn tái hở.
-- Dặn quay lại ngay: đau-nhìn mờ tăng.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao thả cơ rút mà không khâu lại vẫn nâng được mi?

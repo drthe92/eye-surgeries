@@ -25,7 +25,7 @@ Thông màng tắc lệ-mũi bẩm sinh bằng sonde rồi giữ bằng stent Cr
 
 ## 5. Hậu phẫu
 - Kháng sinh; theo dõi tụt/lộ stent, chảy máu mũi; hẹn rút 4 tháng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao nhét Afrin trước khi thông?

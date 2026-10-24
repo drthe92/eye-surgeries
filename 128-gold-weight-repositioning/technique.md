@@ -24,7 +24,7 @@ Cứu tạ sắp lộ do phủ mỏng: dời lên trên bờ sụn + phủ thêm
 
 ## 5. Hậu phẫu
 - Cắt chỉ 1 tuần; theo dõi lộ lại/nhiễm trùng quanh tạ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao dời lên trên thay vì thay tạ to hơn?

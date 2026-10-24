@@ -23,7 +23,7 @@ Vạt tiến trong-ngoài kèm dải (strip) chống lật mi trong: giữ cơ v
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi lật trong.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao ghép da/bóc rộng thua vạt tiến ở khuyết trong?

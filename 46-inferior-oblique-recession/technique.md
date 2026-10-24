@@ -24,7 +24,7 @@ Làm yếu cơ chéo dưới bằng cách lùi điểm bám ra sau theo cung (gr
 
 ## 5. Hậu phẫu
 - Kháng sinh-chống viêm; tái khám ngày 1, 6 tuần đo lại dọc; dặn song thị dọc thoáng qua.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao lùi cơ (recession) giữ được khả năng chỉnh liều còn myectomy thì không?

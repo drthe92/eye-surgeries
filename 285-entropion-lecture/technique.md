@@ -23,10 +23,10 @@ Bài giảng khung quặm mi cả hai mi: co thắt (viêm kích thích), tuổi
 - **Bước 5 — Theo dõi giác mạc:** Nhuộm trước-sau, phát hiện tái quặm. Nghiệm thu: giác mạc nguyên vẹn. Cốt lõi: quặm là bệnh của giác mạc. Lỗi: chỉ khám mi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, tra mỡ, không dụi.
-- Thuốc: kháng sinh tra; điều trị bệnh nền (mắt hột, viêm bờ mi).
-- Tái khám: 1 tuần (giác mạc, hướng lông), 1 tháng (tái quặm).
-- Dặn quay lại ngay: đau tăng, nhìn mờ, sưng mủ.
+- Không có hậu phẫu: bài giảng phân loại quặm, không thực hiện thủ thuật.
+- Khi áp dụng: chọn thuật theo cơ chế (co thắt, tuổi già, sẹo, bẩm sinh); theo dõi hướng lông, giác mạc và tái quặm.
+- Tái khám theo bài tương ứng (11, 12, 28-30, 189-193): 1 tuần, 1 tháng, 3 tháng.
+- Dặn quay lại ngay: lông quặm lại, trợt giác mạc, đau tăng, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Phân loại quặm sai dẫn tới hậu quả gì?

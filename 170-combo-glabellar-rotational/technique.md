@@ -23,7 +23,7 @@ Hai vạt gặp nhau giữa khuyết: glabella che trên + Mustarde che dưới,
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; theo dõi 2 vạt + góc ngoài.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải xác nhận lệ nguyên vẹn trước khi vẽ vạt?

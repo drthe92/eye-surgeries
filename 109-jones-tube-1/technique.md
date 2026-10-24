@@ -25,7 +25,7 @@ Dẫn lưu lệ trực tiếp góc-mũi bằng ống thủy tinh qua đường r
 
 ## 5. Hậu phẫu
 - Nhỏ kháng sinh-steroid 3 lần/ngày 1 tuần, cấm mỡ suốt đời ống; vệ sinh-rửa ống định kỳ; theo dõi xô-tắc-nhiễm trùng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: ống trượt, chảy máu mũi, sưng nóng đỏ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao cấm dùng dụng cụ đẩy ống?

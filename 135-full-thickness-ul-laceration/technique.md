@@ -22,7 +22,7 @@ Như rách mi dưới (số 134) cộng 2 điểm riêng mi trên: cấm xuyên 
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần (không cắt chỉ tiêu); theo dõi khuyết/cọ giác mạc/sụp do cân nâng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, giảm thị lực, sốt.
 
 ## 6. Tự lượng giá
 1. Vì sao xuyên mặt sau sụn mi trên nguy hiểm hơn mi dưới?

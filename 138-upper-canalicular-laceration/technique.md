@@ -22,7 +22,7 @@ Như rách lệ quản dưới nhưng ở trên + nong 2 hệ thường quy + c�
 
 ## 5. Hậu phẫu
 - Mỡ 1 tuần, rút ~4 tháng; như số 136.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, chảy nước mắt tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao quan sát tăm bông đủ mà không cần fluorescein?

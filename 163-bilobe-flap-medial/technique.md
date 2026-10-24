@@ -23,7 +23,7 @@ Vạt 2 thùy chuyển lực căng từ dọc sang ngang: đóng chỗ cho dư�
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi trễ mi dưới (căng dọc tồn lưu).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao đóng chỗ cho dọc triệt được căng dọc mi?

@@ -22,7 +22,7 @@ Cùng cắt cơ Muller-kết mạc (MMCR) như số 84, bài này chuẩn hóa 3
 
 ## 5. Hậu phẫu
 - Như số 84.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao compa 4.25mm cho tổng 8.5mm?

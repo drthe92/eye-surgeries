@@ -29,7 +29,7 @@ Phối hợp 4 cơ chế một ca cho lật mi nặng: dải (strip) ngang + mũ
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: mỡ kháng sinh; nước mắt nhân tạo (tăng cường vì dính mi + khô mắt).
 - Tái khám: 1 tuần cắt chỉ, đánh giá khe/lông mi/khô mắt; dài hạn đánh giá tái lật.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: mi lật ra ngoài, hở mi tăng, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao 4 cơ chế phải làm cùng một ca ở lật nặng?

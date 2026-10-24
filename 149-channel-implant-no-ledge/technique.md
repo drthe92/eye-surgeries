@@ -22,7 +22,7 @@ Giải pháp khi mất gờ sau (điểm tựa đuôi tấm): tấm rãnh + nẹ
 
 ## 5. Hậu phẫu
 - Như vỡ sàn; theo dõi di lệch tấm (mất điểm tựa sau).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao mất gờ sau là vấn đề lớn nhất đặt tấm?

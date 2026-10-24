@@ -24,7 +24,7 @@ Trị bọng nước gò má (festoon) bằng cắt trực tiếp và xóa kho�
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày, cắt chỉ 1 tuần; chườm + kê cao (phù bạch huyết); theo dõi tái phù.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao đích chính là xóa khoảng chết chứ không phải cắt nhiều da?

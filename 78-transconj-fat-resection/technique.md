@@ -22,7 +22,7 @@ Cắt bảo tồn cả 3 mỡ qua đường kết mạc (không sẹo da) cho b�
 
 ## 5. Hậu phẫu
 - Như số 77 trừ bolster; theo dõi hõm (cắt quá) vs bọng tồn lưu (sót mỡ ngoài).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao bọng không rãnh sâu thì cắt, có rãnh sâu thì chuyển?

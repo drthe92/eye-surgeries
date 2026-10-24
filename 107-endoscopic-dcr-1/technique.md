@@ -25,7 +25,7 @@ Mở thông túi lệ-mũi từ trong mũi dưới nội soi: ống sáng qua l�
 
 ## 5. Hậu phẫu
 - Rửa mũi, kháng sinh, không xì mạnh; nội soi kiểm tra lỗ thông; rút stent 4 tháng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Ống sáng thay thế bước nào của mở lệ đạo ngoài?

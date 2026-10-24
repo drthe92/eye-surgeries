@@ -21,7 +21,7 @@
 
 ## 5. Hậu phẫu
 - Như số 44; theo dõi nút tới khi khóa; dặn BN lịch chỉnh.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Phân biệt permanent knot vs bow/slip-knot?

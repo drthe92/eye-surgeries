@@ -33,7 +33,7 @@ Lịch sử: Tenzel 1975 cho khuyết 33-50%; McGregor thêm Z-plasty đầu v�
 - Chăm sóc: lạnh 24-48h, không dụi, tránh há miệng lớn/nheo mạnh 1 tuần.
 - Thuốc: mỡ kháng sinh tại chỗ; nước mắt nhân tạo (lubricants) nếu hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
 - Tái khám: 1 tuần đánh giá gấp nếp/bờ mi/góc/sẹo; 1 tháng đánh giá khuyết/lệch góc/khô mắt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải cắt gân góc trước khi dựng vạt?

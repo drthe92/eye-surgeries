@@ -24,7 +24,7 @@ Tháo tạ khi liệt đã khỏi (cơ nhắm lại được): bóc bao xơ, c�
 
 ## 5. Hậu phẫu
 - Cắt chỉ 1 tuần; theo dõi nhắm kín sau tháo (nếu hở lại thì liệt chưa khỏi hẳn).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Tiêu chuẩn tháo tạ là gì?

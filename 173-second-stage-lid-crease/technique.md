@@ -23,7 +23,7 @@ Thì 2 vừa làm mỏng vừa tạo nếp mi: cắt bớt-cắt sẹo-nâng-đ�
 
 ## 5. Hậu phẫu
 - Erythromycin 3 lần/ngày, cắt chỉ 1 tuần; theo dõi lõm góc + nếp.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao đích là lõm góc trong?

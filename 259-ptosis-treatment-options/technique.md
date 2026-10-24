@@ -23,10 +23,10 @@ Bài giảng khung chọn điều trị sụp mi bẩm sinh vs mắc phải: t�
 - **Bước 5 — Lộ trình điều trị:** Từ bảo tồn tới mổ, từ nhẹ tới nặng. Nghiệm thu: bậc thang rõ. Cốt lõi: đừng nhảy bậc. Lỗi: treo trán cho sụp nhẹ.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi, tập nhắm mắt.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở mi.
-- Tái khám: 1 tuần cao độ-đường cong-giác mạc; 1-3 tháng ổn định.
-- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
+- Không có hậu phẫu: bài giảng chọn điều trị sụp mi, không thực hiện thủ thuật.
+- Khi tư vấn: giải thích hở mi khi ngủ, khô mắt, trợt giác mạc và khả năng chỉnh thì hai theo từng thuật.
+- Theo dõi sau mổ theo bài tương ứng (81-101): 1 tuần, 1 tháng, 3 tháng; đo MRD1, đường cong mi, giác mạc.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Chức năng cơ nâng quyết định chọn thuật thế nào?

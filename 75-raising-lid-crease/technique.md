@@ -23,7 +23,7 @@ Dời nếp mi lên cao bằng cách xóa bám thấp rồi tái bám cao: bóc 
 
 ## 5. Hậu phẫu
 - Erythromycin, cắt chỉ 1 tuần; theo dõi nếp đôi/nếp quá cao.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao phải xóa bám thấp trước khi tạo bám cao?

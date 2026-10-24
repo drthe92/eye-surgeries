@@ -22,7 +22,7 @@ Mở rộng đường rò bằng động tác xoắn lưỡi dao (thay vì đâm
 
 ## 5. Hậu phẫu
 - Như số 109.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: ống trượt, chảy máu mũi, sưng nóng đỏ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Xoắn khác đâm nhiều lỗ ở điểm nào?

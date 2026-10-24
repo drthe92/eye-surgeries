@@ -24,10 +24,10 @@ Trẻ em (thường châu Á) nếp da-cơ thừa đè hàng lông dưới vào 
 - **Bước 5 — Hẹn theo dõi tăng trưởng:** Tái khám 1-3-6 tháng xem còn đè khi mặt lớn. Nghiệm thu: phụ huynh biết lịch theo dõi. Cốt lõi: một số trẻ tự hết khi sống mũi cao lên. Lỗi: mổ vội ca nhẹ có thể tự khỏi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: chườm lạnh nhẹ 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ; trẻ nhỏ đeo kính hoặc nẹp bảo vệ khi ngủ.
+- Thuốc: mỡ kháng sinh 5-7 ngày, nước mắt nhân tạo; kháng sinh toàn thân chỉ khi nhiễm.
+- Tái khám: 1 tuần cắt chỉ, 1 tháng đánh giá quặm và giác mạc, 6 tháng theo dõi tăng trưởng; tái khám sớm nếu trẻ dụi nhiều.
+- Dặn quay lại ngay: quặm tái phát, trợt giác mạc, chảy nước mắt tăng, sưng nóng đỏ, sốt.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

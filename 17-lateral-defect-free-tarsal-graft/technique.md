@@ -28,7 +28,7 @@ Dựng lại cả hai lá một thì: lá sau bằng ghép sụn tự do + dải
 - Chăm sóc: giữ bolster, lạnh, không dụi.
 - Thuốc: mỡ kháng sinh 3 lần/ngày.
 - Tái khám: 1 tuần đánh giá sống ghép/cắt chỉ; dài hạn co rút/hở mi.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao lấy ghép mi đối bên và chừa cầu 4mm?

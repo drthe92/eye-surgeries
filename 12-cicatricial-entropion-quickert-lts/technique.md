@@ -28,7 +28,7 @@ Sẹo co kéo lá trước cuộn mép vào trong: bẻ gãy sụn ngang (tarsal
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: erythromycin 3 lần/ngày; nước mắt nhân tạo (lubricants) + điều trị loét giác mạc.
 - Tái khám: 1-2 tuần cắt chỉ, nhuộm giác mạc; dài hạn theo dõi tái quặm do sẹo tiến triển.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải bẻ sụn ở quặm sẹo mà quặm tuổi già thì không?

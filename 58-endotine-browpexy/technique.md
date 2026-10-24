@@ -26,7 +26,7 @@ Treo mày dưới màng xương bằng neo Endotine qua đường mi: khoan lỗ
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày 1 tuần; lạnh, không nhướng mạnh.
 - Tái khám: 1 tuần cắt chỉ; 1-3 tháng đánh giá tụt (neo tiêu dần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, tụ máu da đầu, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao gọi là ổn định hơn là nâng?

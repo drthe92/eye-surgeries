@@ -24,7 +24,7 @@ Thay tạ sau lòi bằng bạch kim đặt cao hơn + phủ cân: đổi vật 
 
 ## 5. Hậu phẫu
 - Erythromycin 3 lần/ngày, hẹn 1 tuần; nước mắt nhân tạo (lubricants); theo dõi lòi lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao đổi sang bạch kim và đặt cao hơn?

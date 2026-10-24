@@ -24,7 +24,7 @@ Vỡ 2 thành cần nhìn 180°: nối 2 đường mổ (kết mạc + qua carun
 
 ## 5. Hậu phẫu
 - Như vỡ sàn + theo dõi song thị dọc-ngang (2 thành).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao phải nối 2 đường mổ?

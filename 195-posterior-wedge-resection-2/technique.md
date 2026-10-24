@@ -24,10 +24,10 @@ Biến thể cắt wedge từ mặt sau sụn: lật mi, cắt bỏ dải sụn 
 - **Bước 5 — Trả mi kiểm tra giác mạc:** Nhuộm fluorescein. Nghiệm thu: không trợt mới. Cốt lõi: tra mỡ nếu trợt. Lỗi: bỏ qua kiểm tra.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, nẹp Frost khi khuyết lớn.
-- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá sống vạt/ghép; 1-3 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng.
-- Dặn quay lại ngay: trắng/đen đầu vạt-ghép, chảy máu không cầm, sưng nóng đỏ, giảm thị lực.
+- Chăm sóc: chườm lạnh 24-48 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
+- Thuốc: mỡ kháng sinh; kháng sinh toàn thân chỉ khi nhiễm trùng; nước mắt nhân tạo khi cộm.
+- Tái khám: 1 tuần đánh giá liền mép, hở mi và hướng lông; 1 tháng đánh giá co kéo; chỉnh sẹo sau 3-6 tháng nếu cần.
+- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, hở mi, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao khuyết càng rộng càng bắt buộc neo ngoài?

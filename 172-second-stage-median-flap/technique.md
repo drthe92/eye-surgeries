@@ -23,7 +23,7 @@ Hoàn thiện vạt cuống sau 2 tháng nuôi: cắt cuống, sửa sẹo chỗ
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi sống vạt sau làm mỏng + buttonhole (nếu có).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao thì 2 cách thì 1 đúng 2 tháng?

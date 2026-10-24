@@ -26,7 +26,7 @@ Trẻ hóa rãnh lệ bằng chuyển mỡ tự thân (medial-trung tâm qua b�
 ## 5. Hậu phẫu
 - Giữ bolster 1 tuần; mỡ kháng sinh; lạnh.
 - Tái khám: rãnh lệ/lồi lõm/vị trí mi sau cắt bolster.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao chuyển mỡ hơn cắt bỏ ở rãnh lệ sâu?

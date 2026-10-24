@@ -25,7 +25,7 @@ Biến thể mid-trán (forehead) cho nam nhăn sâu: rạch giấu trong nếp 
 
 ## 5. Hậu phẫu
 - Cắt chỉ 1 tuần; chống nắng + vitamin E + massage dài hạn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 độ sâu khác nhau trong-ngoài gân hợp nhất?

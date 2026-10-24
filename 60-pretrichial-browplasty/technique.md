@@ -27,7 +27,7 @@ Nâng trán-mày qua đường chân tóc cho người trán cao để mái: bó
 - Gội đầu, băng Kerlex-Coban, tháo băng 2 ngày, cắt chỉ 1 tuần.
 - Thuốc: mỡ kháng sinh; theo dõi tê trán (thường tồn lưu một phần).
 - Tái khám: sẹo chân tóc/đối xứng/cảm giác.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, tê bì lan rộng, chân tóc lệch, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao trán cao + để mái mới là chỉ định?

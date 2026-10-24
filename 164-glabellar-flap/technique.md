@@ -23,7 +23,7 @@ Vạt da dày giữa mày xoay xuống góc trong trên: vẽ rộng hơn nghĩ,
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh; theo dõi sống vạt/sẹo giữa mày.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao vẽ rộng hơn nghĩ?

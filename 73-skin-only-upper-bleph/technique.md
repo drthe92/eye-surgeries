@@ -24,7 +24,7 @@ Chỉ cắt da, giữ nguyên cơ vòng để bảo tồn bơm lệ và độ đ
 
 ## 5. Hậu phẫu
 - Erythromycin 3 lần/ngày, cắt chỉ 1 tuần; nước mắt nhân tạo (lubricants) tích cực (khô mắt nền).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao giữ cơ vòng bảo vệ được khô mắt?

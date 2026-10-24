@@ -25,7 +25,7 @@ Treo silicone 2 bên đối xứng ở trẻ: cố định sụn + luồn sau v�
 
 ## 5. Hậu phẫu
 - Erythromycin, hẹn 1 tuần; nước mắt nhân tạo (lubricants); theo dõi nhược thị + đối xứng lớn lên.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 bên càng cần đóng trước siết sau?

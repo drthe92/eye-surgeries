@@ -24,7 +24,7 @@ Triệt hoàn toàn cơ nâng đồng vận hàm (cắt ngang ở sau nhất) r�
 
 ## 5. Hậu phẫu
 - Như treo (băng, mỡ, 1 tuần); theo dõi hết wink khi nhai + hở.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải cắt ở sau nhất có thể?

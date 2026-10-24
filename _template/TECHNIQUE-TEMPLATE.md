@@ -26,7 +26,7 @@ Mỗi bước theo khung:
 ## 5. Hậu phẫu
 - Chăm sóc, thuốc, băng, hạn chế.
 - Lịch tái khám + tiêu chí đánh giá lại.
-- Biến chứng cần dặn BN quay lại ngay.
+- Dặn quay lại ngay: 3-5 dấu hiệu cụ thể (không viết “các dấu hiệu trên”).
 
 ## 6. Tự lượng giá (3 câu)
 
@@ -38,3 +38,7 @@ Mục 2 và mục 3 phải **đặc thù cho đúng kỹ thuật này**, không 
 - Bài giảng (không thực hiện thủ thuật): ghi rõ “Bài giảng không thực hiện thủ thuật” ở mục 2 và “không cần dụng cụ” ở mục 3.
 - Ví dụ sai: “Chỉ định: theo từng bước dưới đây” hoặc “Dụng cụ: dao 15, bipolar, chỉ 5-0/6-0, chỉ không tiêu 4-0 cho neo ngang” trong bài tiêm steroid.
 - Kiểm tra trước commit: `python3 tools/kiem-tra-bai.py`
+
+- Mục 5: câu “Dặn quay lại ngay” phải nêu dấu hiệu cụ thể; bài tiêm/đông lạnh không chườm lạnh, không vết mổ, không cắt chỉ; bài giảng ghi “Không có hậu phẫu”.
+- Cấu trúc đúng 1–7, mỗi mục một lần; không trùng số mục.
+- Sửa câu hậu phẫu rỗng: `python3 tools/kiem-tra-bai.py --fix` (chỉ thay câu rỗng, không thay nội dung đặc thù).

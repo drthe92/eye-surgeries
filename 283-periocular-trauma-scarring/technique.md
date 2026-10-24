@@ -24,9 +24,10 @@ Bài giảng xử trí chấn thương quanh mắt và di chứng sẹo: nguyên
 - **Bước 5 — Mổ sẹo thì hai:** Chờ 3-6 tháng cho sẹo chín. Nghiệm thu: thời điểm đúng. Cốt lõi: còn tiến triển thì đừng mổ. Lỗi: mổ sẹo non gây co lại.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh, uốn ván, chăm sóc sẹo.
-- Tái khám: sớm 1 tuần, xa 1-3 tháng đánh giá sẹo-lệ đạo.
-- Dặn quay lại ngay: mất thị lực, đau tăng, chảy máu, nhiễm trùng.
+- Không có hậu phẫu: bài giảng xử trí chấn thương và sẹo quanh mắt, không thực hiện thủ thuật.
+- Khi áp dụng: khâu thì đầu đúng lớp, phòng sẹo; theo dõi sẹo lồi, co kéo, lật mi và lệ đạo.
+- Tái khám: 1 tuần, 1 tháng, 3-6 tháng; chụp ảnh và đo độ mở mi, lệ đạo trước khi mổ sẹo thì hai.
+- Dặn quay lại ngay: mất thị lực, đau tăng, chảy máu, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
 1. Vì sao phải xác định tổn thương kèm trước khi khâu?

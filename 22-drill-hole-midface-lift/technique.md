@@ -28,7 +28,7 @@ Nâng má dưới màng xương neo xuyên xương: chỉ nylon từ mặt dư�
 - Chăm sóc: giữ bolster, lạnh, không dụi.
 - Thuốc: mỡ kháng sinh.
 - Tái khám: 1 tuần tháo bolster/cắt chỉ, đánh giá nâng má/lông mi/tê má; dài hạn lộ chỉ/nhiễm trùng xương.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, méo mặt tăng, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao 3 lỗ khoan đặt trong-ngoài-ngoài cùng bó infraorbital?

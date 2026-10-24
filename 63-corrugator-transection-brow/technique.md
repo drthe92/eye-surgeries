@@ -22,7 +22,7 @@ Small incision cộng thêm cắt cơ cau mày để xử trí nếp cau mày (g
 
 ## 5. Hậu phẫu
 - Như small incision + theo dõi bầm trán nhiều hơn, tê vùng mũi-trán.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, tê bì lan rộng.
 
 ## 6. Tự lượng giá
 1. Vì sao cơ cau mày nằm giữa hai bó TK và ý nghĩa là gì?

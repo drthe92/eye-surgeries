@@ -24,10 +24,10 @@ Quặm sẹo mi dưới có cả co kéo lá trước lẫn tuột cơ rút: m�
 - **Bước 5 — Hậu phẫu chống dính lại:** Tra mỡ, massage hướng dẫn, tái khám nhuộm giác mạc sớm. Nghiệm thu: kết mạc liền không dính co. Cốt lõi: sẹo sau mổ có thể kéo lại nếu không theo dõi. Lỗi: cắt chỉ xong là xong, không hẹn tái khám.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ.
-- Thuốc: mỡ kháng sinh 5-7 ngày; nước mắt nhân tạo khi cộm-hở; kháng sinh toàn thân chỉ khi nhiễm trùng.
-- Tái khám: 1 tuần đánh giá hướng lông-mi-ghép; 1 tháng đánh giá tái phát; ghép da và trẻ em theo dõi dài hơn.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, lông quặm lại.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô 48 giờ; hạn chế nhìn xuống lâu 1 tuần.
+- Thuốc: mỡ kháng sinh 5-7 ngày, nước mắt nhân tạo, giảm đau.
+- Tái khám: 1 tuần cắt chỉ và kiểm tra cơ rút; 1 tháng đánh giá quặm/lật; 3 tháng đánh giá tái tuột cơ rút.
+- Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?

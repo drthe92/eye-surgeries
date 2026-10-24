@@ -26,7 +26,7 @@ Khép mi 2 điểm bằng trụ sụn-kết mạc mi trên chuyển xuống di�
 
 ## 5. Hậu phẫu
 - Tra thuốc qua khe giữa; tái khám 1 tuần tháo bolster; đánh giá viêm giác mạc.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao 2 trụ ngang rìa mà không phải giữa?

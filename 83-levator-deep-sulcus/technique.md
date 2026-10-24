@@ -21,7 +21,7 @@ Cùng tiến (advancement) nhưng giải phẫu biến đổi tuổi già: mất
 
 ## 5. Hậu phẫu
 - Như số 81 + theo dõi rách sụn muộn (sụp tái phát sớm).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao mỡ trước cân biến mất ở hốc sâu tuổi già?

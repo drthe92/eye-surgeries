@@ -26,7 +26,7 @@ Nâng mi sụp nhẹ bằng đường sau: kẹp-cắt ngắn kết mạc-cơ Mu
 
 ## 5. Hậu phẫu
 - Nhỏ kháng sinh 3 lần/ngày 1 tuần, giữ kính tiếp xúc tới hẹn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao đánh dấu bằng nửa tổng lượng cắt?

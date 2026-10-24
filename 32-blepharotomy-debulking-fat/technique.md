@@ -26,7 +26,7 @@ Một ca giải quyết cả co rút (hạ mi) lẫn phì đại mỡ (làm gọ
 - Chăm sóc: lạnh, đầu cao, không dụi.
 - Thuốc: mỡ kháng sinh 3 lần/ngày; nước mắt nhân tạo (lubricants).
 - Tái khám: 1 tuần cắt chỉ; cảnh giác chảy máu sau nhãn (đau-nhìn mờ-lồi tăng là cấp cứu); dài hạn hõm hốc/tái co rút.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: cộm đau tăng, hở mi, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao không kẹp mỡ trước khi cắt?

@@ -24,7 +24,7 @@ Viêm lệ quản mạn do nút lệ di cư: mở tìm dị vật 2 tầng (cut-
 
 ## 5. Hậu phẫu
 - Mỡ 3 lần/ngày; rút ~4 tháng; cấy-kháng sinh theo mủ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi, đau tăng, sưng nóng đỏ, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao phải 2 tầng cut-down?

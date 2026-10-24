@@ -23,7 +23,7 @@ Vạt trán cao cho khuyết trong cao: bóc rộng 2 đầu (chỗ cho tới g�
 
 ## 5. Hậu phẫu
 - Erythromycin 3 lần/ngày, hẹn 1 tuần; theo dõi sống vạt.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao vẽ vạt cao theo chiều rộng khuyết?

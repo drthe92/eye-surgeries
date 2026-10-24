@@ -24,10 +24,10 @@ Bài giảng kỹ thuật chuyển cơ khi không còn cơ để lùi/cắt: VRT
 - **Bước 5 — Biến chứng thiếu máu và bản mới:** Mổ 3 trực cùng mắt gây thiếu máu đoạn trước; bản chẻ trực ngoài chuyển vào trực trong có báo cáo phù gai + tràn dịch màng mạch. Nghiệm thu: đếm mạch máu trước khi mổ nhiều cơ. Lỗi: tham nhiều cơ một mắt gây hoại tử đoạn trước.
 
 ## 5. Hậu phẫu
-- Chăm sóc: kháng sinh-tra mắt, không dụi, tái khám 1 tuần-1 tháng-3 tháng.
-- Thuốc: kháng sinh + steroid tra theo phác đồ; giảm đau.
-- Tái khám: đo lăng kính lại, phát hiện u hạt sinh mủ (steroid tra, không phải nhiễm trùng) và nang vùi (mổ lấy).
-- Dặn quay lại ngay: đau dữ dội, sưng mủ, giảm thị lực, sốt.
+- Không có hậu phẫu: bài giảng so sánh các kỹ thuật chuyển cơ, không thực hiện trên bệnh nhân.
+- Khi áp dụng: theo dõi góc lác 1-2 tuần và 6-8 tuần, sắc giác mạc, phù gai/thiếu máu đoạn trước; đo lại vận nhãn.
+- Chọn kỹ thuật theo tình trạng cơ và mạch máu trước mổ; ghi rõ kiểu chuyển cơ để so sánh kết quả.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?

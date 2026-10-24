@@ -28,7 +28,7 @@ Sửa lật mi trong tuổi già bằng 3 cơ chế phối hợp trong một ca:
 - Chăm sóc: lạnh 24-48h, không dụi; giữ bolster nếu có tới lịch.
 - Thuốc: mỡ kháng sinh; nước mắt nhân tạo (lubricants).
 - Tái khám: 1 tuần đánh giá hướng lông/quặm/tái lật; 1 tháng đánh giá ổn định.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao điểm vào da cách bờ sụn đúng 1cm?

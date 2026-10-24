@@ -23,7 +23,7 @@ Cùng blepharo như số 70 nhưng cắt-cầm máu hoàn toàn bằng monopolar
 
 ## 5. Hậu phẫu
 - Như số 70, cộng theo dõi sẹo (đốt nhiều) và sụp mày.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Đánh đổi monopolar vs dao là gì?

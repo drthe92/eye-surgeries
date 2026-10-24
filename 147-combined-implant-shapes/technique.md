@@ -22,7 +22,7 @@ Tạo hình tấm theo hình nón hốc mắt (cỏ 3 lá khoét sau): mẫu Sup
 
 ## 5. Hậu phẫu
 - Như vỡ 2 thành.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: lồi mắt tăng, nhìn đôi tăng, mất thị lực, tê môi-má.
 
 ## 6. Tự lượng giá
 1. Vì sao khoét sau tấm theo hình nón?

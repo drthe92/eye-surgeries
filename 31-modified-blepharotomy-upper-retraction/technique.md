@@ -21,6 +21,7 @@ Giải phóng bậc thang từ ngoài vào trong-trên xuống dưới: cân-vá
 - **Bước 2 — Bóc cân-Muller:** dao đốt bóc cân-vách khỏi mặt trước sụn rồi bóc lên giữa cân và Muller, tránh lộ mỡ trước cân. Nghiệm thu: mặt bóc sạch. Cốt lõi: dao đốt nhiệt. Lỗi: lộ mỡ gây chảy máu khó cầm.
 - **Bước 3 — Cắt sừng ngoài:** dao đốt + kéo cắt sừng ngoài cân cơ nâng. Nghiệm thu: hết temporal flare. Cốt lõi: bắt buộc, không bỏ qua. Lỗi: sót sừng ngoài gây vểnh ngoài tồn lưu.
 - **Bước 4 — Mở Muller-kết mạc + căn ngồi:** Rạch trên bờ sụn qua Muller-kết mạc từ ngoài vào giữa; dựng BN ngồi kiểm tra; còn cao thì bóc Muller khỏi kết mạc trong + rạch kết mạc chừa cầu ngang đỉnh đồng tử. Nghiệm thu: độ cao đối xứng khi ngồi. Cốt lõi: căn ngồi là nghiệm thu vàng; chừa cầu kết mạc chống hạ quá. Lỗi: không căn ngồi gây hạ lệch; cắt hết cầu gây sụp quá.
+- **Bước 5 — Đóng da:** khâu da 6-0 mũi rời, đối chiếu nếp mi hai bên. Nghiệm thu: mép da áp, nếp mi đối xứng. Cốt lõi: đóng da không căng. Lỗi: khâu căng gây hở mi hoặc sẹo xấu.
 
 ## 5. Hậu phẫu
 - Chăm sóc: lạnh, không dụi.

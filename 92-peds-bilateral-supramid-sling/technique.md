@@ -25,7 +25,7 @@ Treo trán 2 bên bằng chỉ supramid ở trẻ nhỏ chưa lấy được câ
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; nước mắt nhân tạo (lubricants) (hở); theo dõi nhược thị + thay cân tự thân khi lớn.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải cố định sụn thay vì đặt trần?

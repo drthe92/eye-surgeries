@@ -26,7 +26,7 @@ Treo silicone 2 bên có căn ngồi (lợi thế người lớn so với trẻ 
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh, hẹn 1 tuần; nước mắt nhân tạo (lubricants) (hở); theo dõi lộ ống/nhiễm trùng.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, lộ vật liệu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Liệt kê 5 yếu tố tạo nếp trong ca này?

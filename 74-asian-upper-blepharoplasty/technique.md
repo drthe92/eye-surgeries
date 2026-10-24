@@ -24,7 +24,7 @@ Tạo nếp mi thấp vừa chắc cho mắt châu Á bằng cách tái lập b�
 
 ## 5. Hậu phẫu
 - Đá + kê cao đầu 2 ngày, prednisone giảm liều (trẻ), erythromycin 3 lần/ngày, cắt chỉ 1 tuần.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, lồi mắt, mất thị lực, chảy máu.
 
 ## 6. Tự lượng giá
 1. Vì sao cấm mở vách ở mi châu Á?

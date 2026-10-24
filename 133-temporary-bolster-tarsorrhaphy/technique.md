@@ -23,7 +23,7 @@ Khép mi tạm không cắt mô bằng vòng chỉ quanh đệm ống: đệm ph
 
 ## 5. Hậu phẫu
 - Giữ đệm tới khi liệt cải thiện; theo dõi cứa bờ mi/nhiễm trùng chân chỉ; tháo là mở lại.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao vòng kép quanh đệm thay vì vòng đơn?

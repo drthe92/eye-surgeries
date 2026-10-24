@@ -23,7 +23,7 @@ Cùng cắt cơ Muller-kết mạc (MMCR) nhưng đưa cả 2 nút ra da (xuyên
 
 ## 5. Hậu phẫu
 - Mỡ kháng sinh 3 lần/ngày 1 tuần, KHÔNG kính tiếp xúc; theo dõi nút da (sẹo nhỏ, nhiễm trùng chân chỉ).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao đưa nút ra ngoài thì khỏi kính tiếp xúc?

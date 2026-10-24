@@ -22,7 +22,7 @@ Cùng tiến (advancement) như số 81, bài này dạy chỉnh đường cong:
 
 ## 5. Hậu phẫu
 - Như số 81.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Cao độ và đường cong chỉnh theo 2 trục nào?

@@ -27,7 +27,7 @@ Một thì cho khuyết ngoài toàn bộ chiều dày: dải màng xương thay
 - Chăm sóc: lạnh 24-48h, không dụi.
 - Thuốc: mỡ kháng sinh 3 lần/ngày.
 - Tái khám: 1 tuần đánh giá sống vạt/căng mi; 1 tháng đánh giá trễ thứ phát.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đầu vạt trắng-tím-đen, chảy máu, sưng nóng đỏ, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao da actinic buộc vạt phải rộng?

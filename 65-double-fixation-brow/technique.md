@@ -24,7 +24,7 @@ Chống tụt ở mày nặng bằng 2 tầng neo: Endotine trán (giữ dài h�
 ## 5. Hậu phẫu
 - Băng đầu 2 ngày, cắt nylon + chỉ 1 tuần; mỡ kháng sinh.
 - Tái khám: tụt sớm/tụt muộn (2 mốc khác nhau của 2 neo).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, tụ máu da đầu, đau tăng.
 
 ## 6. Tự lượng giá
 1. Vì sao mày nặng cần 2 tầng neo?

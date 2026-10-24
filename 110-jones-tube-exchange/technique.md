@@ -23,7 +23,7 @@
 
 ## 5. Hậu phẫu
 - Như số 109 (cấm mỡ, vệ sinh ống); theo dõi lại sai cỡ.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: ống trượt, chảy máu mũi, sưng nóng đỏ, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Vì sao Bowman không thay được Quickert-Dryden ở đây?

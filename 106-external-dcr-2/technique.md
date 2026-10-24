@@ -23,7 +23,7 @@ Cùng mở lệ đạo (DCR) ngoài như số 105, bài này cho 3 bài học m�
 
 ## 5. Hậu phẫu
 - Như số 105 (mỡ 3 lần/ngày, 1 tuần).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Công thức 3 yếu tố thành công mở lệ đạo là gì?

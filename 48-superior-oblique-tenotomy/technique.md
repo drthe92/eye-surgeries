@@ -24,7 +24,7 @@ Làm yếu cơ chéo trên bằng cách cắt gân (tenotomy): triệt để, kh
 
 ## 5. Hậu phẫu
 - Tái khám ngày 1, 6 tuần đo dọc-xoắn; dặn song thị dọc/xoắn thoáng qua.
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
 1. Vì sao tenotomy triệt để mà không chỉnh liều được?

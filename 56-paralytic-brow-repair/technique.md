@@ -27,7 +27,7 @@ Direct mày (brow) cho mày liệt: cơ trán đã mất nên được phép bó
 - Chăm sóc: bảo vệ giác mạc là chính (lubricants, băng đêm, Frost nếu hở).
 - Thuốc: mỡ kháng sinh 3 lần/ngày 1 tuần.
 - Tái khám: 1 tuần cắt chỉ; dài hạn viêm giác mạc/tái sụp (cơ liệt tiếp tục teo).
-- Dặn quay lại ngay các dấu hiệu trên.
+- Dặn quay lại ngay: sưng nóng đỏ, bất đối xứng tăng, đau tăng, sẹo lồi.
 
 ## 6. Tự lượng giá
 1. Vì sao liệt được bóc sâu hơn mà direct thường thì cấm?
