@@ -116,3 +116,10 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Đã viết lại mục 2/3/5 cho cả 15 bài theo đúng bước (rạch, rhexis, hydro, chia nhân, rửa cortex, IOL, OVD, thông số…), cá nhân hóa mục 6.
 - Checker: cấm 3 câu template Cataract; thêm báo cáo khối mục 2/3/5 trùng; thêm `--strict` để coi khối trùng là lỗi.
 - Kết quả Cataract: 0 lỗi, 0 cảnh báo. Toàn repo: 0 lỗi, 204 cảnh báo; `--strict` còn 20 khối mục 2/3/5 trùng thuộc 6 nhóm C/S/L/R/F/Bx — nợ cũ, không phải Cataract.
+
+### Hoàn tất 20 khối trùng mục 2/3/5 (2026-10-24)
+- Đã sửa theo thứ tự: C-lower-lid 194–223 (30 bài), S-strabismus 226–252 trừ 242 (26 bài), L-lacrimal 267–275 (9 bài, sửa cả mục 4), R-recon 287–293 (7 bài), F-palsy 261–266 (6 bài), Bx-biopsy 175–181 (7 bài, chỉ mục 5).
+- Mỗi bài có mục 2/3/5 đặc thù; L viết lại mục 4 vì mục 4 cũ dùng chung khung; C/S/L/R/F chỉnh mục 4 khi dụng cụ ở mục 3 không xuất hiện.
+- Kết quả: 310 bài, **0 lỗi, 64 cảnh báo**; `python3 tools/kiem-tra-bai.py --strict` **exit 0**, không còn khối mục 2/3/5 trùng ≥5.
+- 64 cảnh báo còn lại ngoài phạm vi 6 nhóm: 33 dụng cụ không lặp ở mục 4, 22 mục 2 ngắn, 9 câu chung chung ở E/T (276–283).
+- Khối tự lượng giá (mục 6) vẫn lặp ở một số nhóm; chưa nằm trong phạm vi đợt này.
