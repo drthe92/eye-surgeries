@@ -79,19 +79,19 @@ Chuẩn tham chiếu: nhóm **A (78,8 từ)** và **B** — giữ nguyên, khôn
 
 **Quy trình mỗi nhóm:** viết lại mô tả trong `LEARNING-INDEX.md` → cập nhật `data-t` + `.summ` trong `index.html` → kiểm đếm → commit (cập nhật bảng này).
 
-### Còn lại sau khi xong S (2026-10-23)
+### Đã hoàn tất toàn bộ (2026-10-24)
 Đã đạt chuẩn: Ca, R, O, T, M, L, C, F, S. **Còn 75 thẻ dưới 60 từ** ở các nhóm chưa làm:
 
 | Nhóm | Số bài dưới 60 | Tổng | TB hiện tại | Ưu tiên |
 |---|---|---|---|---|
 | P-ptosis ✅ | 0 | 26 | 44,5 → 65,5 | xong |
-| B-ectropion/entropion | 13 | 19 | 45,9 | 2 |
-| E-blepharo | 13 | 14 | 43,8 | 3 |
-| Bx-biopsy | 10 | 10 | 45,1 | 4 |
-| W-brow | 8 | 18 | 59,1 | 5 |
-| D-midface | 2 | 3 | 44,3 | 6 |
-| U-upper | 2 | 5 | 50,6 | 7 |
-| U-retraction | 2 | 9 | 67,7 | 8 |
-| N-anesthesia | 1 | 5 | 62,0 | 9 |
+| B-ectropion/entropion ✅ | 0 | 19 | 70,8 | xong |
+| E-blepharo ✅ | 0 | 14 | 63,1 | xong |
+| Bx-biopsy ✅ | 0 | 10 | 67,1 | xong |
+| W-brow ✅ | 0 | 18 | 66,1 | xong |
+| D-midface ✅ | 0 | 3 | 66,7 | xong |
+| U-upper ✅ | 0 | 5 | 73,6 | xong |
+| U-retraction ✅ | 0 | 9 | 69,1 | xong |
+| N-anesthesia ✅ | 0 | 5 | 69,0 | xong |
 
-Nguyên tắc: nhóm nào nhiều thẻ dưới chuẩn nhất làm trước; các bài đã ≥60 giữ nguyên.
+Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Không còn thẻ nào dưới chuẩn.
