@@ -7,14 +7,14 @@
 Khuyết lá trước mi trên hình thoi/tròn: vạt hình thoi xoay vào, sẹo hình học gọn. Khác 219 (vạt hình thoi vùng mi-má) ở vị trí và độ dày da.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết lá trước mi trên hình thoi/tròn, da xung quanh đủ.
+- Chống chỉ định tương đối: khuyết quá lớn, da xơ, thiếu cân. Thay thế: 287/288 vạt tiến; 292 ghép.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp, đốt bipolar, Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, vẽ hình thoi, đồng thuận sẹo.
+- Đánh giá nền: da mi, cân nâng, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Vẽ hình thoi chuẩn:** Góc 60-120 độ quanh khuyết. Nghiệm thu: đối xứng. Cốt lõi: hình học quyết định khít. Lỗi: vẽ ẩu.
@@ -24,10 +24,10 @@ Khuyết lá trước mi trên hình thoi/tròn: vạt hình thoi xoay vào, s�
 - **Bước 5 — Sẹo theo nếp:** Hướng sẹo đẹp. Nghiệm thu: sẹo mờ dần. Lỗi: sẹo ngang nếp.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng; 3 tháng.
+- Dặn quay lại ngay: đầu vạt tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?

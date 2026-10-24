@@ -7,14 +7,14 @@
 Khuyết lá trước mi trên chỉ thiếu da (cơ-cân còn): ghép da toàn lớp phủ, ép bolster. Lá trước mỏng co giãn tốt nên ghép da đơn giản hơn vạt khi khuyết vừa.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết lá trước mi trên chỉ thiếu da, cơ-cân còn.
+- Chống chỉ định tương đối: lộ cân/cơ, nền xơ, nhiễm trùng. Thay thế: 287/288 vạt tiến; 293 vạt hình thoi.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, khuôn giấy, kéo, chỉ silk 6-0, bolster.
+- Bệnh nhân: chụp ảnh, đo khuyết, đánh dấu nơi cho.
+- Đánh giá nền: cân nâng, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Xác nhận chỉ thiếu da:** Cơ nâng/cân còn, lá sau còn. Nghiệm thu: khung chức năng còn. Cốt lõi: mất cơ phải vạt. Lỗi: ghép da lên nền mất cơ.
@@ -24,10 +24,10 @@ Khuyết lá trước mi trên chỉ thiếu da (cơ-cân còn): ghép da toàn 
 - **Bước 5 — Theo dõi hở mi:** Kiểm tra nhắm kín. Nghiệm thu: không hở. Cốt lõi: mi trên ghép dễ hở. Lỗi: bỏ theo dõi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Chăm sóc: bolster 5-7 ngày, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh.
+- Tái khám: 1 tuần tháo bolster; 1 tháng; 3 tháng.
+- Dặn quay lại ngay: ghép tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?

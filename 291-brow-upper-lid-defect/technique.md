@@ -7,14 +7,14 @@
 Khuyết liên tục từ giữa mày xuống mi trên: phải tái tạo cả mày lẫn mi, thường bằng vạt tại chỗ + ghép/tiến, giữ đúng hướng lông mày.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết liên tục giữa mày + mi trên, cần tái tạo cả hai.
+- Chống chỉ định tương đối: khuyết quá lớn, mô xơ, nhiễm trùng. Thay thế: 290 nhiều vạt; 292 ghép da.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: gây mê hoặc tê + an thần.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp, đốt bipolar, Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, đánh dấu hướng lông mày, đồng thuận sẹo.
+- Đánh giá nền: mày, mi trên, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá hai vùng:** Mày + mi trên cùng khuyết. Nghiệm thu: bản đồ mô thiếu. Cốt lõi: mày và mi có hướng lông khác nhau. Lỗi: một vạt cho cả hai gây lông sai hướng.
@@ -25,9 +25,9 @@ Khuyết liên tục từ giữa mày xuống mi trên: phải tái tạo cả m
 
 ## 5. Hậu phẫu
 - Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá mày/mi; 3 tháng.
+- Dặn quay lại ngay: đầu vạt tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?

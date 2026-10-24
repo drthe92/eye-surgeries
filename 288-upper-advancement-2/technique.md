@@ -7,14 +7,14 @@
 Biến thể vạt tiến mi trên (đường cong/nguồn vạt khác) cho khuyết lá trước lớn hơn: cùng nguyên lý trượt nhưng thiết kế theo đường cong tự nhiên để giấu sẹo.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết lá trước mi trên lớn hơn, cần vạt tiến thiết kế theo đường cong để giấu sẹo.
+- Chống chỉ định tương đối: khuyết toàn bộ, da xơ, thiếu cân. Thay thế: 287 vạt thẳng; 289 vạt cuống; 292 ghép.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp, đốt bipolar, Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, vẽ đường cong, đồng thuận sẹo.
+- Đánh giá nền: da mi, cân nâng, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — So với vạt tiến 1:** Khác thiết kế/đường cong. Nghiệm thu: chọn bản hợp khuyết. Cốt lõi: cùng nguyên lý, khác hình học. Lỗi: học vẹt một bản.
@@ -24,10 +24,10 @@ Biến thể vạt tiến mi trên (đường cong/nguồn vạt khác) cho khuy
 - **Bước 5 — Theo dõi sẹo:** Massage, chống nắng. Nghiệm thu: sẹo mềm. Cốt lõi: vùng mi dễ sẹo lồi. Lỗi: bỏ theo dõi.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá sẹo/hở mi; 3 tháng.
+- Dặn quay lại ngay: đầu vạt tím-đen, hở mi tăng, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?

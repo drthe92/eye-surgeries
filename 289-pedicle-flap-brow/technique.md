@@ -7,14 +7,14 @@
 Khuyết lá trước mi trên lớn không đóng được tại chỗ: lấy vạt da-có-cuống từ vùng mày chuyển xuống, cuống nuôi giữ vài tuần rồi cắt. Đổi lại phải hai thì và mất mô mày.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết lá trước mi trên lớn không đóng tại chỗ, cần vạt có cuống từ mày.
+- Chống chỉ định tương đối: khuyết nhỏ, da mày kém, bệnh nhân không chấp nhận hai thì. Thay thế: 287/288 vạt tiến; 292 ghép da.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: gây mê hoặc tê + an thần.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp, đốt bipolar, Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, đánh dấu cuống, đồng thuận hai thì.
+- Đánh giá nền: mạch cuống, da mày, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Chỉ định vạt có cuống:** Khuyết lớn, da tại chỗ không đủ. Nghiệm thu: ướm tại chỗ không kín. Cốt lõi: cuống nuôi cho vạt lớn sống chắc. Lỗi: dùng vạt nhỏ khi còn cách đơn giản.
@@ -24,10 +24,10 @@ Khuyết lá trước mi trên lớn không đóng được tại chỗ: lấy v
 - **Bước 5 — Tỉa và tạo bờ:** Tỉa mô thừa, tạo bờ mi. Nghiệm thu: bờ đều, không cộm. Cốt lõi: thì hai quyết định thẩm mỹ. Lỗi: để vạt dày cộm.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Chăm sóc: chườm lạnh, không dụi, giữ cuống khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần kiểm tra cuống; 2-3 tuần cắt cuống; 3 tháng.
+- Dặn quay lại ngay: cuống tím-đen, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?

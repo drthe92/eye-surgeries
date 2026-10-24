@@ -7,14 +7,14 @@
 Vạt da-cơ tiến từ phía trên/dưới khuyết lá trước mi trên: huy động da lân cận trượt vào, khâu không căng. Chọn khi khuyết lá trước vừa, da xung quanh còn di động.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: khuyết lá trước/cả lớp đúng như mô tả.
-- Chống chỉ định tương đối: nhiễm trùng cấp, bờ u chưa rõ. Thay thế: xem mục 7.
+- Chỉ định: khuyết lá trước mi trên vừa, da quanh còn di động, không thiếu cân/cơ.
+- Chống chỉ định tương đối: khuyết quá lớn, da xơ, thiếu cân nâng, nhiễm trùng. Thay thế: 288 vạt cong; 292 ghép da; 289 vạt cuống.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo Westcott, đốt lưỡng cực, chỉ tiêu 5-0/6-0, chỉ da mảnh, bolster.
-- Bệnh nhân: chụp ảnh, đánh dấu khi mở mắt, đồng thuận sẹo và mổ thì hai.
-- Đánh giá nền: Bell, khô mắt, chức năng cơ nâng.
+- Vô cảm: tê tại chỗ + epi; trẻ em mê.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp mô, đốt bipolar, Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, đánh dấu vạt, đồng thuận sẹo/hở mi.
+- Đánh giá nền: da mi, cân nâng, Bell, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá khuyết lá trước:** Chỉ thiếu da-cơ, lá sau còn. Nghiệm thu: sờ còn sụn-kết mạc. Cốt lõi: mất lá sau phải ghép/vạt phức hợp. Lỗi: chỉ tiến da cho khuyết toàn lớp.
@@ -24,10 +24,10 @@ Vạt da-cơ tiến từ phía trên/dưới khuyết lá trước mi trên: huy
 - **Bước 5 — Kiểm tra hở mi:** Cho nhắm-mở trên bàn. Nghiệm thu: nhắm kín. Cốt lõi: mi trên dễ hở nếu căng. Lỗi: bỏ kiểm tra động.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh, không dụi, giữ khô.
-- Thuốc: mỡ kháng sinh; nước mắt nhân tạo nếu hở.
-- Tái khám: 1 tuần (sống vạt/ghép, bờ mi), 1 tháng (sẹo).
-- Dặn quay lại ngay: đầu vạt/ghép trắng-đen, đau tăng, sưng mủ.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ; 1 tháng đánh giá hở mi/sẹo.
+- Dặn quay lại ngay: đầu vạt tím-đen, hở mi tăng, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Khuyết này chỉ thiếu da hay mất cả khung chức năng?
