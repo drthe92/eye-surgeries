@@ -7,14 +7,14 @@
 OVD là chất nhầy đàn hồi bảo vệ nội mô và giữ tiền phòng trong suốt ca. Có hai loại: cohesive (dính, dễ hút sạch, giữ khoảng tốt) và dispersive (phân tán, bám nội mô, khó hút). Chọn và phối hợp đúng loại quyết định độ an toàn của nội mô và độ sạch cuối ca.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: dùng OVD trong mọi ca phaco để giữ tiền phòng và bảo vệ nội mô, nhất là nhân dày, giác mạc mỏng hoặc mắt đã mổ.
+- Chống chỉ định tương đối: dị ứng thành phần, tiền phòng không vững, glocom không kiểm soát. Thay thế: OVD khác hoặc BSS.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn, hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: OVD cohesive/dispersive, bơm, cannula, BSS, đầu I/A.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: nội mô, nhãn áp, dị ứng, độ cứng nhân.
 
 ## 4. Quy trình
 - **Bước 1 — Chọn loại OVD:** Cohesive cho capsulorhexis/đặt IOL; dispersive khi cần bảo vệ nội mô lâu hoặc nhân dày. Nghiệm thu: loại khớp thì. Cốt lõi: cohesive giữ khoảng, dispersive bảo vệ. Lỗi: dùng một loại cho mọi thì.
@@ -26,13 +26,13 @@ OVD là chất nhầy đàn hồi bảo vệ nội mô và giữ tiền phòng t
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra nhãn áp (OVD còn), giác mạc, IOL; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, đỏ đau, buồn nôn.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. OVD cohesive và dispersive khác nhau thế nào?
+2. Khi nào cần bổ sung OVD giữa ca?
+3. Vì sao phải hút sạch OVD trước khi kết thúc?
 
 ## 7. Bài liên quan
 - [302 — Đặt IOL](../302-iol-wound-closure-6-6/technique.md): hút visco.

@@ -7,14 +7,14 @@
 Rửa cortex dùng đầu I/A hút vỏ nhân và mảnh epinucleus còn lại, làm sạch bao sau trước khi đặt IOL. Hai nguyên tắc: di chuyển theo cung (không kéo thẳng tâm) để giảm lực lên zonule, và luôn nhìn thẳng vào miệng hút để tránh bắt bao sau. Đây là thì dễ rách bao nhất về cuối ca.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: làm sạch cortex và epinucleus trước khi đặt IOL trong mọi ca phaco.
+- Chống chỉ định tương đối: bao sau rách lớn hoặc zonule yếu (hút áp thấp, hạn chế xoay); mắt viêm cấp. Thay thế: I/A hai tay hoặc để lại mảnh cortex nhỏ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: đầu I/A, viscoelastic, BSS, cannula.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: bao sau, zonule, lượng cortex còn lại.
 
 ## 4. Quy trình
 - **Bước 1 — Hút mảnh epinucleus còn lại:** Dùng I/A hoặc epinucleus mode, hút từ trung tâm ra. Nghiệm thu: hết mảnh lớn. Cốt lõi: giữ bao sau căng bằng nhân còn lại khi có thể. Lỗi: hút mạnh khi tiền phòng nông.
@@ -26,13 +26,13 @@ Rửa cortex dùng đầu I/A hút vỏ nhân và mảnh epinucleus còn lại, 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra nhãn áp, bao sau và cortex sót; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, tiền phòng nông, đỏ đau.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Vì sao hút cortex phải đi theo cung?
+2. Vì sao phải nhìn thẳng vào miệng hút?
+3. Khi nào chấp nhận để lại một mảnh cortex nhỏ?
 
 ## 7. Bài liên quan
 - [300 — Chia nhân](../300-nucleus-removal-dc-4-6/technique.md): bước trước.

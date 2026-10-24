@@ -7,14 +7,14 @@
 Stop and chop là biến thể của divide and conquer: sau khi tạo rãnh và bẻ đôi, mỗi nửa nhân được giữ bằng chân không cao rồi dùng dụng cụ phụ chẻ thành nhiều mảnh ngay tại trung tâm, thay vì nhũ hóa từng mảnh lớn. Lợi ích: ít năng lượng, ít dịch qua mắt, kiểm soát mảnh tốt hơn — nhưng đòi hỏi phối hợp hai tay.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: nhân vừa-cứng, muốn giảm năng lượng và giữ mảnh tại trung tâm; phù hợp người đã quen divide and conquer.
+- Chống chỉ định tương đối: nhân quá mềm, bao sau rách, zonule yếu. Thay thế: divide and conquer hoặc I/A.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: đầu phaco, chopper/Sinskey, viscoelastic, BSS, đầu I/A.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: độ cứng nhân, bao sau, zonule.
 
 ## 4. Quy trình
 - **Bước 1 — Rãnh và bẻ đôi:** Sculpt rãnh hình thuyền sâu 2-3 lượt, bẻ đôi bằng lực song song mống mắt. Nghiệm thu: hai nửa nhân tách sạch. Cốt lõi: rãnh đủ sâu, bẻ ngang. Lỗi: ấn xuống khi bẻ.
@@ -26,13 +26,13 @@ Stop and chop là biến thể của divide and conquer: sau khi tạo rãnh và
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra nhãn áp, phù giác mạc, mảnh nhân sót; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, đỏ đau, buồn nôn.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Stop and chop khác divide and conquer ở điểm nào?
+2. Vì sao phải giữ nửa nhân bằng vacuum cao?
+3. Khi nào không nên dùng stop and chop?
 
 ## 7. Bài liên quan
 - [300 — Divide and conquer](../300-nucleus-removal-dc-4-6/technique.md): bản gốc.

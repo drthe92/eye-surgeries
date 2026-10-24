@@ -42,3 +42,6 @@ Mục 2 và mục 3 phải **đặc thù cho đúng kỹ thuật này**, không 
 - Mục 5: câu “Dặn quay lại ngay” phải nêu dấu hiệu cụ thể; bài tiêm/đông lạnh không chườm lạnh, không vết mổ, không cắt chỉ; bài giảng ghi “Không có hậu phẫu”.
 - Cấu trúc đúng 1–7, mỗi mục một lần; không trùng số mục.
 - Sửa câu hậu phẫu rỗng: `python3 tools/kiem-tra-bai.py --fix` (chỉ thay câu rỗng, không thay nội dung đặc thù).
+
+- Không dùng chung nguyên khối mục 2/3/5 giữa các bài. Bài theo bước chỉ nêu dụng cụ của bước đó; bài thiết lập máy/thông số ghi “Không có hậu phẫu riêng”.
+- Kiểm khối trùng: `python3 tools/kiem-tra-bai.py --strict`.

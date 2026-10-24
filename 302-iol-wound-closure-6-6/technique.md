@@ -7,14 +7,14 @@
 Đặt IOL trong bao là đích của phaco: bơm viscoelastic làm căng bao, đưa cartridge vào chậm, xác nhận haptic trước vào bao trước khi đẩy, rồi xử lý haptic sau. Đóng vết rạch bằng hydration đúng lớp để mắt kín nước nhưng không quá căng; sót viscoelastic gây tăng nhãn áp và viêm.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: đặt IOL trong bao sau khi đã sạch cortex; đóng vết rạch kín nước bằng hydration.
+- Chống chỉ định tương đối: bao sau rách lớn hoặc không đủ đỡ IOL (chọn IOL sulcus/ba mảnh), tiền phòng không vững. Thay thế: IOL sulcus hoặc khâu giác mạc 10-0.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: cartridge, IOL, viscoelastic, đầu I/A, BSS, cannula hydration.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, đánh dấu trục IOL.
+- Đánh giá nền: bao sau, zonule, công suất IOL, độ loạn thị giác mạc.
 
 ## 4. Quy trình
 - **Bước 1 — Bơm viscoelastic làm căng bao:** Bơm vào bao trước (dưới IOL), rồi tiền phòng; luôn bơm khi đầu cannula di chuyển. Nghiệm thu: bao căng tròn, đủ chỗ cho IOL. Cốt lõi: bơm bao trước, không bơm tiền phòng trước. Lỗi: bơm tiền phòng trước làm bao sau xẹp.
@@ -26,13 +26,13 @@
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra vị trí IOL, kín vết rạch và nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: IOL lệch, rò dịch, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Vì sao phải xác nhận haptic trước đã vào bao rồi mới đẩy piston?
+2. Hydration đúng lớp nhằm mục đích gì?
+3. Khi nào chọn IOL sulcus thay vì trong bao?
 
 ## 7. Bài liên quan
 - [301 — Rửa cortex](../301-cortex-removal-5-6/technique.md): bước trước.

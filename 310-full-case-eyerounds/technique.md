@@ -7,14 +7,14 @@
 Ca toàn bộ của EyeRounds là mẫu để ráp 9 bài trước thành một quy trình liền mạch: chuẩn bị → rạch → visco → capsulorhexis → hydro → phaco → rửa cortex → IOL → đóng. Giá trị là nhịp độ và các điểm kiểm tra giữa các bước.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: ca phaco cơ bản toàn bộ, nhân vừa, cần học trình tự liền mạch.
+- Chống chỉ định tương đối: nhân quá cứng, zonule yếu, bao rách, mắt đã mổ phức tạp. Thay thế: chia bước hoặc ECCE.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn, hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu; trẻ em mê.
+- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, đánh dấu trục.
+- Đánh giá nền: độ cứng nhân, bao/zonule, nội mô giác mạc.
 
 ## 4. Quy trình
 - **Bước 1 — Chuẩn bị và rạch:** Kiểm tra máy, tư thế; rạch phụ + rạch chính 3 mặt phẳng. Nghiệm thu: tiền phòng vững. Cốt lõi: không ấn khi rạch. Lỗi: rạch vào kết mạc.
@@ -26,13 +26,13 @@ Ca toàn bộ của EyeRounds là mẫu để ráp 9 bài trước thành một 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
+- Tái khám: 1 ngày kiểm tra nhãn áp, giác mạc, IOL; 1 tuần, 1 tháng.
 - Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Nhịp độ ca phaco toàn bộ gồm những mốc kiểm tra nào?
+2. Trước khi đặt IOL cần xác nhận gì?
+3. Dấu hiệu nào buộc dừng ca giữa chừng?
 
 ## 7. Bài liên quan
 - [303 — Ca người mới Cybersight](../303-phaco-beginners-full/technique.md): so sánh.

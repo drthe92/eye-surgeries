@@ -7,14 +7,14 @@
 Capsulorhexis bằng kim (needle cystotome) là biến thể dùng kim 27G bẻ cong làm móc, không cần kẹp bao. Ưu điểm: xuyên qua vết rạch nhỏ, cảm giác căng bao tốt; nhược điểm: khó kiểm soát hơn kẹp khi bao mỏng. Nguyên tắc vẫn là giữ mép gấp và đi vòng liên tục.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: bao trước mỏng hoặc đồng tử giãn kém, cần rhexis qua rạch nhỏ; phù hợp người đã quen tay.
+- Chống chỉ định tương đối: bao xơ cứng, rách bao trước, mắt viêm cấp. Thay thế: kẹp Utrata hoặc keratome.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: kim 27G bẻ móc, viscoelastic, BSS, cannula.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: bao trước, zonule, độ giãn đồng tử.
 
 ## 4. Quy trình
 - **Bước 1 — Bẻ kim và vào tiền phòng:** Kim 27G bẻ móc nhẹ, vào qua rạch phụ. Nghiệm thu: đầu móc kiểm soát được. Cốt lõi: bẻ đúng góc, không sắc. Lỗi: đầu kim quá nhọn làm rách bao.
@@ -26,13 +26,13 @@ Capsulorhexis bằng kim (needle cystotome) là biến thể dùng kim 27G bẻ 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra vòng bao, IOL và nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: rách bao lan, IOL lệch, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Ưu và nhược của needle cystotome so với kẹp Utrata?
+2. Vì sao nên đi vòng từng 2 giờ rồi nhả?
+3. Xử lý bao mỏng thế nào để tránh rách nan hoa?
 
 ## 7. Bài liên quan
 - [298 — Capsulorhexis kẹp](../298-capsulorhexis-2-6/technique.md): bản gốc.

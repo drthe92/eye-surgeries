@@ -7,14 +7,14 @@
 Ca toàn bộ của Coleman là bản mẫu để học trình tự: rạch → visco → capsulorhexis → hydro → divide and conquer → rửa cortex → IOL → hút visco → hydration. Giá trị lớn nhất là các quy tắc nhỏ (không ấn khi rạch, ba lượt rãnh đầu mạnh, mảnh 1/4, rửa cortex theo cung, nhìn thẳng miệng hút) giúp người mới tránh biến chứng.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: ca phaco đầu tay hoặc nhân vừa, cần học trình tự chuẩn từ rạch đến đóng.
+- Chống chỉ định tương đối: nhân quá cứng, bao/zonule yếu, mắt đã mổ phức tạp. Thay thế: chia nhỏ theo từng bước hoặc ECCE.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu; trẻ em mê.
+- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, đánh dấu trục.
+- Đánh giá nền: độ cứng nhân, bao/zonule, nội mô giác mạc.
 
 ## 4. Quy trình
 - **Bước 1 — Rạch và visco:** Rạch phụ 15° cách rìa 0,5-1mm, rạch chính 2,4mm cách rìa 0,5mm; bơm visco đuổi bọt. Nghiệm thu: tiền phòng vững. Cốt lõi: không ấn xuống khi khởi đầu rạch chính. Lỗi: rạch vào kết mạc gây bong.
@@ -26,13 +26,13 @@ Ca toàn bộ của Coleman là bản mẫu để học trình tự: rạch → 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
+- Tái khám: 1 ngày kiểm tra nhãn áp, giác mạc, IOL; 1 tuần, 1 tháng.
 - Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Ba điểm kiểm tra giữa ca trong ca phaco toàn bộ là gì?
+2. Vì sao không được ấn khi rạch?
+3. Khi nào nên dừng ca và chuyển ECCE?
 
 ## 7. Bài liên quan
 - [296 — Thiết lập](../296-thiet-lap-may-phaco/technique.md): nền.

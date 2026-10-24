@@ -9,8 +9,9 @@ Cách dùng:
     python3 tools/kiem-tra-bai.py 185 187      # kiểm tra vài bài
     python3 tools/kiem-tra-bai.py --fix        # thay câu hậu phẫu rỗng
     python3 tools/kiem-tra-bai.py --fix 185    # chỉ sửa bài 185
+    python3 tools/kiem-tra-bai.py --strict     # coi khối mục 2/3/5 trùng là lỗi
 
-Mã thoát 1 nếu còn lỗi (ERROR).
+Mã thoát 1 nếu còn lỗi (ERROR), hoặc nếu --strict và còn khối trùng.
 """
 import os
 import re
@@ -24,6 +25,9 @@ BANNED = [
     "đúng bệnh (phân biệt tuổi già-sẹo-bẩm sinh)",
     "chỉ tiêu 5-0/6-0 và chỉ không tiêu 4-0 cho neo ngang",
     "nhiễm trùng cấp, bệnh toàn thân chưa kiểm soát",
+    "kỹ thuật này là một bước của phaco",
+    "đục thủy tinh thể cần lấy nhân, đặt IOL",
+    "bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS",
 ]
 
 WEAK = [
@@ -267,6 +271,20 @@ def selfcheck_blocks(targets):
     return c
 
 
+def duplicate_sections(targets):
+    """Đếm các khối mục 2/3/5 giống nguyên văn giữa nhiều bài."""
+    out = {}
+    for key in ("2", "3", "5"):
+        c = Counter()
+        for p in targets:
+            sec = sections(open(p, encoding="utf-8").read())
+            body = sec.get(key, "").strip()
+            if body:
+                c[body] += 1
+        out[key] = c
+    return out
+
+
 def fix(path, group):
     """Thay câu “các dấu hiệu trên” bằng dấu hiệu cụ thể theo kỹ thuật."""
     text = open(path, encoding="utf-8").read()
@@ -294,7 +312,8 @@ def fix(path, group):
 
 def main(argv):
     do_fix = "--fix" in argv
-    argv = [a for a in argv if a != "--fix"]
+    strict = "--strict" in argv
+    argv = [a for a in argv if a not in ("--fix", "--strict")]
     want = {int(x) for x in argv if x.isdigit()}
     groups = group_map()
 
@@ -345,7 +364,24 @@ def main(argv):
         for body, n in dup6[:6]:
             print(f"  {n:3d} bài | {body[:110].replace(chr(10), ' ')}")
 
+    dup_sec = duplicate_sections([p for _, p in targets])
+    shown = False
+    for key in ("2", "3", "5"):
+        for body, n in dup_sec[key].most_common(3):
+            if n < 5:
+                break
+            if not shown:
+                print("\nKhối mục 2/3/5 trùng nguyên văn ở nhiều bài (nên cá nhân hóa):")
+                shown = True
+            print(f"  mục {key}: {n:2d} bài | {body[:100].replace(chr(10), ' ')}")
+
     print(f"\nĐã kiểm tra {len(targets)} bài: {n_err} lỗi, {n_warn} cảnh báo.")
+
+    if strict:
+        dup_fail = any(n >= 5 for key in ("2", "3", "5") for n in dup_sec[key].values())
+        if dup_fail:
+            print("STRICT: còn khối mục 2/3/5 trùng nguyên văn — chưa đạt.")
+            return 1
     return 1 if n_err else 0
 
 

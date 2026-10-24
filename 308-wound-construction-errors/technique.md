@@ -7,14 +7,14 @@
 Vết rạch tốt là vết rạch 3 mặt phẳng, tự kín, đúng vị trí và đúng độ dài. Ba lỗi hay gặp: rạch quá dài (rò, loạn thị), rạch quá nông/không vào đúng mặt phẳng (tổn thương Descemet, rách bao), và đưa dao quá sâu (đâm vào thể thủy tinh). Mỗi lỗi đều để lại hậu quả suốt ca.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: mọi ca phaco cần rạch 3 mặt phẳng; bài này dùng khi rạch quá dài, quá nông/sâu hoặc rò tiền phòng.
+- Chống chỉ định: không có riêng; nếu rò không sửa được bằng hydration thì khâu giác mạc 10-0.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn, hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: keratome 2,4mm, dao 15°, cannula hydration, chỉ 10-0 nylon, BSS.
+- Bệnh nhân: sát khuẩn, đánh dấu vị trí rạch, mắt đúng trục.
+- Đánh giá nền: giác mạc, sẹo, nhãn áp, tiền sử mổ.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh dấu đúng vị trí:** Cách rìa 0,5mm trong giác mạc trong; tránh mạch kết mạc. Nghiệm thu: vết rạch đúng trục. Cốt lõi: vị trí quyết định góc tiếp cận. Lỗi: quá xa rìa gây chảy máu, quá gần trục thị giác.
@@ -26,13 +26,13 @@ Vết rạch tốt là vết rạch 3 mặt phẳng, tự kín, đúng vị trí
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra kín vết rạch, tiền phòng, nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: rò dịch, tiền phòng nông, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Ba lỗi rạch thường gặp là gì?
+2. Vì sao rạch quá dài gây rò và loạn thị?
+3. Khi nào phải khâu giác mạc thay vì hydration?
 
 ## 7. Bài liên quan
 - [297 — Rạch chuẩn](../297-rach-giac-mac/technique.md): bản đúng.

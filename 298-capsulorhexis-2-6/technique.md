@@ -7,14 +7,14 @@
 Capsulorhexis là mở bao trước thành vòng tròn liên tục, đường kính ~5-5,5mm, để lấy nhân và đặt IOL trong bao. Vòng liên tục mới chịu lực; một vết rách nan hoa là điểm yếu lan ra sau. Kỹ thuật là kiểm soát hướng xé bằng cách luôn lật mép bao.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: mở bao trước liên tục 5-5,5mm để lấy nhân và đặt IOL trong bao; phù hợp nhân mềm-vừa, đồng tử giãn tốt.
+- Chống chỉ định tương đối: bao trước xơ co cứng, bao quá mỏng/giòn, rách bao lan hoặc mắt viêm cấp. Thay thế: mở bao bằng kim/keratome hoặc chuyển ECCE nếu không giữ được bao.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: kẹp Utrata, kim 27G hoặc keratome, viscoelastic, BSS, cannula.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: bao trước, zonule, độ giãn đồng tử, độ cứng nhân.
 
 ## 4. Quy trình
 - **Bước 1 — Tạo lỗ mở trung tâm:** Chích bao bằng kim/keratome ở trung tâm, mở nhỏ rồi rộng dần. Nghiệm thu: lỗ tròn, kiểm soát được. Cốt lõi: mở nhỏ để còn đường sửa. Lỗi: mở quá lớn ngay gây mất kiểm soát.
@@ -25,14 +25,14 @@ Capsulorhexis là mở bao trước thành vòng tròn liên tục, đường k�
 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
-- Thuốc: kháng sinh nội nhãn cuối ca (cefuroxime/moxifloxacin); thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
+- Tái khám: 1 ngày kiểm tra vòng bao, vị trí IOL và nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: rách bao lan, IOL lệch, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Vì sao vòng rhexis liên tục quan trọng hơn kích thước?
+2. Xử lý thế nào khi đường xé chệch ra ngoài?
+3. Khi nào chuyển từ kẹp sang kim/keratome?
 
 ## 7. Bài liên quan
 - [297 — Rạch](../297-rach-giac-mac/technique.md): bước trước.

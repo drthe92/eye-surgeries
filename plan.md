@@ -109,3 +109,10 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Chuẩn hóa cấu trúc 1–7 cho 47, 49, 50 (trước đó trùng số mục và thiếu mục 5).
 - Checker mới: kiểm mục 5, cấu trúc 1–7, câu rỗng, bài tiêm/đông lạnh/bài giảng; thêm `--fix` để thay câu rỗng an toàn.
 - Kết quả: 310 bài, **0 lỗi**, 220 cảnh báo (chủ yếu mục 2 ngắn, dụng cụ không lặp ở mục 4, câu “như từng bước dưới đây” ở 64 bài chưa xử lý).
+
+### Audit Cataract 296–310 (2026-10-24)
+- 15 bài dùng chung nguyên khối mục 2, 3, 5: “đục thủy tinh thể cần lấy nhân, đặt IOL”, bộ kit phaco đầy đủ cho mọi bước, cùng một hậu phẫu.
+- Checker cũ có quét 15 bài (15 cảnh báo “Thay thế: xem mục 7”) nhưng không bắt khối trùng vì luật chỉ kiểm câu cấm rời rạc.
+- Đã viết lại mục 2/3/5 cho cả 15 bài theo đúng bước (rạch, rhexis, hydro, chia nhân, rửa cortex, IOL, OVD, thông số…), cá nhân hóa mục 6.
+- Checker: cấm 3 câu template Cataract; thêm báo cáo khối mục 2/3/5 trùng; thêm `--strict` để coi khối trùng là lỗi.
+- Kết quả Cataract: 0 lỗi, 0 cảnh báo. Toàn repo: 0 lỗi, 204 cảnh báo; `--strict` còn 9 cụm trùng ở C/S/L/R/F/Bx — nợ cũ, không phải Cataract.

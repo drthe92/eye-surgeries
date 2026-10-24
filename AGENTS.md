@@ -68,3 +68,9 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Bài giảng/nghiệm pháp/không phẫu thuật: ghi “Không có hậu phẫu” thay vì bịa hậu phẫu như ca mổ.
 - Cấu trúc đúng 1–7, mỗi mục một lần; không trùng số mục.
 - **Bắt buộc chạy `python3 tools/kiem-tra-bai.py` trước commit**; 0 lỗi mới push. `--fix` chỉ thay câu rỗng, không thay nội dung đặc thù đã viết tay.
+
+## CHỐNG TEMPLATE THEO KHỐI (2026-10-24)
+- Không chỉ cấm câu rời rạc: **mục 2, 3, 5 của hai bài khác nhau không được giống nguyên khối**. Mỗi bài phải nêu đúng chỉ định, đúng dụng cụ của bước và đúng biến chứng của bước.
+- `python3 tools/kiem-tra-bai.py` báo các khối trùng ở cuối; `--strict` trả mã 1 nếu còn khối trùng ≥5 bài.
+- Bài theo bước (ví dụ Cataract 296–310): mục 3 chỉ liệt kê dụng cụ dùng ở mục 4; bài thiết lập máy/thông số ghi “Không có hậu phẫu riêng”.
+- Lỗi gốc 2026-10-24: 15 bài Cataract dùng chung mục 2/3/5; đã sửa toàn bộ, Cataract 0 cảnh báo.

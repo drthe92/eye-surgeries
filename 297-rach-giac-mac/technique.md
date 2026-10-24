@@ -7,14 +7,14 @@
 Hai vết rạch quyết định toàn bộ ca phaco: rạch phụ (paracentesis) ~1mm để đưa dụng cụ phụ và viscoelastic; rạch chính 2,4mm 3 mặt phẳng tự kín để đưa đầu phaco và IOL. Vị trí, độ dài, hướng vát quyết định kín nước và an toàn nội mô.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: mọi ca phaco cần đường vào tiền phòng; rạch phụ ~1mm cho dụng cụ phụ và viscoelastic, rạch chính 2,4mm ba mặt phẳng cho đầu phaco và IOL.
+- Chống chỉ định tương đối: rạch qua mộng thịt, sẹo giác mạc, mạch kết mạc hoặc vùng giác mạc mỏng; mắt viêm cấp. Thay thế: đổi vị trí rạch hoặc rạch giác mạc trong.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản), hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn (lidocaine không bảo quản) hoặc tê cạnh nhãn cầu.
+- Dụng cụ: dao 15° cho rạch phụ, keratome 2,4mm cho rạch chính, cannula, viscoelastic, BSS.
+- Bệnh nhân: sát khuẩn, đánh dấu trục và vị trí rạch, mở mi, giữ mắt đúng trục.
+- Đánh giá nền: độ dày giác mạc, sẹo/mộng thịt, nhãn áp, tiền sử mổ giác mạc.
 
 ## 4. Quy trình
 - **Bước 1 — Rạch phụ bằng dao 15°:** Cách rìa 0,5-1mm về phía giác mạc trong, bờ vát hướng lên trên, dài ~1mm, 2/3 độ dày. Nghiệm thu: vết rạch kín, không rò, không rách kết mạc. Cốt lõi: bờ vát hướng lên để tránh phản xạ Bell. Lỗi: xoay lưỡi dao gây rạch hình quạt; rạch quá ra sau vào kết mạc.
@@ -25,14 +25,14 @@ Hai vết rạch quyết định toàn bộ ca phaco: rạch phụ (paracentesis
 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
-- Thuốc: kháng sinh nội nhãn cuối ca (cefuroxime/moxifloxacin); thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
+- Tái khám: 1 ngày kiểm tra kín vết rạch, tiền phòng và nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: rò dịch, tiền phòng nông, đau tăng, nhìn mờ đột ngột.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Vì sao rạch chính 3 mặt phẳng lại tự kín?
+2. Rạch phụ đặt ở đâu và phải tránh gì?
+3. Dấu hiệu nào cho thấy vết rạch đang rò?
 
 ## 7. Bài liên quan
 - [296 — Thiết lập máy](../296-thiet-lap-may-phaco/technique.md): bước trước.

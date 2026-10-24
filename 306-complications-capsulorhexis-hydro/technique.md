@@ -7,14 +7,14 @@
 Bài này dạy qua một ca có hai vấn đề điển hình: bao trước không liên tục (nguy cơ rách lan) và rhexis nhỏ + hydro không đủ mặt phẳng khiến nhân không xoay, epinucleus dính. Giá trị là cách nhận ra sớm và xử lý: giữ mép bao, bơm sóng dịch có kiểm soát, không cố xoay, mở rộng vết rạch khi đặt IOL, và luôn hút visco sau IOL.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: đục thủy tinh thể cần lấy nhân, đặt IOL; kỹ thuật này là một bước của phaco.
-- Chống chỉ định tương đối: không đủ điều kiện gây mê/tê, nhiễm trùng cấp, mắt không còn tiềm năng thị lực. Thay thế: xem mục 7.
+- Chỉ định: ca có bao trước không liên tục, rhexis nhỏ hoặc hydro không đúng mặt phẳng; mục đích là nhận diện và xử lý biến chứng, không phải chỉ định mổ mới.
+- Chống chỉ định: không có riêng; nếu bao rách lan hoặc zonule đứt nhiều, chuyển ECCE hoặc khâu cố định.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê nhỏ giọt + nội nhãn, hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, đầu phaco, I/A, cartridge IOL, BSS.
-- Bệnh nhân: đo sinh trắc/thị lực, đánh giá bao/zonule/đồng tử, chụp ảnh, đồng thuận.
-- Đánh giá nền: nhãn áp, nội mô giác mạc, vận nhãn, thuốc chống đông.
+- Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu.
+- Dụng cụ: kẹp Utrata, kim 27G, cannula hydro, viscoelastic, BSS, đầu I/A.
+- Bệnh nhân: đồng tử giãn, tiền phòng vững, mắt đúng trục.
+- Đánh giá nền: bao trước, bao sau, zonule, độ cứng nhân.
 
 ## 4. Quy trình
 - **Bước 1 — Đánh giá bao trước:** Quan sát vết rách/không liên tục trước khi xé; bơm sóng dịch theo hướng an toàn. Nghiệm thu: biết bao có liên tục hay không. Cốt lõi: không đẩy dịch qua vùng bao yếu. Lỗi: bơm mạnh làm rách lan.
@@ -26,13 +26,13 @@ Bài này dạy qua một ca có hai vấn đề điển hình: bao trước kh�
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày (nhãn áp, giác mạc, IOL), 1 tuần, 1 tháng.
-- Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
+- Tái khám: 1 ngày kiểm tra vòng rhexis, IOL, nhãn áp; 1 tuần, 1 tháng.
+- Dặn quay lại ngay: rách bao lan, IOL lệch, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
-1. Tiêu chí nghiệm thu của bước này là gì?
-2. Hai lỗi hay gặp nhất ở bước này?
-3. Khi nào phải dừng và chuyển kỹ thuật khác?
+1. Dấu hiệu nào cho thấy bao trước không liên tục?
+2. Rhexis nhỏ gây hậu quả gì trong ca?
+3. Xử lý hydro không đúng mặt phẳng thế nào?
 
 ## 7. Bài liên quan
 - [298 — Capsulorhexis](../298-capsulorhexis-2-6/technique.md): nền.
