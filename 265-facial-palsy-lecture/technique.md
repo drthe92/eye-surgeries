@@ -7,23 +7,21 @@
 Bài giảng khung xử trí mắt liệt mặt: bảo vệ giác mạc trước (bôi trơn-dính tạm), tạ vàng khi liệt kéo dài, dính vĩnh viễn khi không hồi phục, phối hợp nâng mày-má. Khung quyết định cho mọi bài 126-133.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: liệt VII cần bảo vệ giác mạc đúng mức tạm-vĩnh viễn.
-- Chống chỉ định: nhiễm trùng cấp. Thay thế: xem mục 7.
+- Chỉ định: bài giảng khung xử trí mắt liệt mặt; không thực hiện thủ thuật.
+- Chống chỉ định tương đối: không có; dùng để chọn bảo vệ giác mạc, tạ, dính. Thay thế: 126-133.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: đánh giá Bell, giác mạc (nhuộm), chụp ảnh, đồng thuận.
+- Vô cảm: không áp dụng.
+- Dụng cụ và chỉ: bài giảng, không cần dụng cụ.
+- Bệnh nhân: chuẩn bị bệnh sử, Bell, giác mạc, ảnh.
+- Đánh giá nền: thời gian liệt, hồi phục, khô mắt.
 
 ## 4. Quy trình
 - **Bước 1:** Bảo vệ giác mạc là mục tiêu số một. Nghiệm thu: giác mạc nguyên vẹn. Cốt lõi: mọi quyết định xoay quanh giác mạc. Lỗi: mổ đẹp mà giác mạc loét.
 - **Bước 2:** Tạm (bôi trơn, keo, dính tạm) trước; vĩnh viễn (tạ, dính vĩnh viễn) khi quá 6 tháng không hồi phục. Nghiệm thu: bậc thang rõ. Cốt lõi: thời gian liệt quyết định. Lỗi: vĩnh viễn quá sớm.
 
 ## 5. Hậu phẫu
-- Không có hậu phẫu: bài giảng khung xử trí liệt mặt, không thực hiện thủ thuật.
-- Khi áp dụng: bảo vệ giác mạc là ưu tiên; theo dõi hở mi, trợt giác mạc, tạ lộ và hồi phục cơ mặt.
-- Tái khám theo thủ thuật đã chọn (126-133): 1 tuần, 1 tháng, 3-6 tháng; đo MRD1, độ hở mi, lực nhắm.
-- Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ, giảm thị lực.
+Không có hậu phẫu: bài giảng liệt mặt. Khi áp dụng: theo dõi hở mi, trợt giác mạc, tạ lộ; tái khám 1 tuần, 1 tháng, 3-6 tháng. Dặn quay lại ngay: hở mi tăng, trợt giác mạc, tạ lộ, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?

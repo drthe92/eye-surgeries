@@ -7,23 +7,24 @@
 Mở lại dính mi khi liệt đã khỏi: cắt sẹo dính đúng lớp, tiêm steroid chống dính lại. Ngược mọi bài dính — cắt đúng lớp cũ mới không hỏng bờ mi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: liệt VII cần bảo vệ giác mạc đúng mức tạm-vĩnh viễn.
-- Chống chỉ định: nhiễm trùng cấp. Thay thế: xem mục 7.
+- Chỉ định: dính mi cũ cần mở khi liệt đã hồi phục, giác mạc an toàn.
+- Chống chỉ định tương đối: liệt chưa hồi phục, giác mạc còn hở, nhiễm trùng. Thay thế: giữ dính thêm hoặc chuyển tạ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: đánh giá Bell, giác mạc (nhuộm), chụp ảnh, đồng thuận.
+- Vô cảm: tê tại chỗ + epi.
+- Dụng cụ và chỉ: dao 15, kéo, kẹp, steroid, kim, chỉ.
+- Bệnh nhân: chụp ảnh, đánh dấu đường dính cũ, đồng thuận mở.
+- Đánh giá nền: Bell, giác mạc, hở mi, sẹo.
 
 ## 4. Quy trình
 - **Bước 1:** Cắt sẹo dính theo đường cũ, tách hai mi. Nghiệm thu: mở hoàn toàn không rách. Cốt lõi: đúng lớp cũ. Lỗi: cắt lệch gây khuyết bờ.
 - **Bước 2:** Steroid chống dính lại + theo dõi quặm/lật sau mở. Nghiệm thu: mi độc lập. Cốt lõi: sẹo mới có thể dính lại. Lỗi: không chống dính.
 
 ## 5. Hậu phẫu
-- Chăm sóc: bảo vệ giác mạc, tra mỡ kháng sinh, không dụi; giữ vết mổ khô 48 giờ.
-- Thuốc: nước mắt nhân tạo, kháng sinh tra khi có chỉ định; tiêm steroid chống dính theo chỉ định.
-- Tái khám: 1 tuần, 1 tháng đánh giá dính tái phát, hở mi và giác mạc.
-- Dặn quay lại ngay: đau tăng, nhìn mờ, sưng mủ, chảy máu, hở mi tăng.
+- Chăm sóc: chườm lạnh, không dụi, giữ khô.
+- Thuốc: kháng sinh tra, steroid theo chỉ định.
+- Tái khám: 1 tuần, 1 tháng kiểm tra dính lại.
+- Dặn quay lại ngay: dính lại, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?

@@ -7,21 +7,24 @@
 Khép mi tạm bằng chỉ khâu qua đệm (không cắt mô như vĩnh viễn): giữ giác mạc liệt tạm, tháo là mở. Giữa keo (yếu) và bolster (vững hơn).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: liệt VII cần bảo vệ giác mạc đúng mức tạm-vĩnh viễn.
-- Chống chỉ định: nhiễm trùng cấp. Thay thế: xem mục 7.
+- Chỉ định: liệt mặt tạm, cần khép mi vững hơn keo, tháo được.
+- Chống chỉ định tương đối: nhiễm trùng, hoại tử mép, không hợp tác. Thay thế: 261 keo; 130 bolster.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: đánh giá Bell, giác mạc (nhuộm), chụp ảnh, đồng thuận.
+- Vô cảm: tê tại chỗ + epi.
+- Dụng cụ và chỉ: chỉ mattress 5-0/6-0, đệm, kẹp, kéo.
+- Bệnh nhân: chụp ảnh, đánh dấu vị trí, đồng thuận tháo.
+- Đánh giá nền: Bell, khô mắt, giác mạc.
 
 ## 4. Quy trình
 - **Bước 1:** Chỉ mattress qua đệm hai mi siết vừa. Nghiệm thu: khép kín không cứa. Cốt lõi: đệm chống cứa da. Lỗi: siết quá gây hoại tử mép.
 - **Bước 2:** Tháo sau 1-2 tuần hoặc khi Bell về. Nghiệm thu: mở lại hoàn toàn. Cốt lõi: tạm thì hẹn tháo. Lỗi: để quên thành vĩnh viễn.
 
 ## 5. Hậu phẫu
-- Chăm sóc: bảo vệ giác mạc là trung tâm; tái khám 1 tuần-1 tháng.
-- Dặn quay lại ngay: đau, nhìn mờ, sưng mủ.
+- Chăm sóc: không dụi, giữ khô, kiểm tra đệm.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần; tháo 1-2 tuần hoặc khi Bell về.
+- Dặn quay lại ngay: hoại tử mép, trợt giác mạc, đau tăng, nhiễm.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?

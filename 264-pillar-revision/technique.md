@@ -7,21 +7,24 @@
 Sửa dính trụ tụt/hỏng: tháo trụ cũ, dựng trụ mới hoặc chuyển dạng dính khác. Dính trụ hỏng thường do trụ đứt hoặc dính không đủ giữ.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: liệt VII cần bảo vệ giác mạc đúng mức tạm-vĩnh viễn.
-- Chống chỉ định: nhiễm trùng cấp. Thay thế: xem mục 7.
+- Chỉ định: dính trụ tụt/hỏng, khe giữa không đủ, cần sửa.
+- Chống chỉ định tương đối: nhiễm trùng, liệt chưa ổn định, giác mạc không cần che. Thay thế: 263 mở dính; 262 dính tạm.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi; chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: dao 15, kéo, chỉ khâu, mỡ kháng sinh.
-- Bệnh nhân: đánh giá Bell, giác mạc (nhuộm), chụp ảnh, đồng thuận.
+- Vô cảm: tê tại chỗ + epi.
+- Dụng cụ và chỉ: dao 15, kéo, chỉ, đệm, đốt.
+- Bệnh nhân: chụp ảnh, đánh dấu trụ cũ, đồng thuận sửa.
+- Đánh giá nền: Bell, giác mạc, sẹo, liệt.
 
 ## 4. Quy trình
 - **Bước 1:** Tháo trụ cũ đánh giá nguyên nhân. Nghiệm thu: biết vì sao hỏng. Cốt lõi: sửa nguyên nhân, đừng lặp lại. Lỗi: dựng lại y hệt gây hỏng lại.
 - **Bước 2:** Dựng mới/chuyển dạng + theo dõi chặt. Nghiệm thu: giữ được khe giữa. Cốt lõi: theo dõi sớm sau sửa. Lỗi: hẹn xa.
 
 ## 5. Hậu phẫu
-- Chăm sóc: bảo vệ giác mạc là trung tâm; tái khám 1 tuần-1 tháng.
-- Dặn quay lại ngay: đau, nhìn mờ, sưng mủ.
+- Chăm sóc: chườm lạnh, không dụi, giữ khô.
+- Thuốc: kháng sinh tra, mỡ kháng sinh.
+- Tái khám: 1 tuần, 1 tháng đánh giá trụ.
+- Dặn quay lại ngay: trụ tụt, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Tạm hay vĩnh viễn: mốc thời gian quyết định là gì?
