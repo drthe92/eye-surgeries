@@ -24,10 +24,10 @@ Cắt u dưới mày qua đường rạch giấu dưới chân mày: tê, rạch
 - **Bước 5 — Khâu nhiều lớp giữ dáng mày:** Khâu cân-dưới da rồi khâu da trong chân mày. Nghiệm thu: hai mày cân đối, không kéo lệch. Cốt lõi: lớp sâu chịu lực, da chỉ khâu thẩm mỹ. Lỗi: chỉ khâu da gây lõm và lệch mày.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh, băng nhẹ 24 giờ, không dụi.
+- Thuốc: mỡ kháng sinh, paracetamol.
+- Tái khám: 1 tuần cắt chỉ, 1 tháng đánh giá mày/cảm giác; 3 tháng.
+- Dặn quay lại ngay: tụ máu, tê bì lan, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

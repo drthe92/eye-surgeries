@@ -24,10 +24,10 @@ Cắt wedge lá sau (sụn-kết mạc) từ phía trong: lật mi, cắt bỏ d
 - **Bước 5 — Trả mi và kiểm tra giác mạc:** Trả mi, nhuộm fluorescein kiểm tra trợt. Nghiệm thu: mi áp cầu, giác mạc nguyên vẹn. Cốt lõi: tra mỡ và băng nhẹ nếu trợt. Lỗi: bỏ qua kiểm tra giác mạc gây bỏ sót trợt do chỉ.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, tránh nheo mi mạnh.
+- Thuốc: mỡ kháng sinh, nước mắt nhân tạo.
+- Tái khám: 1 tuần cắt chỉ, kiểm tra mặt sau sụn; 1 tháng.
+- Dặn quay lại ngay: cộm đau tăng, quặm/lật, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

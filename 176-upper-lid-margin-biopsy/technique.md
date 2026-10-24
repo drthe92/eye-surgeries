@@ -24,10 +24,10 @@ Sinh thiết tổn thương bờ mi trên: cắt hình wedge nhỏ qua toàn b�
 - **Bước 5 — Băng, kháng sinh và hẹn tái khám mô bệnh:** Tra mỡ kháng sinh, băng nhẹ 24 giờ. Nghiệm thu: bệnh nhân biết dấu hiệu nhiễm trùng và lịch cắt chỉ. Cốt lõi: không dụi mắt tuần đầu. Lỗi: không dặn tái khám khi kết quả ác tính.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô 48 giờ.
+- Thuốc: mỡ kháng sinh 5-7 ngày, paracetamol.
+- Tái khám: 5-7 ngày cắt chỉ, kiểm tra bờ mi/hướng lông và trả kết quả mô bệnh; 1 tháng.
+- Dặn quay lại ngay: toác mép, khuyết bờ mi, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

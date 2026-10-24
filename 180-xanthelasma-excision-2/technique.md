@@ -24,10 +24,10 @@ Ca thứ hai cắt xanthelasma trên-dưới: nhấn mạnh xử trí mảng lan
 - **Bước 5 — Tư vấn tái phát và sẹo:** Tỉ lệ tái phát cao nếu rối loạn lipid không kiểm soát. Nghiệm thu: bệnh nhân hiểu sẹo và khả năng mọc lại. Cốt lõi: phối hợp nội khoa lipid. Lỗi: hứa khỏi vĩnh viễn gây thất vọng và khiếu nại.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh, giữ khô, massage chống web góc trong.
+- Thuốc: mỡ kháng sinh, paracetamol.
+- Tái khám: 1 tuần cắt chỉ, 1 tháng đánh giá web/lệ đạo; 3 tháng.
+- Dặn quay lại ngay: web co kéo, chảy nước mắt, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

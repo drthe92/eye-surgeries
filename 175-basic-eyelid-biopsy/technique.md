@@ -24,10 +24,10 @@ Sinh thiết mi cơ bản: tê tại chỗ, punch hoặc dao lấy mẫu da-cơ 
 - **Bước 5 — Bảo quản và gửi mẫu đúng quy cách:** Trải mẫu lên giấy/thìa, ngâm formalin, ghi vị trí-giờ-định hướng. Nghiệm thu: phiếu ghi rõ tổn thương trái/phải, trên/dưới, giờ trên mặt đồng hồ. Cốt lõi: mẫu orientation bằng mực/chỉ đánh dấu. Lỗi: để mẫu khô hoặc nhầm bên gây đọc sai.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: ép nhẹ 10-15 phút, chườm lạnh 24 giờ, giữ khô 48 giờ, không trang điểm 1 tuần.
+- Thuốc: mỡ kháng sinh 5-7 ngày, paracetamol; kháng sinh toàn thân chỉ khi nhiễm.
+- Tái khám: 1 tuần cắt chỉ và trả kết quả mô bệnh; 1 tháng đánh giá sẹo; hẹn xử trí nếu bờ mô còn.
+- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ, đau tăng, kết quả mô bệnh ác tính.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

@@ -24,10 +24,10 @@ Cắt u vàng mi trên và dưới cùng thì: vẽ vừa đủ trong giới h�
 - **Bước 5 — Khâu trực tiếp không căng:** Khâu da liên tục hoặc rời chỉ mảnh theo nếp mi. Nghiệm thu: khép mắt kín nhẹ nhàng ngay trên bàn. Cốt lõi: ướm trước khi cắt da thừa kèm theo. Lỗi: cắt quá nhiều gây hở mi (lagophthalmos).
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh 24 giờ, giữ khô, tránh nắng 3 tháng.
+- Thuốc: mỡ kháng sinh, paracetamol.
+- Tái khám: 1 tuần cắt chỉ, 1 tháng đánh giá sẹo/tái phát; 3 tháng.
+- Dặn quay lại ngay: sẹo lồi, tái phát u vàng, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?

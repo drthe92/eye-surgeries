@@ -24,10 +24,10 @@ Sinh thiết wedge toàn bộ chiều dày mi: cắt hình tam giác đáy tại
 - **Bước 5 — Căn bờ mi và khâu da:** Mũi da đầu tiên ngay chân lông mi để căn thẳng hàng. Nghiệm thu: hàng lông liên tục, không bậc thang. Cốt lõi: ướm trước khi buộc chặt. Lỗi: buộc trước khi căn gây lệch vĩnh viễn.
 
 ## 5. Hậu phẫu
-- Chăm sóc: chườm lạnh 24 giờ, không dụi mắt, giữ vết mổ khô 48 giờ, tránh trang điểm vùng mổ 1 tuần.
-- Thuốc: mỡ kháng sinh 5-7 ngày; kháng sinh toàn thân chỉ khi nhiễm trùng; giảm đau paracetamol.
-- Tái khám: 1 tuần cắt chỉ-đánh giá sẹo, nhận kết quả mô bệnh và quyết định mổ tiếp nếu ác tính; 1 tháng đánh giá chức năng mi và sẹo.
-- Dặn quay lại ngay: chảy máu không cầm, sưng nóng đỏ tăng, sốt, giảm thị lực, hở mi tăng.
+- Chăm sóc: chườm lạnh 24 giờ, không dụi, giữ khô 48 giờ.
+- Thuốc: mỡ kháng sinh, paracetamol.
+- Tái khám: 1 tuần cắt chỉ, kiểm tra bờ mi và kết quả mô bệnh; 1 tháng.
+- Dặn quay lại ngay: toác vết khâu, hở mi, chảy máu, nhiễm.
 
 ## 6. Tự lượng giá
 1. Vì sao phải đánh dấu và chụp ảnh trước khi tê phồng?
