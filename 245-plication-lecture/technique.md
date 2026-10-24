@@ -30,9 +30,9 @@ Bài giảng gấp nếp cơ trực (plication): tăng lực cơ mà KHÔNG cắ
 - Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
-1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
-2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
-3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+1. Vì sao plication giữ mạch máu trước tốt hơn cắt ngắn?
+2. Khi nào plication không đủ và phải cắt ngắn?
+3. Dấu hiệu tái lác sau gấp nếp?
 
 ## 7. Bài liên quan
 - [227 — Cắt ngắn (đối thủ)](../227-lr-resection-residual-eso/technique.md): cắt vs gấp: giữ mạch hay không.

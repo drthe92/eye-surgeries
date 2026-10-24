@@ -30,9 +30,9 @@ Mảnh ghép da co kéo sớm: tiêm steroid (triamcinolone) trong tổn thươn
 - Dặn quay lại ngay: đau tăng, sưng nóng đỏ, giảm thị lực hoặc đau nhức mắt (tăng nhãn áp), teo lõm da lan rộng, mất sắc tố.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao tiêm sớm trong 1-3 tháng đầu hiệu quả hơn chờ sẹo chín?
+2. Làm sao tránh teo da và mất sắc tố khi tiêm quanh mắt?
+3. Theo dõi nhãn áp thế nào sau các đợt tiêm?
 
 ## 7. Bài liên quan
 - [185 — Ghép da toàn lớp](../185-ftsg-cicatricial-ectropion/technique.md): bài gốc mà 187 đi cứu co kéo.

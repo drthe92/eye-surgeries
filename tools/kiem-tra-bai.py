@@ -257,6 +257,16 @@ def postop_lines(targets):
     return c
 
 
+def selfcheck_blocks(targets):
+    c = Counter()
+    for p in targets:
+        sec = sections(open(p, encoding="utf-8").read())
+        body = sec.get("6", "").strip()
+        if body:
+            c[body] += 1
+    return c
+
+
 def fix(path, group):
     """Thay câu “các dấu hiệu trên” bằng dấu hiệu cụ thể theo kỹ thuật."""
     text = open(path, encoding="utf-8").read()
@@ -327,6 +337,13 @@ def main(argv):
         print("\nCâu hậu phẫu lặp ở nhiều bài (nên xem lại):")
         for ln, n in repeated[:10]:
             print(f"  {n:3d} bài | {ln[:110]}")
+
+    dup6 = [(b, n) for b, n in selfcheck_blocks([p for _, p in targets]).items() if n >= 5]
+    if dup6:
+        dup6.sort(key=lambda x: -x[1])
+        print("\nKhối tự lượng giá lặp ở nhiều bài (nên cá nhân hóa):")
+        for body, n in dup6[:6]:
+            print(f"  {n:3d} bài | {body[:110].replace(chr(10), ' ')}")
 
     print(f"\nĐã kiểm tra {len(targets)} bài: {n_err} lỗi, {n_warn} cảnh báo.")
     return 1 if n_err else 0

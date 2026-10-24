@@ -30,9 +30,9 @@ Trẻ em (thường châu Á) nếp da-cơ thừa đè hàng lông dưới vào 
 - Dặn quay lại ngay: quặm tái phát, trợt giác mạc, chảy nước mắt tăng, sưng nóng đỏ, sốt.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Phân biệt epiblepharon với quặm bẩm sinh thật?
+2. Vì sao cắt da-cơ thừa mà không cắt sụn?
+3. Theo dõi tăng trưởng và tái phát ở trẻ thế nào?
 
 ## 7. Bài liên quan
 - [193 — Quặm bẩm sinh thật](../193-congenital-ll-entropion-repair/technique.md): phân biệt kỹ — epiblepharon không sẹo có thể tự khỏi, quặm thật thì không.

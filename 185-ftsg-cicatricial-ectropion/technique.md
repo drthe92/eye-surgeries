@@ -30,9 +30,9 @@ Lật mi do thiếu da co kéo: giải phóng sẹo cũ tới khi mi về vị t
 - Dặn quay lại ngay: mảnh ghép trắng-tím-đen, chảy máu không cầm, sưng nóng đỏ, hở mi tăng, đau tăng.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao phải chờ sẹo ổn định trước khi ghép da?
+2. Làm sao xác định khuyết da thật khi mi ở vị trí giải phẫu?
+3. Dấu hiệu mảnh ghép thất bại sớm và cách xử trí?
 
 ## 7. Bài liên quan
 - [186 — Ghép da sau bỏng](../186-ftsg-thermal-burn-lower-lid/technique.md): nền bỏng co kéo mạnh hơn, ghép rộng hơn và nẹp lâu hơn 185.

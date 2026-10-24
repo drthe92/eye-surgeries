@@ -30,9 +30,9 @@ Quặm sẹo nhẹ-vừa mi dưới: đường kết mạc rạch ngang sụn (g
 - Dặn quay lại ngay: lông quặm lại, đau tăng, chảy máu, sưng nóng đỏ, hở mi.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao mở sụn ngang có thể sửa quặm mà không cần ghép?
+2. Làm sao kiểm soát độ sâu và tránh hở mi?
+3. Khi nào chuyển sang bẻ sụn/ghép?
 
 ## 7. Bài liên quan
 - [12 — Quặm do sẹo (bẻ toàn lớp)](../12-cicatricial-entropion-quickert-lts/technique.md): sẹo nặng thì 189 không đủ, nâng lên 12.

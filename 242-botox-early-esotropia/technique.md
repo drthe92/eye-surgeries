@@ -30,9 +30,9 @@ Tinley (Cape Town): tiêm botox trực trong cho lác trong khởi phát sớm t
 - Dặn quay lại ngay: sụp mi nặng không hồi phục, nhìn đôi tăng, đau hoặc sưng nóng đỏ, giảm thị lực.
 
 ## 6. Tự lượng giá
-1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
-2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
-3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+1. Vì sao botox chỉ hiệu quả trong giai đoạn vàng phát triển thị giác?
+2. Làm sao xác định đúng thân cơ trực trong khi tiêm?
+3. Theo dõi sụp mi/nhìn đôi và khi nào chuyển mổ?
 
 ## 7. Bài liên quan
 - [240 — Lùi hai mắt (trẻ lớn)](../240-bimedial-recession/technique.md): botox không thay mổ triệt để.

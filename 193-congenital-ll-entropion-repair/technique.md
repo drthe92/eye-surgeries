@@ -30,9 +30,9 @@ Quặm mi dưới bẩm sinh (kém phát triển cơ rút, sụn mềm): khâu l
 - Dặn quay lại ngay: quặm tái phát, trợt giác mạc, chảy nước mắt tăng, sưng nóng đỏ, sốt.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao quặm bẩm sinh thật cần can thiệp sớm hơn epiblepharon?
+2. Làm sao tránh tổn thương sụn và cơ rút ở trẻ?
+3. Khi nào cần đánh giá khúc xạ/nhược thị?
 
 ## 7. Bài liên quan
 - [192 — Nếp da đè lông](../192-epiblepharon-repair/technique.md): nhẹ hơn 193, có thể tự khỏi khi lớn.

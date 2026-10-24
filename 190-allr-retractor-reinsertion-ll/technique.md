@@ -30,9 +30,9 @@ Quặm sẹo mi dưới có cả co kéo lá trước lẫn tuột cơ rút: m�
 - Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Làm sao xác định tuột cơ rút trước mổ?
+2. Vì sao phải khâu cơ rút vào bờ dưới sụn?
+3. Dấu hiệu tái tuột cơ rút sau mổ?
 
 ## 7. Bài liên quan
 - [188 — Lùi lá trước đơn thuần](../188-anterior-lamellar-recession-ll/technique.md): không tuột cơ rút thì 188 là đủ.

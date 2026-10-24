@@ -30,9 +30,9 @@ Bài giảng kỹ thuật chuyển cơ khi không còn cơ để lùi/cắt: VRT
 - Dặn quay lại ngay: đau dữ dội, sưng mủ, nhìn đôi tăng, giảm thị lực.
 
 ## 6. Tự lượng giá
-1. Vì sao đo lăng kính mọi hướng nhìn trước khi quyết định liều?
-2. Khi nào chuyển từ lùi/cắt thường sang chuyển cơ?
-3. Phân biệt u hạt sinh mủ với nhiễm trùng sau mổ lác?
+1. Vì sao chuyển cơ toàn phần nguy cơ thiếu máu đoạn trước hơn bán phần?
+2. Khi nào chọn Yokoyama thay vì VRT?
+3. Dấu hiệu phù gai/tràn dịch màng mạch sau chuyển cơ?
 
 ## 7. Bài liên quan
 - [226 — Chuyển cơ liệt III](../226-third-nerve-transposition/technique.md): ca thực tế của họ chuyển cơ.

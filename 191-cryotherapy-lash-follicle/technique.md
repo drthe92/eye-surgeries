@@ -30,9 +30,9 @@ Lông mọc sai hướng (quặm khu trú, hai hàng lông) sau sẹo/hóa chấ
 - Dặn quay lại ngay: loét giác mạc, đau tăng, sưng nóng đỏ, mất sắc tố lan rộng, lông quặm lại.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao cần hai chu kỳ đông-tan?
+2. Làm sao bảo vệ da và kết mạc lành?
+3. Dấu hiệu tái mọc lông và khi nào nhắc lại?
 
 ## 7. Bài liên quan
 - [12 — Quặm do sẹo](../12-cicatricial-entropion-quickert-lts/technique.md): quặm toàn bộ thì mổ 12, đông lạnh chỉ cho lông sai hướng khu trú.

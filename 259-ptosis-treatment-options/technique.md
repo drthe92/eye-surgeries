@@ -29,9 +29,9 @@ Bài giảng khung chọn điều trị sụp mi bẩm sinh vs mắc phải: t�
 - Dặn quay lại ngay: hở mi tăng, trợt giác mạc, sưng nóng đỏ, giảm thị lực.
 
 ## 6. Tự lượng giá
-1. Chức năng cơ nâng quyết định chọn thuật thế nào?
-2. Khi nào treo trán thay vì tiến cơ nâng?
-3. Dấu hiệu cần tầm soát bệnh nền thay vì mổ ngay là gì?
+1. Chức năng cơ nâng quyết định chọn tiến cơ/MMCR/treo trán thế nào?
+2. Khi nào chọn Fasanella-Servat?
+3. Yếu tố nào khiến treo trán thắng tiến cơ nâng?
 
 ## 7. Bài liên quan
 - [260 — Tầm soát trước](../260-ptosis-workup/technique.md): workup rồi mới chọn thuật.

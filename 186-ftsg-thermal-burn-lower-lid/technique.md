@@ -30,9 +30,9 @@ Bỏng nhiệt gây co kéo nặng mi dưới: chờ sẹo ổn định, cắt b
 - Dặn quay lại ngay: ghép trắng-tím-đen, chảy máu, sưng nóng đỏ, hở mi tăng, đau tăng.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao bỏng nhiệt cần chờ sẹo ổn định hơn bỏng hóa chất?
+2. Khi nào cần nẹp Frost và giữ bao lâu?
+3. Dấu hiệu co kéo tái phát sau ghép?
 
 ## 7. Bài liên quan
 - [185 — Ghép da lật sẹo thường](../185-ftsg-cicatricial-ectropion/technique.md): bản nhẹ của 186, không cần nẹp kéo dài.

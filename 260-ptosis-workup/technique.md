@@ -29,9 +29,9 @@ Bài giảng tầm soát sụp mi: khi nào phải tìm bệnh toàn thân/thầ
 - Dặn quay lại ngay: sụp mi tăng nhanh, nhìn đôi, hở mi, trợt giác mạc, giảm thị lực.
 
 ## 6. Tự lượng giá
-1. Chức năng cơ nâng quyết định chọn thuật thế nào?
-2. Khi nào treo trán thay vì tiến cơ nâng?
-3. Dấu hiệu cần tầm soát bệnh nền thay vì mổ ngay là gì?
+1. Dấu hiệu nào buộc tầm soát nhược cơ/liệt III trước mổ?
+2. Nghiệm pháp mỏi cơ dương tính thay đổi kế hoạch thế nào?
+3. Khi nào chống chỉ định mổ sụp mi trước khi tìm nguyên nhân?
 
 ## 7. Bài liên quan
 - [259 — Khung chọn thuật](../259-ptosis-treatment-options/technique.md): tiếp sau workup.

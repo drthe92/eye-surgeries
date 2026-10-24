@@ -30,9 +30,9 @@ Quặm do lá trước thừa/co kéo đè lông vào trong: rạch dưới lôn
 - Dặn quay lại ngay: lông quặm lại, cộm đau tăng, chảy máu, sưng nóng đỏ, hở mi tăng.
 
 ## 6. Tự lượng giá
-1. Vì sao phải phân biệt quặm tuổi già-sẹo-bẩm sinh trước khi chọn mổ?
-2. Khi nào ghép da là bắt buộc thay vì chỉ khâu lại?
-3. Dấu hiệu thất bại sớm sau mổ là gì?
+1. Vì sao chỉ định ALR khi kết mạc chưa sẹo?
+2. Mức lùi bao nhiêu và làm sao tránh lật mi?
+3. Dấu hiệu quặm tái phát cần mổ lại?
 
 ## 7. Bài liên quan
 - [190 — Lùi lá trước kèm khâu cơ rút](../190-allr-retractor-reinsertion-ll/technique.md): thêm tuột cơ rút thì nâng lên 190.
