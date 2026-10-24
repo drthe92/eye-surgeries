@@ -366,12 +366,13 @@ def main(argv):
 
     dup_sec = duplicate_sections([p for _, p in targets])
     shown = False
+    total_dup = sum(1 for key in ("2", "3", "5") for n in dup_sec[key].values() if n >= 5)
     for key in ("2", "3", "5"):
-        for body, n in dup_sec[key].most_common(3):
+        for body, n in dup_sec[key].most_common():
             if n < 5:
                 break
             if not shown:
-                print("\nKhối mục 2/3/5 trùng nguyên văn ở nhiều bài (nên cá nhân hóa):")
+                print(f"\nKhối mục 2/3/5 trùng nguyên văn ở nhiều bài ({total_dup} khối, nên cá nhân hóa):")
                 shown = True
             print(f"  mục {key}: {n:2d} bài | {body[:100].replace(chr(10), ' ')}")
 

@@ -115,4 +115,4 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Checker cũ có quét 15 bài (15 cảnh báo “Thay thế: xem mục 7”) nhưng không bắt khối trùng vì luật chỉ kiểm câu cấm rời rạc.
 - Đã viết lại mục 2/3/5 cho cả 15 bài theo đúng bước (rạch, rhexis, hydro, chia nhân, rửa cortex, IOL, OVD, thông số…), cá nhân hóa mục 6.
 - Checker: cấm 3 câu template Cataract; thêm báo cáo khối mục 2/3/5 trùng; thêm `--strict` để coi khối trùng là lỗi.
-- Kết quả Cataract: 0 lỗi, 0 cảnh báo. Toàn repo: 0 lỗi, 204 cảnh báo; `--strict` còn 9 cụm trùng ở C/S/L/R/F/Bx — nợ cũ, không phải Cataract.
+- Kết quả Cataract: 0 lỗi, 0 cảnh báo. Toàn repo: 0 lỗi, 204 cảnh báo; `--strict` còn 20 khối mục 2/3/5 trùng thuộc 6 nhóm C/S/L/R/F/Bx — nợ cũ, không phải Cataract.
