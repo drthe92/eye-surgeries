@@ -83,7 +83,7 @@
 
 ## 4. Kế hoạch 3 chặng cho nhóm Ca
 
-### Chặng 1 — Phaco cơ bản (bài 296–310, ~15 bài)
+### Chặng 1 — Phaco cơ bản (bài 296–310, ~15 bài) ✅ đã xong
 Mục tiêu: làm được một ca phaco không biến chứng.
 - Dụng cụ, máy phaco, thông số (vacuum, flow, power, bottle height).
 - Rạch giác mạc, rạch phụ, viscoelastic.
@@ -93,7 +93,7 @@ Mục tiêu: làm được một ca phaco không biến chứng.
 - Rửa cortex, đặt IOL, hút OVD, đóng vết rạch.
 - Đánh giá cuối ca + hậu phẫu.
 
-### Chặng 2 — Biến chứng và ca khó (bài 311–325, ~15 bài)
+### Chặng 2 — Biến chứng và ca khó (bài 311–325, ~15 bài) ✅ đã xong
 Mục tiêu: nhận ra và xử lý được biến chứng.
 - Rách bao trước lan ra sau; mất thể thủy tinh vào dịch kính.
 - Phaco trên mắt zonule yếu, lệch thể thủy tinh (CTS).
@@ -102,7 +102,7 @@ Mục tiêu: nhận ra và xử lý được biến chứng.
 - Chuyển ECCE; anterior vitrectomy.
 - Kiểm soát nhãn áp cuối ca.
 
-### Chặng 3 — Nâng cao (bài 326–345, ~20 bài)
+### Chặng 3 — Nâng cao (bài 326–345, ~20 bài) ✅ đã xong
 - IOL phức tạp: sulcus, scleral fixation, AC IOL, exchange, toric/premium.
 - SICS/MSICS (Aravind, Blumenthal, hypermature).
 - Cataract trẻ em.
@@ -117,9 +117,9 @@ Mỗi bài vẫn 6 mục, nhưng mục 4 có thêm:
 - **Biến chứng tại bước đó** + cách xử lý.
 - **Tiêu chí nghiệm thu** nhìn thấy được (ví dụ: bao tròn đều, không rách; cortex sạch; IOL trong bao).
 
-## 6. Việc cần làm ngay ở phiên sau
+## 6. Trạng thái triển khai (2026-10-24)
 
-1. Tạo folder `296-ca-...` → `310-...` cho chặng 1.
-2. Mỗi bài: transcript (Cybersight có transcript) + technique 6 mục + mục 7 liên quan.
-3. Tạo `tong-quan-Ca-duc-thuy-tinh-the.md` với bảng so sánh: phaco vs SICS vs ECCE; các kỹ thuật xử lý biến chứng.
-4. Cập nhật index.html: nhóm Ca, bộ lọc biến chứng.
+- Đã xong **296–353**: chặng 1 (296–310), chặng 2 (311–325), chặng 3 (326–345), bổ sung hậu phẫu/tối ưu (346–353).
+- Mỗi bài có `transcript.md` + `technique.md` 6 mục + mục 7; mục 4 có thông số/điểm quyết định/biến chứng tại bước.
+- Đã tạo tổng quan chặng 1, chặng 2, chặng 3, hậu phẫu; cập nhật `LEARNING-INDEX.md` và `index.html` 353 bài.
+- Việc tiếp theo: bổ sung ảnh/video thật khi có nguồn cho phép, rà chuyên môn từng bài, và duy trì `--strict` trước commit.

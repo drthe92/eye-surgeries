@@ -74,3 +74,8 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - `python3 tools/kiem-tra-bai.py` báo các khối trùng ở cuối; `--strict` trả mã 1 nếu còn khối trùng ≥5 bài.
 - Bài theo bước (ví dụ Cataract 296–310): mục 3 chỉ liệt kê dụng cụ dùng ở mục 4; bài thiết lập máy/thông số ghi “Không có hậu phẫu riêng”.
 - Lỗi gốc 2026-10-24: 15 bài Cataract dùng chung mục 2/3/5; đã sửa toàn bộ, Cataract 0 cảnh báo.
+
+## TIẾN ĐỘ CATARACT (2026-10-24)
+- Thư viện: **353 bài**. Nhóm Ca: **296–353** (58 bài), gồm chặng 1 phaco cơ bản, chặng 2 biến chứng/ca khó, chặng 3 nâng cao và 8 bài hậu phẫu/tối ưu.
+- Đã cập nhật `LEARNING-INDEX.md` 353 dòng, `index.html` 353 thẻ, 3 tổng quan chặng 2/3/4.
+- `python3 tools/kiem-tra-bai.py --strict` → 353 bài, 0 lỗi; còn cảnh báo cũ ngoài nhóm Ca.

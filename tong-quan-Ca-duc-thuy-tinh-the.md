@@ -56,8 +56,9 @@
 
 ## Học tiếp
 
-- Chặng 2 (311–325): rách bao, mất nhân, zonule yếu, đồng tử nhỏ, đục dày/trắng.
-- Chặng 3 (326–345): IOL phức tạp, SICS/MSICS, trẻ em, phối hợp glaucoma.
+- [Chặng 2 (311–325) — biến chứng và ca khó](tong-quan-Ca-2-bien-chung-va-ca-kho.md): rách bao, mất nhân, zonule yếu, đồng tử nhỏ, đục dày/trắng.
+- [Chặng 3 (326–345) — nâng cao](tong-quan-Ca-3-nang-cao.md): IOL phức tạp, SICS/MSICS, trẻ em, phối hợp glaucoma/giác mạc, femto/MIGS/LRI.
+- [Hậu phẫu và tối ưu (346–353)](tong-quan-Ca-4-hau-phau-va-toi-uu.md): sinh trắc, loạn thị, CME, endophthalmitis/TASS, bong võng mạc, IOL lệch, refractive surprise, fluidics.
 - Nguồn ngoài: [CataractCoach](https://cataractcoach.com/) (ca thực chiến), [Eyetube](https://eyetube.net/channels/cataract).
 
 ## Sơ đồ quyết định

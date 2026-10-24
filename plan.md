@@ -3,8 +3,8 @@
 > File điều phối. Cập nhật sau **mỗi commit**. Mục tiêu: học mổ, không lan man bệnh lý.
 
 ## Trạng thái hiện tại
-- Thư viện: **295 bài** (mi mắt, lác, thẩm mỹ, chấn thương, hốc mắt) — đã xong.
-- Nhóm Ca: **đang làm chặng 1** (phaco cơ bản).
+- Thư viện: **353 bài** (295 bài mi mắt/lác/thẩm mỹ/chấn thương/hốc mắt + 58 bài Ca).
+- Nhóm Ca: **xong chặng 1 (296–310), chặng 2 (311–325), chặng 3 (326–345) và bổ sung hậu phẫu (346–353)**.
 
 ## Chặng 1 — Phaco cơ bản (296–310)
 - [x] 296 Thiết lập máy phaco + thông số
@@ -27,20 +27,54 @@
 - [x] Cập nhật LEARNING-INDEX.md
 - [x] Commit + push
 
-## Chặng 2 — Biến chứng và ca khó (311–325)
-- [ ] Rách bao trước lan sau; mất nhân vào dịch kính
-- [ ] Zonule yếu, lệch thể thủy tinh, CTS
-- [ ] Đồng tử nhỏ, dính mống, floppy iris
-- [ ] Đục dày/trắng/posterior polar
-- [ ] Chuyển ECCE; anterior vitrectomy
-- [ ] Kiểm soát nhãn áp cuối ca
+## Chặng 2 — Biến chứng và ca khó (311–325) ✅
+- [x] 311 Rách bao trước lan sau
+- [x] 312 Mất nhân vào dịch kính + anterior vitrectomy
+- [x] 313 Zonule yếu — đánh giá
+- [x] 314 CTR
+- [x] 315 CTS/móc zonule
+- [x] 316 Đồng tử nhỏ
+- [x] 317 Dính mống/synechiolysis
+- [x] 318 Floppy iris/IFIS
+- [x] 319 Pupil cerclage
+- [x] 320 Đục dày
+- [x] 321 Đục trắng/mature
+- [x] 322 Posterior polar
+- [x] 323 Pseudoexfoliation
+- [x] 324 Chuyển ECCE/SICS
+- [x] 325 Rách bao sau/sót nhân/IOL không vào bao
 
-## Chặng 3 — Nâng cao (326–345)
-- [ ] IOL phức tạp (sulcus, scleral fixation, AC IOL, exchange, toric)
-- [ ] SICS/MSICS (Aravind, Blumenthal, hypermature)
-- [ ] Cataract trẻ em
-- [ ] Phối hợp glaucoma/cornea
-- [ ] Femto
+## Chặng 3 — Nâng cao (326–345) ✅
+- [x] 326 IOL sulcus
+- [x] 327 Cố định củng mạc
+- [x] 328 AC IOL
+- [x] 329 IOL exchange
+- [x] 330 Toric/premium
+- [x] 331 MSICS Aravind
+- [x] 332 MSICS Blumenthal
+- [x] 333 MSICS hypermature
+- [x] 334 Chuyển phaco → MSICS
+- [x] 335 Lens aspiration trẻ em
+- [x] 336 Posterior capsulorhexis/optic capture
+- [x] 337 IOL trẻ em/khúc xạ
+- [x] 338 Phacotrabeculectomy
+- [x] 339 Phaco + canaloplasty
+- [x] 340 Phaco + Ahmed
+- [x] 341 Phaco + giác mạc
+- [x] 342 Femto cơ bản
+- [x] 343 Femto + toric/trifocal
+- [x] 344 Phaco + MIGS Kahook
+- [x] 345 LRI
+
+## Bổ sung — Hậu phẫu và tối ưu (346–353) ✅
+- [x] 346 Sinh trắc/chọn công suất IOL
+- [x] 347 Quản lý loạn thị trước mổ
+- [x] 348 CME sau phaco
+- [x] 349 Endophthalmitis/TASS
+- [x] 350 Bong võng mạc sau phaco
+- [x] 351 IOL lệch muộn
+- [x] 352 Refractive surprise
+- [x] 353 Phaco fluidics/surge
 
 ## Quy ước nhóm Ca
 - Mỗi bài 6 mục + mục 7 liên quan.
@@ -123,3 +157,8 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Kết quả: 310 bài, **0 lỗi, 64 cảnh báo**; `python3 tools/kiem-tra-bai.py --strict` **exit 0**, không còn khối mục 2/3/5 trùng ≥5.
 - 64 cảnh báo còn lại ngoài phạm vi 6 nhóm: 33 dụng cụ không lặp ở mục 4, 22 mục 2 ngắn, 9 câu chung chung ở E/T (276–283).
 - Khối tự lượng giá (mục 6) vẫn lặp ở một số nhóm; chưa nằm trong phạm vi đợt này.
+
+### Hoàn tất chặng 2–3 và hậu phẫu (2026-10-24)
+- Thêm 43 bài 311–353: biến chứng/ca khó (15), nâng cao (20), hậu phẫu/tối ưu (8).
+- Mỗi bài đủ transcript + technique 6 mục + mục 7; mục 4 có thông số/điểm quyết định/biến chứng tại bước.
+- Cập nhật LEARNING-INDEX 353 dòng, index.html 353 thẻ, 3 tổng quan chặng 2/3/4; `--strict` 353 bài 0 lỗi.
