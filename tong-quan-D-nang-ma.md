@@ -28,3 +28,16 @@
 - Bóc nông chỉ kéo da → không nâng được khối má.
 - Vector sai (thẳng lên hoặc ra ngoài) → bất đối xứng, hở mi.
 - Không kiểm tra đối xứng khi bệnh nhân ngồi → đóng rồi mới thấy lệch.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Sa khối má giữa mặt"] --> B{"Mức sa"}
+  B -- "Nhẹ" --> B1["21 Tiền màng xương + Vicryl"]
+  B -- "Vừa - nhiều" --> B2["22 Neo qua lỗ khoan xương"]
+  B -- "Cần cố định đều" --> B3["294 Endotine midface"]
+  A --> C{"Phối hợp?"}
+  C -- "Mày + má" --> C1["64 Small incision + midface"]
+  C -- "Khuyết mi ngoài" --> C2["18 Dải màng xương + nâng má"]
+```

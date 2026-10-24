@@ -50,3 +50,19 @@
 - Tấm không tựa được gờ sau → tấm tụt vào xoang.
 - Không đo/so bên lành → bất đối xứng.
 - Bỏ sót mảnh xương/dị vật → đau mạn, nhiễm trùng.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Vỡ sàn ổ mắt"] --> B{"Có hạn chế vận nhãn / co rút?"}
+  B -- "Không" --> B1["Theo dõi"]
+  B -- "Có" --> C{"Kích thước + thành tổn thương"}
+  C -- "Vừa" --> C1["143 Supramid / 144 không canthotomy"]
+  C -- "Lớn" --> C2["141 / 142 Titan"]
+  C -- "Sàn + thành trong" --> C3["146 / 147 tấm tạo hình"]
+  C --> D{"Mất gờ sau?"}
+  D -- "Có" --> D1["149 Channel implant"]
+  D -- "Không" --> C
+  A --> E["Biến chứng muộn: 148 tháo lưới / 150 mảnh bờ trên"]
+```

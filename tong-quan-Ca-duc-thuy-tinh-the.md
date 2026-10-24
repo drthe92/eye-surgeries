@@ -59,3 +59,25 @@
 - Chặng 2 (311–325): rách bao, mất nhân, zonule yếu, đồng tử nhỏ, đục dày/trắng.
 - Chặng 3 (326–345): IOL phức tạp, SICS/MSICS, trẻ em, phối hợp glaucoma.
 - Nguồn ngoài: [CataractCoach](https://cataractcoach.com/) (ca thực chiến), [Eyetube](https://eyetube.net/channels/cataract).
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Đục thủy tinh thể"] --> B["296 Thiết lập + 309 thông số"]
+  B --> C["297 Rạch + 307 OVD"]
+  C --> D["298 Capsulorhexis"]
+  D --> E["299 Hydrodissection"]
+  E --> F{"Độ cứng nhân"}
+  F -- "Mềm - vừa" --> F1["300 Divide and conquer"]
+  F -- "Dày" --> F2["304 Stop and chop"]
+  F1 --> G["301 Rửa cortex"]
+  F2 --> G
+  G --> H["302 Đặt IOL + đóng"]
+  H --> I{"Biến chứng?"}
+  I -- "Rách bao / mất nhân" --> J["Chặng 2: 311-325"]
+  I -- "Không" --> K["303 / 310 ca toàn bộ"]
+  A --> L{"Mất zonule / đồng tử nhỏ / đục trắng?"}
+  L -- "Có" --> J
+  A --> M["SICS / MSICS: chặng 3"]
+```

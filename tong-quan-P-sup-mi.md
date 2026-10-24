@@ -63,3 +63,22 @@
 - Quá tay ngay trên bàn → hở mi + trợt giác mạc (thà thiếu một chút, sẹo co còn nâng thêm).
 - Quên Bell/khô mắt → trợt giác mạc sau mổ; quên Hering → lộ sụp bên kia.
 - Treo trán: cắt mỡ trước cân, cố định sai (không vào sụn), đường luồn trước vách → nếp xấu + hở mi.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Sụp mi"] --> B["260 Tầm soát nguyên nhân"]
+  B --> C{"Chức năng cơ nâng"}
+  C -- "Tốt > 10mm" --> C1["81 / 256 Tiến cơ nâng"]
+  C1 --> C2{"Đường cong lệch?"}
+  C2 -- "Có" --> C3["82 Chỉnh đường cong"]
+  C -- "Trung bình 4-7mm" --> D{"Phenylephrine +?"}
+  D -- "Có" --> D1["84 / 85 MMCR"]
+  D -- "Không" --> D2["88 Fasanella / 90 cắt 20mm"]
+  C -- "Kém < 4mm" --> E["Treo trán"]
+  E --> E1["100 Năm nguyên tắc"]
+  E1 --> E2["91 cân / 94-95-99 silicone / 257 rod / 258 Gore-Tex"]
+  A --> F{"Trẻ em?"}
+  F -- "Có" --> F1["89 / 90 / 97 + 98 mốc"]
+```

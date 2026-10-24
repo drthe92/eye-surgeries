@@ -95,3 +95,25 @@
 - Trượt cơ do cố định 1 điểm → võng, lệch trục; cố định 3 điểm + nút khóa.
 - Mổ 3 cơ trực cùng mắt → thiếu máu đoạn trước; cơ chéo không nuôi đoạn trước nên được miễn.
 - Đóng kết mạc lẫn Tenon → nang vùi; kéo nếp bán nguyệt sai chỗ → dải hồng lạc chỗ.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Lác"] --> B["40 Đo góc + ép buộc"]
+  B --> C{"Loại lác"}
+  C -- "Lác trong" --> C1["41 / 240 lùi trực trong"]
+  C1 --> C2{"Còn lác sau mổ?"}
+  C2 -- "Có" --> C3["227 cắt trực ngoài"]
+  C -- "Lác ngoài" --> D1["239 / 42 cắt trực ngoài / 41 lùi trong"]
+  D1 --> D2{"Mạn, co rút?"}
+  D2 -- "Có" --> D3["235 lùi tối đa + cắt trong"]
+  C -- "Cơ chéo" --> E{"Chéo dưới hay chéo trên?"}
+  E -- "Dưới" --> E1["46 lùi / 47 cắt / 233-234 ra trước"]
+  E -- "Trên" --> E2["48 cắt / 49 gấp / 50 Harada-Ito"]
+  C -- "Liệt / thiếu cơ" --> F{"Cơ nào?"}
+  F -- "VI" --> F1["252 SRT + Foster / 230 chuyển cơ"]
+  F -- "III" --> F2["226 chuyển + cắt ngoài"]
+  F -- "Nâng" --> F3["231 Knapp"]
+  C -- "Duane" --> G["232 lùi trực trong, cấm cắt ngoài"]
+```

@@ -49,3 +49,9 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Đã tạo `nguon-hoc-ngoai.md` (phân loại nguồn + giấy phép) và `khao-sat-ca-duc-thuy-tinh-the.md` (kho 89 video Cybersight + kế hoạch 3 chặng).
 - QUY TẮC BẢN QUYỀN MỚI: chỉ tải/trích khi nguồn cho phép (Cybersight, EyeRounds, CEHJ, Wikimedia). **AAO/EyeWiki và Moran CORE: chỉ dẫn link, không sao chép/không đưa vào AI**. CataractCoach/Eyetube: link + tóm tắt tự viết.
 - Nhóm mới dự kiến: **Ca** (đục thủy tinh thể, bắt đầu 296), Co (giác mạc), Gl (glocom), Re (võng mạc), Ne/Pe (thần kinh/nhi).
+
+## VIEW.HTML — ĐỌC BÀI TRONG DOMAIN (2026-10-24)
+- `view.html?b=<folder>&f=technique.md` render markdown ngay trên pt.matcauvong.com; bài tổng quan ở root: `view.html?f=tong-quan-....md`; anatomy: `view.html?f=giai-phau-.../....md`.
+- Toàn bộ link "Bài học"/"Transcript"/"Tổng quan" trong `index.html` phải trỏ `view.html`, KHÔNG trỏ github.com blob (giữ người đọc trong domain). Link nguồn GitHub chỉ để ở nút "Xem nguồn" trong view.html.
+- view.html tự: dựng mục lục, đổi link `.md` tương đối sang view.html, sửa đường dẫn ảnh, lightbox, thanh tiến độ đọc, và đồng bộ "đã học" với localStorage `eye-surgeries-learned-v1`.
+- **Mermaid**: mọi bài `tong-quan-*.md` có mục `## Sơ đồ quyết định` chứa code block ```mermaid flowchart TD```. Khi viết tổng quan mới hoặc sửa cây quyết định, cập nhật cả bảng và sơ đồ; kiểm syntax bằng `mermaid.parse` trước khi push.

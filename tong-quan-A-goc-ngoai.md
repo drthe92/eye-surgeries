@@ -37,3 +37,21 @@
 - Neo thấp hơn góc trong 2mm → lật mi; neo cao quá → hẹp khe.
 - Cắn màng xương nông → bung; không giật thử trước khi buộc → phải làm lại.
 - Sót biểu mô/nang lông trên dải → nang vùi, lông quặm.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Lỏng / lệch góc ngoài"] --> B{"Còn sụn mi ngoài?"}
+  B -- "Có" --> C{"Mức lỏng"}
+  C -- "Nhẹ, đang mổ mi trên" --> C3["03 Treo góc qua đường mi"]
+  C -- "Vừa - nặng" --> C1["01 Dải sụn mi dưới"]
+  C1 --> D1{"Lỏng cả mi trên?"}
+  D1 -- "Có" --> C2["02 Dải sụn + tạo hình góc trên"]
+  D1 -- "Không" --> C1
+  B -- "Không" --> E["04 Dải màng xương"]
+  A --> F{"Hẹp ngang khe mi?"}
+  F -- "Có, còn sụn" --> G["05 Dải màng xương nới khe"]
+  A --> H{"Nhão toàn bộ 2 mi + ngưng thở khi ngủ?"}
+  H -- "Có" --> I["06 Sửa mi nhão"]
+```

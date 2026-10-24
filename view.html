@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bài học — Thư viện phẫu thuật mắt</title>
+<style>
+:root{
+  --fg:#1f2933; --muted:#667085; --line:#e4e7ec; --bg:#ffffff; --soft:#f7f9fb;
+  --accent:#0b6b3a; --accent-soft:#eaf6ef; --warn:#b54708; --radius:12px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:900px;margin:0 auto;padding:0 18px 56px;line-height:1.7;color:var(--fg);background:var(--bg)}
+a{color:#0b57d0;text-decoration:none}
+a:hover{text-decoration:underline}
+#progress{position:fixed;top:0;left:0;height:3px;background:var(--accent);width:0;z-index:60;transition:width .08s linear}
+.top{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:10px 0;margin-bottom:18px}
+.top a.back{font-weight:600;color:var(--accent)}
+.crumb{font-size:13px;color:var(--muted);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.grow{flex:1}
+.learnbox{display:inline-flex;align-items:center;gap:7px;border:1px solid #cfe3cf;background:#f3fbf3;color:#1b5e20;border-radius:999px;padding:5px 13px;font-size:13px;cursor:pointer;user-select:none;transition:.15s}
+.learnbox:hover{background:#e7f6e7}
+.learnbox input{width:16px;height:16px;accent-color:#1b5e20;cursor:pointer;margin:0}
+.learnbox.on{background:#1b5e20;color:#fff;border-color:#1b5e20}
+.learnbox.on input{accent-color:#fff}
+.learnbox[aria-disabled="true"]{opacity:.45;cursor:not-allowed}
+.hero{border:1px solid var(--line);background:linear-gradient(180deg,#fbfdfc,#fff);border-radius:var(--radius);padding:16px 18px;margin:0 0 20px}
+.hero .eyebrow{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:4px}
+.hero h1{margin:0;font-size:clamp(1.35rem,3vw,1.9rem);line-height:1.3}
+.hero .sub{margin-top:6px;color:var(--muted);font-size:14px}
+#toc{border:1px solid var(--line);border-radius:var(--radius);padding:12px 16px;margin:0 0 22px;background:var(--soft);font-size:14px}
+#toc summary{cursor:pointer;font-weight:700;color:#344054}
+#toc ol{margin:8px 0 0;padding-left:20px}
+#toc li{margin:3px 0}
+#toc a{color:#344054}
+#content h1{font-size:1.6rem;margin:.2em 0 .5em}
+#content h2{margin:2rem 0 .6rem;padding-top:.4rem;border-top:1px solid var(--line);font-size:1.25rem;color:#101828}
+#content h3{margin:1.3rem 0 .4rem;font-size:1.05rem}
+#content p{margin:.65em 0}
+#content ul,#content ol{padding-left:1.35rem}
+#content li{margin:.25em 0}
+#content blockquote{margin:1em 0;padding:10px 14px;border-left:4px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0;color:#274235}
+#content blockquote p{margin:.2em 0}
+#content code{background:#f1f3f5;padding:1px 5px;border-radius:4px;font-size:.9em}
+#content pre{background:#0f172a;color:#e6edf3;padding:13px 15px;border-radius:10px;overflow-x:auto;font-size:13px;line-height:1.55}
+#content pre code{background:none;padding:0;color:inherit}
+#content table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto;margin:1em 0}
+#content th,#content td{border:1px solid var(--line);padding:7px 9px;text-align:left;vertical-align:top}
+#content th{background:#f4f6f8;font-weight:700}
+#content img{max-width:100%;height:auto;border-radius:10px;background:#111;cursor:zoom-in;display:block;margin:12px auto}
+#content hr{border:none;border-top:1px solid var(--line);margin:2rem 0}
+.mermaid{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;overflow-x:auto;text-align:center;margin:14px 0}
+.mermaid svg{max-width:100%;height:auto}
+.callout{display:flex;gap:10px;border:1px solid #fedf89;background:#fffaeb;color:#7a2e0e;padding:10px 13px;border-radius:10px;font-size:14px;margin:18px 0}
+.nav{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 6px}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font-size:14px;color:#344054}
+.btn:hover{background:var(--soft);text-decoration:none}
+footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.93);display:none;align-items:center;justify-content:center;flex-direction:column;z-index:99;cursor:zoom-out}
+#lb.open{display:flex}
+#lb img{max-width:96vw;max-height:88vh;object-fit:contain;background:#000;transition:transform .15s}
+#lb .cap{color:#ddd;font-size:13px;margin-top:8px;max-width:92vw;text-align:center}
+#lb .x{position:absolute;top:10px;right:16px;color:#fff;font-size:30px;cursor:pointer;line-height:1}
+@media print{
+  #progress,.top,.nav,#toc,.learnbox,footer{display:none!important}
+  body{max-width:none;padding:0}
+  #content pre{background:#f4f4f4;color:#111;border:1px solid #ddd}
+  #content a{color:#000;text-decoration:underline}
+}
+</style>
+</head>
+<body>
+<div id="progress"></div>
+<div class="top">
+  <a class="back" href="index.html">← Hub tra cứu</a>
+  <span class="crumb" id="crumb"></span>
+  <span class="grow"></span>
+  <label class="learnbox" title="Đánh dấu bài này đã học (lưu trong trình duyệt)"><input type="checkbox" class="learn-chk" disabled> <span class="learn-txt">Đã học</span></label>
+</div>
+
+<article id="content">Đang tải bài học…</article>
+
+<div class="nav">
+  <a class="btn" href="index.html">← Về hub</a>
+  <a class="btn" id="ghlink" href="#" target="_blank" rel="noopener">Xem nguồn trên GitHub ↗</a>
+  <label class="learnbox" title="Đánh dấu bài này đã học"><input type="checkbox" class="learn-chk" disabled> <span class="learn-txt">Đã học</span></label>
+</div>
+
+<div id="lb"><span class="x">×</span><img alt=""><div class="cap"></div></div>
+<footer>Chỉ dùng cho học tập và đào tạo có giám sát. Không dùng để chẩn đoán hoặc mổ độc lập khi chưa có người hướng dẫn.</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>
+const q = new URLSearchParams(location.search);
+const b = q.get('b') || '';                 // folder bài học, ví dụ 01-lateral-tarsal-strip
+const f = q.get('f') || (b ? 'technique.md' : 'index.html');
+const GH = 'https://github.com/drthe92/eye-surgeries/blob/main/';
+const docPath = b ? b + '/' + f : f;         // đường dẫn trong repo
+const dir = f.includes('/') ? f.slice(0, f.lastIndexOf('/') + 1) : '';
+const root = b ? b + '/' : '';
+
+document.getElementById('ghlink').href = GH + docPath.split('/').map(encodeURIComponent).join('/');
+
+// ── Tiến độ ──
+const bar = document.getElementById('progress');
+addEventListener('scroll', () => {
+  const h = document.documentElement;
+  const p = h.scrollTop / Math.max(1, h.scrollHeight - h.clientHeight);
+  bar.style.width = Math.min(100, p * 100) + '%';
+});
+
+// ── Đánh dấu đã học: dùng chung localStorage với hub ──
+const LKEY = 'eye-surgeries-learned-v1';
+const lessonId = (b.match(/^(\d+)/) || [])[1] ? (b.match(/^(\d+)/) || [])[1].padStart(3,'0') : '';
+const boxes = [...document.querySelectorAll('.learnbox')];
+const chks  = [...document.querySelectorAll('.learn-chk')];
+const txts  = [...document.querySelectorAll('.learn-txt')];
+const readL = () => { try { return JSON.parse(localStorage.getItem(LKEY) || '{}') || {}; } catch { return {}; } };
+const writeL = o => { try { localStorage.setItem(LKEY, JSON.stringify(o)); } catch {} };
+const paint = on => {
+  boxes.forEach(x => x.classList.toggle('on', on));
+  txts.forEach(x => x.textContent = on ? 'Đã học ✓' : 'Đã học');
+  chks.forEach(c => c.checked = on);
+};
+if (lessonId) {
+  const st = readL();
+  paint(!!st[lessonId]);
+  chks.forEach(c => {
+    c.disabled = false;
+    c.addEventListener('change', e => {
+      const on = e.target.checked, s = readL();
+      if (on) s[lessonId] = Date.now(); else delete s[lessonId];
+      writeL(s); paint(on);
+      if (on) setTimeout(() => { location.href = 'index.html'; }, 250);
+    });
+  });
+} else {
+  boxes.forEach(x => x.setAttribute('aria-disabled','true'));
+}
+
+// ── Tải và render markdown ──
+fetch(encodeURI(docPath)).then(r => {
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  return r.text();
+}).then(md => {
+  md = md.replace(/^\uFEFF/, '').replace(/^---\n[\s\S]*?\n---\n/, '');
+
+  const content = document.getElementById('content');
+  content.innerHTML = marked.parse(md, { mangle:false, headerIds:false });
+
+  // Tiêu đề + breadcrumb từ H1
+  const h1 = content.querySelector('h1');
+  const title = h1 ? h1.textContent.trim() : (f.replace(/\.md$/, ''));
+  document.title = title + ' — Thư viện phẫu thuật mắt';
+  const groupName = b.replace(/^\d+-/, '').replace(/-/g, ' ');
+  document.getElementById('crumb').textContent = b ? (b.slice(0,3) + ' · ' + groupName) : 'Tổng quan';
+
+  if (h1) {
+    const hero = document.createElement('div');
+    hero.className = 'hero';
+    const eyebrow = b ? 'Bài ' + b.slice(0,3) : 'Bài tổng quan';
+    hero.innerHTML = '<div class="eyebrow"></div><h1></h1><div class="sub"></div>';
+    hero.querySelector('.eyebrow').textContent = eyebrow;
+    hero.querySelector('h1').textContent = title;
+    hero.querySelector('.sub').textContent = b
+      ? 'Học theo trình tự: bản chất → chỉ định → chuẩn bị → quy trình → hậu phẫu → tự lượng giá.'
+      : 'Trang tổng quan: đọc cây quyết định và bảng so sánh trước, rồi mở từng bài chi tiết.';
+    h1.replaceWith(hero);
+  }
+
+  // ── Mermaid: chuyển code block thành sơ đồ ──
+  content.querySelectorAll('pre code.language-mermaid, pre code.lang-mermaid').forEach(el => {
+    const wrap = document.createElement('div');
+    wrap.className = 'mermaid';
+    wrap.textContent = el.textContent;
+    el.parentElement.replaceWith(wrap);
+  });
+
+  // ── Mục lục tự động từ H2 ──
+  const slug = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/đ/g,'d').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+  const heads = [...content.querySelectorAll('h2, h3')];
+  heads.forEach(h => { h.id = slug(h.textContent) || ('muc-' + Math.random().toString(36).slice(2,6)); });
+  if (heads.length >= 3) {
+    const det = document.createElement('details');
+    det.id = 'toc';
+    const h2s = heads.filter(h => h.tagName === 'H2');
+    det.innerHTML = '<summary>Mục lục bài (' + h2s.length + ' phần)</summary><ol></ol>';
+    const ol = det.querySelector('ol');
+    h2s.forEach(h => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '#' + h.id; a.textContent = h.textContent.replace(/^[0-9]+\.\s*/, '');
+      li.appendChild(a); ol.appendChild(li);
+    });
+    content.insertBefore(det, content.firstChild.nextSibling || content.firstChild);
+  }
+
+  // ── Ảnh: đường dẫn tương đối + lightbox ──
+  const abs = (src) => {
+    if (!src || /^(https?:|data:|blob:|#|\/)/i.test(src)) return src;
+    return root + dir + src.replace(/^\.\//,'');
+  };
+  content.querySelectorAll('img').forEach(img => {
+    img.src = abs(img.getAttribute('src') || '');
+    img.loading = 'lazy';
+  });
+
+  // ── Link: giữ trong domain, mở bài khác bằng view.html ──
+  const resolve = (href) => {
+    if (!href || /^(https?:|mailto:|tel:|data:|#)/i.test(href)) return null;
+    let p = href.replace(/^\.\//,'');
+    // ../NN-folder/technique.md
+    let m = p.match(/^\.\.\/([^/]+)\/(.+\.md)$/);
+    if (m) return { b: m[1], f: m[2] };
+    // ../file.md (từ trong folder)
+    m = p.match(/^\.\.\/([^/]+\.md)$/);
+    if (m) return { f: m[1] };
+    // file.md cùng thư mục
+    m = p.match(/^([^#?]+\.md)(#.*)?$/);
+    if (m) {
+      let path = (dir + m[1]).replace(/^\.\//,'');
+      const parts = path.split('/');
+      if (parts.length > 1 && /^\d+-/.test(parts[0])) return { b: parts[0], f: parts.slice(1).join('/') };
+      return { f: path };
+    }
+    return null;
+  };
+  content.querySelectorAll('a').forEach(a => {
+    const href = a.getAttribute('href') || '';
+    if (/^https?:/i.test(href)) { a.target = '_blank'; a.rel = 'noopener'; return; }
+    const r = resolve(href);
+    if (r) {
+      const u = new URLSearchParams();
+      if (r.b) u.set('b', r.b);
+      u.set('f', r.f);
+      a.href = 'view.html?' + u.toString();
+    } else if (href && !href.startsWith('#')) {
+      a.href = root + dir + href.replace(/^\.\//,'');
+    }
+  });
+
+  // ── Mermaid render ──
+  const diagrams = [...content.querySelectorAll('.mermaid')];
+  if (diagrams.length) {
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'loose',
+        theme: 'base',
+        themeVariables: {
+          fontFamily: 'system-ui, -apple-system, Segoe UI, Roboto, sans-serif',
+          primaryColor: '#eaf6ef', primaryTextColor: '#1f2933', primaryBorderColor: '#7fb69a',
+          lineColor: '#667085', secondaryColor: '#f4f6f8', tertiaryColor: '#ffffff'
+        },
+        flowchart: { curve: 'basis', htmlLabels: true, useMaxWidth: true }
+      });
+      mermaid.run({ nodes: diagrams }).catch(err => {
+        console.warn('mermaid:', err);
+        diagrams.forEach(d => {
+          const pre = document.createElement('pre');
+          pre.textContent = d.textContent;
+          d.replaceWith(pre);
+        });
+      });
+    }
+  }
+
+  // ── Cuộn tới mục ?s= hoặc #hash ──
+  const target = q.get('s') || (location.hash || '').slice(1);
+  if (target) {
+    const el = document.getElementById(target);
+    if (el) setTimeout(() => el.scrollIntoView({ block: 'start' }), 60);
+  }
+
+  // ── Lightbox ──
+  const lb = document.getElementById('lb'), lbImg = lb.querySelector('img'), lbCap = lb.querySelector('.cap');
+  let scale = 1;
+  const setT = () => { lbImg.style.transform = 'scale(' + scale + ')'; };
+  content.addEventListener('click', e => {
+    const img = e.target.closest('img');
+    if (!img) return;
+    lbImg.src = img.currentSrc || img.src;
+    lbImg.alt = img.alt || '';
+    lbCap.textContent = img.alt || '';
+    scale = 1; setT(); lb.classList.add('open');
+  });
+  const close = () => lb.classList.remove('open');
+  lb.addEventListener('click', close);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+  lbImg.addEventListener('wheel', e => {
+    e.preventDefault(); e.stopPropagation();
+    scale = Math.min(4, Math.max(1, scale + (e.deltaY < 0 ? .25 : -.25)));
+    setT();
+  }, { passive: false });
+}).catch(e => {
+  document.getElementById('content').innerHTML =
+    '<div class="callout"><div><b>Không tải được bài.</b><br>' + e.message +
+    '<br>Thử mở lại từ hub hoặc xem trên GitHub: <a href="' + GH + '" target="_blank" rel="noopener">drthe92/eye-surgeries</a>.</div></div>';
+});
+</script>
+</body>
+</html>

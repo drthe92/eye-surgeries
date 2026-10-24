@@ -45,3 +45,21 @@
 - Vĩnh viễn quá sớm (<6 tháng còn khả năng hồi phục) → hối hận.
 - Quên giác mạc (không nhuộm theo dõi) → loét trong khi mi đã "đẹp".
 - Dính trong phạm lệ quản → tắc lệ vĩnh viễn; tạ lộ không xử trí → lòi-nhiễm trùng.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Liệt mặt, hở mi"] --> B["Bảo vệ giác mạc trước"]
+  B --> C{"Thời gian liệt"}
+  C -- "< 6 tháng, còn hồi phục" --> C1["Bôi trơn + 261 keo / 262-133 dính tạm"]
+  C -- "> 6 tháng / không hồi phục" --> D{"Mức hở mi"}
+  D -- "Trung bình" --> D1["126 Tạ vàng"]
+  D1 --> D2{"Tạ lộ / lòi?"}
+  D2 -- "Sắp lộ" --> D3["128 Dời tạ"]
+  D2 -- "Đã lòi" --> D4["129 Tạ bạch kim cao"]
+  D -- "Nặng / cần khép lâu" --> E{"Muốn giữ khe giữa?"}
+  E -- "Có" --> E1["130 Dính trụ"]
+  E -- "Không" --> E2["131 Dính ngoài / 132 trong"]
+  D -- "Liệt toàn mặt" --> F["Thêm 56 nâng mày + nâng má"]
+```

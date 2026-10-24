@@ -82,3 +82,22 @@
 - Ghép da lên nền kém hoặc ép không đều → hoại ghép; máu tụ giữa hai lớp ghép giết cả hai.
 - Quên lệ đạo ở khuyết trong → đứt/chít lệ quản, hỏng cả mi lẫn lệ.
 - Vạt lớn kéo mi xuống (Mustarde, má) mà không nâng má/Frost → lật mi thứ phát.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Khuyết mi dưới / má"] --> B{"Kích thước"}
+  B -- "< 1/3" --> B1["194 Wedge / 196 giải phóng góc"]
+  B -- "33-50% ngoài" --> B2["13 Tenzel"]
+  B -- "50% giữa" --> B3["200 Ghép sụn rời"]
+  B -- "Nền kém / toàn bộ" --> B4["201 Hughes"]
+  B4 --> B5["202 Thì hai"]
+  B4 --> B5b["204 Hughes + ghép da"]
+  B -- "Sát lệ đạo" --> B6["205 / 206 / 207"]
+  A --> C{"Vị trí"}
+  C -- "Má" --> C1["16 / 210 / 208 / 209"]
+  C -- "Góc ngoài" --> C2["220 / 221 / 15 / 222"]
+  C -- "Chỉ thiếu da" --> C3["213 / 214 / 215 / 217 / 223"]
+  C -- "Lá trước ngoài" --> C4["14 / 20 / 212 / 218"]
+```

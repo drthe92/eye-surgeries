@@ -61,3 +61,22 @@
 - Không neo mi khi khuyết lớn → trễ/lật thứ phát.
 - Vạt trán/g labella xoay gắt → hoại đầu vạt; cắt cuống sớm → hoại.
 - Quên lệ quản ở khuyết góc trong → chít lệ vĩnh viễn.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Khuyết mi trên / góc trong"] --> B{"Mất lớp nào?"}
+  B -- "Toàn lớp" --> C{"Kích thước"}
+  C -- "25-50%" --> C1["155 Rạch góc / 152 ghép sụn + vạt"]
+  C -- "> 50%" --> C2["154 / 157 vạt lớn + neo"]
+  C -- "Cả 2 mi + góc trong" --> C3["153 vạt trán + 2 mi"]
+  B -- "Chỉ lá trước" --> D{"Kích thước"}
+  D -- "Nhỏ - vừa" --> D1["287 / 288 / 293"]
+  D -- "Rộng" --> D2["290 nhiều vạt / 289 cuống từ mày"]
+  D -- "Chỉ thiếu da" --> D3["292 Ghép da"]
+  B -- "Góc trong" --> E{"Kích thước"}
+  E -- "Nhỏ" --> E1["164 Glabella"]
+  E -- "Vừa" --> E2["163 Bilobe"]
+  E -- "Lớn" --> E3["165 / 171 vạt trán"]
+```

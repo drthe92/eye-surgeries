@@ -60,3 +60,20 @@
 - Không xử lý đầu trong/đuôi mày → mày cong sai hình.
 - Qua mi mà không cố định vào màng xương → tụt sớm.
 - Qua trán cắt sâu → tổn thương nhánh VII thái dương (liệt trán).
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Sụp mày"] --> B{"Mức + đặc điểm"}
+  B -- "Nhẹ, muốn không sẹo" --> B1["23 / 57 browpexy chỉ"]
+  B1 --> B2{"Cần bền hơn?"}
+  B2 -- "Có" --> B3["58 / 65 Endotine"]
+  B -- "Vừa - nặng" --> C1["53 / 55 direct"]
+  C1 --> C2{"Đầu trong sa?"}
+  C2 -- "Có" --> C3["54 gull-wing / 67"]
+  B -- "Trán nhăn nhiều" --> D1["59 / 68 mid-forehead"]
+  B -- "Cần nâng cả trán" --> D2["60 pretrichial"]
+  B -- "Đuôi mày xệ" --> E["61 temporal / 295 cắt gân hợp"]
+  B -- "Liệt VII" --> F["56 direct + nhóm F"]
+```

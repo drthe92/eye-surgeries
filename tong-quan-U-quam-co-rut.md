@@ -51,3 +51,22 @@
 - Mổ quặm trong cơn co thắt/viêm cấp → tái phát ngay.
 - Co rút mi dưới: chỉ cắt da mà không nới lá sau → không nâng được.
 - Quên giác mạc: mọi quặm/co rút đều phải nhuộm trước và sau mổ.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Quặm / co rút mi"] --> B{"Cơ chế"}
+  B -- "Co thắt sau viêm" --> B1["Chống viêm + botox trước"]
+  B -- "Tuổi già" --> B2["Nhóm B: 11 / 12"]
+  B -- "Sẹo mi trên" --> C{"Mức"}
+  C -- "Nhẹ" --> C1["28 Mở sụn"]
+  C -- "Lá trước" --> C2["29 Lùi lá trước"]
+  C -- "Thiếu lá sau" --> C3["30 Ghép niêm mạc"]
+  C -- "Mắt hột" --> C4["284 Kẹp + xoay bờ"]
+  B -- "Co rút mi trên" --> D["31 Blepharotomy / 32 + debulking"]
+  B -- "Co rút mi dưới" --> E{"Vật liệu"}
+  E -- "Tự thân" --> E1["33 vòm miệng / 37 sụn tai"]
+  E -- "Nhân tạo" --> E2["34-36 Enduragen"]
+  E -- "Hở mi nặng" --> E3["39 lùi cơ rút + dính"]
+```

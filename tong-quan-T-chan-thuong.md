@@ -48,3 +48,19 @@
 - Bỏ sót tổn thương nhãn cầu kèm (vỡ cầu, dị vật nội nhãn) khi khâu mi.
 - Không đặt stent lệ quản khi rách → chít hẹp vĩnh viễn.
 - Mổ sẹo non → co kéo tái phát; quên uốn ván trong chấn thương.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Chấn thương mi"] --> B{"Chèn ép ổ mắt?"}
+  B -- "Có" --> B1["280 Canthotomy + cantholysis ngay"]
+  B -- "Không" --> C["281 Phân vùng + loại trừ vỡ cầu"]
+  C --> D{"Vị trí"}
+  D -- "Bờ mi" --> D1["134 / 135 khâu theo lớp"]
+  D -- "Lệ quản" --> D2["136 / 138 stent + khâu quanh ống"]
+  D2 --> D3{"Khâu da đơn thuần thất bại?"}
+  D3 -- "Có" --> D4["137 Redo"]
+  D -- "Mi + lệ quản" --> D5["282 Lệ trước, mi sau"]
+  A --> E["283 Sẹo: chờ chín 3-6 tháng"]
+```

@@ -29,3 +29,15 @@
 - Mở/đốt điểm lệ mà lệ quản dưới đã tắc → vô ích; luôn bơm rửa đánh giá toàn hệ trước.
 - Đốt bít vĩnh viễn khi khô mắt còn điều trị được → mất đường thoát nước mắt vĩnh viễn.
 - Mổ góc trong quên sonde lệ quản → đứt lệ quản, hỏng cả mi lẫn lệ.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Vấn đề góc trong"] --> B{"Điểm lệ hay góc mắt?"}
+  B -- "Điểm lệ" --> C{"Hẹp hay cần bít?"}
+  C -- "Hẹp" --> C1["102 / 253 mở 2 nhát"]
+  C -- "Khô mắt" --> C2["254 khâu thử → 103 đốt"]
+  B -- "Góc trong giãn / nếp quạt" --> D["255 BPES: Z-plasty + gân góc trong"]
+  B -- "Mất mô góc trong" --> E["162 / 163 / 164 / 165-174 vạt"]
+```

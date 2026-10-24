@@ -42,3 +42,21 @@
 - Kẹp nghiến mẫu → mô bệnh không đọc được.
 - Không định hướng mẫu (trái/phải, giờ) → không cắt rộng đúng hướng khi ác tính.
 - Chắp tái phát nhanh ở người lớn tuổi mà không sinh thiết → bỏ sót ung thư tuyến bã.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Tổn thương mi"] --> B{"Cần chẩn đoán mô học?"}
+  B -- "Có" --> C{"Vị trí"}
+  C -- "Da" --> C1["175 Sinh thiết cơ bản"]
+  C -- "Bờ mi" --> C2["176 / 177 wedge"]
+  C -- "Mặt sau sụn" --> C3["178 Wedge lá sau"]
+  B -- "Không" --> D{"Loại tổn thương"}
+  D -- "U vàng" --> D1["179 / 180 xanthelasma"]
+  D -- "U dưới mày" --> D2["181"]
+  D -- "Chắp" --> E{"Điểm đầu ra da?"}
+  E -- "Có" --> E1["182 đường da"]
+  E -- "Không" --> E2["183 trên / 184 dưới đường kết mạc"]
+  A --> F["Chắp tái phát nhanh: sinh thiết loại trừ ung thư tuyến bã"]
+```

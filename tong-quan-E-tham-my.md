@@ -53,3 +53,21 @@
 - Cắt mỡ bừa (nhất là túi ngoài-tuyến lệ) → khô mắt, hốc sâu.
 - Không loại trừ khô mắt trước mổ → bùng phát sau mổ.
 - Đánh giá bọng là mỡ mà không nghĩ festoon (80) → mổ nhầm.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Tạo hình mi thẩm mỹ"] --> B{"Mi trên hay mi dưới?"}
+  B -- "Mi trên" --> C{"Có khô mắt?"}
+  C -- "Có" --> C1["73 Skin-only"]
+  C -- "Không" --> C2["70 / 71 / 72 / 276"]
+  C2 --> C3{"Nếp thấp?"}
+  C3 -- "Có" --> C4["75 Dời nếp / 74 Mắt châu Á"]
+  B -- "Mi dưới" --> D{"Bọng mỡ hay da thừa?"}
+  D -- "Bọng, không rãnh" --> D1["78 / 277 cắt mỡ"]
+  D -- "Bọng + rãnh lệ sâu" --> D2["77 chuyển mỡ"]
+  D -- "Da thừa" --> D3["79 đường da + dải"]
+  D -- "Festoon" --> D4["80 cắt festoon"]
+  A --> E["Botox co thắt: 278"]
+```

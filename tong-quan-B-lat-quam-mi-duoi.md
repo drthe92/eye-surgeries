@@ -65,3 +65,24 @@
 - Viêm mạn còn để lại thêm hai di chứng: sẹo kết mạc dần (thành phần sẹo) và teo tổ chức — nên quặm co thắt để lâu sẽ thành quặm thực sự (tuổi già + sẹo).
 - Xử trí theo cơ chế: phá vòng co thắt trước (chống viêm triệt để, bôi trơn, lens băng, botox vào cơ vòng trước sụn/trước vách), mũi Quickert khi cần; chỉ mổ triệt để (như bài 11/12) khi đã thành quặm thực sự, đừng mổ thì co thắt cấp.
 - Nguồn: tutorial Lower Eyelid Malpositions, EyeRounds 2024 (mục Spastic Entropion).
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Bờ mi dưới sai tư thế"] --> B{"Lật ra ngoài hay cuộn vào trong?"}
+  B -- "Lật" --> C{"Cơ chế"}
+  C -- "Lỏng ngang" --> C1["01 / 03 / 225"]
+  C -- "Tuột cơ rút" --> C2["08 khâu cơ rút + dải"]
+  C -- "Điểm lệ lệch" --> C3["07 Con thoi trong"]
+  C -- "Thiếu da sẹo" --> C4["185 Ghép da"]
+  C -- "Bỏng co kéo" --> C5["186 Ghép da + nẹp"]
+  C4 --> C6{"Co kéo sớm sau ghép?"}
+  C6 -- "Có" --> C7["187 Tiêm steroid"]
+  B -- "Quặm" --> D{"Có sẹo?"}
+  D -- "Không" --> D1["11 Khâu cơ rút + dải"]
+  D -- "Có, nhẹ - vừa" --> D2["189 Mở sụn"]
+  D -- "Có, vừa - nặng" --> D3["190 Lùi lá trước + cơ rút"]
+  D -- "Sẹo xơ cứng" --> D4["12 Quickert + bẻ sụn"]
+  D -- "Trẻ em" --> D5["192 Epiblepharon / 193 bẩm sinh"]
+```

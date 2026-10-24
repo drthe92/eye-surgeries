@@ -33,3 +33,16 @@
 - Bơm vào mạch (không hút thử) → ngộ độc toàn thân, co giật.
 - Epi chưa kịp co mạch đã rạch → chảy máu nhiều, mất mốc.
 - Block sâu ở mắt chống chỉ định (nhiễm trùng, u, lồi nặng) → thảm họa nhãn cầu.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Cần vô cảm"] --> B{"Loại phẫu thuật"}
+  B -- "Mi / mặt, bệnh nhân tỉnh" --> B1["27 Tê thấm"]
+  B -- "DCR tỉnh" --> B2["24 Tê đa điểm vùng lệ - mũi"]
+  B -- "Nội nhãn" --> C{"Nguy cơ thủng / chống chỉ định block?"}
+  C -- "Thấp" --> C1["25 Block sau nhãn cầu (+224)"]
+  C -- "Cận thị trục dài" --> C2["26 Dưới bao Tenon"]
+  C -- "Nhiễm trùng / u / lồi mắt" --> C3["Tê tại chỗ + tiền mê hoặc mê"]
+```

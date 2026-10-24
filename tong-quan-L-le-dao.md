@@ -62,3 +62,23 @@
 - Stent rút sớm (<3 tháng lệ quản) → chít lại.
 - DCR quên sỏi túi lệ → thất bại; Jones cho tắc còn mổ được → phung phí.
 - Xì mũi mạnh sau DCR → chảy máu, bung cửa sổ xương.
+
+## Sơ đồ quyết định
+
+```mermaid
+flowchart TD
+  A["Chảy nước mắt"] --> B["117 Bơm rửa + fluorescein xác định tầng"]
+  B --> C{"Tắc ở đâu?"}
+  C -- "Điểm lệ" --> C1["102 / 253 mở điểm lệ"]
+  C -- "Lệ quản" --> C2["114 mở / 116 cut-down / 120 nong đôi"]
+  C -- "Túi lệ + ống mũi" --> D{"Có sỏi / rò?"}
+  D -- "Sỏi" --> D1["269 DCR + lấy sỏi"]
+  D -- "Rò da" --> D2["270 Cắt rò + DCR"]
+  D -- "Không" --> D3["105 / 106 DCR ngoài"]
+  D3 --> D4{"Nội soi được?"}
+  D4 -- "Có" --> D5["107 / 108 / 273 DCR nội soi"]
+  D4 -- "Không" --> D3
+  C -- "Mất ống mũi" --> E["109-113 Ống Jones"]
+  A --> F{"Trẻ em"}
+  F --> F1["275 massage / 104 thông / 121 nang"]
+```
