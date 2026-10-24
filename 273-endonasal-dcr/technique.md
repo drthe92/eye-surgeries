@@ -7,25 +7,27 @@
 DCR qua đường mũi (Yang): tê thành ngoài hốc mũi + cuốn giữa bằng lidocaine-epi 2%, mở cửa sổ xương-túi từ trong mũi. Không sẹo da, khác DCR ngoài (105/106) ở đường vào và dụng cụ nội soi.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: tắc/viêm đúng tầng lệ đạo sau khi bơm rửa-chụp đánh giá.
-- Chống chỉ định: nhiễm trùng cấp lan rộng, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: tắc lệ-mũi, cần DCR qua đường mũi, không sẹo da.
+- Chống chỉ định tương đối: u túi lệ, nhiễm trùng cấp, mũi hẹp không vào được. Thay thế: 105 DCR ngoài; 272 hai bên.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em: mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: sonde Bowman, bơm rửa, nội soi mũi (DCR trong), stent Crawford/Mini-Monoka, mỡ kháng sinh.
-- Bệnh nhân: bơm rửa xác định tầng tắc, chụp ảnh, đồng thuận (tái tắc, chảy máu mũi, thất bại chuyển DCR/Jones).
+- Vô cảm: tê thành ngoài hốc mũi + cuốn giữa bằng lidocaine-epi 2%.
+- Dụng cụ và chỉ: nội soi, dao/đốt, sonde, stent, bông cầm máu.
+- Bệnh nhân: chụp ảnh, decongest, đồng thuận.
+- Đánh giá nền: mũi, lệ đạo, đông máu.
 
 ## 4. Quy trình
-- **Bước 1 — Xác định tầng tắc:** Bơm rửa + quan sát trào ngược (bài 117). Nghiệm thu: biết tắc ở điểm/lệ quản/túi/ống mũi. Cốt lõi: sai tầng là sai mổ. Lỗi: mổ túi khi tắc lệ quản.
-- **Bước 2 — Xử trí đúng tầng:** Theo bản chất từng bài trên. Nghiệm thu: thông sau thủ thuật. Cốt lõi: đúng tầng đúng thuật. Lỗi: một thuật cho mọi tầng.
-- **Bước 3 — Giữ thông (stent/nong):** Stent khi nguy cơ chít cao. Nghiệm thu: stent thông. Cốt lõi: giữ 3 tháng lệ quản. Lỗi: rút sớm.
-- **Bước 4 — Đóng và dẫn lưu:** Đóng lớp, dẫn lưu khi nhiễm trùng. Nghiệm thu: không tụ dịch. Cốt lõi: nhiễm trùng cần đường ra. Lỗi: đóng kín ổ mủ.
-- **Bước 5 — Theo dõi tái tắc:** Bơm rửa định kỳ sau mổ. Nghiệm thu: thông bền. Cốt lõi: lệ đạo cần theo dõi dài. Lỗi: khỏi là thôi.
+- **Bước 1 — Đánh giá:** Decongest, tê cuốn giữa. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 2 — Xử trí:** Mở niêm mạc ngách giữa. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 3 — Giữ thông:** Mở xương-túi lệ. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 4 — Đóng:** Marsupialize túi vào mũi. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 5 — Theo dõi:** Stent, cầm máu. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
 
 ## 5. Hậu phẫu
-- Chăm sóc: không xì mũi mạnh 1-2 tuần (DCR), tra thuốc theo chỉ định.
-- Tái khám: 1 tuần, 1 tháng, 3 tháng bơm rửa kiểm tra.
-- Dặn quay lại ngay: chảy máu mũi nhiều, sưng mủ, sốt.
+- Chăm sóc: không xì mũi, chườm lạnh.
+- Thuốc: kháng sinh, giảm đau.
+- Tái khám: 1 tuần, 1 tháng, 3 tháng.
+- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Bơm rửa phân biệt các tầng tắc thế nào?

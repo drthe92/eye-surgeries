@@ -7,25 +7,27 @@
 Viêm lệ quản mạn (Actinomyces, sỏi sulfur): nặn mủ, thông rửa kháng sinh, không đỡ thì mở lệ quản lấy sỏi (bài 114). Phân biệt viêm túi lệ (sưng dưới góc trong) với viêm lệ quản (điểm lệ trào mủ).
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: tắc/viêm đúng tầng lệ đạo sau khi bơm rửa-chụp đánh giá.
-- Chống chỉ định: nhiễm trùng cấp lan rộng, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: viêm lệ quản mạn do Actinomyces/sỏi sulfur, chảy mủ từ điểm lệ, không đáp ứng kháng sinh.
+- Chống chỉ định tương đối: viêm túi lệ cấp/áp xe, nghi u, dị ứng thuốc; nếu tắc lệ đạo phía sau cần DCR. Thay thế: 114 canaliculotomy; 269 sỏi túi lệ.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em: mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: sonde Bowman, bơm rửa, nội soi mũi (DCR trong), stent Crawford/Mini-Monoka, mỡ kháng sinh.
-- Bệnh nhân: bơm rửa xác định tầng tắc, chụp ảnh, đồng thuận (tái tắc, chảy máu mũi, thất bại chuyển DCR/Jones).
+- Vô cảm: tê bề mặt + tê tại chỗ quanh điểm lệ.
+- Dụng cụ và chỉ: dao 15/que chích, kẹp mô, nạo, sonde Bowman, stent, chỉ Vicryl 6-0, mỡ kháng sinh.
+- Bệnh nhân: chụp ảnh, bơm rửa, lấy mủ gửi nhuộm/cấy, đồng thuận về tái hẹp.
+- Đánh giá nền: lệ đạo, điểm lệ, túi lệ, dị ứng.
 
 ## 4. Quy trình
-- **Bước 1 — Xác định tầng tắc:** Bơm rửa + quan sát trào ngược (bài 117). Nghiệm thu: biết tắc ở điểm/lệ quản/túi/ống mũi. Cốt lõi: sai tầng là sai mổ. Lỗi: mổ túi khi tắc lệ quản.
-- **Bước 2 — Xử trí đúng tầng:** Theo bản chất từng bài trên. Nghiệm thu: thông sau thủ thuật. Cốt lõi: đúng tầng đúng thuật. Lỗi: một thuật cho mọi tầng.
-- **Bước 3 — Giữ thông (stent/nong):** Stent khi nguy cơ chít cao. Nghiệm thu: stent thông. Cốt lõi: giữ 3 tháng lệ quản. Lỗi: rút sớm.
-- **Bước 4 — Đóng và dẫn lưu:** Đóng lớp, dẫn lưu khi nhiễm trùng. Nghiệm thu: không tụ dịch. Cốt lõi: nhiễm trùng cần đường ra. Lỗi: đóng kín ổ mủ.
-- **Bước 5 — Theo dõi tái tắc:** Bơm rửa định kỳ sau mổ. Nghiệm thu: thông bền. Cốt lõi: lệ đạo cần theo dõi dài. Lỗi: khỏi là thôi.
+- **Bước 1 — Đánh giá:** Xác định tầng tắc: bơm rửa, ấn túi lệ, soi điểm lệ. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 2 — Xử trí:** Điều trị bảo tồn: massage, kháng sinh tra, làm sạch mủ. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 3 — Giữ thông:** Mở lệ quản dọc điểm lệ, lấy sỏi/nạo Actinomyces. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 4 — Đóng:** Đặt stent/nong giữ lòng, khâu mép. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 5 — Theo dõi:** Theo dõi tái tắc, bơm rửa. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
 
 ## 5. Hậu phẫu
-- Chăm sóc: không xì mũi mạnh 1-2 tuần (DCR), tra thuốc theo chỉ định.
-- Tái khám: 1 tuần, 1 tháng, 3 tháng bơm rửa kiểm tra.
-- Dặn quay lại ngay: chảy máu mũi nhiều, sưng mủ, sốt.
+- Chăm sóc: chườm lạnh, tra kháng sinh, không dụi, giữ khô.
+- Thuốc: kháng sinh tra/toàn thân theo cấy.
+- Tái khám: 1 tuần, 1 tháng bơm rửa; 3 tháng.
+- Dặn quay lại ngay: chảy máu, sưng nóng đỏ, chảy mủ tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Bơm rửa phân biệt các tầng tắc thế nào?

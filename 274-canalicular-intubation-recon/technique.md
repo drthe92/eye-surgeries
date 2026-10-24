@@ -7,25 +7,27 @@
 Rách lệ quản kèm khuyết mi: đặt stent lệ quản trước, tái tạo mi (ghép da) sau — lệ trước mi sau. Khung phối hợp nhóm T và L.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: tắc/viêm đúng tầng lệ đạo sau khi bơm rửa-chụp đánh giá.
-- Chống chỉ định: nhiễm trùng cấp lan rộng, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: rách lệ quản kèm khuyết mi, cần stent lệ trước rồi tái tạo mi.
+- Chống chỉ định tương đối: nhiễm trùng cấp, mất mô lớn, mắt không còn thị lực. Thay thế: 136/137 chỉ khâu lệ quản; 199/201 tái tạo mi.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em: mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: sonde Bowman, bơm rửa, nội soi mũi (DCR trong), stent Crawford/Mini-Monoka, mỡ kháng sinh.
-- Bệnh nhân: bơm rửa xác định tầng tắc, chụp ảnh, đồng thuận (tái tắc, chảy máu mũi, thất bại chuyển DCR/Jones).
+- Vô cảm: gây mê hoặc tê + an thần.
+- Dụng cụ và chỉ: sonde Bowman, stent silicone, dao 15, kẹp, chỉ Vicryl 6-0, silk 6-0.
+- Bệnh nhân: chụp ảnh, bơm rửa, đánh dấu lệ quản, đồng thuận.
+- Đánh giá nền: lệ đạo, khuyết mi, giác mạc, đông máu.
 
 ## 4. Quy trình
-- **Bước 1 — Xác định tầng tắc:** Bơm rửa + quan sát trào ngược (bài 117). Nghiệm thu: biết tắc ở điểm/lệ quản/túi/ống mũi. Cốt lõi: sai tầng là sai mổ. Lỗi: mổ túi khi tắc lệ quản.
-- **Bước 2 — Xử trí đúng tầng:** Theo bản chất từng bài trên. Nghiệm thu: thông sau thủ thuật. Cốt lõi: đúng tầng đúng thuật. Lỗi: một thuật cho mọi tầng.
-- **Bước 3 — Giữ thông (stent/nong):** Stent khi nguy cơ chít cao. Nghiệm thu: stent thông. Cốt lõi: giữ 3 tháng lệ quản. Lỗi: rút sớm.
-- **Bước 4 — Đóng và dẫn lưu:** Đóng lớp, dẫn lưu khi nhiễm trùng. Nghiệm thu: không tụ dịch. Cốt lõi: nhiễm trùng cần đường ra. Lỗi: đóng kín ổ mủ.
-- **Bước 5 — Theo dõi tái tắc:** Bơm rửa định kỳ sau mổ. Nghiệm thu: thông bền. Cốt lõi: lệ đạo cần theo dõi dài. Lỗi: khỏi là thôi.
+- **Bước 1 — Đánh giá:** Tìm hai đầu lệ quản. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 2 — Xử trí:** Đặt stent silicone qua đường lệ. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 3 — Giữ thông:** Khâu lệ quản quanh stent. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 4 — Đóng:** Tái tạo mi theo lớp. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 5 — Theo dõi:** Đóng da, cố định stent. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
 
 ## 5. Hậu phẫu
-- Chăm sóc: không xì mũi mạnh 1-2 tuần (DCR), tra thuốc theo chỉ định.
-- Tái khám: 1 tuần, 1 tháng, 3 tháng bơm rửa kiểm tra.
-- Dặn quay lại ngay: chảy máu mũi nhiều, sưng mủ, sốt.
+- Chăm sóc: chườm lạnh, không xì mũi, giữ stent.
+- Thuốc: kháng sinh, mỡ kháng sinh.
+- Tái khám: 1 tuần, 1 tháng, rút stent 3 tháng.
+- Dặn quay lại ngay: chảy máu mũi, sưng nóng đỏ, chảy nước mắt tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Bơm rửa phân biệt các tầng tắc thế nào?

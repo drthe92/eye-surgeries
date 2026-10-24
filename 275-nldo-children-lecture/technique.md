@@ -7,26 +7,24 @@
 Bài giảng tắc lệ-mũi trẻ em: đa số tự thông năm đầu (massage + theo dõi), thông lệ khi dai dẳng, DCR khi thất bại hoặc nang. Khung quyết định cho 104/121.
 
 ## 2. Chỉ định / Chống chỉ định
-- Chỉ định: tắc/viêm đúng tầng lệ đạo sau khi bơm rửa-chụp đánh giá.
-- Chống chỉ định: nhiễm trùng cấp lan rộng, bệnh toàn thân chưa kiểm soát. Thay thế: xem mục 7.
+- Chỉ định: bài giảng tắc lệ-mũi trẻ em; không thực hiện thủ thuật.
+- Chống chỉ định tương đối: không có; dùng để chọn massage/thông/DCR. Thay thế: 104 thông/stent; 121 nang; 105 DCR.
 
 ## 3. Chuẩn bị
-- Vô cảm: tê tại chỗ lidocaine kèm epi (trẻ em: mê); chờ trắng da ~7 phút (bài 27).
-- Dụng cụ: sonde Bowman, bơm rửa, nội soi mũi (DCR trong), stent Crawford/Mini-Monoka, mỡ kháng sinh.
-- Bệnh nhân: bơm rửa xác định tầng tắc, chụp ảnh, đồng thuận (tái tắc, chảy máu mũi, thất bại chuyển DCR/Jones).
+- Vô cảm: không áp dụng.
+- Dụng cụ và chỉ: bài giảng, không cần dụng cụ.
+- Bệnh nhân: chuẩn bị bệnh sử, bơm rửa, ảnh.
+- Đánh giá nền: tuổi, triệu chứng, nang lệ, hội chứng.
 
 ## 4. Quy trình
-- **Bước 1 — Xác định tầng tắc:** Bơm rửa + quan sát trào ngược (bài 117). Nghiệm thu: biết tắc ở điểm/lệ quản/túi/ống mũi. Cốt lõi: sai tầng là sai mổ. Lỗi: mổ túi khi tắc lệ quản.
-- **Bước 2 — Xử trí đúng tầng:** Theo bản chất từng bài trên. Nghiệm thu: thông sau thủ thuật. Cốt lõi: đúng tầng đúng thuật. Lỗi: một thuật cho mọi tầng.
-- **Bước 3 — Giữ thông (stent/nong):** Stent khi nguy cơ chít cao. Nghiệm thu: stent thông. Cốt lõi: giữ 3 tháng lệ quản. Lỗi: rút sớm.
-- **Bước 4 — Đóng và dẫn lưu:** Đóng lớp, dẫn lưu khi nhiễm trùng. Nghiệm thu: không tụ dịch. Cốt lõi: nhiễm trùng cần đường ra. Lỗi: đóng kín ổ mủ.
-- **Bước 5 — Theo dõi tái tắc:** Bơm rửa định kỳ sau mổ. Nghiệm thu: thông bền. Cốt lõi: lệ đạo cần theo dõi dài. Lỗi: khỏi là thôi.
+- **Bước 1 — Đánh giá:** Xác định tuổi và mức dai dẳng. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 2 — Xử trí:** Loại trừ nang lệ, viêm túi lệ. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 3 — Giữ thông:** Chọn massage/theo dõi. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 4 — Đóng:** Chọn thông hoặc DCR khi thất bại. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
+- **Bước 5 — Theo dõi:** Hẹn theo dõi. Nghiệm thu: hoàn thành bước, không biến chứng. Cốt lõi: đúng tầng và đúng mô. Lỗi: bỏ qua tầng hoặc làm tổn thương lệ quản.
 
 ## 5. Hậu phẫu
-- Không có hậu phẫu: bài giảng tắc lệ-mũi trẻ em, không thực hiện thủ thuật.
-- Khi áp dụng: massage và theo dõi tự thông; sau thông hoặc DCR theo dõi chảy nước mắt, bơm rửa và nhiễm trùng.
-- Tái khám: 1 tuần, 1 tháng, 3 tháng sau can thiệp; đánh giá triệu chứng và bơm rửa lệ đạo.
-- Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, chảy nước mắt tăng.
+Không có hậu phẫu: bài giảng tắc lệ-mũi trẻ em. Khi áp dụng: theo dõi chảy nước mắt, nhiễm, stent; tái khám 1 tuần, 1 tháng, 3 tháng. Dặn quay lại ngay: chảy máu mũi nhiều, sưng nóng đỏ, sốt, chảy nước mắt tăng.
 
 ## 6. Tự lượng giá
 1. Bơm rửa phân biệt các tầng tắc thế nào?
