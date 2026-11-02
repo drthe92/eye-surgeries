@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Test nhỏ cho logic phát hiện khối trùng và self-link."""
 import os
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -61,17 +62,29 @@ def main():
         errors, _ = ck.check(p4, "")
         assert any("tự link chính bài" in e for e in errors), errors
 
-    # CLI: --strict ID phải so với toàn repo, không chỉ tập được chọn.
+    # CLI fixture tạm: --strict ID phải so với toàn repo, không chỉ tập được chọn.
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    ok = subprocess.run([sys.executable, os.path.join(root, "tools", "kiem-tra-bai.py"), "--strict", "332"],
-                        cwd=root, capture_output=True, text=True)
-    assert ok.returncode == 0, ok.stdout + ok.stderr
-    # 182 là cặp trùng cũ đã biết; dùng để chứng minh strict ID quét toàn repo.
-    bad = subprocess.run([sys.executable, os.path.join(root, "tools", "kiem-tra-bai.py"), "--strict", "182"],
-                         cwd=root, capture_output=True, text=True)
+    fx = os.path.join(tmp, "repo")
+    os.makedirs(os.path.join(fx, "tools"))
+    shutil.copy(os.path.join(root, "tools", "kiem-tra-bai.py"), os.path.join(fx, "tools", "kiem-tra-bai.py"))
+    with open(os.path.join(fx, "LEARNING-INDEX.md"), "w", encoding="utf-8") as fh:
+        fh.write("| Thứ tự | Nhóm | Title | Tóm tắt | Link | Xong |\n|---|---|---|---|---|---|\n")
+        for n in (123, 124, 125):
+            fh.write(f"| {n} | Ca-cataract | Test {n} | test | https://example.com | [x] |\n")
+    for n, tag, s5 in [
+        (123, "A", same),
+        (124, "B", same),
+        (125, "C", "- Chăm sóc: riêng.\n- Thuốc: riêng.\n- Tái khám: riêng.\n- Dặn quay lại ngay: đau, mờ."),
+    ]:
+        write(os.path.join(fx, f"{n}-x", "technique.md"), s5, tag=tag)
+    bad = subprocess.run([sys.executable, os.path.join(fx, "tools", "kiem-tra-bai.py"), "--strict", "123"],
+                         cwd=fx, capture_output=True, text=True)
     assert bad.returncode == 1 and "trùng khối" in bad.stdout, bad.stdout + bad.stderr
+    ok = subprocess.run([sys.executable, os.path.join(fx, "tools", "kiem-tra-bai.py"), "--strict", "125"],
+                        cwd=fx, capture_output=True, text=True)
+    assert ok.returncode == 0, ok.stdout + ok.stderr
 
-    print("OK: duplicate_clusters threshold/min_id, self-link và CLI --strict ID")
+    print("OK: duplicate_clusters, self-link và CLI --strict ID (fixture tạm)")
 
 
 if __name__ == "__main__":
