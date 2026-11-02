@@ -168,3 +168,9 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Bỏ self-link 335; sửa nguồn 346/352; ghi rõ nguồn tổng quan cho 341/348/349/350.
 - Bổ sung chi tiết 327/340/341/349.
 - Checker: bài mới 311+ trùng cặp là lỗi strict; thêm test duplicate/self-link và test index .t/.vi/nguồn.
+
+### Sửa theo review 2026-10-24 (vòng 2)
+- LEARNING-INDEX 346/352 đồng bộ URL Cybersight.
+- 332 khôi phục tái khám 1 ngày/tiền phòng/nhãn áp.
+- `--strict ID` so toàn repo; test `any_ids`.
+- 310 bỏ test chamber; heading Ca đủ 4 tổng quan.

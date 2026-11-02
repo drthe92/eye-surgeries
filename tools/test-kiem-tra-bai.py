@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Test nhỏ cho logic phát hiện khối trùng và self-link."""
 import os
+import subprocess
+import sys
 import tempfile
 from importlib.machinery import SourceFileLoader
 
@@ -47,6 +49,8 @@ def main():
         clusters = ck.duplicate_clusters([(1, p1), (2, p2)], threshold=2, min_id=1)
         assert len(clusters) == 1 and clusters[0][0] == "5" and clusters[0][2] == [1, 2], clusters
         assert ck.duplicate_clusters([(1, p1), (2, p2)], threshold=2, min_id=311) == []
+        assert len(ck.duplicate_clusters([(1, p1), (2, p2)], threshold=2, any_ids={1})) == 1
+        assert ck.duplicate_clusters([(1, p1), (2, p2)], threshold=2, any_ids={99}) == []
 
         p3 = os.path.join(tmp, "3-c", "technique.md")
         write(p3, "- Chăm sóc: khác.\n- Thuốc: khác.\n- Tái khám: khác.\n- Dặn quay lại ngay: đau, mờ.", tag="C")
@@ -57,7 +61,17 @@ def main():
         errors, _ = ck.check(p4, "")
         assert any("tự link chính bài" in e for e in errors), errors
 
-    print("OK: duplicate_clusters threshold/min_id và self-link")
+    # CLI: --strict ID phải so với toàn repo, không chỉ tập được chọn.
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    ok = subprocess.run([sys.executable, os.path.join(root, "tools", "kiem-tra-bai.py"), "--strict", "332"],
+                        cwd=root, capture_output=True, text=True)
+    assert ok.returncode == 0, ok.stdout + ok.stderr
+    # 182 là cặp trùng cũ đã biết; dùng để chứng minh strict ID quét toàn repo.
+    bad = subprocess.run([sys.executable, os.path.join(root, "tools", "kiem-tra-bai.py"), "--strict", "182"],
+                         cwd=root, capture_output=True, text=True)
+    assert bad.returncode == 1 and "trùng khối" in bad.stdout, bad.stdout + bad.stderr
+
+    print("OK: duplicate_clusters threshold/min_id, self-link và CLI --strict ID")
 
 
 if __name__ == "__main__":

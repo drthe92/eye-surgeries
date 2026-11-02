@@ -9,7 +9,8 @@ Cách dùng:
     python3 tools/kiem-tra-bai.py 185 187      # kiểm tra vài bài
     python3 tools/kiem-tra-bai.py --fix        # thay câu hậu phẫu rỗng
     python3 tools/kiem-tra-bai.py --fix 185    # chỉ sửa bài 185
-    python3 tools/kiem-tra-bai.py --strict     # bài mới 311+: trùng cặp là lỗi; bài cũ: ngưỡng 5
+    python3 tools/kiem-tra-bai.py --strict     # full: bài mới 311+ trùng cặp là lỗi
+    python3 tools/kiem-tra-bai.py --strict 332 # chọn ID: so bài đó với toàn repo, ngưỡng 2
 
 Mã thoát 1 nếu còn lỗi (ERROR), hoặc nếu --strict và còn khối trùng.
 """
@@ -291,10 +292,11 @@ def duplicate_sections(targets):
     return out
 
 
-def duplicate_clusters(targets, keys=("2", "3", "5"), threshold=5, min_id=None):
+def duplicate_clusters(targets, keys=("2", "3", "5"), threshold=5, min_id=None, any_ids=None):
     """Trả về các cụm khối trùng, kèm số bài.
 
     min_id: nếu đặt, chỉ trả cụm có ít nhất một bài >= min_id.
+    any_ids: nếu đặt, chỉ trả cụm có ít nhất một bài trong tập này.
     """
     out = []
     for key in keys:
@@ -305,7 +307,9 @@ def duplicate_clusters(targets, keys=("2", "3", "5"), threshold=5, min_id=None):
             if body:
                 buckets[body].append(n)
         for body, ids in buckets.items():
-            if len(ids) >= threshold and (min_id is None or any(i >= min_id for i in ids)):
+            hit_min = min_id is None or any(i >= min_id for i in ids)
+            hit_any = any_ids is None or any(i in any_ids for i in ids)
+            if len(ids) >= threshold and hit_min and hit_any:
                 out.append((key, body, sorted(ids)))
     return out
 
@@ -342,17 +346,16 @@ def main(argv):
     want = {int(x) for x in argv if x.isdigit()}
     groups = group_map()
 
-    targets = []
+    all_targets = []
     for d in sorted(os.listdir(ROOT)):
         m = re.match(r"^(\d+)-", d)
         if not (m and os.path.isdir(os.path.join(ROOT, d))):
             continue
         n = int(m.group(1))
-        if want and n not in want:
-            continue
         p = os.path.join(ROOT, d, "technique.md")
         if os.path.exists(p):
-            targets.append((n, p))
+            all_targets.append((n, p))
+    targets = [(n, p) for n, p in all_targets if not want or n in want]
 
     if do_fix:
         fixed = 0
@@ -404,18 +407,27 @@ def main(argv):
     print(f"\nĐã kiểm tra {len(targets)} bài: {n_err} lỗi, {n_warn} cảnh báo.")
 
     if strict:
-        # Bài mới 311+ phải không trùng cặp; bài cũ giữ ngưỡng 5 để tránh
-        # biến nợ cũ thành lỗi chặn đột ngột.
-        new_clusters = duplicate_clusters(targets, threshold=2, min_id=311)
-        if new_clusters:
-            print("STRICT: khối mục 2/3/5 trùng ở bài mới 311+ — chưa đạt:")
-            for key, _, ids in new_clusters[:12]:
-                print(f"  mục {key}: {ids}")
-            return 1
-        old_clusters = duplicate_clusters(targets, threshold=5)
-        if old_clusters:
-            print("STRICT: còn khối mục 2/3/5 trùng nguyên văn — chưa đạt.")
-            return 1
+        # Khi chọn bài cụ thể, vẫn phải so với TOÀN BỘ repo, không chỉ tập được chọn.
+        if want:
+            selected_clusters = duplicate_clusters(all_targets, threshold=2, any_ids=want)
+            if selected_clusters:
+                print("STRICT: bài được chọn trùng khối mục 2/3/5 với bài khác — chưa đạt:")
+                for key, _, ids in selected_clusters[:12]:
+                    print(f"  mục {key}: {ids}")
+                return 1
+        else:
+            # Bài mới 311+ phải không trùng cặp; bài cũ giữ ngưỡng 5 để tránh
+            # biến nợ cũ thành lỗi chặn đột ngột.
+            new_clusters = duplicate_clusters(all_targets, threshold=2, min_id=311)
+            if new_clusters:
+                print("STRICT: khối mục 2/3/5 trùng ở bài mới 311+ — chưa đạt:")
+                for key, _, ids in new_clusters[:12]:
+                    print(f"  mục {key}: {ids}")
+                return 1
+            old_clusters = duplicate_clusters(all_targets, threshold=5)
+            if old_clusters:
+                print("STRICT: còn khối mục 2/3/5 trùng nguyên văn — chưa đạt.")
+                return 1
     return 1 if n_err else 0
 
 

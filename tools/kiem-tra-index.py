@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Kiểm tra semantic tối thiểu cho index.html (card Ca và nguồn)."""
+import os
 import re
 import sys
 
@@ -38,6 +39,33 @@ if len(nums) != 353:
     errors.append(f"số card = {len(nums)}, cần 353")
 if len(set(nums)) != len(nums):
     errors.append("có số card trùng")
+
+# LEARNING-INDEX: 311-353 phải khớp URL trong technique.md
+folders = {int(m.group(1)): d for d in os.listdir(".") if (m := re.match(r"^(\d+)-", d)) and os.path.isdir(d)}
+rows = {}
+for line in open("LEARNING-INDEX.md", encoding="utf-8"):
+    if not line.startswith("|"):
+        continue
+    parts = [p.strip() for p in line.strip().strip("|").split("|")]
+    if len(parts) >= 6 and parts[0].isdigit():
+        rows[int(parts[0])] = {"url": parts[4], "group": parts[1]}
+for n in range(311, 354):
+    if n not in rows:
+        errors.append(f"LEARNING-INDEX thiếu dòng {n}")
+        continue
+    d = folders.get(n)
+    if not d:
+        errors.append(f"thiếu folder {n}")
+        continue
+    tech = open(os.path.join(d, "technique.md"), encoding="utf-8").read()
+    m = re.search(r"\]\((https?://[^)]+)\)", tech)
+    tech_url = m.group(1) if m else ""
+    if rows[n]["url"] != tech_url:
+        errors.append(f"LEARNING-INDEX {n}: URL khác technique.md")
+    if n in (346, 352) and "phaco_settings" in rows[n]["url"]:
+        errors.append(f"LEARNING-INDEX {n}: còn nguồn phaco_settings")
+if len(rows) != 353:
+    errors.append(f"LEARNING-INDEX có {len(rows)} dòng, cần 353")
 
 if errors:
     print("LỖI index:")

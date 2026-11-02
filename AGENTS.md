@@ -71,7 +71,7 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 
 ## CHỐNG TEMPLATE THEO KHỐI (2026-10-24)
 - Không chỉ cấm câu rời rạc: **mục 2, 3, 5 của hai bài khác nhau không được giống nguyên khối**. Mỗi bài phải nêu đúng chỉ định, đúng dụng cụ của bước và đúng biến chứng của bước.
-- `python3 tools/kiem-tra-bai.py` báo các khối trùng ở cuối; `--strict` trả mã 1 nếu **bài mới 311+ có khối mục 2/3/5 trùng cặp (≥2)**; với bài cũ giữ ngưỡng ≥5 để tránh biến nợ cũ thành lỗi chặn.
+- `python3 tools/kiem-tra-bai.py` báo các khối trùng ở cuối; `--strict` trả mã 1 nếu **bài mới 311+ có khối mục 2/3/5 trùng cặp (≥2)**; với bài cũ giữ ngưỡng ≥5 khi chạy full. Khi chọn ID (`--strict 332`), checker so bài đó với **toàn bộ 353 bài**, ngưỡng 2.
 - Bài theo bước (ví dụ Cataract 296–310): mục 3 chỉ liệt kê dụng cụ dùng ở mục 4; bài thiết lập máy/thông số ghi “Không có hậu phẫu riêng”.
 - Lỗi gốc 2026-10-24: 15 bài Cataract dùng chung mục 2/3/5; đã sửa toàn bộ, Cataract 0 cảnh báo.
 
@@ -85,3 +85,9 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Bỏ self-link bài 335; sửa nguồn 346/352 sang Cybersight biometry/IOL calculation; 341/348/349/350 ghi “Nguồn tham khảo chung”.
 - Bổ sung chi tiết 327 (tunnel/neo củng mạc), 340 (priming/ống 2-3mm/che ống), 341 (trephine/khâu/khí), 349 (liều kháng sinh nội nhãn/cắt dịch kính).
 - Thêm `tools/test-kiem-tra-bai.py` (duplicate threshold/min_id, self-link) và `tools/kiem-tra-index.py` (.t/.vi, nguồn card).
+
+### Sửa theo review 2026-10-24 (vòng 2)
+- Đồng bộ URL 346/352 trong `LEARNING-INDEX`; `tools/kiem-tra-index.py` giờ đọc cả LEARNING-INDEX và so URL với technique.md.
+- Khôi phục mốc 1 ngày/tiền phòng/nhãn áp cho 332.
+- `--strict <ID>` so với toàn repo, không chỉ tập được chọn; test bổ sung `any_ids`.
+- Bỏ “test chamber” không dùng ở 310; heading Ca có đủ 4 tổng quan.

@@ -12,7 +12,7 @@ Ca toàn bộ của EyeRounds là mẫu để ráp 9 bài trước thành một 
 
 ## 3. Chuẩn bị
 - Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, test chamber, dao 15°, keratome 2,4mm, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
+- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
 - Bệnh nhân: đồng tử giãn, tiền phòng vững, đánh dấu trục.
 - Đánh giá nền: độ cứng nhân, bao/zonule, nội mô giác mạc.
 
