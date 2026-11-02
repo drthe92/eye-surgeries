@@ -1,6 +1,6 @@
 # Bong võng mạc sau phaco — Retinal detachment after cataract surgery (Bài chuẩn Goal)
 
-> Video/Bài: [Nguồn](https://eyerounds.org/video/Cataract/index.htm)
+> Nguồn tham khảo chung: [EyeRounds Cataract index](https://eyerounds.org/video/Cataract/index.htm)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất

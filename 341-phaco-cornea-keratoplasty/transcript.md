@@ -1,7 +1,7 @@
 # Phaco + giác mạc — Transcript
 
 - Tên: Phaco combined with corneal keratoplasty
-- Nguồn: EyeRounds — Cataract and cornea cases
+- Nguồn: EyeRounds Cataract index (trang tổng quan, không phải video 1:1)
 - Trang: https://eyerounds.org/video/Cataract/index.htm
 - Ghi chú: bài dựng từ nguyên lý và kỹ thuật chuẩn; không có transcript nguyên văn.
 - Ngày dựng: 2026-10-24

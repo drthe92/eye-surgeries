@@ -37,4 +37,3 @@ Cataract bẩm sinh ở trẻ thường mềm, nên hút nhân bằng I/A là ch
 ## 7. Bài liên quan
 - [336 — Posterior capsulorhexis + optic capture](../336-posterior-capsulorhexis-optic-capture/technique.md): thì sau.
 - [337 — IOL trẻ em](../337-iol-tre-em-khuc-xa/technique.md): chọn công suất.
-- [335 — Lens aspiration](../335-cataract-tre-em-lens-aspiration/technique.md): bài này.

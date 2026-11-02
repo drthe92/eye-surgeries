@@ -1,7 +1,7 @@
 # CME sau phaco — Transcript
 
 - Tên: Pseudophakic cystoid macular edema
-- Nguồn: EyeRounds — Cataract complications
+- Nguồn: EyeRounds Cataract index (trang tổng quan, không phải video 1:1)
 - Trang: https://eyerounds.org/video/Cataract/index.htm
 - Ghi chú: bài dựng từ nguyên lý và tiêu chuẩn điều trị; không có transcript nguyên văn.
 - Ngày dựng: 2026-10-24

@@ -12,7 +12,7 @@ Ca toàn bộ của Coleman là bản mẫu để học trình tự: rạch → 
 
 ## 3. Chuẩn bị
 - Vô cảm: tê nhỏ giọt + nội nhãn hoặc tê cạnh nhãn cầu; trẻ em mê.
-- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
+- Dụng cụ: bộ phaco, dao 15°, keratome 2,4mm, bơm visco 1 mL, viscoelastic, kẹp Utrata, đầu phaco, chopper, I/A, cartridge IOL, BSS.
 - Bệnh nhân: đồng tử giãn, tiền phòng vững, đánh dấu trục.
 - Đánh giá nền: độ cứng nhân, bao/zonule, nội mô giác mạc.
 
@@ -26,7 +26,7 @@ Ca toàn bộ của Coleman là bản mẫu để học trình tự: rạch → 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ.
 - Thuốc: kháng sinh nội nhãn cuối ca; thuốc tra theo phác đồ.
-- Tái khám: 1 ngày kiểm tra nhãn áp, giác mạc, IOL; 1 tuần, 1 tháng.
+- Tái khám: 1 ngày kiểm tra nhãn áp, giác mạc, IOL; 1 tuần kiểm tra vết rạch; 1 tháng khúc xạ.
 - Dặn quay lại ngay: đau tăng, nhìn mờ đột ngột, đỏ đau, buồn nôn.
 
 ## 6. Tự lượng giá

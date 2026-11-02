@@ -1,6 +1,6 @@
 # Phaco + giác mạc — phối hợp với ghép giác mạc — Phaco combined with corneal keratoplasty (Bài chuẩn Goal)
 
-> Video/Bài: [Nguồn](https://eyerounds.org/video/Cataract/index.htm)
+> Nguồn tham khảo chung: [EyeRounds Cataract index](https://eyerounds.org/video/Cataract/index.htm)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
@@ -19,9 +19,9 @@ Phối hợp phaco với ghép giác mạc (PKP, DSAEK, DMEK) dùng khi cataract
 ## 4. Quy trình
 - **Bước 1 — Chọn thứ tự:** Quyết định phaco trước/ sau ghép theo loại ghép và độ đục giác mạc. Nghiệm thu: kế hoạch rõ. Cốt lõi: ưu tiên nhìn thấy tiền phòng. Lỗi: phaco khi không thấy bao.
 - **Bước 2 — Phaco bảo vệ nội mô:** Dùng visco dispersive, phaco trung tâm, giảm năng lượng. Nghiệm thu: nhân ra, nội mô được phủ. Cốt lõi: giảm năng lượng tối đa. Lỗi: phaco kéo dài làm phù ghép.
-- **Bước 3 — Ghép giác mạc:** Thực hiện PKP/DSAEK/DMEK theo kỹ thuật, kiểm tra mảnh ghép. Nghiệm thu: mảnh ghép vững, tiền phòng vững. Cốt lõi: đúng lớp/ trung tâm. Lỗi: ghép lệch/ khí trong tiền phòng.
-- **Bước 4 — Kiểm tra:** Kiểm tra nhãn áp, tiền phòng, mảnh ghép, IOL. Nghiệm thu: mắt kín, ghép áp. Cốt lõi: kiểm tra trước đóng. Lỗi: bỏ sót khí/ rò.
-- **Bước 5 — Hậu phẫu:** Tra thuốc, theo dõi thải ghép/ nhãn áp. Nghiệm thu: kế hoạch theo dõi rõ. Cốt lõi: phối hợp cornea. Lỗi: bỏ theo dõi sát.
+- **Bước 3 — Ghép giác mạc:** PKP: trephine 7,5-8,0mm, khâu 10-0 nylon 16 mũi; DSAEK: mảnh 8-9mm, khí tiền phòng 80-100%; DMEK: mảnh 7,5-8mm, khí 80-90%, kiểm tra đúng mặt mảnh ghép. Nghiệm thu: mảnh ghép vững, tiền phòng vững. Cốt lõi: đúng lớp/ trung tâm. Lỗi: ghép lệch/ khí trong tiền phòng.
+- **Bước 4 — Kiểm tra:** Kiểm tra khí tiền phòng, nhãn áp, mảnh ghép áp đúng mặt, IOL; tránh khí quá nhiều ở mắt glocom. Nghiệm thu: mắt kín, ghép áp. Cốt lõi: kiểm tra trước đóng. Lỗi: bỏ sót khí/ rò.
+- **Bước 5 — Hậu phẫu:** Tra thuốc, theo dõi thải ghép/nhãn áp; DMEK nằm ngửa, DSAEK kiểm tra mảnh ghép. Nghiệm thu: kế hoạch theo dõi rõ. Cốt lõi: phối hợp cornea. Lỗi: bỏ theo dõi sát.
 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính bảo vệ; nằm ngửa nếu DMEK.

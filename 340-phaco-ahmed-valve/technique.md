@@ -1,4 +1,4 @@
-# Phaco + Ahmed valve — Phaco kết hợp van Ahmed (Bài chuẩn Goal)
+# Phaco kết hợp van Ahmed — Phaco combined with Ahmed valve (Bài chuẩn Goal)
 
 > Video/Bài: [Nguồn](https://cybersight.org/library/surgery-phacoemulsification-and-ahmed-valve-implant/)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -17,11 +17,11 @@ Phaco + Ahmed valve dành cho glocom nặng/ thất bại với mổ lọc, cầ
 - Đánh giá nền: nhãn áp, góc, kết mạc, glocom, thị trường.
 
 ## 4. Quy trình
-- **Bước 1 — Chọn vị trí:** Đánh dấu đĩa ở góc phần tư không có sẹo, tránh vết mổ cũ. Nghiệm thu: vị trí đĩa rõ. Cốt lõi: tránh kết mạc xơ. Lỗi: đặt đĩa trên sẹo.
+- **Bước 1 — Chọn vị trí:** Đánh dấu đĩa 8-10mm sau rìa ở góc phần tư không sẹo, tránh vết mổ cũ và vùng kết mạc mỏng. Nghiệm thu: vị trí đĩa rõ. Cốt lõi: tránh kết mạc xơ. Lỗi: đặt đĩa trên sẹo.
 - **Bước 2 — Phaco + IOL:** Phaco, đặt IOL, hút visco. Nghiệm thu: IOL vững. Cốt lõi: phaco gọn. Lỗi: kéo dài gây viêm.
-- **Bước 3 — Đặt van:** Cố định đĩa, luồn ống silicone vào tiền phòng qua rìa, đúng độ sâu. Nghiệm thu: ống trong tiền phòng, không chạm mống/ nội mô. Cốt lõi: đúng độ sâu. Lỗi: ống quá nông/ sâu.
-- **Bước 4 — Che phủ:** Che ống bằng củng mạc/ màng, khâu cố định. Nghiệm thu: ống được che, không lộ. Cốt lõi: che kín. Lỗi: ống lộ gây xói mòn.
-- **Bước 5 — Kiểm tra:** Kiểm tra nhãn áp, tiền phòng, vị trí ống. Nghiệm thu: nhãn áp vừa, tiền phòng vững. Cốt lõi: kiểm tra trước đóng. Lỗi: bỏ sót ống chạm.
+- **Bước 3 — Đặt van:** Priming ống bằng BSS, cố định đĩa bằng 2 mối 8-0/9-0, luồn ống silicone vào tiền phòng 2-3mm, vát đầu ống. Nghiệm thu: ống trong tiền phòng, không chạm mống/ nội mô. Cốt lõi: đúng độ sâu. Lỗi: ống quá nông/ sâu.
+- **Bước 4 — Che phủ:** Che ống bằng mảnh củng mạc/màng 4-5mm, khâu 8-0 cố định. Nghiệm thu: ống được che, không lộ. Cốt lõi: che kín. Lỗi: ống lộ gây xói mòn.
+- **Bước 5 — Kiểm tra:** Kiểm tra nhãn áp, tiền phòng, vị trí ống không chạm mống/nội mô. Nghiệm thu: nhãn áp vừa, tiền phòng vững. Cốt lõi: kiểm tra trước đóng. Lỗi: bỏ sót ống chạm.
 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, tránh gắng sức; theo dõi van.

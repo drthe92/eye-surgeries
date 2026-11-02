@@ -17,10 +17,10 @@ Cố định IOL củng mạc dùng khi không còn bao/rãnh đủ đỡ: hapti
 - Đánh giá nền: củng mạc, kết mạc, nhãn áp, tình trạng bao, mắt đã mổ.
 
 ## 4. Quy trình
-- **Bước 1 — Đánh dấu:** Đánh dấu hai điểm đối xứng cách rìa 2mm, tránh mống và mạch máu. Nghiệm thu: hai điểm đối xứng, an toàn. Cốt lõi: đo chuẩn trước khi rạch. Lỗi: điểm lệch gây IOL nghiêng.
-- **Bước 2 — Mở kết mạc/tunnel:** Mở kết mạc, tạo tunnel củng mạc đúng độ sâu, kiểm soát cầm máu. Nghiệm thu: tunnel vững, không thủng. Cốt lõi: đúng lớp củng mạc. Lỗi: tunnel nông gây rách.
-- **Bước 3 — Đưa haptic ra:** Luồn haptic qua tunnel ra ngoài, kiểm tra đối xứng và độ căng. Nghiệm thu: hai haptic ra đều, IOL cân. Cốt lõi: kéo đều hai bên. Lỗi: kéo lệch gây nghiêng.
-- **Bước 4 — Cố định:** Buộc haptic bằng prolene/Gore-Tex vào củng mạc, kiểm tra IOL không xoay. Nghiệm thu: IOL vững, trục đúng. Cốt lõi: cố định chắc, không siết quá. Lỗi: siết quá làm haptic gãy.
+- **Bước 1 — Đánh dấu:** Đánh dấu hai điểm đối xứng 180°, cách rìa 2mm, tránh mống và mạch máu; xác định vùng củng mạc dày. Nghiệm thu: hai điểm đối xứng, an toàn. Cốt lõi: đo chuẩn trước khi rạch. Lỗi: điểm lệch gây IOL nghiêng.
+- **Bước 2 — Mở kết mạc/tunnel:** Mở kết mạc 3-4mm, tạo tunnel củng mạc dài 2-3mm đúng độ sâu, kiểm soát cầm máu. Nghiệm thu: tunnel vững, không thủng. Cốt lõi: đúng lớp củng mạc. Lỗi: tunnel nông gây rách.
+- **Bước 3 — Đưa haptic ra:** Dùng kim 27G/30G tạo đường ra, externalize haptic qua tunnel, kiểm tra đối xứng và độ căng. Nghiệm thu: hai haptic ra đều, IOL cân. Cốt lõi: kéo đều hai bên. Lỗi: kéo lệch gây nghiêng.
+- **Bước 4 — Cố định:** Buộc haptic bằng prolene/Gore-Tex 8-0/9-0 vào củng mạc, xoay nút vào trong, kiểm tra IOL không xoay. Nghiệm thu: IOL vững, trục đúng. Cốt lõi: cố định chắc, không siết quá. Lỗi: siết quá làm haptic gãy.
 - **Bước 5 — Đóng và kiểm tra:** Hút visco, đóng kết mạc, kiểm tra nhãn áp và vị trí IOL. Nghiệm thu: mắt kín, IOL trung tâm. Cốt lõi: kiểm tra trước đóng. Lỗi: bỏ sót xoay IOL.
 
 ## 5. Hậu phẫu

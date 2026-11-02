@@ -24,9 +24,9 @@ Blumenthal là biến thể MSICS dùng tunnel nhỏ hơn và viscoelastic để
 - **Bước 5 — Đóng:** Khâu hoặc để tự kín, kiểm tra nhãn áp. Nghiệm thu: mắt kín, nhãn áp vừa. Cốt lõi: đóng đúng lớp. Lỗi: rò dịch.
 
 ## 5. Hậu phẫu
-- Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính.
+- Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính; theo dõi tunnel và loạn thị.
 - Thuốc: kháng sinh nội nhãn, steroid tra, giảm đau.
-- Tái khám: 1 ngày, 1 tuần, 1 tháng; kiểm tra tunnel, IOL, nhãn áp.
+- Tái khám: 1 tuần kiểm tra tunnel/loạn thị; 1 tháng; 3 tháng.
 - Dặn quay lại ngay: rò dịch, đau tăng, nhìn mờ, sưng nóng đỏ.
 
 ## 6. Tự lượng giá

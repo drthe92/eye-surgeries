@@ -24,10 +24,10 @@ Chuyển phaco sang MSICS là chuyển từ phaco qua vết rạch nhỏ sang l�
 - **Bước 5 — Đóng:** Khâu/tự kín, kiểm tra nhãn áp. Nghiệm thu: mắt kín. Cốt lõi: đúng lớp. Lỗi: rò dịch.
 
 ## 5. Hậu phẫu
-- Chăm sóc: tra kháng sinh-steroid, không dụi, đeo kính.
+- Chăm sóc: tra kháng sinh-steroid, không dụi; tránh gắng sức; theo dõi vết mở rộng.
 - Thuốc: kháng sinh nội nhãn, steroid tra, giảm đau.
-- Tái khám: 1 ngày, 1 tuần, 1 tháng; kiểm tra tunnel, IOL, nhãn áp.
-- Dặn quay lại ngay: rò dịch, đau tăng, nhìn mờ, sưng nóng đỏ.
+- Tái khám: 1 ngày kiểm tra vết mở rộng/tiền phòng; 1 tuần; 1 tháng.
+- Dặn quay lại ngay: rò dịch, tiền phòng nông, đau tăng, nhìn mờ.
 
 ## 6. Tự lượng giá
 1. Chuyển MSICS khác chuyển ECCE ở đâu?

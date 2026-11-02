@@ -24,10 +24,10 @@ Phaco + MIGS bằng Kahook dual blade là phối hợp lấy cataract và mở b
 - **Bước 5 — Đóng:** Đóng kín, tra thuốc, hẹn theo dõi. Nghiệm thu: mắt kín, nhãn áp vừa. Cốt lõi: theo dõi sát. Lỗi: bỏ sót tăng nhãn áp.
 
 ## 5. Hậu phẫu
-- Chăm sóc: tra kháng sinh-steroid, không dụi, tránh gắng sức.
+- Chăm sóc: tra kháng sinh-steroid, không dụi; tránh gắng sức.
 - Thuốc: kháng sinh nội nhãn, steroid tra, giảm đau; thuốc glocom theo chỉ định.
-- Tái khám: 1 ngày, 1 tuần, 1 tháng; kiểm tra nhãn áp, góc, IOL.
-- Dặn quay lại ngay: đau tăng, nhìn mờ, nhãn áp cao, chảy máu, sưng nóng đỏ.
+- Tái khám: 1 ngày kiểm tra góc/tiền phòng; 1 tuần; 1 tháng.
+- Dặn quay lại ngay: đau tăng, nhìn mờ, nhãn áp cao, chảy máu góc, sưng nóng đỏ.
 
 ## 6. Tự lượng giá
 1. Kahook blade cắt lớp nào?

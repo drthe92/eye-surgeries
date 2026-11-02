@@ -9,14 +9,14 @@ Cách dùng:
     python3 tools/kiem-tra-bai.py 185 187      # kiểm tra vài bài
     python3 tools/kiem-tra-bai.py --fix        # thay câu hậu phẫu rỗng
     python3 tools/kiem-tra-bai.py --fix 185    # chỉ sửa bài 185
-    python3 tools/kiem-tra-bai.py --strict     # coi khối mục 2/3/5 trùng là lỗi
+    python3 tools/kiem-tra-bai.py --strict     # bài mới 311+: trùng cặp là lỗi; bài cũ: ngưỡng 5
 
 Mã thoát 1 nếu còn lỗi (ERROR), hoặc nếu --strict và còn khối trùng.
 """
 import os
 import re
 import sys
-from collections import Counter
+from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -185,11 +185,17 @@ def check(path, group):
     s3 = sec.get("3", "")
     s4 = sec.get("4", "")
     s5 = sec.get("5", "")
+    s7 = sec.get("7", "")
 
     # Cấu trúc 1-7 phải đúng thứ tự, mỗi mục một lần.
     nums = [int(x) for x in re.findall(r"^## (\d+)\. ", text, re.M)]
     if nums != [1, 2, 3, 4, 5, 6, 7]:
         errors.append(f"cấu trúc mục sai: {nums} (cần 1-7)")
+
+    # Mục 7 không được tự link chính bài.
+    self_folder = os.path.basename(os.path.dirname(path))
+    if re.search(rf"\]\(\.\./{re.escape(self_folder)}/", s7):
+        errors.append("mục 7 tự link chính bài")
 
     for p in BANNED:
         if p in s2 or p in s3:
@@ -282,6 +288,25 @@ def duplicate_sections(targets):
             if body:
                 c[body] += 1
         out[key] = c
+    return out
+
+
+def duplicate_clusters(targets, keys=("2", "3", "5"), threshold=5, min_id=None):
+    """Trả về các cụm khối trùng, kèm số bài.
+
+    min_id: nếu đặt, chỉ trả cụm có ít nhất một bài >= min_id.
+    """
+    out = []
+    for key in keys:
+        buckets = defaultdict(list)
+        for n, p in targets:
+            sec = sections(open(p, encoding="utf-8").read())
+            body = sec.get(key, "").strip()
+            if body:
+                buckets[body].append(n)
+        for body, ids in buckets.items():
+            if len(ids) >= threshold and (min_id is None or any(i >= min_id for i in ids)):
+                out.append((key, body, sorted(ids)))
     return out
 
 
@@ -379,8 +404,16 @@ def main(argv):
     print(f"\nĐã kiểm tra {len(targets)} bài: {n_err} lỗi, {n_warn} cảnh báo.")
 
     if strict:
-        dup_fail = any(n >= 5 for key in ("2", "3", "5") for n in dup_sec[key].values())
-        if dup_fail:
+        # Bài mới 311+ phải không trùng cặp; bài cũ giữ ngưỡng 5 để tránh
+        # biến nợ cũ thành lỗi chặn đột ngột.
+        new_clusters = duplicate_clusters(targets, threshold=2, min_id=311)
+        if new_clusters:
+            print("STRICT: khối mục 2/3/5 trùng ở bài mới 311+ — chưa đạt:")
+            for key, _, ids in new_clusters[:12]:
+                print(f"  mục {key}: {ids}")
+            return 1
+        old_clusters = duplicate_clusters(targets, threshold=5)
+        if old_clusters:
             print("STRICT: còn khối mục 2/3/5 trùng nguyên văn — chưa đạt.")
             return 1
     return 1 if n_err else 0

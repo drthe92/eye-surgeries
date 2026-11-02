@@ -1,6 +1,6 @@
 # Endophthalmitis và TASS — nhiễm nội nhãn cấp và hội chứng tiền phòng độc — Endophthalmitis and TASS (Bài chuẩn Goal)
 
-> Video/Bài: [Nguồn](https://eyerounds.org/video/Cataract/index.htm)
+> Nguồn tham khảo chung: [EyeRounds Cataract index](https://eyerounds.org/video/Cataract/index.htm)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
@@ -17,10 +17,10 @@ Endophthalmitis là nhiễm nội nhãn cấp sau phaco, thường trong 1-7 ng�
 - Đánh giá nền: thời gian khởi phát, đau, tiền phòng, võng mạc, yếu tố nguy cơ.
 
 ## 4. Quy trình
-- **Bước 1 — Nhận diện:** Đau tăng, đỏ, giảm thị lực, tiền phòng mủ; so sánh TASS (ít đau, phản ứng độc). Nghiệm thu: chẩn đoán phân biệt rõ. Cốt lõi: hỏi thời gian khởi phát. Lỗi: bỏ qua triệu chứng sớm.
-- **Bước 2 — Cấy/ xét nghiệm:** Lấy mẫu tiền phòng/ dịch kính trước kháng sinh nếu có thể. Nghiệm thu: mẫu gửi đúng. Cốt lõi: không trì hoãn điều trị. Lỗi: chờ kết quả mới điều trị.
-- **Bước 3 — Tiêm nội nhãn:** Vancomycin + ceftazidime nội nhãn theo liều chuẩn; cân nhắc steroid sau. Nghiệm thu: thuốc vào tiền phòng/ dịch kính. Cốt lõi: đúng liều, đúng đường. Lỗi: liều sai gây độc võng mạc.
-- **Bước 4 — Phẫu thuật:** Nếu thị lực rất kém/ không đáp ứng: cắt dịch kính, tiêm kháng sinh. Nghiệm thu: sạch mủ, áp lực ổn. Cốt lõi: chuyển sớm. Lỗi: chờ quá lâu.
+- **Bước 1 — Nhận diện:** Đau tăng, đỏ, giảm thị lực, tiền phòng mủ; TASS thường 12-48 giờ, ít đau, phản ứng độc và đáp ứng steroid. Nghiệm thu: chẩn đoán phân biệt rõ. Cốt lõi: hỏi thời gian khởi phát. Lỗi: bỏ qua triệu chứng sớm.
+- **Bước 2 — Cấy/ xét nghiệm:** Lấy mẫu tiền phòng/dịch kính trước kháng sinh nếu có thể; không trì hoãn tiêm. Nghiệm thu: mẫu gửi đúng. Cốt lõi: không trì hoãn điều trị. Lỗi: chờ kết quả mới điều trị.
+- **Bước 3 — Tiêm nội nhãn:** Vancomycin 1mg/0,1mL + ceftazidime 2,25mg/0,1mL nội nhãn; cân nhắc dexamethasone 0,4mg/0,1mL sau kháng sinh. Nghiệm thu: thuốc vào tiền phòng/ dịch kính. Cốt lõi: đúng liều, đúng đường. Lỗi: liều sai gây độc võng mạc.
+- **Bước 4 — Phẫu thuật:** Cắt dịch kính nếu thị lực < light perception, mủ nhiều hoặc không đáp ứng sau 24-48 giờ. Nghiệm thu: sạch mủ, áp lực ổn. Cốt lõi: chuyển sớm. Lỗi: chờ quá lâu.
 - **Bước 5 — Theo dõi:** Theo dõi 24-48 giờ, lặp tiêm/ phẫu thuật nếu cần. Nghiệm thu: đáp ứng lâm sàng. Cốt lõi: theo dõi sát. Lỗi: bỏ tái khám.
 
 ## 5. Hậu phẫu

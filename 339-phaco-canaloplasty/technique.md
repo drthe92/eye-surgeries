@@ -1,4 +1,4 @@
-# Phaco + canaloplasty — Phaco kết hợp canaloplasty (Bài chuẩn Goal)
+# Phaco kết hợp canaloplasty — Phaco combined with canaloplasty (Bài chuẩn Goal)
 
 > Video/Bài: [Nguồn](https://cybersight.org/library/surgery-phacoemulsification-and-canaloplasty/)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
@@ -26,7 +26,7 @@ Canaloplasty mở rộng và đặt stent/ chỉ trong ống Schlemm để hạ 
 ## 5. Hậu phẫu
 - Chăm sóc: tra kháng sinh-steroid, không dụi, tránh gắng sức.
 - Thuốc: kháng sinh nội nhãn, steroid tra, giảm đau; thuốc glocom theo chỉ định.
-- Tái khám: 1 ngày, 1 tuần, 1 tháng; kiểm tra nhãn áp, góc, IOL.
+- Tái khám: 1 ngày kiểm tra nhãn áp/tiền phòng; 1 tuần đánh giá ống Schlemm; 1 tháng.
 - Dặn quay lại ngay: đau tăng, nhìn mờ, nhãn áp cao, chảy máu, sưng nóng đỏ.
 
 ## 6. Tự lượng giá

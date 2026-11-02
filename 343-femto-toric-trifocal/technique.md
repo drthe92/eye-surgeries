@@ -1,4 +1,4 @@
-# Femto + toric/trifocal — Femto với IOL toric/trifocal (Bài chuẩn Goal)
+# Femto với IOL toric/trifocal — Femto with toric/trifocal IOL (Bài chuẩn Goal)
 
 > Video/Bài: [Nguồn](https://cybersight.org/library/surgery-femtosecond-laser-assisted-cataract-surgery-with-trifocal-toric-iol/)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.

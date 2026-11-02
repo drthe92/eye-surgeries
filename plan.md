@@ -162,3 +162,9 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - Thêm 43 bài 311–353: biến chứng/ca khó (15), nâng cao (20), hậu phẫu/tối ưu (8).
 - Mỗi bài đủ transcript + technique 6 mục + mục 7; mục 4 có thông số/điểm quyết định/biến chứng tại bước.
 - Cập nhật LEARNING-INDEX 353 dòng, index.html 353 thẻ, 3 tổng quan chặng 2/3/4; `--strict` 353 bài 0 lỗi.
+
+### Sửa theo review 2026-10-24
+- Cá nhân hóa mục 5: 332/334, 339/344; thêm 303/310.
+- Bỏ self-link 335; sửa nguồn 346/352; ghi rõ nguồn tổng quan cho 341/348/349/350.
+- Bổ sung chi tiết 327/340/341/349.
+- Checker: bài mới 311+ trùng cặp là lỗi strict; thêm test duplicate/self-link và test index .t/.vi/nguồn.

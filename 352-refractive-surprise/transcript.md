@@ -1,8 +1,8 @@
 # Refractive surprise — Transcript
 
 - Tên: Refractive surprise after cataract surgery
-- Nguồn: EyeRounds — Cataract basics/ IOL calculation
-- Trang: https://eyerounds.org/tutorials/Iowa-OWL/phaco_settings.htm
+- Nguồn: Cybersight — Lecture: IOL Calculation in the 21st Century
+- Trang: https://cybersight.org/library/lecture-iol-calculation-in-the-21st-century-new-formulas
 - Ghi chú: bài dựng từ nguyên lý và tiêu chuẩn xử trí; không có transcript nguyên văn.
 - Ngày dựng: 2026-10-24
 

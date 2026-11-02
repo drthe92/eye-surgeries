@@ -1,6 +1,6 @@
 # Sinh trắc và chọn công suất IOL — Biometry and IOL power calculation (Bài chuẩn Goal)
 
-> Video/Bài: [Nguồn](https://eyerounds.org/tutorials/Iowa-OWL/phaco_settings.htm)
+> Video/Bài: [Nguồn](https://cybersight.org/library/lecture-biometry-basics-and-practical-review)
 > Nguồn: `transcript.md`. Học tập, đối chiếu guideline và đào tạo có giám sát.
 
 ## 1. Bản chất
