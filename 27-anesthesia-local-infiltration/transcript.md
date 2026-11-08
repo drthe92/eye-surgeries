@@ -1,8 +1,13 @@
-# Tê thấm mi mắt và vùng mặt (local infiltration) — Transcript và nguyên tắc gốc
+# Tê thấm mi-mặt — Transcript
 
-- Nguồn chính: Temporal Artery Biopsy (Allen, Vimeo https://vimeo.com/123352772, trang https://eyerounds.org/video/plastics/1/TA-biopsy.htm): động mạch đánh dấu bằng bút, cạo tóc, thấm lidocaine + epi quanh vùng, KHÔNG tiêm thẳng vào động mạch.
-- Nguồn phụ: Bilateral upper blepharoplasty (Vimeo https://vimeo.com/123347992): vùng mổ tê lidocaine + epi trước rạch; mỡ medial sau khi bộc lộ được tê bổ sung lidocaine + epi trước khi cắt (bệnh nhân thường đau ở bước này nếu thiếu tê).
-- Hỗn hợp chuẩn Iowa: lidocaine 2% + epi 1:100.000 cầm máu; ca dài thêm bupivacaine 0.5% (~6-8h).
-- Ngày lấy: 2026-09-26
+- Tên: Local infiltration anesthesia of the eyelid and face
+- Nguồn: Ing 2019 (Clin Ophthalmol); Bajwa 2023 (BJS Open); Liu 2022 (JPRAS)
+- Trang: https://pubmed.ncbi.nlm.nih.gov/30666086/ · https://pubmed.ncbi.nlm.nih.gov/37768699/ · https://pubmed.ncbi.nlm.nih.gov/35961926/
+- Ghi chú: bài dựng từ review, systematic review và network meta-analysis; không có transcript nguyên văn.
+- Ngày dựng: 2026-11-08
 
-> Chỉ dùng cho học tập. Đối chiếu guideline và đào tạo có giám sát.
+## Tóm tắt nội dung
+- Tê thấm đúng lớp: trung bì, dưới da, dưới cơ vòng, dưới vách/trước cân; mỗi lớp một thể tích và kỹ thuật.
+- Kim 30G, bevel up, bơm chậm, hút thử; giảm đau bằng ấm/bicarbonate, tốc độ chậm.
+- Lidocaine 4,5–5 mg/kg (không epi), 7 mg/kg (có epi); epi 1:100.000; chờ ~2 phút tê, ~7 phút co mạch ở mi.
+- Epi tránh ở block sau nhãn cầu thường quy, tiêm trong tiền phòng, vùng tận, hẹp góc chưa điều trị và nhiều bệnh tim mạch.

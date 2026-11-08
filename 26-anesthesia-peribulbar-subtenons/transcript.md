@@ -1,16 +1,13 @@
-# Sub-Tenons Peribulbar Block — Transcript và quy trình gốc
+# Block dưới bao Tenon — Transcript
 
-- Tên: Sub-Tenons Peribulbar Block (video 2 trong tutorial)
-- Tác giả: Thomas Oetting (narration + surgery)
-- Trang: https://webeye.ophth.uiowa.edu/eyeforum/tutorials/retrobulbar-nerve-blocks.htm
-- Vimeo: https://vimeo.com/139277869
-- Thuốc: lidocaine 1% + bupivacaine 0.375% qua cannula lệ đạo cùn.
-- Ngày lấy: 2026-09-26
+- Tên: Sub-Tenon block
+- Nguồn: Guay 2015 Cochrane; Pucchio 2023; Ing 2019
+- Trang: https://pubmed.ncbi.nlm.nih.gov/26308931/ · https://pubmed.ncbi.nlm.nih.gov/36436168/
+- Ghi chú: bài dựng từ Cochrane sub-Tenon vs topical, review gây mê nhãn khoa và review kỹ thuật; không có transcript nguyên văn.
+- Ngày dựng: 2026-11-08
 
-> Chỉ dùng cho học tập. Đối chiếu guideline và đào tạo có giám sát.
-
-## Quy trình gốc
-1. Mở button-hole kết mạc + Tenon bằng kéo Westcott + kẹp 0.12, cách limbus ~10mm.
-2. Giải phóng góc phần tư bằng bóc cùn kéo Westcott.
-3. Bơm hỗn hợp qua cannula lệ đạo cùn đưa ra sau trong khoang dưới Tenon.
-4. Ưu điểm so với retrobulbar: kim cùn, tránh đâm xuyên phễu cơ, hiệu quả vô cảm tương đương cho mổ mắt (Br J Ophthalmol 1997).
+## Tóm tắt nội dung
+- Vào khoang dưới Tenon bằng cannula cùn, button-hole cách rìa ~10mm.
+- Bơm chậm 3–5mL, phù Tenon lan đều, liệt vận nhãn vừa.
+- An toàn hơn retrobulbar nhưng vẫn có phù/tụ máu/nhiễm/thủng.
+- Kiểm tra nhãn áp/thị lực/vận nhãn trước mổ.

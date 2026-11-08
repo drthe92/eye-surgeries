@@ -76,7 +76,7 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Lỗi gốc 2026-10-24: 15 bài Cataract dùng chung mục 2/3/5; đã sửa toàn bộ, Cataract 0 cảnh báo.
 
 ## TIẾN ĐỘ CATARACT (2026-10-24)
-- Thư viện: **353 bài**. Nhóm Ca: **296–353** (58 bài), gồm chặng 1 phaco cơ bản, chặng 2 biến chứng/ca khó, chặng 3 nâng cao và 8 bài hậu phẫu/tối ưu.
+- Thư viện: **360 bài**. Nhóm Ca: **296–353** (58 bài), gồm chặng 1 phaco cơ bản, chặng 2 biến chứng/ca khó, chặng 3 nâng cao và 8 bài hậu phẫu/tối ưu.
 - Đã cập nhật `LEARNING-INDEX.md` 353 dòng, `index.html` 353 thẻ, 3 tổng quan chặng 2/3/4.
 - `python3 tools/kiem-tra-bai.py --strict` → 353 bài, 0 lỗi; còn cảnh báo cũ ngoài nhóm Ca.
 
@@ -91,3 +91,8 @@ Nguồn chính kép: **EyeRounds video index** + **Cybersight library surgical-v
 - Khôi phục mốc 1 ngày/tiền phòng/nhãn áp cho 332.
 - `--strict <ID>` so với toàn repo, không chỉ tập được chọn; test bổ sung `any_ids`.
 - Bỏ “test chamber” không dùng ở 310; heading Ca có đủ 4 tổng quan.
+
+## MỞ RỘNG NHÓM N (2026-11-08)
+- Thêm 354–360: peribulbar, block mi trên, dưới ổ mắt, góc trong/hố lệ, thần kinh mặt, LAST, máu tụ/thủng cầu.
+- Viết lại 24–27 theo lớp giải phẫu, kỹ thuật kim, epinephrine, block vùng và biến chứng; tổng quan N mới.
+- Thư viện 360 bài; `--strict` 0 lỗi.

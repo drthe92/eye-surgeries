@@ -3,7 +3,7 @@
 > File điều phối. Cập nhật sau **mỗi commit**. Mục tiêu: học mổ, không lan man bệnh lý.
 
 ## Trạng thái hiện tại
-- Thư viện: **353 bài** (295 bài mi mắt/lác/thẩm mỹ/chấn thương/hốc mắt + 58 bài Ca).
+- Thư viện: **360 bài** (295 bài mi mắt/lác/thẩm mỹ/chấn thương/hốc mắt + 58 bài Ca + 12 bài N).
 - Nhóm Ca: **xong chặng 1 (296–310), chặng 2 (311–325), chặng 3 (326–345) và bổ sung hậu phẫu (346–353)**.
 
 ## Chặng 1 — Phaco cơ bản (296–310)
@@ -174,3 +174,13 @@ Kết quả cuối: **310/310 thẻ đạt 60–98 từ**, trung bình 67,8. Kh�
 - 332 khôi phục tái khám 1 ngày/tiền phòng/nhãn áp.
 - `--strict ID` so toàn repo; test `any_ids`.
 - 310 bỏ test chamber; heading Ca đủ 4 tổng quan.
+
+## Mở rộng nhóm N — Vô cảm vùng (2026-11-08)
+- [x] 354 Peribulbar block
+- [x] 355 Block thần kinh mi trên (supraorbital/supratrochlear/lacrimal)
+- [x] 356 Block dưới ổ mắt
+- [x] 357 Block góc trong/hố lệ (infratrochlear/anterior ethmoidal/lacrimal fossa)
+- [x] 358 Block thần kinh mặt/akinesia
+- [x] 359 LAST — ngộ độc thuốc tê
+- [x] 360 Máu tụ sau nhãn cầu/thủng cầu
+- [x] Viết lại 24/25/26/27 sâu hơn; cập nhật tổng quan N, index 360 bài.

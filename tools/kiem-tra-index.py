@@ -22,8 +22,8 @@ for ch in chunks:
     if not t or not vi:
         errors.append(f"card {n}: thiếu .t hoặc .vi")
         continue
-    is_ca = 'data-g="Ca-cataract"' in ch.split('<span class="num">')[0]
-    if is_ca and VI.search(t.group(1)):
+    is_ca = ('data-g="Ca-cataract"' in ch.split('<span class="num">')[0] or 'data-g="N-anesthesia"' in ch.split('<span class="num">')[0])
+    if (is_ca or n >= 354) and VI.search(t.group(1)):
         errors.append(f"card {n}: .t có tiếng Việt — có thể đảo .t/.vi")
     if not links:
         errors.append(f"card {n}: thiếu links")
@@ -35,8 +35,8 @@ for ch in chunks:
         if GENERIC in lk and ">Nguồn</a>" not in lk:
             errors.append(f"card {n}: nguồn tổng quan phải ghi “Nguồn”, không ghi “Video”")
 
-if len(nums) != 353:
-    errors.append(f"số card = {len(nums)}, cần 353")
+if len(nums) != 360:
+    errors.append(f"số card = {len(nums)}, cần 360")
 if len(set(nums)) != len(nums):
     errors.append("có số card trùng")
 
@@ -49,7 +49,7 @@ for line in open("LEARNING-INDEX.md", encoding="utf-8"):
     parts = [p.strip() for p in line.strip().strip("|").split("|")]
     if len(parts) >= 6 and parts[0].isdigit():
         rows[int(parts[0])] = {"url": parts[4], "group": parts[1]}
-for n in range(311, 354):
+for n in range(311, 361):
     if n not in rows:
         errors.append(f"LEARNING-INDEX thiếu dòng {n}")
         continue
@@ -64,8 +64,8 @@ for n in range(311, 354):
         errors.append(f"LEARNING-INDEX {n}: URL khác technique.md")
     if n in (346, 352) and "phaco_settings" in rows[n]["url"]:
         errors.append(f"LEARNING-INDEX {n}: còn nguồn phaco_settings")
-if len(rows) != 353:
-    errors.append(f"LEARNING-INDEX có {len(rows)} dòng, cần 353")
+if len(rows) != 360:
+    errors.append(f"LEARNING-INDEX có {len(rows)} dòng, cần 360")
 
 if errors:
     print("LỖI index:")

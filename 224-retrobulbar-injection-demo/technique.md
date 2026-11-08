@@ -37,3 +37,5 @@ Demo 35 giây đường vào kim của block sau nhãn cầu: vào góc dưới-
 ## 7. Bài liên quan
 - [25 — Block sau nhãn cầu](../25-anesthesia-retrobulbar-block/technique.md): quy trình đầy đủ mà 224 là demo hình ảnh.
 - [26 — Block dưới bao Tenon](../26-anesthesia-peribulbar-subtenons/technique.md): thay thế an toàn hơn khi nguy cơ thủng cao.
+- [354 — Peribulbar](../354-peribulbar-block/technique.md): lựa chọn ngoài phễu cơ.
+- [360 — Máu tụ/thủng cầu](../360-mau-tu-sau-nhan-cau-thung-cau/technique.md): xử trí biến chứng.
